@@ -31,50 +31,24 @@ sections:
         icon_pack: fas
         icon: user-graduate
         label: I'm a student
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       # Folders to display content from
-  #       folders:
-  #         - projects
-  #       # Only show content with these tags
-  #       tags: []
-  #       # Exclude content with these tags
-  #       exclude_tags: []
-  #       # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-  #       kinds:
-  #         - page
-  #     # Field to sort by, such as Date or Title
-  #     sort_by: "Date"
-  #     sort_ascending: false
-  #     # Default portfolio filter button
-  #     # 0 corresponds to the first button below and so on
-  #     # For example, 0 will default to showing all content as the first button below shows content with *any* tag
-  #     default_button_index: 0
-  #     # Filter button toolbar (optional).
-  #     # Add or remove as many buttons as you like.
-  #     # To show all content, set `tag` to "*".
-  #     # To filter by a specific tag, set `tag` to an existing tag name.
-  #     # To remove the button toolbar, delete the entire `buttons` block.
-  #     buttons:
-  #       - name: Featured
-  #         tag: Featured
-  #       - name: Education
-  #         tag: Education
-  #       - name: Environment
-  #         tag: Environment
-  #       - name: HealthCare
-  #         tag: HealthCare
-  #       - name: Social Justice
-  #         tag: Social Justice
-  #       - name: Transportation
-  #         tag: Transportation
-  #       - name: Entertainment
-  #         tag: Entertainment
-  #       - name: Finance
-  #         tag: Finance
-  #       - name: Sports
-  #         tag: Sports
+  - block: markdown
+    content:
+      title: Sponsors
+      subtitle: |
+        We are grateful to our sponsors for their support of DataFest.
+      #USC-Dornsife-Cardinal-Black-on-White-CMYK.jpg
+      #USC_Annenberg_logo.png
+      #USC_Marshall_logo.png
+      #USC_School_of_Architecture_logo.png
+      text: |
+        ![Annenberg](sponsors/SchoolLogos-Combined.jpg)
+    design:
+      background:
+        color: "#FFFFFF"
+      columns: "2"
+      css_style: "  display: flex;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;"
+      css_class: align-items-center
 ---
