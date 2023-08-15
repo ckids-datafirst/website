@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Mr. Frederick Lyons
-- Rodney Peterson
 - Isaac Jackson
-- Kristen Reed
-- William Porter
+- David Thompson
+- Darius Guerrero
+- Stephanie Mcpherson
+- Stanley Parks
 categories: &id001
 - Fall 2020
-- Transportation
+- Entertainment
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Christina Garner
-- Donald King
-- Alexander Caldwell
-- Anna Johnson
+- Jenna Pittman
+- Alfred Bell
+- Laura Jones
+- Rebekah Brown
 - Robert Garza
 categories: &id001
 - Spring 2019
-- Entertainment
+- Sports
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

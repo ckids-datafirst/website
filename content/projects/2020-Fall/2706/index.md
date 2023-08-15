@@ -2,13 +2,13 @@
 !ProjectPage
 authors:
 - Billy Ellis
-- Hannah Malone
-- Eric Pittman
-- Stephanie Mcpherson
+- Steven Robles
+- Troy Johnson
 - Stanley Parks
+- Kristen Reed
 categories: &id001
 - Fall 2020
-- Environment
+- Entertainment
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

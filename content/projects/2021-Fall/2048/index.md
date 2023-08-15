@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Robert Guerra
-- John Parker
-- Jonathan Gay
-- Robert Garza
-- Jennifer Ortega
+- Jessica Bowman
+- Jesse Hall
+- John Wilson
+- Rebekah Brown
+- Stephanie Mcpherson
 categories: &id001
 - Fall 2021
-- Finance
+- Environment
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null

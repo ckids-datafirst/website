@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
+- Mr. Frederick Lyons
 - Cody Zimmerman
-- John Wilson
-- Susan Maldonado
-- Jennifer Ortega
-- William Porter
+- Christina Garner
+- Rebekah Brown
+- Kristen Reed
 categories: &id001
 - Fall 2018
-- Education
+- Entertainment
 date: '2018-01-01 00:00:00'
 external_link: null
 image: null

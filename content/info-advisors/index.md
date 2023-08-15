@@ -32,6 +32,7 @@ sections:
         icon_pack: fas
         icon: user-graduate
         label: Know more about the previous projects
+
   - block: hero
     id: how-to-apply
     background:
@@ -48,7 +49,35 @@ sections:
         We invite all faculty, post-docs, or senior researchers interested in exploring new collaborations in data science to propose projects to the center for Fall 2023.
 
       cta:
-        url: "info-advisors#how-to-apply"
+        url: "info-advisors#important-dates"
+        label: Important Dates
+        icon_pack: fas
+        icon: user-graduate
+  - block: hero
+    id: important-dates
+    design:
+      background:
+        gradient_angle: 0
+        gradient_start: "#F6F4EB"
+        gradient_end: "#F6F4EB"
+        text_color_light: false
+    content:
+      title: |
+        Important Dates
+      text: |
+        The following are the important dates for event:
+        | Event                  | Date                       |
+        |------------------------|----------------------------|
+        | Proposal deadline      | Monday, August 28, 2023    |
+        | Kickoff meeting        | Thursday, August 31, 2023  |
+        | Student apply          | Sunday, September 3, 2023  |
+        | Faculty feedback       | Thursday, September 7, 2023|
+        | Student assignments    | Saturday, September 9, 2023|
+        | Midterm presentation   | Wednesday, October 18, 2023|
+        | Final presentation     | Friday, December 1, 2023   |
+
+      cta:
+        url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
         label: Submit your proposal
         icon_pack: fas
         icon: user-graduate
@@ -85,13 +114,13 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the button toolbar, delete the entire `buttons` block.
       buttons:
-        - name: Featured
+        - name: Featured projects
           tag: Featured
         - name: Education
           tag: Education
         - name: Environment
           tag: Environment
-        - name: HealthCare
+        - name: Health Care
           tag: HealthCare
         - name: Social Justice
           tag: Social Justice

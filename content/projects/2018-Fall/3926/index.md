@@ -1,10 +1,10 @@
 ---
 !ProjectPage
 authors:
-- James Thompson
-- Steven Robles
-- Paige Clark
-- Jennifer Ortega
+- Karina Leonard
+- John Green
+- Susan Maldonado
+- Anna Johnson
 - Kristen Reed
 categories: &id001
 - Fall 2018

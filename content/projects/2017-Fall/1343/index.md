@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Jennifer Rodgers
-- Nathan Pacheco
-- Misty Jimenez
-- Robert Garza
-- Anna Johnson
+- Roy Price
+- Anna Thomas
+- Steve Austin
+- Jennifer Ortega
+- William Porter
 categories: &id001
 - Fall 2017
-- Social Justice
+- Finance
 date: '2017-01-01 00:00:00'
 external_link: null
 image: null

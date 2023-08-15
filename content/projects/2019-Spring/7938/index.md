@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- April Lawrence
-- Jessica Bowman
-- Sarah Lopez
-- Christopher Larsen
+- Jenna Robertson
+- Denise Perez
+- Jason Warren
 - Rebekah Brown
+- Christopher Larsen
 categories: &id001
 - Spring 2019
-- Finance
+- Entertainment
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

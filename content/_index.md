@@ -17,10 +17,10 @@ sections:
       image:
         filename: teacher.png
       title: |
-        We are open for Project Proposals
+        Welcome to DataFirst
       text: |
         <br>
-        DataFest is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFest focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
+        DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
       cta:
         url: "info-advisors"
         label: I'm an advisor
@@ -33,9 +33,9 @@ sections:
         label: I'm a student
   - block: markdown
     content:
-      title: Sponsors
+      title: Participating Schools
       subtitle: |
-        We are grateful to our sponsors for their support of DataFest.
+        We are grateful to the participating schools for their support of DataFirst.
       #USC-Dornsife-Cardinal-Black-on-White-CMYK.jpg
       #USC_Annenberg_logo.png
       #USC_Marshall_logo.png

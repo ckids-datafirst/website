@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
+- Karen Ryan
+- Joshua Reyes
 - Zoe Little
-- Troy Johnson
-- Anna Thomas
-- Stanley Parks
-- William Porter
+- Christopher Larsen
+- Anna Johnson
 categories: &id001
 - Fall 2019
-- Education
+- Transportation
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

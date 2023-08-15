@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Kevin Weber
-- Dawn Martinez
-- Darius Guerrero
-- Stephanie Mcpherson
-- Rebekah Brown
+- Paige Clark
+- Donald King
+- Misty Jimenez
+- Jennifer Ortega
+- Stanley Parks
 categories: &id001
 - Spring 2017
-- Healthcare
+- Finance
 date: '2017-01-01 00:00:00'
 external_link: null
 image: null

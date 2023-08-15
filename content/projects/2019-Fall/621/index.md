@@ -2,9 +2,9 @@
 !ProjectPage
 authors:
 - Brittany Wagner
-- Jenna Pittman
-- Denise Perez
-- Stanley Parks
+- Mr. Christopher Marquez
+- Heather Andrade
+- Stephanie Mcpherson
 - Anna Johnson
 categories: &id001
 - Fall 2019

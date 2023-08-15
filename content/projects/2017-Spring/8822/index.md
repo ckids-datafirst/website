@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Alfred Bell
-- Alicia Harding
-- Donald Rosario
-- Christopher Larsen
-- Kristie May
+- Jonathan Gay
+- Eric Pittman
+- Tyler Wilson
+- William Porter
+- Jennifer Ortega
 categories: &id001
 - Spring 2017
-- Education
+- Sports
 date: '2017-01-01 00:00:00'
 external_link: null
 image: null

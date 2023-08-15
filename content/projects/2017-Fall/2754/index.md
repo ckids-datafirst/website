@@ -1,16 +1,16 @@
 ---
 !ProjectPage
 authors:
-- Jason Warren
-- Jenna Robertson
-- Joseph Rodriguez
+- Dawn Martinez
+- Alicia Harding
+- John Parker
 - Robert Garza
-- Kristie May
+- Christopher Larsen
 categories: &id001
 - Fall 2017
-- Environment
+- Entertainment
 - Featured
-- Best in Category
+- Best in Class
 date: '2017-01-01 00:00:00'
 external_link: null
 image: null

@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Roy Price
-- Martha Lyons
-- James Martin
-- Stephanie Mcpherson
+- Sarah Lopez
+- Alexander Caldwell
+- Robert Guerra
+- Rebekah Brown
 - Christopher Larsen
 categories: &id001
 - Fall 2015
-- Transportation
+- Entertainment
 date: '2015-01-01 00:00:00'
 external_link: null
 image: null

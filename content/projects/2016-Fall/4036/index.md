@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Mr. Christopher Marquez
-- Helen Frederick
-- Karen Blevins
-- Stanley Parks
-- Kristen Reed
+- Michael Macias
+- Steven Murray
+- April Lawrence
+- William Porter
+- Christopher Larsen
 categories: &id001
 - Fall 2016
-- Healthcare
+- Social Justice
 date: '2016-01-01 00:00:00'
 external_link: null
 image: null

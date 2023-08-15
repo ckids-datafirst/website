@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- David Thompson
-- Joshua Reyes
-- Tyler Wilson
-- Christopher Larsen
-- Jennifer Ortega
+- James Thompson
+- Donald Rosario
+- Jennifer Rodgers
+- Anna Johnson
+- Kristie May
 categories: &id001
 - Spring 2019
-- Entertainment
+- Healthcare
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

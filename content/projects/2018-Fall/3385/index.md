@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- John Green
-- Patrick Barrett
-- Madison Smith
-- Christopher Larsen
-- Stanley Parks
+- Hannah Malone
+- Rodney Peterson
+- Helen Frederick
+- Jennifer Ortega
+- Stephanie Mcpherson
 categories: &id001
 - Fall 2018
-- Education
+- Environment
 date: '2018-01-01 00:00:00'
 external_link: null
 image: null

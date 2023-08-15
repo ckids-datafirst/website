@@ -10,7 +10,8 @@ main:
   - name: Students
     url: info-students
     weight: 11
-  - name: Previous projects
+  - id: Semesters
+    name: Semesters
     url: projects
     weight: 12
   # - name: Projects
@@ -28,10 +29,19 @@ main:
   - name: Contact
     url: contact
     weight: 60
-
-  - name: All projects
-    url: projects
-    parent: Previous projects
-  - name: Spring 2022
-    url: previous-project/summer
-    parent: Previous projects
+  - !!python/object:datafest_archive.templates.models.MenuItem
+    name: Fall 2023
+    parent: Semesters
+    url: editions/2023-fall
+    weight: 1
+  - !!python/object:datafest_archive.templates.models.MenuItem
+    name: Spring 2023
+    parent: Semesters
+    url: editions/2023-spring
+    weight: 2
+  ## People per semester
+  - !!python/object:datafest_archive.templates.models.MenuItem
+    name: Fall 2022
+    parent: People
+    url: editions/2022-fall
+    weight: 3
