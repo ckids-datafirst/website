@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Jessica Bowman
-- Jesse Hall
-- John Wilson
-- Rebekah Brown
-- Stephanie Mcpherson
+- Alicia Harding
+- Brittany Wagner
+- Billy Ellis
+- Stanley Parks
+- Kristie May
 categories: &id001
 - Fall 2021
-- Environment
+- Social Justice
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null
@@ -23,5 +23,5 @@ url_video: null
 weight: 10
 ---
 
-    ## Links
+    Past site her number. Not weight half far move. Leader everyone skin still.
     

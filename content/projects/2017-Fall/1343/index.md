@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Roy Price
-- Anna Thomas
-- Steve Austin
+- John Parker
+- Hannah Malone
+- Jonathan Gay
 - Jennifer Ortega
-- William Porter
+- Stephanie Mcpherson
 categories: &id001
 - Fall 2017
-- Finance
+- Social Justice
 date: '2017-01-01 00:00:00'
 external_link: null
 image: null
@@ -24,5 +24,5 @@ url_video: null
 weight: 10
 ---
 
-    ## Links
+    Will him sort item clearly. Just performance maintain deep issue move. Produce everyone her nice.
     

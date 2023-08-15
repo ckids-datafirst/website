@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Paige Clark
-- Donald King
-- Misty Jimenez
-- Jennifer Ortega
-- Stanley Parks
+- Rodney Peterson
+- Steve Austin
+- Karina Leonard
+- Robert Garza
+- Christopher Larsen
 categories: &id001
 - Spring 2017
-- Finance
+- Social Justice
 date: '2017-01-01 00:00:00'
 external_link: null
 image: null
@@ -23,5 +23,5 @@ url_video: null
 weight: 10
 ---
 
-    ## Links
+    Soldier usually wish. Artist great catch. Catch work everybody nor.
     

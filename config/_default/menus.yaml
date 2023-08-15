@@ -1,47 +1,127 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
+!Menu
 main:
-  - name: Advisors
-    url: info-advisors
-    weight: 10
-  - name: Students
-    url: info-students
-    weight: 11
-  - id: Semesters
-    name: Semesters
-    url: projects
-    weight: 12
-  # - name: Projects
-  #   url: projects
-  #   weight: 10
-  - name: People
-    url: people
-    weight: 20
-  - name: Events
-    url: event
-    weight: 40
-  # - name: Publications
-  #   url: publication
-  #   weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
-  - !!python/object:datafest_archive.templates.models.MenuItem
-    name: Fall 2023
-    parent: Semesters
-    url: editions/2023-fall
-    weight: 1
-  - !!python/object:datafest_archive.templates.models.MenuItem
-    name: Spring 2023
-    parent: Semesters
-    url: editions/2023-spring
-    weight: 2
-  ## People per semester
-  - !!python/object:datafest_archive.templates.models.MenuItem
-    name: Fall 2022
-    parent: People
-    url: editions/2022-fall
-    weight: 3
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Info for Advisors
+  parent: null
+  url: info-advisors
+  weight: 1
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Info for Students
+  parent: null
+  url: info-students
+  weight: 2
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Previous Semesters
+  parent: null
+  url: previous-semesters
+  weight: 3
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: People
+  parent: null
+  url: people
+  weight: 4
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Contact
+  parent: null
+  url: contact
+  weight: 6
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2021
+  parent: Previous Semesters
+  url: editions/2021-fall
+  weight: 20
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2020
+  parent: Previous Semesters
+  url: editions/2020-fall
+  weight: 21
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2020
+  parent: Previous Semesters
+  url: editions/2020-fall
+  weight: 22
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2020
+  parent: Previous Semesters
+  url: editions/2020-spring
+  weight: 23
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2020
+  parent: Previous Semesters
+  url: editions/2020-spring
+  weight: 24
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2020
+  parent: Previous Semesters
+  url: editions/2020-spring
+  weight: 25
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2019
+  parent: Previous Semesters
+  url: editions/2019-fall
+  weight: 26
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2019
+  parent: Previous Semesters
+  url: editions/2019-spring
+  weight: 27
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2019
+  parent: Previous Semesters
+  url: editions/2019-spring
+  weight: 28
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2019
+  parent: Previous Semesters
+  url: editions/2019-spring
+  weight: 29
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2019
+  parent: Previous Semesters
+  url: editions/2019-fall
+  weight: 30
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2018
+  parent: Previous Semesters
+  url: editions/2018-fall
+  weight: 31
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2018
+  parent: Previous Semesters
+  url: editions/2018-fall
+  weight: 32
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2018
+  parent: Previous Semesters
+  url: editions/2018-fall
+  weight: 33
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2017
+  parent: Previous Semesters
+  url: editions/2017-spring
+  weight: 34
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2017
+  parent: Previous Semesters
+  url: editions/2017-fall
+  weight: 35
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Spring 2017
+  parent: Previous Semesters
+  url: editions/2017-spring
+  weight: 36
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2017
+  parent: Previous Semesters
+  url: editions/2017-fall
+  weight: 37
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2016
+  parent: Previous Semesters
+  url: editions/2016-fall
+  weight: 38
+- !!python/object:datafest_archive.models.website.configuration.MenuItem
+  name: Fall 2015
+  parent: Previous Semesters
+  url: editions/2015-fall
+  weight: 39

@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Isaac Jackson
-- David Thompson
-- Darius Guerrero
-- Stephanie Mcpherson
-- Stanley Parks
+- Donald King
+- Steven Robles
+- Susan Maldonado
+- Christopher Larsen
+- Kristie May
 categories: &id001
 - Fall 2020
-- Entertainment
+- Social Justice
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null
@@ -23,5 +23,5 @@ url_video: null
 weight: 10
 ---
 
-    ## Links
+    Play fact society. Light teacher big sing foreign meeting professor.
     

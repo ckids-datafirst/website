@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Billy Ellis
-- Steven Robles
-- Troy Johnson
-- Stanley Parks
-- Kristen Reed
+- Paige Clark
+- Alexander Caldwell
+- Mr. Frederick Lyons
+- Robert Garza
+- Rebekah Brown
 categories: &id001
 - Fall 2020
-- Entertainment
+- Sports
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null
@@ -24,5 +24,5 @@ url_video: null
 weight: 10
 ---
 
-    ## Links
+    Be but paper method help choose interview walk. Manager hour PM. Middle close role American wonder space.
     

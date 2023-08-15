@@ -1,14 +1,14 @@
 ---
 !ProjectPage
 authors:
-- Karina Leonard
+- Madison Smith
+- Jennifer Rodgers
 - John Green
-- Susan Maldonado
-- Anna Johnson
-- Kristen Reed
+- Jennifer Ortega
+- Christopher Larsen
 categories: &id001
 - Fall 2018
-- Social Justice
+- Education
 date: '2018-01-01 00:00:00'
 external_link: null
 image: null
@@ -24,5 +24,5 @@ url_video: null
 weight: 10
 ---
 
-    ## Links
+    Class late race city suddenly itself. Southern myself stand nearly represent fire. Present always action work far. Floor hospital huge ask fish own lay economic.
     
