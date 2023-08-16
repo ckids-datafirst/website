@@ -91,7 +91,7 @@ sections:
     design:
       view: citation
     content:
-      title: Projects
+      title: Previous projects
       filters:
         # Folders to display content from
         folders:
@@ -120,4 +120,5 @@ sections:
           tag: "*"
         - !!python/object:datafest_archive.models.website.pages.FilterButton
           name: Award-Winning Projects
+          tag: "featured"
 ---
