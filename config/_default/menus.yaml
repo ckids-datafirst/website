@@ -1,77 +1,77 @@
 !Menu
 main:
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Info for Advisors
-  parent: null
-  url: info-advisors
-  weight: 1
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Info for Students
-  parent: null
-  url: info-students
-  weight: 2
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Previous Semesters
-  parent: null
-  url: previous-semesters
-  weight: 3
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: People
-  parent: null
-  url: people
-  weight: 4
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Contact
-  parent: null
-  url: contact
-  weight: 6
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 20
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 21
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 22
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 23
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 24
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 25
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 26
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 27
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 28
-- !!python/object:datafest_archive.models.website.configuration.MenuItem
-  name: Spring 2023
-  parent: Previous Semesters
-  url: editions/2023-spring
-  weight: 29
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Info for Advisors
+    parent: null
+    url: info-advisors
+    weight: 1
+  # - !!python/object:datafest_archive.models.website.configuration.MenuItem
+  #   name: Info for Students
+  #   parent: null
+  #   url: info-students
+  #   weight: 2
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Previous Semesters
+    parent: null
+    url: previous-semesters
+    weight: 3
+  # - !!python/object:datafest_archive.models.website.configuration.MenuItem
+  #   name: People
+  #   parent: null
+  #   url: people
+  #   weight: 4
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Contact
+    parent: null
+    url: contact
+    weight: 6
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 20
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 21
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 22
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 23
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 24
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 25
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 26
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 27
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 28
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Spring 2023
+    parent: Previous Semesters
+    url: editions/2023-spring
+    weight: 29
