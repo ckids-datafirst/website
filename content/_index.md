@@ -26,11 +26,11 @@ sections:
         label: I'm an advisor
         icon_pack: fas
         icon: user-graduate
-      cta_alt:
-        url: "info-students"
-        icon_pack: fas
-        icon: user-graduate
-        label: I'm a student
+      # cta_alt:
+      #   url: "info-students"
+      #   icon_pack: fas
+      #   icon: user-graduate
+      #   label: I'm a student
   - block: markdown
     content:
       title: Participating Schools
