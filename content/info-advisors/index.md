@@ -88,6 +88,8 @@ sections:
         label: Know more about the previous projects
   - block: portfolio
     id: projects
+    design:
+      view: citation
     content:
       title: Projects
       filters:
@@ -114,22 +116,8 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the button toolbar, delete the entire `buttons` block.
       buttons:
-        - name: Featured projects
-          tag: Featured
-        - name: Education
-          tag: Education
-        - name: Environment
-          tag: Environment
-        - name: Health Care
-          tag: HealthCare
-        - name: Social Justice
-          tag: Social Justice
-        - name: Transportation
-          tag: Transportation
-        - name: Entertainment
-          tag: Entertainment
-        - name: Finance
-          tag: Finance
-        - name: Sports
-          tag: Sports
+        - name: All Projects
+          tag: "*"
+        - !!python/object:datafest_archive.models.website.pages.FilterButton
+          name: Award-Winning Projects
 ---

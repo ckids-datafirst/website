@@ -31,4 +31,5 @@ subtitle: Spring 2023
 title: Spring 2023 Projects
 type: landing
 widget: portfolio
+weight: 2
 ---
