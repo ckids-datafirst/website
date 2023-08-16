@@ -1,6 +1,10 @@
 ---
 !ProjectPage
 authors:
+- Aryan Karnati
+- Sudesh Kumar
+- Siyi Chen
+- Shuchan Zhou
 - Kristina Lerman
 categories: &id001
 - Spring 2023
