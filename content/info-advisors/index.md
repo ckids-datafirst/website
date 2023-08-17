@@ -17,6 +17,8 @@ sections:
         Call for Fall 2023 CKIDS DataFirst Project Proposals
       text: |
 
+        **DataFest is now DataFirst!**
+
         We provide opportunities to get involved in collaborative data science projects with other faculty and students across the university and with data science students in training.
         We invite all faculty, post-docs, or senior researchers interested in exploring new collaborations in data science to propose projects to the center for Fall 2023.
         <br>
