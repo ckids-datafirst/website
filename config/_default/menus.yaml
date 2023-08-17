@@ -31,47 +31,7 @@ main:
     url: editions/2023-spring
     weight: 20
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
+    name: 2019 to 2022
     parent: Previous Semesters
-    url: editions/2023-spring
+    url: https://sites.usc.edu/ckids/datafest-s22-spring-2022/
     weight: 21
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 22
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 23
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 24
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 25
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 26
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 27
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 28
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
-    url: editions/2023-spring
-    weight: 29

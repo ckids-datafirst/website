@@ -27,11 +27,6 @@ sections:
         label: How to apply?
         icon_pack: fas
         icon: user-graduate
-      cta_alt:
-        url: "info-advisors#projects"
-        icon_pack: fas
-        icon: user-graduate
-        label: Know more about the previous projects
 
   - block: hero
     id: how-to-apply
