@@ -15,7 +15,7 @@ sections:
         text_color_light: false
     content:
       image:
-        filename: teacher.png
+        filename: welcome.jpeg
       title: |
         Welcome to DataFirst
       text: |
@@ -24,7 +24,7 @@ sections:
         DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
       cta:
         url: "info-advisors"
-        label: I'm an advisor
+        label: Get Involved
         icon_pack: fas
         icon: user-graduate
       # cta_alt:
@@ -32,6 +32,19 @@ sections:
       #   icon_pack: fas
       #   icon: user-graduate
       #   label: I'm a student
+  - block: hero
+    content:
+      title: Center for Knowledge-Powered Interdisciplinary Data Science (CKIDS)
+      subtitle:
+      text: |
+
+        DataFirst is organizated by the [CKIDS](https://sites.usc.edu/ckids/).
+
+        [CKIDS](https://sites.usc.edu/ckids/) puts forward a unique vision for data science at USC focused on incorporating diverse disciplinary knowledge into data-driven inquiry.  In this view, data science connects advanced computer science and informatics research together with rich knowledge about the context and use of the data that comes from a particular expertise area or discipline.
+
+        We welcome faculty, students, researchers, and everyone in the Trojan family to participate in CKIDS.  Please [signup for our mailing list or contact us with any questions!](https://sites.usc.edu/ckids/contact/)
+
+
   - block: markdown
     content:
       title: Participating Schools

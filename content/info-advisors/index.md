@@ -14,7 +14,7 @@ sections:
         text_color_light: false
     content:
       title: |
-        Call for Fall 2023 CKIDS DataFirst Project Proposals
+        Call for Fall 2023 DataFirst Project Proposals
       text: |
 
         **DataFest is now DataFirst!**
@@ -26,7 +26,7 @@ sections:
 
       cta:
         url: "info-advisors#how-to-apply"
-        label: How to apply?
+        label: How to submit a project proposal?
         icon_pack: fas
         icon: user-graduate
 
@@ -39,22 +39,22 @@ sections:
       text_color_light: false
     content:
       title: |
-        How to apply?
+        How to submit a project proposal?
       text: |
         In the past years, faculty members across several schools at USC have been collaborating through CKIDS to work on joint projects through DataFest events. In these events, faculty and senior researchers have been able to tackle new interdisciplinary topics, and engage students in data science, computer science and other disciplines to work together to formulate interesting problems and to define joint approaches to solve them.
 
-        We invite all faculty, post-docs, or senior researchers interested in exploring new collaborations in data science to propose projects to the center for Fall 2023.
+        **Proposal deadline: Monday, August 28, 2023**
 
       cta:
-        url: "info-advisors#important-dates"
-        label: Important Dates
-        icon_pack: fas
-        icon: user-graduate
-      cta_alt:
         url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
         label: Submit your proposal
         icon_pack: fas
         icon: user-graduate
+      cta_alt:
+        url: "editions/2023-spring/"
+        icon_pack: fas
+        icon: user-graduate
+        label: Learn more about the previous projects
   - block: hero
     id: important-dates
     design:
@@ -83,44 +83,4 @@ sections:
         label: Submit your proposal
         icon_pack: fas
         icon: user-graduate
-      cta_alt:
-        url: "info-advisors#projects"
-        icon_pack: fas
-        icon: user-graduate
-        label: Know more about the previous projects
-  - block: portfolio
-    id: projects
-    design:
-      view: citation
-    content:
-      title: Previous projects
-      filters:
-        # Folders to display content from
-        folders:
-          - projects
-        # Only show content with these tags
-        tags: []
-        # Exclude content with these tags
-        exclude_tags: []
-        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-        kinds:
-          - page
-      # Field to sort by, such as Date or Title
-      sort_by: "Date"
-      sort_ascending: false
-      # Default portfolio filter button
-      # 0 corresponds to the first button below and so on
-      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
-      default_button_index: 0
-      # Filter button toolbar (optional).
-      # Add or remove as many buttons as you like.
-      # To show all content, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the button toolbar, delete the entire `buttons` block.
-      buttons:
-        - name: All Projects
-          tag: "*"
-        - !!python/object:datafest_archive.models.website.pages.FilterButton
-          name: Award-Winning Projects
-          tag: "featured"
 ---
