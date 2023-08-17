@@ -1,12 +1,7 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: !!python/object:datafest_archive.models.website.pages.Education
-  courses:
-  - !!python/object:datafest_archive.models.website.pages.Course
-    course: null
-    institution: null
-    year: null
+education: null
 email: yanlizha@usc.edu
 first_name: Yanli
 last_name: Zhang
@@ -22,5 +17,4 @@ user_groups:
 - Student
 ---
 
-    Yanli Zhang
     

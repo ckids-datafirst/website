@@ -1,12 +1,7 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: !!python/object:datafest_archive.models.website.pages.Education
-  courses:
-  - !!python/object:datafest_archive.models.website.pages.Course
-    course: null
-    institution: null
-    year: null
+education: null
 email: chavezpe@usc.edu
 first_name: Angel
 last_name: Chavez-Penate
@@ -22,5 +17,4 @@ user_groups:
 - Student
 ---
 
-    Angel Chavez-Penate
     

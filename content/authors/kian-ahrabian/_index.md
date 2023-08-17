@@ -20,5 +20,4 @@ user_groups:
 - Advisor
 ---
 
-    ## Links
     

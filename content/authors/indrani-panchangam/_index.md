@@ -1,12 +1,7 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: !!python/object:datafest_archive.models.website.pages.Education
-  courses:
-  - !!python/object:datafest_archive.models.website.pages.Course
-    course: null
-    institution: null
-    year: null
+education: null
 email: panchang@usc.edu
 first_name: Indrani
 last_name: Panchangam
@@ -22,5 +17,4 @@ user_groups:
 - Student
 ---
 
-    Indrani Panchangam
     
