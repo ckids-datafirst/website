@@ -6,7 +6,6 @@ type: landing
 
 sections:
   - block: hero
-    hero_media: teacher.png
     design:
       background:
         gradient_angle: 0
@@ -22,6 +21,7 @@ sections:
         **DataFest is now DataFirst!**
         <br>
         DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
+        DataFirst is organizated by the [Center for Knowledge-Powered Interdisciplinary Data Science  (CKIDS)](#ckids).
       cta:
         url: "info-advisors"
         label: Get Involved
@@ -34,6 +34,7 @@ sections:
       #   label: I'm a student
   - block: hero
     content:
+      id: "ckids"
       title: Center for Knowledge-Powered Interdisciplinary Data Science (CKIDS)
       subtitle:
       text: |
@@ -42,9 +43,13 @@ sections:
 
         [CKIDS](https://sites.usc.edu/ckids/) puts forward a unique vision for data science at USC focused on incorporating diverse disciplinary knowledge into data-driven inquiry.  In this view, data science connects advanced computer science and informatics research together with rich knowledge about the context and use of the data that comes from a particular expertise area or discipline.
 
-        We welcome faculty, students, researchers, and everyone in the Trojan family to participate in CKIDS.  Please [signup for our mailing list or contact us with any questions!](https://sites.usc.edu/ckids/contact/)
 
-
+        We welcome faculty, students, researchers, and everyone in the Trojan family to participate in DataFirst. Please signup for our mailing list or contact us with any questions!
+      cta:
+        url: "https://mymaillists.usc.edu/sympa/subscribe/ckidsmail-l"
+        label: Subscribe to our mailing list
+        icon_pack: fas
+        icon: envelope
   - block: markdown
     content:
       title: Participating Schools

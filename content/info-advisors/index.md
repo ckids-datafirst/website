@@ -13,6 +13,8 @@ sections:
         gradient_end: "#F6F4EB"
         text_color_light: false
     content:
+      image:
+        filename: welcome.jpeg
       title: |
         Call for Fall 2023 DataFirst Project Proposals
       text: |
@@ -24,11 +26,11 @@ sections:
         <br>
         <br>
 
-      cta:
-        url: "info-advisors#how-to-apply"
-        label: How to submit a project proposal?
-        icon_pack: fas
-        icon: user-graduate
+      # cta:
+      #   url: "info-advisors#how-to-apply"
+      #   label: How to submit a project proposal?
+      #   icon_pack: fas
+      #   icon: user-graduate
 
   - block: hero
     id: how-to-apply
@@ -78,9 +80,22 @@ sections:
         | Midterm presentation   | Wednesday, October 18, 2023|
         | Final presentation     | Friday, December 1, 2023   |
 
+      # cta:
+      #   url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
+      #   label: Submit your proposal
+      #   icon_pack: fas
+      #   icon: user-graduate
+
+  - block: hero
+    id: keep-in-touch
+    content:
+      title: |
+        Keep in touch
+      text: |
+        We welcome faculty, students, researchers, and everyone in the Trojan family to participate in DataFirst. Please signup for our mailing list or contact us with any questions!
       cta:
-        url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
-        label: Submit your proposal
+        url: "https://mymaillists.usc.edu/sympa/subscribe/ckidsmail-l"
+        label: Subscribe to our mailing list
         icon_pack: fas
-        icon: user-graduate
+        icon: envelope
 ---

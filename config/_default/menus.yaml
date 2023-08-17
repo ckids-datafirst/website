@@ -1,7 +1,7 @@
 !Menu
 main:
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Info for Advisors
+    name: Information
     parent: null
     url: info-advisors
     weight: 1
