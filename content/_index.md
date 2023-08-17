@@ -19,6 +19,7 @@ sections:
       title: |
         Welcome to DataFirst
       text: |
+        **DataFest is now DataFirst!**
         <br>
         DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
       cta:
