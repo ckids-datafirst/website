@@ -48,6 +48,11 @@ sections:
         label: Important Dates
         icon_pack: fas
         icon: user-graduate
+      cta_alt:
+        url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
+        label: Submit your proposal
+        icon_pack: fas
+        icon: user-graduate
   - block: hero
     id: important-dates
     design:
