@@ -1,10 +1,18 @@
 !Menu
 main:
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Information
+  - name: Fall 2023
+    id: fall-2023
     parent: null
+    weight: 1
+
+  - name: Call for Project Proposals
+    parent: Fall 2023
     url: info-advisors
     weight: 1
+  - name: Attend information session
+    parent: Fall 2023
+    url: info-students
+    weight: 2
   # - !!python/object:datafest_archive.models.website.configuration.MenuItem
   #   name: Info for Students
   #   parent: null
