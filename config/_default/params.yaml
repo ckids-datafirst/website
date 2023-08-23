@@ -19,7 +19,7 @@ marketing:
     site_type: Organization
     local_business_type: ""
     org_name: ""
-    description: "A highly-customizable Hugo research group theme powered by Wowchemy website builder."
+    description: "DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science"
     twitter: "wowchemy"
   analytics:
     google_analytics: ""
