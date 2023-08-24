@@ -9,7 +9,7 @@ main:
     parent: Fall 2023
     url: info-advisors
     weight: 1
-  - name: Attend information session
+  - name: Call for Students - Information session
     parent: Fall 2023
     url: info-students
     weight: 2
@@ -43,3 +43,8 @@ main:
     parent: Previous Semesters
     url: https://sites.usc.edu/ckids/datafest-s22-spring-2022/
     weight: 21
+
+  - name: Events
+    parent: null
+    url: event
+    weight: 5
