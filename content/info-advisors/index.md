@@ -24,9 +24,6 @@ sections:
         We provide opportunities to get involved in collaborative data science projects with other faculty and students across the university and with data science students in training.
         We invite all faculty, post-docs, or senior researchers interested in exploring new collaborations in data science to propose projects to the center for Fall 2023.
 
-        ### Are you not sure if DataFirst is for you?
-        [Come to our information session and hear from faculty mentors](../event/kickoff) (Friday, August 31, 2023 - 5 PM)
-
       # cta:
       #   url: "info-advisors#how-to-apply"
       #   label: How to submit a project proposal?
