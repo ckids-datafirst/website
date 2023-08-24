@@ -14,18 +14,19 @@ sections:
         text_color_light: false
     content:
       image:
-        filename: welcome.jpeg
+        filename: team-work.jpg
       title: |
         Call for USC students to attend information session for DataFest/DataFirst Fall 2023
       text: |
         We are excited to announce the 10th CKIDS DataFest event for Fall 2023.  It will be such a special event that we are renaming it DataFirst.
         This event is an opportunity for data science students to learn to work in teams with people who have different skills, to learn about different application domains, and to work on projects that can only be done with creative ideas.
 
-        Come to our information session and hear from faculty mentors about projects that will be part of DataFirst this Fall semester.  Then you can decide if you want to sign up to participate.
+        ### Are you not sure if DataFirst is for you?
+        [Come to our information session and hear from faculty mentors](../event/kickoff) (Friday, August 31, 2023 - 5 PM)
 
       cta:
         url: https://docs.google.com/forms/d/e/1FAIpQLSf2zJUy77A-oe9AX_MWsVpb04bSzeW7Zu6h5MrPDU7__SAuOg/viewform
-        label: Sign up for the information session
+        label: Sign up for the session
         icon_pack: fas
         icon: user-graduate
 ---
