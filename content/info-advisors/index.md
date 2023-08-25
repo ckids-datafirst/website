@@ -71,7 +71,7 @@ sections:
         | Event                  | Date                       |
         |------------------------|----------------------------|
         | Proposal deadline      | Monday, August 28, 2023    |
-        | Kickoff meeting        | Thursday, August 31, 2023  |
+        | Kickoff meeting        | Thursday, August 31, 2023, 5-7pm in Taper Hall (THH) 201  |
         | Student apply          | Sunday, September 3, 2023  |
         | Faculty feedback       | Thursday, September 7, 2023|
         | Student assignments    | Saturday, September 9, 2023|
