@@ -45,11 +45,6 @@ sections:
 
 
         We welcome faculty, students, researchers, and everyone in the Trojan family to participate in DataFirst. Please signup for our mailing list or contact us with any questions!
-      cta:
-        url: "https://mymaillists.usc.edu/sympa/subscribe/ckidsmail-l"
-        label: Subscribe to our mailing list
-        icon_pack: fas
-        icon: envelope
   - block: markdown
     content:
       title: Participating Schools
