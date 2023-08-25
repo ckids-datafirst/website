@@ -22,16 +22,18 @@ sections:
         <br>
         DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
 
+        **Get involved**
+
       cta:
         url: "info-advisors"
-        label: Get Involved
+        label: For advisors
         icon_pack: fas
         icon: user-graduate
-      # cta_alt:
-      #   url: "info-students"
-      #   icon_pack: fas
-      #   icon: user-graduate
-      #   label: I'm a student
+      cta_alt:
+        url: "info-students"
+        icon_pack: fas
+        icon: user
+        label: For students
   - block: hero
     content:
       id: "ckids"

@@ -21,8 +21,12 @@ sections:
         We are excited to announce the 10th CKIDS DataFest event for Fall 2023.  It will be such a special event that we are renaming it DataFirst.
         This event is an opportunity for data science students to learn to work in teams with people who have different skills, to learn about different application domains, and to work on projects that can only be done with creative ideas.
 
-        ### Are you not sure if DataFirst is for you?
-        [Come to our information session and hear from faculty mentors](../event/kickoff) (Friday, August 31, 2023 - 5 PM)
+        ### Interested in DataFirst?
+
+        Come to our information session and hear from faculty mentor.
+
+        - Friday, August 31, 2023 - 5 PM to 7 PM
+        - Taper Hall (TTH) 201
 
       cta:
         url: https://docs.google.com/forms/d/e/1FAIpQLSf2zJUy77A-oe9AX_MWsVpb04bSzeW7Zu6h5MrPDU7__SAuOg/viewform
