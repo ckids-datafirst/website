@@ -1,50 +1,50 @@
 ---
-!!python/object:datafest_archive.models.website.pages.WidgetPage
+!!python/object:datafest_archive.models.website.pages.widgetpage
 headless: true
-title: Awards
+title: awards
 type: hero
 weight: 5
 id: awards
 ---
 
-## Best Interdisciplinary Data Scientist
+## best interdisciplinary data scientist
 
-- Student: [Aryan Karnati](../../author/aryan-karnati/)
-- Project: [Auditing web content promoting eating disorders](../../projects/2023-spring/2/)
-- Advisors: [Kristina Lerman](../../author/kristina-lerman/), Abigail Horn, Joanna Yau and Zihao He
+- student: [aryan karnati](../../author/aryan-karnati/)
+- project: [auditing web content promoting eating disorders](../../projects/2023-spring/2/)
+- advisors: [kristina lerman](../../author/kristina-lerman/), abigail horn, joanna yau and zihao he
 
-## Best Data Science Developer
+## best data science developer
 
-- Student: [Shruthakeerthy Srinivasan](../../author/shruthakeerthy-srinivasan/)
-- Project: [Natural language processing of safety reports in nuclear plants and aviation](../../projects/2023-spring/10/)
-- Advisors: [Yolanda Gil](../../author/yolanda-gil/), [Najmedin Meshkati](../../author/najmedin-meshkati/)
+- student: [shruthakeerthy srinivasan](../../author/shruthakeerthy-srinivasan/)
+- project: [natural language processing of safety reports in nuclear plants and aviation](../../projects/2023-spring/10/)
+- advisors: [yolanda gil](../../author/yolanda-gil/), [najmedin meshkati](../../author/najmedin-meshkati/)
 
-## Best Data Science Team Leader
+## best data science team leader
 
-- Student: [Anood Alkatheeri](../../author/anood-alkatheeri/)
-- Project: [Natural language processing of safety reports in nuclear plants and aviation](../../projects/2023-spring/10/)
-- Advisors: [Yolanda Gil](../../author/yolanda-gil/), [Najmedin Meshkati](../../author/najmedin-meshkati/)
+- student: [anood alkatheeri](../../author/anood-alkatheeri/)
+- project: [natural language processing of safety reports in nuclear plants and aviation](../../projects/2023-spring/10/)
+- advisors: [yolanda gil](../../author/yolanda-gil/), [najmedin meshkati](../../author/najmedin-meshkati/)
 
-## Best Interdisciplinary Data Science Teamwork
+## best interdisciplinary data science teamwork
 
-- Students: [Aryan Karnati](../../author/aryan-karnati/) [Siyi Chen](../../author/siyi-chen/) [Shuchan Zhou](../../author/shuchan-zhou/) [Sudesh Kumar](../../author/sudesh-kumar/)
-- Project: [Auditing web content promoting eating disorders](../../projects/2023-spring/2/)
-- Advisors: [Kristina Lerman](../../author/kristina-lerman/), Abigail Horn, Joanna Yau and Zihao He
+- students: [aryan karnati](../../author/aryan-karnati/) [siyi chen](../../author/siyi-chen/) [shuchan zhou](../../author/shuchan-zhou/) [sudesh kumar](../../author/sudesh-kumar/)
+- project: [auditing web content promoting eating disorders](../../projects/2023-spring/2/)
+- advisors: [kristina lerman](../../author/kristina-lerman/), abigail horn, joanna yau and zihao he
 
-## Best Data Science Teamwork
+## best data science teamwork
 
-- Students: [Anood Alkatheeri](../../author/anood-alkatheeri/), [Samarth Saxena](../../author/samarth-saxena/), [Yassamin Neshatvar](../../author/yassamin-neshatvar/), [Shruthakeerthy Srinivasan](../../author/shruthakeerthy-srinivasan/), [Rushit Girish Jain](../../author/rushit-girish-jain/), [Abhishek Phalak](../../author/abhishek-phalak/), [Vaidehi Vatsaraj](../../author/vaidehi-vatsaraj/), [Siddarth Rudraraju](../../author/siddarth-rudraraju/), [Iris Gordo](../../author/iris-gordo/), [Shelby Wu](../../author/shelby-wu/)
-- Project: [Natural language processing of safety reports in nuclear plants and aviation](../../projects/2023-spring/10/)
-- Advisors: [Yolanda Gil](../../author/yolanda-gil/), [Najmedin Meshkati](../../author/najmedin-meshkati/)
+- students: [anood alkatheeri](../../author/anood-alkatheeri/), [samarth saxena](../../author/samarth-saxena/), [yassamin neshatvar](../../author/yassamin-neshatvar/), [shruthakeerthy srinivasan](../../author/shruthakeerthy-srinivasan/), [rushit girish jain](../../author/rushit-girish-jain/), [abhishek phalak](../../author/abhishek-phalak/), [vaidehi vatsaraj](../../author/vaidehi-vatsaraj/), [siddarth rudraraju](../../author/siddarth-rudraraju/), [iris gordo](../../author/iris-gordo/), [shelby wu](../../author/shelby-wu/)
+- project: [natural language processing of safety reports in nuclear plants and aviation](../../projects/2023-spring/10/)
+- advisors: [yolanda gil](../../author/yolanda-gil/), [najmedin meshkati](../../author/najmedin-meshkati/)
 
-## Best Website
+## best website
 
-- Students: [Yan (Aurora) Zheng](../../author/yan-zheng/), [Yuan (Stella) Luo](../../author/yuan-luo/)
-- Project: [Transition of Care](../../projects/2023-spring/1/)
-- Advisors: Lori Wang, [Neil Bahroos](../../author/neil-bahroos/)
+- students: [yan (aurora) zheng](../../author/yan-zheng/), [yuan (stella) luo](../../author/yuan-luo/)
+- project: [transition of care](../../projects/2023-spring/1/)
+- advisors: lori wang, [neil bahroos](../../author/neil-bahroos/)
 
-## Best Presentation
+## best presentation
 
-- Students: [Weiqian Zhang](../../author/weiqian-zhang/), [Mahika Mushuni](../../author/mahika-mushuni/), [Angel Chavez-Penate](../../author/angel-chavez-penate/), [Zirong Huang](../../author/zirong-huang/)
-- Project: [Determinants of spatial variations in broadband quality and prices](../../projects/2023-spring/4/)
-- Advisors: [Hernan Galperin](../../author/hernan-galperin/)
+- students: [weiqian zhang](../../author/weiqian-zhang/), [mahika mushuni](../../author/mahika-mushuni/), [angel chavez-penate](../../author/angel-chavez-penate/), [zirong huang](../../author/zirong-huang/)
+- project: [determinants of spatial variations in broadband quality and prices](../../projects/2023-spring/4/)
+- advisors: [hernan galperin](../../author/hernan-galperin/)

@@ -1,28 +1,24 @@
 !Menu
 main:
-  - name: Fall 2023
-    id: fall-2023
-    parent: null
+  - name: Home
+    url: /
     weight: 1
-
-  - name: Call for Project Proposals
-    parent: Fall 2023
+  - name: Advisors
     url: info-advisors
-    weight: 1
-  - name: Call for Students - Information session
-    parent: Fall 2023
+    weight: 10
+  - name: Students
     url: info-students
-    weight: 2
+    weight: 20
   # - !!python/object:datafest_archive.models.website.configuration.MenuItem
   #   name: Info for Students
   #   parent: null
   #   url: info-students
   #   weight: 2
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Previous Semesters
+    name: Projects
     parent: null
     url: previous-semesters
-    weight: 3
+    weight: 30
   # - !!python/object:datafest_archive.models.website.configuration.MenuItem
   #   name: People
   #   parent: null
@@ -32,19 +28,19 @@ main:
     name: Contact
     parent: null
     url: contact
-    weight: 6
+    weight: 40
+  - !!python/object:datafest_archive.models.website.configuration.MenuItem
+    name: Fall 2023 (Open)
+    parent: Projects
+    url: editions/2023-fall
+    weight: 10
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
     name: Spring 2023
-    parent: Previous Semesters
+    parent: Projects
     url: editions/2023-spring
     weight: 20
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
     name: 2019 to 2022
-    parent: Previous Semesters
+    parent: Projects
     url: https://sites.usc.edu/ckids/datafest-s22-spring-2022/
     weight: 21
-
-  - name: Events
-    parent: null
-    url: event
-    weight: 5
