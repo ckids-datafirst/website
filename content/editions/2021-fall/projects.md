@@ -15,7 +15,7 @@ widget: markdown
 
 
 
-* [Decoding How Humans Encode Memories (Fall - 2021)](../../projects/2021-fall/101)
+* [Decoding How Humans Encode Memories](../../projects/2021-fall/101)
 
 * [NVISION: Network Visualization Interventions Supporting Interpretation of Objective News](../../projects/2021-fall/102)
 

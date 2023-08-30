@@ -73,7 +73,7 @@ summary: 'Fine-grained epidemiological modeling of the spread of COVID-19 can in
   and other counties in California (so far it has only been applied to LAC data).'
 tags: *id001
 title: Investigating disparities in the COVID-19 epidemic in Los Angeles County through
-  fine-grained epidemic modeling (Spring - 2021)
+  fine-grained epidemic modeling
 url_code: null
 url_pdf: null
 url_slides: null

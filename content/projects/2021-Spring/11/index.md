@@ -23,7 +23,7 @@ summary: Students will analyze images from optical microscopes that reveal featu
   system already implemented, and the goal is to improve it with new machine learning
   techniques, guided by the insights of our collaborating geologists.
 tags: *id001
-title: Machine Learning to Analyze Rock Microstructures (Spring - 2021)
+title: Machine Learning to Analyze Rock Microstructures
 url_code: null
 url_pdf: null
 url_slides: null

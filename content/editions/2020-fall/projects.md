@@ -41,11 +41,11 @@ widget: markdown
 
 * [Detecting Biases in College Football Recruiting (Fall - 2020)](../../projects/2020-fall/213)
 
-* [Tracking health and nutrition signals from social media data (Fall - 2020)](../../projects/2020-fall/214)
+* [Tracking health and nutrition signals from social media data](../../projects/2020-fall/214)
 
-* [Digital Democracy: Using Social Media to Improve Political Discourse (Fall - 2020)](../../projects/2020-fall/215)
+* [Digital Democracy: Using Social Media to Improve Political Discourse](../../projects/2020-fall/215)
 
-* [Characterizing the counter-narratives of climate change (Fall - 2020) (Fall - 2020)](../../projects/2020-fall/216)
+* [Characterizing the counter-narratives of climate change](../../projects/2020-fall/216)
 
-* [Team Dynamics in Online Multiplayer Games (Fall - 2020)](../../projects/2020-fall/217)
+* [Team Dynamics in Online Multiplayer Games](../../projects/2020-fall/217)
 

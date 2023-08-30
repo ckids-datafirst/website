@@ -15,9 +15,9 @@ widget: markdown
 
 
 
-* [Microtelcos and the Digital Divide in CA (Spring - 2021)](../../projects/2021-spring/1)
+* [Microtelcos and the Digital Divide in CA](../../projects/2021-spring/1)
 
-* [Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Spring - 2021)](../../projects/2021-spring/2)
+* [Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling](../../projects/2021-spring/2)
 
 * [Mapping the Ethical Concerns Surrounding AI Research](../../projects/2021-spring/3)
 
@@ -31,11 +31,11 @@ widget: markdown
 
 * [Turning Cyber Data into Language](../../projects/2021-spring/8)
 
-* [Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)](../../projects/2021-spring/9)
+* [Looking at White Hat (?) Hacker Social Networks on Github](../../projects/2021-spring/9)
 
-* [Mapping the Uncanny Valley (Spring - 2021)](../../projects/2021-spring/10)
+* [Mapping the Uncanny Valley](../../projects/2021-spring/10)
 
-* [Machine Learning to Analyze Rock Microstructures (Spring - 2021)](../../projects/2021-spring/11)
+* [Machine Learning to Analyze Rock Microstructures](../../projects/2021-spring/11)
 
-* [Detecting Biases in College Football Recruiting (Spring - 2021) (Spring - 2021)](../../projects/2021-spring/12)
+* [Detecting Biases in College Football Recruiting](../../projects/2021-spring/12)
 

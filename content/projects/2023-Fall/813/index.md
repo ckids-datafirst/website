@@ -31,5 +31,4 @@ Build a knowledge graph of a crowdsourcing event.
 ## Skills Required by the team
 
 
-* NEO4j
-* or Python
+* NEO4j or Python

@@ -39,5 +39,4 @@ Open source runs a lot of the world&#39;s critical software systems, but there i
 * Python (needed)
 * experience with LLMs/OpenAI APIs
 * program analysis
-* C code (preferred
-* but not necessary!)
+* C code (preferred - but not necessary!)
