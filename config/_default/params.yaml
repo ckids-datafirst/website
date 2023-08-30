@@ -22,7 +22,7 @@ marketing:
     description: "DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science"
     twitter: "wowchemy"
   analytics:
-    google_analytics: ""
+    google_analytics: "G-MNSTFSERJ5"
     baidu_tongji: ""
     google_tag_manager: ""
     microsoft_clarity: ""
@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: "© {year} Me. This work is licensed under {license}"
+    notice: "© {year} DataFirst. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: false
