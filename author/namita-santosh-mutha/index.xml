@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Namita Santosh Mutha | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/namita-santosh-mutha/</link><atom:link href="https://ckids-datafirst.github.io/website/author/namita-santosh-mutha/index.xml" rel="self" type="application/rss+xml"/><description>Namita Santosh Mutha</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Namita Santosh Mutha</title><link>https://ckids-datafirst.github.io/website/author/namita-santosh-mutha/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Namita Santosh Mutha | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/namita-santosh-mutha/</link><atom:link href="https://ckids-datafirst.github.io/website/author/namita-santosh-mutha/index.xml" rel="self" type="application/rss+xml"/><description>Namita Santosh Mutha</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Namita Santosh Mutha</title><link>https://ckids-datafirst.github.io/website/author/namita-santosh-mutha/</link></image><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Insight&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/linglan-zhang">Linglan Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yu-zhang">Yu Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aditya-udaymalte">Aditya Uday Malte&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/namita-santoshmutha">Namita Santosh Mutha&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/filip-ilievski">Filip Ilievski&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Clustering&lt;/li>
+&lt;li>Language Models&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;/ul></description></item></channel></rss>

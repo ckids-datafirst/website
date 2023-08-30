@@ -87,7 +87,7 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -124,7 +124,7 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021) (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -197,7 +197,7 @@
 &lt;li>Clustering&lt;/li>
 &lt;li>Language Models&lt;/li>
 &lt;li>Data Analysis&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
 &lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
 &lt;p>CKIDS PROJECT TASKS&lt;/p>
@@ -220,7 +220,7 @@
 &lt;ul>
 &lt;li>Computational Simulation&lt;/li>
 &lt;li>R&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
 &lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
 &lt;p>CKIDS PROJECT TASKS&lt;/p>
@@ -402,7 +402,41 @@
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Data Visualization&lt;/li>
 &lt;li>Computer Vision&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Fall - 2020) (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Collection&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Spring - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -440,40 +474,6 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1c9WlvN8qHV6xKS7SRY1FNWZ7AHxNW3cf/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
-&lt;h2 id="awards">Awards&lt;/h2>
-&lt;ul>
-&lt;li>Best Data Collection&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Classification&lt;/li>
-&lt;li>Data Collection&lt;/li>
 &lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to determine if there are biases in who and how college football coaches recruit players. By creating a comprehensive data set of college recruits and integrating relevant data with current socioeconomic markers (i.e. census data) we hope to determine if there are patterns in who and where football coaches recruit their players, regardless of talent.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
