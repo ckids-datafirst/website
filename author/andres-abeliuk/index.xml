@@ -1,1 +1,219 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andrés Abeliuk | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/andres-abeliuk/</link><atom:link href="https://ckids-datafirst.github.io/website/author/andres-abeliuk/index.xml" rel="self" type="application/rss+xml"/><description>Andrés Abeliuk</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Andrés Abeliuk</title><link>https://ckids-datafirst.github.io/website/author/andres-abeliuk/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andrés Abeliuk | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/andres-abeliuk/</link><atom:link href="https://ckids-datafirst.github.io/website/author/andres-abeliuk/index.xml" rel="self" type="application/rss+xml"/><description>Andrés Abeliuk</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Andrés Abeliuk</title><link>https://ckids-datafirst.github.io/website/author/andres-abeliuk/</link></image><item><title>Tracking health and nutrition signals from social media data (begun Spring 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/113/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/113/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Food environments (the physical spaces where people acquire and consume food) can profoundly impact diet and related diseases. Effective, robust measures of food environment nutritional quality are required by researchers and policymakers investigating their effects on individual dietary behavior and designing targeted public health interventions. The most commonly used indicators of food environment nutritional quality are limited to measuring the binary presence or absence of entire categories of food outlet type, such as ‘fast-food’ outlets, which can range from burger joints to salad chains. There would be great value in a summarizing indicator of restaurant nutritional quality that exists along a continuum, and which can be applied at the scale of large food environments, for example across Los Angeles County, to make distinctions between diverse restaurants within and across categories of food outlets.&lt;/p>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Foursquare and Yelp. We will investigate the ability to access menu information from the APIs of these social media platforms, and develop measures to assess the nutritional content of these menus. Multiple aims will be investigated in this project, including scraping data from social media; NLP of menu text, tag, and comment data; developing predictive models of obesity; and more. “Ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from menu data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Iris C. Liu&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Modeling&lt;/li>
+&lt;/ul></description></item><item><title>Digital Democracy: Using Social Media to Improve Political Discourse</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/215/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/215/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Politicians in modern democracies across the world have eagerly adopted social media for engaging their constituents, entering into direct dialogs with citizens. From the perspective of political actors, there is a need to continuously gather, monitor, analyze, and visualize politically relevant information from online social media with the goal to improve communication with citizens and voters. The goal of this proposal is to create a tool that enhances interaction and dialogue between political actors and their followers. This will be achieved by creating compact and comprehensive summaries that aggregate and visualize common narratives, thus, reducing the cognitive load required to read all the messages and streamlining the dialogue experience.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Alex Spangher&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yash Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Swetha Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hongyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Raveena Kshatriya&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>NLP&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item><item><title>Digital Democracy: Using Social Media to Improve Political Discourse</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/317/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/317/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Politicians in modern democracies across the world have eagerly adopted social media for engaging their constituents, entering into direct dialogs with citizens. From the perspective of political actors, there is a need to continuously gather, monitor, analyze, and visualize politically relevant information from online social media with the goal to improve communication with citizens and voters. The goal of this proposal is to create a tool that enhances interaction and dialogue between political actors and their followers. This will be achieved by creating compact and comprehensive summaries that aggregate and visualizes common narratives, thus, reducing the cognitive load required to read all the messages and streamlining the dialogue experience.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Alex Spangher&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yash Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Swetha Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hongyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Raveena Kshatriya&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>NLP&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
+&lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Analysis&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Sentiment Analysis&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Image Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
+&lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Analysis&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Sentiment Analysis&lt;/li>
+&lt;li>Image Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Measuring population-level nutrition and dietary habits from Instagram</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will investigate the quality of Instagram textual posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial and textual features of posts linked to food outlets. Using an Instagram dataset of all geo-located posts at food outlets in Los Angeles for 3 months in 2014, this project will investigate whether Instagram posts, despite implicit biases (and to the extent possible, accounting for these biases), can provide a representative health signal, informative of the quality of population nutrition and dietary patterns at a highly-resolved (e.g. census tract level) spatial scale.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Divyatmika Lnu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shagun Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nina Thiebaut&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nisha Tiwari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ian Choi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Statistical Modeling&lt;/li>
+&lt;/ul></description></item></channel></rss>
