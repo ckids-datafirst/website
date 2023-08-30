@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shenoy Pratik Gurudatt | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/shenoy-pratik-gurudatt/</link><atom:link href="https://ckids-datafirst.github.io/website/author/shenoy-pratik-gurudatt/index.xml" rel="self" type="application/rss+xml"/><description>Shenoy Pratik Gurudatt</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Shenoy Pratik Gurudatt</title><link>https://ckids-datafirst.github.io/website/author/shenoy-pratik-gurudatt/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shenoy Pratik Gurudatt | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/shenoy-pratik-gurudatt/</link><atom:link href="https://ckids-datafirst.github.io/website/author/shenoy-pratik-gurudatt/index.xml" rel="self" type="application/rss+xml"/><description>Shenoy Pratik Gurudatt</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Shenoy Pratik Gurudatt</title><link>https://ckids-datafirst.github.io/website/author/shenoy-pratik-gurudatt/</link></image><item><title>Data infrastructure for USC</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing software and data resources for USC students. Software resources include tools to process and analyze specific types of data (eg social networks, images, text, etc), data preparation tools, or machine learning libraries. Data resources include thematic data repositories, such as urban LA data, environmental LA data, entertainment LA data, etc.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yang-dai">Yang Dai&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zixuan-zhang">Zixuan Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/parul-gupta">Parul Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yu-wang">Yu Wang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/sanjiv-soni">Sanjiv Soni&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Open Source Software Development&lt;/li>
+&lt;li>Data Services&lt;/li>
+&lt;/ul></description></item><item><title>Detecting deep fakes</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item></channel></rss>

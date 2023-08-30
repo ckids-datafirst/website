@@ -6,8 +6,7 @@
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
-&lt;li>NEO4j&lt;/li>
-&lt;li>or Python&lt;/li>
+&lt;li>NEO4j or Python&lt;/li>
 &lt;/ul></description></item><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Highly accurate fault detection in foundry produced microelectronics is crucial to ensuring quality of devices that leave the foundry. However, current defect detection flows are human-centric, which produces a bottleneck. The objective of this project is to leverage recent advances in AI/ML to develop automated techniques that can 1) identify manufacturing defects in microelectronics using imagery collected at the foundry, and 2) determine whether the identified defect will impact the performance of the manufactured component.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -30,8 +29,7 @@
 &lt;li>Python (needed)&lt;/li>
 &lt;li>experience with LLMs/OpenAI APIs&lt;/li>
 &lt;li>program analysis&lt;/li>
-&lt;li>C code (preferred&lt;/li>
-&lt;li>but not necessary!)&lt;/li>
+&lt;li>C code (preferred - but not necessary!)&lt;/li>
 &lt;/ul></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to understand root-causes of one of the serious aviation safety problem in the US - runway incursions. The Aviation Safety Reporting Systems, which is administered by the NASA and is an untapped treasure trove of textual data, will be used for this project.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>

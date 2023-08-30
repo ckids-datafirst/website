@@ -6,8 +6,7 @@
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
-&lt;li>NEO4j&lt;/li>
-&lt;li>or Python&lt;/li>
+&lt;li>NEO4j or Python&lt;/li>
 &lt;/ul></description></item><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Highly accurate fault detection in foundry produced microelectronics is crucial to ensuring quality of devices that leave the foundry. However, current defect detection flows are human-centric, which produces a bottleneck. The objective of this project is to leverage recent advances in AI/ML to develop automated techniques that can 1) identify manufacturing defects in microelectronics using imagery collected at the foundry, and 2) determine whether the identified defect will impact the performance of the manufactured component.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -30,8 +29,7 @@
 &lt;li>Python (needed)&lt;/li>
 &lt;li>experience with LLMs/OpenAI APIs&lt;/li>
 &lt;li>program analysis&lt;/li>
-&lt;li>C code (preferred&lt;/li>
-&lt;li>but not necessary!)&lt;/li>
+&lt;li>C code (preferred - but not necessary!)&lt;/li>
 &lt;/ul></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to understand root-causes of one of the serious aviation safety problem in the US - runway incursions. The Aviation Safety Reporting Systems, which is administered by the NASA and is an untapped treasure trove of textual data, will be used for this project.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1163,7 +1161,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -1198,6 +1196,38 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
 &lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
@@ -1235,38 +1265,6 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021) (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>Web Scraping&lt;/li>
-&lt;li>SQL&lt;/li>
-&lt;li>NoSQL&lt;/li>
 &lt;/ul></description></item><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1367,30 +1365,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
-&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
-&lt;p>CKIDS PROJECT TASKS&lt;/p>
-&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
-&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Computational Simulation&lt;/li>
-&lt;li>R&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
 &lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
 &lt;p>CKIDS PROJECT TASKS&lt;/p>
@@ -1414,6 +1389,60 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>R&lt;/li>
 &lt;li>Statistics&lt;/li>
 &lt;li>Computational Simulation&lt;/li>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
+&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
+&lt;p>CKIDS PROJECT TASKS&lt;/p>
+&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
+&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Computational Simulation&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
 &lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
@@ -1446,38 +1475,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>GraphQL&lt;/li>
 &lt;li>OSINT&lt;/li>
 &lt;li>Cybersecurity&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
-&lt;h2 id="awards">Awards&lt;/h2>
-&lt;ul>
-&lt;li>Best Project Achievement&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -1547,7 +1545,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>AI ethics&lt;/li>
-&lt;/ul></description></item><item><title>Mapping the Uncanny Valley (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Mapping the Uncanny Valley</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many stories involve the friendly and familiar, scary stories across cultures, from Hamlet to Yotsuya Kaidan to Siren Head involve beings that are almost—but not quite—human. Can these stories give us insight into the “nearly-human” uncanny valley? Initial results from our group say yes! While some research has explored the uncanny valley for images, the research is limited and previously unexplored in text format. If we can extract human emotions surrounding text descriptions, we can exploit an enormous array of data. Our goal this semester is to analyze our objective definitions of “fear” or “creepiness” in a story and test how the similarity of words to “human” make them more or less creepy. Moreover, we will explore what features of objects make them more or less scary. These findings share a direct relationship to AI and robotics where our goal is always to improve pleasant interactions and affability in human-computer and human-robot interactions. The students will build on initial work to apply NLP methods to these texts and improve upon existing initial results.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -1577,7 +1575,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>NLTK&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Keras&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The COVID-19 pandemic has reinvigorated calls to close the digital divide in the US and elsewhere. Without adequate Internet access, households are at a disadvantage in education, jobs, health, and other key dimensions of wellbeing. While local broadband markets are increasingly concentrated, there is also increased interest in exploring the role those small local operators (“microtelcos”) can play in serving in low-income and rural communities. These microtelcos range from small wireless cooperatives to mom-and-pop private ISPs to municipal-backed operators. This project seeks to a) map and identify the characteristics of communities where microtelcos are present in CA, and b) to examine whether microtelcos presence affects broadband service quality and adoption by businesses and households in the community. The project will use broadband deployment data collected by the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -2014,7 +2012,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Javascript&lt;/li>
 &lt;li>Firebase&lt;/li>
 &lt;li>UI Development&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Fall - 2020) (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -2184,7 +2182,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Social Science&lt;/li>
 &lt;li>Mapmaking&lt;/li>
 &lt;li>Economics&lt;/li>
-&lt;/ul></description></item><item><title>Digital Democracy: Using Social Media to Improve Political Discourse (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/215/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/215/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Digital Democracy: Using Social Media to Improve Political Discourse</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/215/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/215/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Politicians in modern democracies across the world have eagerly adopted social media for engaging their constituents, entering into direct dialogs with citizens. From the perspective of political actors, there is a need to continuously gather, monitor, analyze, and visualize politically relevant information from online social media with the goal to improve communication with citizens and voters. The goal of this proposal is to create a tool that enhances interaction and dialogue between political actors and their followers. This will be achieved by creating compact and comprehensive summaries that aggregate and visualize common narratives, thus, reducing the cognitive load required to read all the messages and streamlining the dialogue experience.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -2595,7 +2593,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Data Science&lt;/li>
 &lt;li>Cybersecurity&lt;/li>
 &lt;li>Graph Analysis&lt;/li>
-&lt;/ul></description></item><item><title>Team Dynamics in Online Multiplayer Games (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/217/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/217/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Team Dynamics in Online Multiplayer Games</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/217/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/217/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Competitive online multiplayer team games such as CounterStrike, PUBG, or League of Legends are extremely popular. Multiple teams of professional players compete in hundreds of tournaments yearly. Player transfer between teams is common. The goal of the project is to measure the effects of player transfers and to answer some of the questions such as: How does a new player affect the team’s performance?; How does the change of a team affect a player’s performance? The world of online games can be used as a fruitful area for tackling more fundamental questions on human society and collaboration dynamics in different settings.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -2743,7 +2741,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
 &lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
