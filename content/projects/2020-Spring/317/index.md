@@ -27,7 +27,8 @@ summary: Politicians in modern democracies across the world have eagerly adopted
   reducing the cognitive load required to read all the messages and streamlining the
   dialogue experience.
 tags: *id001
-title: 'Digital Democracy: Using Social Media to Improve Political Discourse'
+title: 'Digital Democracy: Using Social Media to Improve Political Discourse (Spring
+  - 2020)'
 url_code: null
 url_pdf: null
 url_slides: https://docs.google.com/presentation/d/1j8e6L6RTTJdzabFxpg6CUSoYAJZJT35Z/edit?usp=sharing&ouid=116088473370484068569&rtpof=true&sd=true

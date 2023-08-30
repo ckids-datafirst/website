@@ -21,7 +21,7 @@ summary: "Competitive online multiplayer team games such as CounterStrike, PUBG 
   \ online games can be used as a fruitful area for tackling more fundamental questions\
   \ on human society and collaboration dynamics in different settings."
 tags: *id001
-title: Team Dynamics in Online Multiplayer Games
+title: Team Dynamics in Online Multiplayer Games (Spring - 2020)
 url_code: null
 url_pdf: null
 url_slides: https://docs.google.com/presentation/d/1VqiPWIAd8En19Yh1PZwBY_3uhtIDOEex/edit?usp=sharing&ouid=116088473370484068569&rtpof=true&sd=true

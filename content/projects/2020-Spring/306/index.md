@@ -33,7 +33,7 @@ summary: "This project will explore the ability to track real-life health and nu
   \ social connections / social network, and of course more timely (which requires\
   \ data scraping)."
 tags: *id001
-title: Tracking health and nutrition signals from social media data
+title: Tracking health and nutrition signals from social media data (Spring - 2020)
 url_code: null
 url_pdf: null
 url_slides: https://docs.google.com/presentation/d/1JL_7V4M3pyrxM48YQt3m-E-MgTgvE4s4/edit?usp=sharing&ouid=116088473370484068569&rtpof=true&sd=true

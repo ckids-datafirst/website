@@ -25,7 +25,7 @@ widget: markdown
 
 * [Connections within Contemporary Feminism Movements](../../projects/2020-spring/305)
 
-* [Tracking health and nutrition signals from social media data](../../projects/2020-spring/306)
+* [Tracking health and nutrition signals from social media data (Spring - 2020)](../../projects/2020-spring/306)
 
 * [Predicting Effective Tax Rate of Publicly-Traded Firms](../../projects/2020-spring/307)
 
@@ -45,13 +45,13 @@ widget: markdown
 
 * [Modeling Uncertainty in Drought Products](../../projects/2020-spring/315)
 
-* [Characterizing the counter-narratives of climate change](../../projects/2020-spring/316)
+* [Characterizing the counter-narratives of climate change (Spring - 2020)](../../projects/2020-spring/316)
 
-* [Digital Democracy: Using Social Media to Improve Political Discourse](../../projects/2020-spring/317)
+* [Digital Democracy: Using Social Media to Improve Political Discourse (Spring - 2020)](../../projects/2020-spring/317)
 
 * [Turning Library Collections into Data Science Challenges and Resources](../../projects/2020-spring/318)
 
 * [Capturing the Provenance of Data Analysis Using the PROV Standard](../../projects/2020-spring/319)
 
-* [Team Dynamics in Online Multiplayer Games](../../projects/2020-spring/320)
+* [Team Dynamics in Online Multiplayer Games (Spring - 2020)](../../projects/2020-spring/320)
 

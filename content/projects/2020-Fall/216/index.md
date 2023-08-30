@@ -24,7 +24,8 @@ summary: Top climate scientists post their findings and views regularly on socia
   and characterize these tweets to understand the counter-narratives of climate change.
   We will address topics including false information, bot campaigns, and harassment.
 tags: *id001
-title: Characterizing the counter-narratives of climate change (Fall - 2020)
+title: Characterizing the counter-narratives of climate change (Fall - 2020) (Fall
+  - 2020)
 url_code: null
 url_pdf: null
 url_slides: null

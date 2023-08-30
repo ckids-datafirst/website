@@ -21,9 +21,9 @@ widget: markdown
 
 * [Discovering and Measuring Biases in Commonsense Knowledge Bases](../../projects/2021-fall/103)
 
-* [Looking at White Hat (?) Hacker Social Networks on Github](../../projects/2021-fall/104)
+* [Looking at White Hat (?) Hacker Social Networks on Github (Fall - 2021)](../../projects/2021-fall/104)
 
-* [Detecting Biases in College Football Recruiting](../../projects/2021-fall/105)
+* [Detecting Biases in College Football Recruiting (Fall - 2021)](../../projects/2021-fall/105)
 
 * [Automatically segmenting and describing the human corpus callosum from brain MRIs](../../projects/2021-fall/106)
 
@@ -41,5 +41,5 @@ widget: markdown
 
 * [Tracking health and nutrition signals from social media data (begun Spring 2020)](../../projects/2021-fall/113)
 
-* [Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling](../../projects/2021-fall/114)
+* [Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Fall - 2021)](../../projects/2021-fall/114)
 
