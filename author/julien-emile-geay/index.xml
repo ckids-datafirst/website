@@ -1,1 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julien Emile-Geay | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/julien-emile-geay/</link><atom:link href="https://ckids-datafirst.github.io/website/author/julien-emile-geay/index.xml" rel="self" type="application/rss+xml"/><description>Julien Emile-Geay</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Julien Emile-Geay</title><link>https://ckids-datafirst.github.io/website/author/julien-emile-geay/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julien Emile-Geay | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/julien-emile-geay/</link><atom:link href="https://ckids-datafirst.github.io/website/author/julien-emile-geay/index.xml" rel="self" type="application/rss+xml"/><description>Julien Emile-Geay</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/julien-emile-geay/avatar_hu9cfc3b7b55356b5ca7adaa11e9037561_459413_270x270_fill_q75_lanczos_center.jpg</url><title>Julien Emile-Geay</title><link>https://ckids-datafirst.github.io/website/author/julien-emile-geay/</link></image><item><title>Annotating Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Paleoclimate data is highly diverse, requiring different sets of metadata to describe the various datasets. In this project, you will help build an interface to assist researchers in annotating their paleoclimate datasets according to an evolving reporting standard (PaCTS) and download them in the Linked Paleo Data (LiPD) format. The interface should be highly interactive (wizard) to accommodate the diversity of the data as well as offer editing capabilities for existing datasets (upload LiPD files) and check their compliance with PaCTS, plot location information and the time series, download into the LiPD format, upload to a semantic wiki and/or an SQL database. In addition, the interface should support the use of a recommender system (to be build) to help researchers in annotating their datasets.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yincheng-lin">Yincheng Lin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shravya-manety">Shravya Manety&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;li>Web Technologies&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Data Mining Over Past Climates</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Estimates of climate variations over the past 1,000 years play an increasing role in climate assessments. A key quantity to derive from them is the transient climate response (TCR), which quantifies the warming at expected from slowly-rising CO2 concentrations. TCR helps constrain the climate models used to predict the future evolution of Earth’s climate. In this project, you will help design an efficient workflow to estimate TCR from existing paleoclimate datasets and emerging statistical methods.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yuxuan-ji">Yuxuan Ji&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zhifeng-liu">Zhifeng Liu&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ashka-patel">Ashka Patel&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aditi-choudhary">Aditi Choudhary&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shelly-mehta">Shelly Mehta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item></channel></rss>
