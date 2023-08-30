@@ -32,9 +32,9 @@ Seasonal drought predictions are important for the management of water resources
 
 ## Students
 
-* Shubhashree Dash
+* [Shubhashree Dash](../../../author/shubhashree-dash)
 
-* Katie Chak
+* [Katie Chak](../../../author/katie-chak)
 
 ## Advisors
 

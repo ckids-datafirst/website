@@ -22,7 +22,7 @@ summary: "The broadband access market is increasingly dominated by a few large I
   \ census block level data provided by the Census Bureau. This is part of an ongoing\
   \ research program called Connected Communities and Inclusive Growth (CCIG)."
 tags: *id001
-title: Microtelcos and the Digital Divide in CA
+title: Microtelcos and the Digital Divide in CA (Spring - 2020)
 url_code: null
 url_pdf: null
 url_slides: null

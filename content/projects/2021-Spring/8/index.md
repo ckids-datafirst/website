@@ -41,15 +41,15 @@ Cyber ontologies such as STIX and ATT&amp;CK can represent complex relationships
 
 ## Students
 
-* Ruoyu Li
+* [Ruoyu Li](../../../author/ruoyu-li)
 
-* Carol Varkey
+* [Carol Varkey](../../../author/carol-varkey)
 
-* Rengapriya Aravindan
+* [Rengapriya Aravindan](../../../author/rengapriya-aravindan)
 
-* Chuqi Liu
+* [Chuqi Liu](../../../author/chuqi-liu)
 
-* Ziheng Gong
+* [Ziheng Gong](../../../author/ziheng-gong)
 
 ## Advisors
 

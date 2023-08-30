@@ -48,13 +48,13 @@ The pandemic worsened eating disorders among adolescents, particularly girls. Ea
 
 ## Students
 
-* Aryan Karnati
+* [Aryan Karnati](../../../author/aryan-karnati)
 
-* Sudesh Kumar
+* [Sudesh Kumar](../../../author/sudesh-kumar)
 
-* Siyi Chen
+* [Siyi Chen](../../../author/siyi-chen)
 
-* Shuchan Zhou
+* [Shuchan Zhou](../../../author/shuchan-zhou)
 
 ## Advisors
 
@@ -68,3 +68,6 @@ The pandemic worsened eating disorders among adolescents, particularly girls. Ea
 * Python
 * NLP
 * Machine Learning
+## Final presentation resources
+
+* [Final presentation](https://auditing-drivers-for-eating-disorders.netlify.app/index.html)

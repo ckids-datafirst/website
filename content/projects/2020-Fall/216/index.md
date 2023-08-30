@@ -24,7 +24,7 @@ summary: Top climate scientists post their findings and views regularly on socia
   and characterize these tweets to understand the counter-narratives of climate change.
   We will address topics including false information, bot campaigns, and harassment.
 tags: *id001
-title: Characterizing the counter-narratives of climate change
+title: Characterizing the counter-narratives of climate change (Fall - 2020)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -46,13 +46,13 @@ Top climate scientists post their findings and views regularly on social media. 
 
 ## Students
 
-* Abhilash Pandurangan
+* [Abhilash Pandurangan](../../../author/abhilash-pandurangan)
 
-* Aditya Jajodia
+* [Aditya Jajodia](../../../author/aditya-jajodia)
 
-* Sushmitha Ravikumar
+* [Sushmitha Ravikumar](../../../author/sushmitha-ravikumar)
 
-* Vanshika Sridharan
+* [Vanshika Sridharan](../../../author/vanshika-sridharan)
 
 ## Advisors
 

@@ -46,15 +46,15 @@ In collaboration with the Sanitation Department of LA, IMSC has been developing 
 
 ## Students
 
-* Trisha Sinha
+* [Trisha Sinha](../../../author/trisha-sinha)
 
-* Harsh Jaykumar Jalan
+* [Harsh Jaykumar Jalan](../../../author/harsh-jaykumarjalan)
 
-* Ashwin Sakhare
+* [Ashwin Sakhare](../../../author/ashwin-sakhare)
 
-* Divya Manjunath
+* [Divya Manjunath](../../../author/divya-manjunath)
 
-* Nai Cih Liou
+* [Nai Cih Liou](../../../author/nai-cihliou)
 
 ## Advisors
 

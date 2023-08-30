@@ -48,13 +48,13 @@ Since 1992, the USC Wrigley Institute for Environmental Studies ‘Catalina Cons
 
 ## Students
 
-* Wei-Fan Chen
+* [Wei-Fan Chen](../../../author/weifan-chen)
 
-* Sameeksha Mahajan
+* [Sameeksha Mahajan](../../../author/sameeksha-mahajan)
 
-* Zijing Zhang
+* [Zijing Zhang](../../../author/zijing-zhang)
 
-* Pratheek Athreya
+* [Pratheek Athreya](../../../author/pratheek-athreya)
 
 ## Advisors
 

@@ -42,15 +42,15 @@ This project will develop a data scraper to collect salary records from a websit
 
 ## Students
 
-* Matthew Lim
+* [Matthew Lim](../../../author/matthew-lim)
 
-* Minh Nguyen
+* [Minh Nguyen](../../../author/minh-nguyen)
 
-* Sindhu Ravi
+* [Sindhu Ravi](../../../author/sindhu-ravi)
 
-* Vihang Mangalvedhekar
+* [Vihang Mangalvedhekar](../../../author/vihang-mangalvedhekar)
 
-* Kevin Tsang
+* [Kevin Tsang](../../../author/kevin-tsang)
 
 ## Advisors
 
@@ -64,3 +64,6 @@ This project will develop a data scraper to collect salary records from a websit
 
 
 * Web Scraping
+## Final presentation resources
+
+* [Final presentation](https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/view?usp=sharing)

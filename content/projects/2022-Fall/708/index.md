@@ -45,17 +45,17 @@ After the COVID, the remote work environment has become popular, and many commer
 
 ## Students
 
-* Dhruv Goel
+* [Dhruv Goel](../../../author/dhruv-goel)
 
-* Indrani Panchangam
+* [Indrani Panchangam](../../../author/indrani-panchangam)
 
-* Mingxuan Ma
+* [Mingxuan Ma](../../../author/mingxuan-ma)
 
-* Siqi Qiao
+* [Siqi Qiao](../../../author/siqi-qiao)
 
-* Crystal Sheng
+* [Crystal Sheng](../../../author/crystal-sheng)
 
-* Winnie Hou
+* [Winnie Hou](../../../author/winnie-hou)
 
 ## Advisors
 

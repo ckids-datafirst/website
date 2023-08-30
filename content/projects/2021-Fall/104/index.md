@@ -39,15 +39,15 @@ weight: 10
 
 ## Students
 
-* Jonathan Lal
+* [Jonathan Lal](../../../author/jonathan-lal)
 
-* Aditya Ramani
+* [Aditya Ramani](../../../author/aditya-ramani)
 
-* Sanket Bhilare
+* [Sanket Bhilare](../../../author/sanket-bhilare)
 
-* Keerthana Prakash
+* [Keerthana Prakash](../../../author/keerthana-prakash)
 
-* Himani Amrute
+* [Himani Amrute](../../../author/himani-amrute)
 
 ## Advisors
 

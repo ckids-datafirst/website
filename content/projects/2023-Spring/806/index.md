@@ -46,15 +46,15 @@ Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into
 
 ## Students
 
-* Parth Rohilla
+* [Parth Rohilla](../../../author/parth-rohilla)
 
-* Kiran Narahari
+* [Kiran Narahari](../../../author/kiran-narahari)
 
-* Hangji He
+* [Hangji He](../../../author/hangji-he)
 
-* Shubham Gujar
+* [Shubham Gujar](../../../author/shubham-gujar)
 
-* Varun Venkatesh
+* [Varun Venkatesh](../../../author/varun-venkatesh)
 
 ## Advisors
 

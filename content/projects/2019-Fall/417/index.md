@@ -37,17 +37,17 @@ Developing software and data resources for USC students.  Software resources inc
 
 ## Students
 
-* Yang Dai
+* [Yang Dai](../../../author/yang-dai)
 
-* Zixuan Zhang
+* [Zixuan Zhang](../../../author/zixuan-zhang)
 
-* Parul Gupta
+* [Parul Gupta](../../../author/parul-gupta)
 
-* Yu Wang
+* [Yu Wang](../../../author/yu-wang)
 
-* Sanjiv Soni
+* [Sanjiv Soni](../../../author/sanjiv-soni)
 
-* Shenoy Pratik Gurudatt
+* [Shenoy Pratik Gurudatt](../../../author/shenoy-pratikgurudatt)
 
 ## Advisors
 

@@ -21,7 +21,7 @@ summary: In this project, we will work on semantically aligning IoT sensor data 
   will have the opportunity to work with different sensing modalities, and develop
   models for both sensory perception and reasoning.
 tags: *id001
-title: Decoding How Humans Encode Memories
+title: Decoding How Humans Encode Memories (Fall - 2022)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -38,17 +38,17 @@ In this project, we will work on semantically aligning IoT sensor data and neura
 
 ## Students
 
-* Helin Yilmaz
+* [Helin Yilmaz](../../../author/helin-yilmaz)
 
-* Ao Xu
+* [Ao Xu](../../../author/ao-xu)
 
-* Ketki Kinkar
+* [Ketki Kinkar](../../../author/ketki-kinkar)
 
-* Saurabh Koshatwar
+* [Saurabh Koshatwar](../../../author/saurabh-koshatwar)
 
-* Christian Bryan
+* [Christian Bryan](../../../author/christian-bryan)
 
-* Ashley Sue
+* [Ashley Sue](../../../author/ashley-sue)
 
 ## Advisors
 

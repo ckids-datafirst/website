@@ -35,11 +35,11 @@ While many open data efforts have managed to successfully expose public data in 
 
 ## Students
 
-* Anjana Niranjan
+* [Anjana Niranjan](../../../author/anjana-niranjan)
 
-* Kushagra Singh Sachan
+* [Kushagra Singh Sachan](../../../author/kushagra-singhsachan)
 
-* Chi Sheng Yang
+* [Chi Sheng Yang](../../../author/chi-shengyang)
 
 ## Advisors
 

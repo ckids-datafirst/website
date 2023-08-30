@@ -30,8 +30,12 @@ Lingkai collected data in a controlled setting and studied lighting control in b
 
 ## Students
 
-* Lingkai Cen
+* [Lingkai Cen](../../../author/lingkai-cen)
 
 ## Advisors
 
 * [Joon-Ho Choi](../../../author/joonho-choi)
+
+## Final presentation resources
+
+* [Final presentation](https://www.dropbox.com/s/krllixhcdt8nacc/4.26_Lingkai_Cen.pptx?dl=0)

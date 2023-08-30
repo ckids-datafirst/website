@@ -35,13 +35,13 @@ Online multiplayer games provide a wealth of data that can be used to study huma
 
 ## Students
 
-* Junchu Zhang
+* [Junchu Zhang](../../../author/junchu-zhang)
 
-* Himan Kriplani
+* [Himan Kriplani](../../../author/himan-kriplani)
 
-* Shatad Purohit
+* [Shatad Purohit](../../../author/shatad-purohit)
 
-* Jinney Guo
+* [Jinney Guo](../../../author/jinney-guo)
 
 ## Advisors
 

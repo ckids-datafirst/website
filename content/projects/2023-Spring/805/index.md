@@ -48,17 +48,17 @@ There is anecdotal evidence that broadband service offers vary in quality and pr
 
 ## Students
 
-* Weiqian Zhang
+* [Weiqian Zhang](../../../author/weiqian-zhang)
 
-* Aurora Massari
+* [Aurora Massari](../../../author/aurora-massari)
 
-* Angel Chavez-Penate
+* [Angel Chavez-Penate](../../../author/angel-chavezpenate)
 
-* Zirong Huang
+* [Zirong Huang](../../../author/zirong-huang)
 
-* Mahika Mushuni
+* [Mahika Mushuni](../../../author/mahika-mushuni)
 
-* Lei Cao
+* [Lei Cao](../../../author/lei-cao)
 
 ## Advisors
 
@@ -69,3 +69,6 @@ There is anecdotal evidence that broadband service offers vary in quality and pr
 
 * Python
 * PyTorch
+## Final presentation resources
+
+* [Final presentation](https://sites.google.com/usc.edu/determinants-of-spatial-var/home)

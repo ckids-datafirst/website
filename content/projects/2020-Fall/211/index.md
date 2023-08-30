@@ -41,11 +41,11 @@ As the requirements for success in the workforce become increasingly technical, 
 
 ## Students
 
-* Everest Law
+* [Everest Law](../../../author/everest-law)
 
-* Zhongying Wang
+* [Zhongying Wang](../../../author/zhongying-wang)
 
-* Sushmitha Ravikumar
+* [Sushmitha Ravikumar](../../../author/sushmitha-ravikumar)
 
 ## Advisors
 

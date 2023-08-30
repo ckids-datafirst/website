@@ -39,15 +39,15 @@ Estimates of climate variations over the past 1,000 years play an increasing rol
 
 ## Students
 
-* Yuxuan Ji
+* [Yuxuan Ji](../../../author/yuxuan-ji)
 
-* Zhifeng Liu
+* [Zhifeng Liu](../../../author/zhifeng-liu)
 
-* Ashka Patel
+* [Ashka Patel](../../../author/ashka-patel)
 
-* Aditi Choudhary
+* [Aditi Choudhary](../../../author/aditi-choudhary)
 
-* Shelly Mehta
+* [Shelly Mehta](../../../author/shelly-mehta)
 
 ## Advisors
 

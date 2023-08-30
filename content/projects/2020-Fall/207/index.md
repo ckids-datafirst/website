@@ -43,11 +43,11 @@ Cyber ontologies such as STIX and ATT&amp;CK can represent complex relationships
 
 ## Students
 
-* Folk Narongrit
+* [Folk Narongrit](../../../author/folk-narongrit)
 
-* Carol Varkey
+* [Carol Varkey](../../../author/carol-varkey)
 
-* Francis Sun
+* [Francis Sun](../../../author/francis-sun)
 
 ## Advisors
 

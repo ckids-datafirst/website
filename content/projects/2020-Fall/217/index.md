@@ -36,9 +36,9 @@ Competitive online multiplayer team games such as CounterStrike, PUBG, or League
 
 ## Students
 
-* Kevin Tsang
+* [Kevin Tsang](../../../author/kevin-tsang)
 
-* Jiaqi Liu
+* [Jiaqi Liu](../../../author/jiaqi-liu)
 
 ## Advisors
 

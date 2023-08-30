@@ -37,9 +37,9 @@ This research will be conducted to find out the relationship between humans’ b
 
 ## Students
 
-* Wenjia Dou
+* [Wenjia Dou](../../../author/wenjia-dou)
 
-* Jingping Yu
+* [Jingping Yu](../../../author/jingping-yu)
 
 ## Advisors
 

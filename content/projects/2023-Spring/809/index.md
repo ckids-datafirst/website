@@ -46,21 +46,21 @@ We recently published a novel algorithm for measuring influence among people. Wh
 
 ## Students
 
-* Indrani Panchangam
+* [Indrani Panchangam](../../../author/indrani-panchangam)
 
-* Can Jin
+* [Can Jin](../../../author/can-jin)
 
-* Yunning Chen
+* [Yunning Chen](../../../author/yunning-chen)
 
-* Datt Patel
+* [Datt Patel](../../../author/datt-patel)
 
-* Kaiyi Sun
+* [Kaiyi Sun](../../../author/kaiyi-sun)
 
-* Lei Cao
+* [Lei Cao](../../../author/lei-cao)
 
-* Nishi Doshi
+* [Nishi Doshi](../../../author/nishi-doshi)
 
-* Yingning Fan
+* [Yingning Fan](../../../author/yingning-fan)
 
 ## Advisors
 

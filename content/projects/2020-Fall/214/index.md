@@ -50,13 +50,13 @@ The project will build on the DataFest 2019 project, and will expand the scope t
 
 ## Students
 
-* Abhilash Karpurapu
+* [Abhilash Karpurapu](../../../author/abhilash-karpurapu)
 
-* Erica Xia
+* [Erica Xia](../../../author/erica-xia)
 
-* Iris Liu
+* [Iris Liu](../../../author/iris-liu)
 
-* Spoorti Nidagundi
+* [Spoorti Nidagundi](../../../author/spoorti-nidagundi)
 
 ## Advisors
 

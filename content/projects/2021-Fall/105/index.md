@@ -39,17 +39,17 @@ College football recruiting is big business. This project aims to build and anal
 
 ## Students
 
-* Hassaan Hasan
+* [Hassaan Hasan](../../../author/hassaan-hasan)
 
-* Aditya Dave
+* [Aditya Dave](../../../author/aditya-dave)
 
-* Yin He
+* [Yin He](../../../author/yin-he)
 
-* Kartik Balodi
+* [Kartik Balodi](../../../author/kartik-balodi)
 
-* Akshat Jetli
+* [Akshat Jetli](../../../author/akshat-jetli)
 
-* Manav Jain
+* [Manav Jain](../../../author/manav-jain)
 
 ## Advisors
 
@@ -62,3 +62,6 @@ College football recruiting is big business. This project aims to build and anal
 * Web Scraping
 * SQL
 * NoSQL
+## Final presentation resources
+
+* [Final presentation](https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing)

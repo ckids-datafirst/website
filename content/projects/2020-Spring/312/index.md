@@ -35,11 +35,11 @@ The project will combine socio-economic data from US Census with college and K-1
 
 ## Students
 
-* Yuzi He
+* [Yuzi He](../../../author/yuzi-he)
 
-* Ziping Hu
+* [Ziping Hu](../../../author/ziping-hu)
 
-* Zicai Wang
+* [Zicai Wang](../../../author/zicai-wang)
 
 ## Advisors
 
@@ -50,3 +50,6 @@ The project will combine socio-economic data from US Census with college and K-1
 
 * Python
 * Statistics
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1fHg8Yvi6SPm1LDqRAl9rCAVH2KGFmhSz/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

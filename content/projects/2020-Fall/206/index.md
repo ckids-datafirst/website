@@ -40,13 +40,13 @@ The number of scientific products, including scientific software, has been stead
 
 ## Students
 
-* Yi Xie
+* [Yi Xie](../../../author/yi-xie)
 
-* Bin Zhang
+* [Bin Zhang](../../../author/bin-zhang)
 
-* Mohan Krishna Thota
+* [Mohan Krishna Thota](../../../author/mohan-krishnathota)
 
-* Param Bole
+* [Param Bole](../../../author/param-bole)
 
 ## Advisors
 

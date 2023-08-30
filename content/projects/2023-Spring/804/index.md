@@ -38,15 +38,15 @@ Students will learn to collect and analyze data in the goal of identifying causa
 
 ## Students
 
-* Yufei Wang
+* [Yufei Wang](../../../author/yufei-wang)
 
-* Kaixin Guo
+* [Kaixin Guo](../../../author/kaixin-guo)
 
-* Emerson Jin
+* [Emerson Jin](../../../author/emerson-jin)
 
-* Seoyoun Kim
+* [Seoyoun Kim](../../../author/seoyoun-kim)
 
-* Haohan Wang
+* [Haohan Wang](../../../author/haohan-wang)
 
 ## Advisors
 

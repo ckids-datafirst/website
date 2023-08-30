@@ -41,9 +41,9 @@ After the COVID, the remote work environment has become popular, and many commer
 
 ## Students
 
-* Yanli Zhang
+* [Yanli Zhang](../../../author/yanli-zhang)
 
-* Sowmiya Mathanagopalan
+* [Sowmiya Mathanagopalan](../../../author/sowmiya-mathanagopalan)
 
 ## Advisors
 

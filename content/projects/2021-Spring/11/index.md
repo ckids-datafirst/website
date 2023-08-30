@@ -23,7 +23,7 @@ summary: Students will analyze images from optical microscopes that reveal featu
   system already implemented, and the goal is to improve it with new machine learning
   techniques, guided by the insights of our collaborating geologists.
 tags: *id001
-title: Machine Learning to Analyze Rock Microstructures
+title: Machine Learning to Analyze Rock Microstructures (Spring - 2021)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -45,15 +45,15 @@ Students will analyze images from optical microscopes that reveal features of ma
 
 ## Students
 
-* Xiaoyu Wang
+* [Xiaoyu Wang](../../../author/xiaoyu-wang)
 
-* Stephen Iota
+* [Stephen Iota](../../../author/stephen-iota)
 
-* Bolong Pan
+* [Bolong Pan](../../../author/bolong-pan)
 
-* Junyi Liu
+* [Junyi Liu](../../../author/junyi-liu)
 
-* Ming Lyu
+* [Ming Lyu](../../../author/ming-lyu)
 
 ## Advisors
 

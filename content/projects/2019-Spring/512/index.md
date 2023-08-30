@@ -29,5 +29,5 @@ This project studied behavioral patterns by analyzing data from personal senses 
 
 ## Students
 
-* Ian Myoungsu Choi
+* [Ian Myoungsu Choi](../../../author/ian-myoungsuchoi)
 

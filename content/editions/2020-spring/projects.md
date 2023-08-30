@@ -35,7 +35,7 @@ widget: markdown
 
 * [Data scraping for salary benchmarking](../../projects/2020-spring/310)
 
-* [Microtelcos and the Digital Divide in CA](../../projects/2020-spring/311)
+* [Microtelcos and the Digital Divide in CA (Spring - 2020)](../../projects/2020-spring/311)
 
 * [Disparities in educational achievement](../../projects/2020-spring/312)
 

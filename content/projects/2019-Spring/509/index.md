@@ -31,7 +31,7 @@ This project focused on a causality analysis of paleoclimate time series using P
 
 ## Students
 
-* Han Wu
+* [Han Wu](../../../author/han-wu)
 
 ## Advisors
 

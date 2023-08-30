@@ -38,9 +38,9 @@ Analytics to determine what tertiary and quaternary care patients would have the
 
 ## Students
 
-* Yan Zheng
+* [Yan Zheng](../../../author/yan-zheng)
 
-* Yuan Luo
+* [Yuan Luo](../../../author/yuan-luo)
 
 ## Advisors
 
@@ -51,3 +51,6 @@ Analytics to determine what tertiary and quaternary care patients would have the
 
 * Python
 * Web Scraping
+## Final presentation resources
+
+* [Final presentation](https://sites.google.com/usc.edu/keck-medicine-toc/home)

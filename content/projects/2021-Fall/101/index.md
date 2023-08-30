@@ -30,7 +30,7 @@ summary: "Advancements in closed-loop deep brain stimulation (DBS) enabled more 
   \ with human logic to reason about the complex dependencies across a heterogeneous\
   \ set of sensors."
 tags: *id001
-title: Decoding How Humans Encode Memories
+title: Decoding How Humans Encode Memories (Fall - 2021)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -52,17 +52,17 @@ Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligen
 
 ## Students
 
-* Yishan Li
+* [Yishan Li](../../../author/yishan-li)
 
-* Navyada Koshatwar
+* [Navyada Koshatwar](../../../author/navyada-koshatwar)
 
-* Gayathri Shrikanth
+* [Gayathri Shrikanth](../../../author/gayathri-shrikanth)
 
-* Rushi Shah
+* [Rushi Shah](../../../author/rushi-shah)
 
-* Pranjali Tushar Tembhurnikar
+* [Pranjali Tushar Tembhurnikar](../../../author/pranjali-tushartembhurnikar)
 
-* Manuel Amaya
+* [Manuel Amaya](../../../author/manuel-amaya)
 
 ## Advisors
 

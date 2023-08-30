@@ -31,8 +31,12 @@ Mengqi presented her study about thermal control using Excel, Minitab, and Pytho
 
 ## Students
 
-* Mengqi Jia
+* [Mengqi Jia](../../../author/mengqi-jia)
 
 ## Advisors
 
 * [Joon-Ho Choi](../../../author/joonho-choi)
+
+## Final presentation resources
+
+* [Final presentation](https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx?dl=0)

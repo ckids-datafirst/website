@@ -43,9 +43,9 @@ Competitive online multiplayer team games such as CounterStrike, PUBG or League 
 
 ## Students
 
-* Kevin Tsang
+* [Kevin Tsang](../../../author/kevin-tsang)
 
-* Jiaqi Liu
+* [Jiaqi Liu](../../../author/jiaqi-liu)
 
 ## Advisors
 
@@ -55,3 +55,6 @@ Competitive online multiplayer team games such as CounterStrike, PUBG or League 
 
 
 * Python
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1VqiPWIAd8En19Yh1PZwBY_3uhtIDOEex/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

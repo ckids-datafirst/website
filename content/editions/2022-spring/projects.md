@@ -19,7 +19,7 @@ widget: markdown
 
 * [Decoding How Humans Encode Memories ](../../projects/2022-spring/602)
 
-* [Characterizing the counter-narratives of climate change](../../projects/2022-spring/603)
+* [Characterizing the counter-narratives of climate change (Spring - 2022)](../../projects/2022-spring/603)
 
 * [Scientific Concept Discovery: Using Machine Learning to Advance Scientific Research](../../projects/2022-spring/604)
 

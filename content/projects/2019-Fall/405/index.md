@@ -42,11 +42,11 @@ Human, as a building occupant, is always surrounded by several indoor environmen
 
 ## Students
 
-* Manoj Muralidhara
+* [Manoj Muralidhara](../../../author/manoj-muralidhara)
 
-* Shubham Banka
+* [Shubham Banka](../../../author/shubham-banka)
 
-* Gaurav Gupta
+* [Gaurav Gupta](../../../author/gaurav-gupta)
 
 ## Advisors
 

@@ -33,8 +33,12 @@ This project is using population-based administrative data, including birth, med
 
 ## Students
 
-* Eunhye Ahn
+* [Eunhye Ahn](../../../author/eunhye-ahn)
 
 ## Advisors
 
 * [Emily Putnam-Hornstein](../../../author/emily-putnamhornstein)
+
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1rbJu4no7acBdfUCv3zP5wvjdG04vlhh70eFOCzHomkg/edit?usp=sharing)

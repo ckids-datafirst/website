@@ -46,13 +46,13 @@ Top climate scientists post their findings and views regularly on social media. 
 
 ## Students
 
-* Abhilash Pandurangan
+* [Abhilash Pandurangan](../../../author/abhilash-pandurangan)
 
-* Aditya Jajodia
+* [Aditya Jajodia](../../../author/aditya-jajodia)
 
-* Sushmitha Ravikumar
+* [Sushmitha Ravikumar](../../../author/sushmitha-ravikumar)
 
-* Vanshika Sridharan
+* [Vanshika Sridharan](../../../author/vanshika-sridharan)
 
 ## Advisors
 
@@ -65,3 +65,6 @@ Top climate scientists post their findings and views regularly on social media. 
 
 * Classification
 * Data Collection
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1c9WlvN8qHV6xKS7SRY1FNWZ7AHxNW3cf/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

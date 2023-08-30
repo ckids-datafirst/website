@@ -45,13 +45,13 @@ Cancer remains the second leading cause of death in the US. However, recent adva
 
 ## Students
 
-* Ming Lyu
+* [Ming Lyu](../../../author/ming-lyu)
 
-* Danielle Sim
+* [Danielle Sim](../../../author/danielle-sim)
 
-* Devansh Shah
+* [Devansh Shah](../../../author/devansh-shah)
 
-* Ting Fung Lam
+* [Ting Fung Lam](../../../author/ting-funglam)
 
 ## Advisors
 

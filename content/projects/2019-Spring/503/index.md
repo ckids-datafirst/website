@@ -33,9 +33,9 @@ Natalie and Calvin look at social capital from two angles: social capital as a p
 
 ## Students
 
-* Natalie Jonckheere
+* [Natalie Jonckheere](../../../author/natalie-jonckheere)
 
-* Calvin Liu
+* [Calvin Liu](../../../author/calvin-liu)
 
 ## Advisors
 

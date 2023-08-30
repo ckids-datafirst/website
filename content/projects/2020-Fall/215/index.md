@@ -42,17 +42,17 @@ Politicians in modern democracies across the world have eagerly adopted social m
 
 ## Students
 
-* Alex Spangher
+* [Alex Spangher](../../../author/alex-spangher)
 
-* Yash Shah
+* [Yash Shah](../../../author/yash-shah)
 
-* Swetha Thomas
+* [Swetha Thomas](../../../author/swetha-thomas)
 
-* Hongyu Li
+* [Hongyu Li](../../../author/hongyu-li)
 
-* Raveena Kshatriya
+* [Raveena Kshatriya](../../../author/raveena-kshatriya)
 
-* Abhi Thadeshwar
+* [Abhi Thadeshwar](../../../author/abhi-thadeshwar)
 
 ## Advisors
 

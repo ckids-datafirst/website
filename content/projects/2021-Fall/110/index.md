@@ -48,14 +48,18 @@ Developing models to analyze images is a demanding task that requires significan
 
 ## Students
 
-* Vibhav Chitalia
+* [Vibhav Chitalia](../../../author/vibhav-chitalia)
 
-* Utkarsh Baranwal
+* [Utkarsh Baranwal](../../../author/utkarsh-baranwal)
 
-* Carlos Zamora
+* [Carlos Zamora](../../../author/carlos-zamora)
 
-* Wonjun Lee
+* [Wonjun Lee](../../../author/wonjun-lee)
 
 ## Advisors
 
 * [Seon Kim](../../../author/seon-kim)
+
+## Final presentation resources
+
+* [Final presentation](https://urldefense.com/v3/__https://sites.google.com/usc.edu/homeless-encampments-in-la/home__;!!LIr3w8kk_Xxm!8Eq9mrdqLFc0LUaCGdonNK44IuCugGgQSvt90cBL0xEveRFYamBdezONTYoHeoo$)

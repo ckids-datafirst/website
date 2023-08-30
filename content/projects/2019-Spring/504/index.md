@@ -32,9 +32,9 @@ Motivation plays a strong role as a moderator in the relationship between gamers
 
 ## Students
 
-* Qiyao (Joyce) Peng
+* [Qiyao (Joyce) Peng](../../../author/qiyao-joycepeng)
 
-* Alejandro Marin
+* [Alejandro Marin](../../../author/alejandro-marin)
 
 ## Advisors
 

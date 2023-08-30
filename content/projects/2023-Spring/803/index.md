@@ -43,9 +43,9 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 
 ## Students
 
-* Ho Ko
+* [Ho Ko](../../../author/ho-ko)
 
-* Vatsal Khandor
+* [Vatsal Khandor](../../../author/vatsal-khandor)
 
 ## Advisors
 

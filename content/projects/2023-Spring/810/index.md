@@ -48,25 +48,25 @@ This project will focus on extracting concise structured information about incid
 
 ## Students
 
-* Anood Alkhatheeri
+* [Anood Alkhatheeri](../../../author/anood-alkhatheeri)
 
-* Rushit Jain
+* [Rushit Jain](../../../author/rushit-jain)
 
-* Samarth Saxena
+* [Samarth Saxena](../../../author/samarth-saxena)
 
-* Abishek Phalak
+* [Abishek Phalak](../../../author/abishek-phalak)
 
-* Yassamin Neshatvar
+* [Yassamin Neshatvar](../../../author/yassamin-neshatvar)
 
-* Shruthakeerthy Srinivasan
+* [Shruthakeerthy Srinivasan](../../../author/shruthakeerthy-srinivasan)
 
-* Vaidehi Vatsaraj
+* [Vaidehi Vatsaraj](../../../author/vaidehi-vatsaraj)
 
-* Siddarth Rudraraju
+* [Siddarth Rudraraju](../../../author/siddarth-rudraraju)
 
-* Iris Gordo
+* [Iris Gordo](../../../author/iris-gordo)
 
-* Shelby Wu
+* [Shelby Wu](../../../author/shelby-wu)
 
 ## Advisors
 

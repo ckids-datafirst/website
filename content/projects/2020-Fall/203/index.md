@@ -44,15 +44,15 @@ Deep learning models are now able to predict how an individual’s face will age
 
 ## Students
 
-* Aleck Cervantes
+* [Aleck Cervantes](../../../author/aleck-cervantes)
 
-* David Lin
+* [David Lin](../../../author/david-lin)
 
-* Shunlin Lu
+* [Shunlin Lu](../../../author/shunlin-lu)
 
-* Tianyu Zhu
+* [Tianyu Zhu](../../../author/tianyu-zhu)
 
-* Yichao Zhu
+* [Yichao Zhu](../../../author/yichao-zhu)
 
 ## Advisors
 

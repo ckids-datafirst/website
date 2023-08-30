@@ -43,13 +43,13 @@ This new project attempts to understand the interaction between anti-vaxxers (an
 
 ## Students
 
-* Yilin Qi
+* [Yilin Qi](../../../author/yilin-qi)
 
-* Revanth Madamala
+* [Revanth Madamala](../../../author/revanth-madamala)
 
-* Luer Lyu
+* [Luer Lyu](../../../author/luer-lyu)
 
-* Chidambaram Veerappan
+* [Chidambaram Veerappan](../../../author/chidambaram-veerappan)
 
 ## Advisors
 
@@ -60,3 +60,6 @@ This new project attempts to understand the interaction between anti-vaxxers (an
 
 * Social Network Analysis
 * NLP
+## Final presentation resources
+
+* [Final presentation](https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing)

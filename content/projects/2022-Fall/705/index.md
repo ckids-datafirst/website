@@ -55,15 +55,15 @@ Are you passionate about data science and sustainability? Then this interdiscipl
 
 ## Students
 
-* Ric Xian
+* [Ric Xian](../../../author/ric-xian)
 
-* Aurora Massari
+* [Aurora Massari](../../../author/aurora-massari)
 
-* Xinyi Zhang
+* [Xinyi Zhang](../../../author/xinyi-zhang)
 
-* Bhavyakumar Ramani
+* [Bhavyakumar Ramani](../../../author/bhavyakumar-ramani)
 
-* Alison Chen
+* [Alison Chen](../../../author/alison-chen)
 
 ## Advisors
 

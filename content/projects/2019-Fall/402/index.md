@@ -50,15 +50,15 @@ This project will investigate the quality of Instagram textual posts as a source
 
 ## Students
 
-* Divyatmika Lnu
+* [Divyatmika Lnu](../../../author/divyatmika-lnu)
 
-* Shagun Gupta
+* [Shagun Gupta](../../../author/shagun-gupta)
 
-* Nina Thiebaut
+* [Nina Thiebaut](../../../author/nina-thiebaut)
 
-* Nisha Tiwari
+* [Nisha Tiwari](../../../author/nisha-tiwari)
 
-* Ian Choi
+* [Ian Choi](../../../author/ian-choi)
 
 ## Advisors
 

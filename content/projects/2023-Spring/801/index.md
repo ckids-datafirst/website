@@ -41,9 +41,9 @@ Wearable IMU and GPS sensors are used to estimate training volume in professiona
 
 ## Students
 
-* Ajay Kc
+* [Ajay Kc](../../../author/ajay-kc)
 
-* Shardul Nazirkar
+* [Shardul Nazirkar](../../../author/shardul-nazirkar)
 
 ## Advisors
 

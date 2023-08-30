@@ -33,7 +33,7 @@ Documenting how a result was obtained from data analysis involves documenting th
 
 ## Students
 
-* Rahul Jeswani
+* [Rahul Jeswani](../../../author/rahul-jeswani)
 
 ## Advisors
 

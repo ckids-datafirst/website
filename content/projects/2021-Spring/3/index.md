@@ -47,15 +47,15 @@ With the recent enthusiasm about algorithmic fairness and responsible AI, many c
 
 ## Students
 
-* Chaitali Joshi
+* [Chaitali Joshi](../../../author/chaitali-joshi)
 
-* Param Bole
+* [Param Bole](../../../author/param-bole)
 
-* Muhammad Oneeb Ul Haq Khan
+* [Muhammad Oneeb Ul Haq Khan](../../../author/muhammad-oneebulhaqkhan)
 
-* Madeleine Thompson
+* [Madeleine Thompson](../../../author/madeleine-thompson)
 
-* Aparna Nair
+* [Aparna Nair](../../../author/aparna-nair)
 
 ## Advisors
 

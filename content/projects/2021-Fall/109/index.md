@@ -41,17 +41,17 @@ Neural Machine Translation (NMT) is the process of mapping a segment of words fr
 
 ## Students
 
-* Manoj Yadav
+* [Manoj Yadav](../../../author/manoj-yadav)
 
-* Frederick Norman
+* [Frederick Norman](../../../author/frederick-norman)
 
-* Vikrame Vasudev Krishnan
+* [Vikrame Vasudev Krishnan](../../../author/vikrame-vasudevkrishnan)
 
-* Hanyu He
+* [Hanyu He](../../../author/hanyu-he)
 
-* Shaochen Tan
+* [Shaochen Tan](../../../author/shaochen-tan)
 
-* Amit Singh
+* [Amit Singh](../../../author/amit-singh)
 
 ## Advisors
 

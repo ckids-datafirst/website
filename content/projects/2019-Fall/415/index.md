@@ -43,13 +43,13 @@ LA Care has a mission to “provide access to quality health care for Los Angele
 
 ## Students
 
-* Yihang Chen
+* [Yihang Chen](../../../author/yihang-chen)
 
-* Lisa Meng
+* [Lisa Meng](../../../author/lisa-meng)
 
-* Chiaofeng Yang
+* [Chiaofeng Yang](../../../author/chiaofeng-yang)
 
-* Nelson Lam
+* [Nelson Lam](../../../author/nelson-lam)
 
 ## Advisors
 

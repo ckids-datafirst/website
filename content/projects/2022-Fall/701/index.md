@@ -53,13 +53,13 @@ Currently, data entries are manually identified, discovered and registered using
 
 ## Students
 
-* Deborah Ho
+* [Deborah Ho](../../../author/deborah-ho)
 
-* Jooyoung Yoo
+* [Jooyoung Yoo](../../../author/jooyoung-yoo)
 
-* Vanshay Gupta
+* [Vanshay Gupta](../../../author/vanshay-gupta)
 
-* Ikenna Joe-Nweke
+* [Ikenna Joe-Nweke](../../../author/ikenna-joenweke)
 
 ## Advisors
 

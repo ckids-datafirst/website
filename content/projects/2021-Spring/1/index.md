@@ -27,7 +27,7 @@ summary: "The COVID-19 pandemic has reinvigorated calls to close the digital div
   \ CPUC (California Public Utilities Commission) and socioeconomic data from the\
   \ Census Bureau."
 tags: *id001
-title: Microtelcos and the Digital Divide in CA
+title: Microtelcos and the Digital Divide in CA (Spring - 2021)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -49,9 +49,9 @@ The COVID-19 pandemic has reinvigorated calls to close the digital divide in the
 
 ## Students
 
-* Asjad Asif Jah
+* [Asjad Asif Jah](../../../author/asjad-asifjah)
 
-* Jonathan Gonzalez
+* [Jonathan Gonzalez](../../../author/jonathan-gonzalez)
 
 ## Advisors
 

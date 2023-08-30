@@ -36,15 +36,15 @@ Students will analyze aging in the African turquoise killifish, a species with t
 
 ## Students
 
-* Deven Panchac
+* [Deven Panchac](../../../author/deven-panchac)
 
-* Michael Mathew
+* [Michael Mathew](../../../author/michael-mathew)
 
-* Akansha Das
+* [Akansha Das](../../../author/akansha-das)
 
-* Suchetha Bhat
+* [Suchetha Bhat](../../../author/suchetha-bhat)
 
-* Shruti Krishna Kumar
+* [Shruti Krishna Kumar](../../../author/shruti-krishnakumar)
 
 ## Advisors
 

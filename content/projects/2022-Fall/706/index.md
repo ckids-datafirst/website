@@ -54,19 +54,19 @@ Advancements in artificial intelligence, especially neural networks, have enable
 
 ## Students
 
-* Sofian Ghazali
+* [Sofian Ghazali](../../../author/sofian-ghazali)
 
-* Pasha Biglarzadeh
+* [Pasha Biglarzadeh](../../../author/pasha-biglarzadeh)
 
-* Vignesh Selvaraj
+* [Vignesh Selvaraj](../../../author/vignesh-selvaraj)
 
-* Yang Cheng
+* [Yang Cheng](../../../author/yang-cheng)
 
-* Chenghong Hu
+* [Chenghong Hu](../../../author/chenghong-hu)
 
-* Anish Kushalapa
+* [Anish Kushalapa](../../../author/anish-kushalapa)
 
-* Jae Park
+* [Jae Park](../../../author/jae-park)
 
 ## Advisors
 

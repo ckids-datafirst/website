@@ -39,9 +39,9 @@ Paleoclimate data is highly diverse, requiring different sets of metadata to des
 
 ## Students
 
-* Yincheng Lin
+* [Yincheng Lin](../../../author/yincheng-lin)
 
-* Shravya Manety
+* [Shravya Manety](../../../author/shravya-manety)
 
 ## Advisors
 
@@ -55,3 +55,6 @@ Paleoclimate data is highly diverse, requiring different sets of metadata to des
 * Python
 * Javascript
 * Web Technologies
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

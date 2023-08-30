@@ -38,15 +38,15 @@ This project will result in a Python package for automated time series analysis.
 
 ## Students
 
-* Feng Zhu
+* [Feng Zhu](../../../author/feng-zhu)
 
-* Myron Kwan
+* [Myron Kwan](../../../author/myron-kwan)
 
-* Shilpa Thomas
+* [Shilpa Thomas](../../../author/shilpa-thomas)
 
-* Nikhil Dhara Venkata
+* [Nikhil Dhara Venkata](../../../author/nikhil-dharavenkata)
 
-* Deepanshu Madan
+* [Deepanshu Madan](../../../author/deepanshu-madan)
 
 ## Advisors
 

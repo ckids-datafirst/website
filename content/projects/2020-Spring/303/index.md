@@ -48,11 +48,11 @@ Data science projects require knowledge of software that changes rapidly. As a r
 
 ## Students
 
-* Haripriya Dharmala
+* [Haripriya Dharmala](../../../author/haripriya-dharmala)
 
-* Jiaying Wang
+* [Jiaying Wang](../../../author/jiaying-wang)
 
-* Vedant Diwanji
+* [Vedant Diwanji](../../../author/vedant-diwanji)
 
 ## Advisors
 
@@ -65,3 +65,6 @@ Data science projects require knowledge of software that changes rapidly. As a r
 * Knowledge Graphs
 * Machine Learning
 * Sklearn
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

@@ -41,13 +41,13 @@ In many architectural designing scenarios, architects and clients inevitably spe
 
 ## Students
 
-* Muhammad Oneeb Ul Haq Khan
+* [Muhammad Oneeb Ul Haq Khan](../../../author/muhammad-oneebulhaqkhan)
 
-* Adwaita Jadhav
+* [Adwaita Jadhav](../../../author/adwaita-jadhav)
 
-* Rosy Zhou
+* [Rosy Zhou](../../../author/rosy-zhou)
 
-* Yuka Kaku
+* [Yuka Kaku](../../../author/yuka-kaku)
 
 ## Advisors
 

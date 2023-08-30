@@ -57,13 +57,13 @@ The project will build on the DataFest 2019 project, and will expand the scope t
 
 ## Students
 
-* Abhilash Karpurapu
+* [Abhilash Karpurapu](../../../author/abhilash-karpurapu)
 
-* Erica Xia
+* [Erica Xia](../../../author/erica-xia)
 
-* Iris Liu
+* [Iris Liu](../../../author/iris-liu)
 
-* Spoorti Nidagundi
+* [Spoorti Nidagundi](../../../author/spoorti-nidagundi)
 
 ## Advisors
 
@@ -86,3 +86,6 @@ The project will build on the DataFest 2019 project, and will expand the scope t
 * Social Network Analysis
 * Sentiment Analysis
 * Image Analysis
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1JL_7V4M3pyrxM48YQt3m-E-MgTgvE4s4/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

@@ -34,7 +34,7 @@ Spread of misinformation has become a significant problem, raising the importanc
 
 ## Students
 
-* Shenoy Pratik Gurudatt
+* [Shenoy Pratik Gurudatt](../../../author/shenoy-pratikgurudatt)
 
 ## Advisors
 

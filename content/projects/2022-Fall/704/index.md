@@ -46,17 +46,17 @@ Ever get frustrated reading a README? Wish you could just ask someone for help i
 
 ## Students
 
-* Shuijing Mejia
+* [Shuijing Mejia](../../../author/shuijing-mejia)
 
-* Ronak Shah
+* [Ronak Shah](../../../author/ronak-shah)
 
-* Balaji Chidambaram
+* [Balaji Chidambaram](../../../author/balaji-chidambaram)
 
-* Aaron Cheng
+* [Aaron Cheng](../../../author/aaron-cheng)
 
-* Aamir Miyajiwala
+* [Aamir Miyajiwala](../../../author/aamir-miyajiwala)
 
-* Hieu Nguyen
+* [Hieu Nguyen](../../../author/hieu-nguyen)
 
 ## Advisors
 

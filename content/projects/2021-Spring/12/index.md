@@ -21,7 +21,7 @@ summary: College football recruiting is big business. This project aims to build
   socioeconomic data, to search for patterns in where and how college football coaches
   recruit players.
 tags: *id001
-title: Detecting Biases in College Football Recruiting
+title: Detecting Biases in College Football Recruiting (Spring - 2021)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -38,15 +38,15 @@ College football recruiting is big business. This project aims to build and anal
 
 ## Students
 
-* Manasi Godse
+* [Manasi Godse](../../../author/manasi-godse)
 
-* Jackie Fan
+* [Jackie Fan](../../../author/jackie-fan)
 
-* Yash Gupta
+* [Yash Gupta](../../../author/yash-gupta)
 
-* Rehan Ahmed
+* [Rehan Ahmed](../../../author/rehan-ahmed)
 
-* Jiahang Song
+* [Jiahang Song](../../../author/jiahang-song)
 
 ## Advisors
 

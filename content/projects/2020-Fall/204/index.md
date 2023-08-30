@@ -30,7 +30,7 @@ summary: "While many stories involve the friendly and familiar, scary stories ac
   \ build on initial work by the advisor to apply NLP methods to these texts and improve\
   \ upon existing initial results."
 tags: *id001
-title: Mapping the Uncanny Valley
+title: Mapping the Uncanny Valley (Fall - 2020)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -52,15 +52,15 @@ While many stories involve the friendly and familiar, scary stories across cultu
 
 ## Students
 
-* Yuchen Zhang
+* [Yuchen Zhang](../../../author/yuchen-zhang)
 
-* Nai-Cih Liou
+* [Nai-Cih Liou](../../../author/naicih-liou)
 
-* Haripriya Dharmala
+* [Haripriya Dharmala](../../../author/haripriya-dharmala)
 
-* Sakshi Goel
+* [Sakshi Goel](../../../author/sakshi-goel)
 
-* Raveena Kshatriya
+* [Raveena Kshatriya](../../../author/raveena-kshatriya)
 
 ## Advisors
 

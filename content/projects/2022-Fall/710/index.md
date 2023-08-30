@@ -55,15 +55,15 @@ Social media habits represent one of the most common – and controversial – f
 
 ## Students
 
-* Zhenmin Hua
+* [Zhenmin Hua](../../../author/zhenmin-hua)
 
-* Siqi Liu
+* [Siqi Liu](../../../author/siqi-liu)
 
-* Xiayu Li
+* [Xiayu Li](../../../author/xiayu-li)
 
-* Daniel Pereira Da Costa
+* [Daniel Pereira Da Costa](../../../author/daniel-pereiradacosta)
 
-* Richa Sheth
+* [Richa Sheth](../../../author/richa-sheth)
 
 ## Advisors
 

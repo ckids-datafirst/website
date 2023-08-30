@@ -49,15 +49,15 @@ Food production and their supply chains are the main cause of water pollution, e
 
 ## Students
 
-* Shreya Padmanabhan
+* [Shreya Padmanabhan](../../../author/shreya-padmanabhan)
 
-* Shreya Raj
+* [Shreya Raj](../../../author/shreya-raj)
 
-* Maiah Pardo
+* [Maiah Pardo](../../../author/maiah-pardo)
 
-* Saurav Joshi
+* [Saurav Joshi](../../../author/saurav-joshi)
 
-* Yuhua Wu
+* [Yuhua Wu](../../../author/yuhua-wu)
 
 ## Advisors
 

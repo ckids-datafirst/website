@@ -39,9 +39,9 @@ Droughts can have a substantial impact on agricultural systems and human livelih
 
 ## Students
 
-* Shravya Manety
+* [Shravya Manety](../../../author/shravya-manety)
 
-* Abhilash Pandurangan
+* [Abhilash Pandurangan](../../../author/abhilash-pandurangan)
 
 ## Advisors
 

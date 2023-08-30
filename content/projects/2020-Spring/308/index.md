@@ -35,15 +35,15 @@ The purpose of this project is to analyze a crowdsourcing setting for both the s
 
 ## Students
 
-* Dan Peng
+* [Dan Peng](../../../author/dan-peng)
 
-* Gitanjali Kanakaraj
+* [Gitanjali Kanakaraj](../../../author/gitanjali-kanakaraj)
 
-* Hanieh Arabzadehghahyazi
+* [Hanieh Arabzadehghahyazi](../../../author/hanieh-arabzadehghahyazi)
 
-* Naiya Shah
+* [Naiya Shah](../../../author/naiya-shah)
 
-* Nana Andriana
+* [Nana Andriana](../../../author/nana-andriana)
 
 ## Advisors
 
@@ -56,3 +56,6 @@ The purpose of this project is to analyze a crowdsourcing setting for both the s
 
 * Social Network Analysis
 * Text Analysis
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

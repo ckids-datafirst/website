@@ -31,13 +31,13 @@ None
 
 ## Students
 
-* Shengnan Ke
+* [Shengnan Ke](../../../author/shengnan-ke)
 
-* Xiao Zhou
+* [Xiao Zhou](../../../author/xiao-zhou)
 
-* Diana Pham
+* [Diana Pham](../../../author/diana-pham)
 
-* Yitong Qian
+* [Yitong Qian](../../../author/yitong-qian)
 
 ## Advisors
 

@@ -43,9 +43,9 @@ So far we do not know how much ventilation quantity will be needed to effectivel
 
 ## Students
 
-* Yixiao Li
+* [Yixiao Li](../../../author/yixiao-li)
 
-* Zhaohong Feng
+* [Zhaohong Feng](../../../author/zhaohong-feng)
 
 ## Advisors
 

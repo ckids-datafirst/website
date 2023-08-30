@@ -58,15 +58,15 @@ The human corpus callosum is the largest pathway connecting the left and right h
 
 ## Students
 
-* Kathy Wang
+* [Kathy Wang](../../../author/kathy-wang)
 
-* Shayan Javid
+* [Shayan Javid](../../../author/shayan-javid)
 
-* Abhinaav Ramesh
+* [Abhinaav Ramesh](../../../author/abhinaav-ramesh)
 
-* Vineet Agarwal
+* [Vineet Agarwal](../../../author/vineet-agarwal)
 
-* Jiahui Lu
+* [Jiahui Lu](../../../author/jiahui-lu)
 
 ## Advisors
 
@@ -79,3 +79,6 @@ The human corpus callosum is the largest pathway connecting the left and right h
 * Deep Learning
 * Bash
 * R
+## Final presentation resources
+
+* [Final presentation](https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$)

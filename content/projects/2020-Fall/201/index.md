@@ -53,13 +53,13 @@ Infant and child mortality rates have been steadily declining worldwide over the
 
 ## Students
 
-* Aditi Singh
+* [Aditi Singh](../../../author/aditi-singh)
 
-* Madeleine Thompson
+* [Madeleine Thompson](../../../author/madeleine-thompson)
 
-* Malika Seth
+* [Malika Seth](../../../author/malika-seth)
 
-* Asumi Suguro
+* [Asumi Suguro](../../../author/asumi-suguro)
 
 ## Advisors
 

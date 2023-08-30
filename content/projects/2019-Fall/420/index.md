@@ -32,7 +32,7 @@ In this research, we aim to model how human players make connection decisions in
 
 ## Students
 
-* Yiley Zeng
+* [Yiley Zeng](../../../author/yiley-zeng)
 
 ## Advisors
 

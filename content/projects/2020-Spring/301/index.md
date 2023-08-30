@@ -38,13 +38,13 @@ This project will assemble a team to participate in the Biomarker and Endpoint A
 
 ## Students
 
-* Nazgol Tavabi
+* [Nazgol Tavabi](../../../author/nazgol-tavabi)
 
-* Che-Pai Kung
+* [Che-Pai Kung](../../../author/chepai-kung)
 
-* Abhivineet Veeraghanta
+* [Abhivineet Veeraghanta](../../../author/abhivineet-veeraghanta)
 
-* Likitha Lakshminarayanan
+* [Likitha Lakshminarayanan](../../../author/likitha-lakshminarayanan)
 
 ## Advisors
 
@@ -54,3 +54,6 @@ This project will assemble a team to participate in the Biomarker and Endpoint A
 
 
 * Data Science
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1pY10sNfzXdAmuiSFJomMNlRpiiXH3vzH/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

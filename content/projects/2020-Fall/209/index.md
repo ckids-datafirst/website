@@ -41,17 +41,17 @@ Attribution of cyber threat actors is an increasingly important and difficult pr
 
 ## Students
 
-* Atharva Rishi
+* [Atharva Rishi](../../../author/atharva-rishi)
 
-* Erin Szeto
+* [Erin Szeto](../../../author/erin-szeto)
 
-* Jiaxin Liang
+* [Jiaxin Liang](../../../author/jiaxin-liang)
 
-* Kshitij Gupta
+* [Kshitij Gupta](../../../author/kshitij-gupta)
 
-* Nghi Le
+* [Nghi Le](../../../author/nghi-le)
 
-* Erica Xia
+* [Erica Xia](../../../author/erica-xia)
 
 ## Advisors
 

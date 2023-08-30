@@ -35,9 +35,9 @@ Giorgos and John are developing a machine learning system to automatically detec
 
 ## Students
 
-* Giorgos Constantinou
+* [Giorgos Constantinou](../../../author/giorgos-constantinou)
 
-* John Cutone
+* [John Cutone](../../../author/john-cutone)
 
 ## Advisors
 

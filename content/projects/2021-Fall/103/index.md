@@ -47,15 +47,15 @@ Common sense knowledge bases are used widely in research, spanning many areas in
 
 ## Students
 
-* Linglan Zhang
+* [Linglan Zhang](../../../author/linglan-zhang)
 
-* Yu Zhang
+* [Yu Zhang](../../../author/yu-zhang)
 
-* Sara Melotte
+* [Sara Melotte](../../../author/sara-melotte)
 
-* Aditya Uday Malte
+* [Aditya Uday Malte](../../../author/aditya-udaymalte)
 
-* Namita Santosh Mutha
+* [Namita Santosh Mutha](../../../author/namita-santoshmutha)
 
 ## Advisors
 

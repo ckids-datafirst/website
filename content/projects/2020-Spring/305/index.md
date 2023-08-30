@@ -46,13 +46,13 @@ This project will look at events data collected at several recent feminist socia
 
 ## Students
 
-* Keerti Bhogaraju
+* [Keerti Bhogaraju](../../../author/keerti-bhogaraju)
 
-* Ian Myoungsu Choi
+* [Ian Myoungsu Choi](../../../author/ian-myoungsuchoi)
 
-* Negar Mokhberian
+* [Negar Mokhberian](../../../author/negar-mokhberian)
 
-* Nazanin Alipourfard
+* [Nazanin Alipourfard](../../../author/nazanin-alipourfard)
 
 ## Advisors
 
@@ -64,3 +64,6 @@ This project will look at events data collected at several recent feminist socia
 * Python
 * Social Network Analysis
 * Data Mining
+## Final presentation resources
+
+* [Final presentation](https://drive.google.com/file/d/1ocNzQLKJNMOLdlvl4wRBD20cMav60T6d/view?usp=sharing)

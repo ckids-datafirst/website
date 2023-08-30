@@ -48,21 +48,21 @@ The development of COVID-19 has had an impact on the lives of millions of people
 
 ## Students
 
-* Yifan Wang
+* [Yifan Wang](../../../author/yifan-wang)
 
-* Vu Truong Si
+* [Vu Truong Si](../../../author/vu-truongsi)
 
-* Anood Alkatheeri
+* [Anood Alkatheeri](../../../author/anood-alkatheeri)
 
-* Pallavi Vijayan
+* [Pallavi Vijayan](../../../author/pallavi-vijayan)
 
-* Jae Park
+* [Jae Park](../../../author/jae-park)
 
-* Conner Kojima
+* [Conner Kojima](../../../author/conner-kojima)
 
-* Yihao Zheng
+* [Yihao Zheng](../../../author/yihao-zheng)
 
-* Nachiket Dunbray
+* [Nachiket Dunbray](../../../author/nachiket-dunbray)
 
 ## Advisors
 

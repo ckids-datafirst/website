@@ -43,15 +43,15 @@ Students will analyze genomic and environmental data collected through the lifet
 
 ## Students
 
-* Meera Patel
+* [Meera Patel](../../../author/meera-patel)
 
-* Boya Li
+* [Boya Li](../../../author/boya-li)
 
-* Haoyang Chen
+* [Haoyang Chen](../../../author/haoyang-chen)
 
-* Qinming Zhang
+* [Qinming Zhang](../../../author/qinming-zhang)
 
-* Ming Yan
+* [Ming Yan](../../../author/ming-yan)
 
 ## Advisors
 

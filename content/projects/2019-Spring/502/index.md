@@ -30,8 +30,12 @@ Even when engaging in a multiplayer online game, some players play by themselves
 
 ## Students
 
-* Do Own (Donna) Kim
+* [Do Own (Donna) Kim](../../../author/do-owndonnakim)
 
 ## Advisors
 
 * [Dmitri Williams](../../../author/dmitri-williams)
+
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1dI4Q65xrjIUt_OsHStoXI6CzoEOe45g4cjmQWxBQZXA/edit?usp=sharing)

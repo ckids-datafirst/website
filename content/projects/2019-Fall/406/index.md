@@ -44,15 +44,15 @@ SideEffects is a cancer patient’s resource to access treatment and side effect
 
 ## Students
 
-* Justin Ho
+* [Justin Ho](../../../author/justin-ho)
 
-* Sankareswari Govindarajan
+* [Sankareswari Govindarajan](../../../author/sankareswari-govindarajan)
 
-* Kevin Tran
+* [Kevin Tran](../../../author/kevin-tran)
 
-* Yi-Hsin Chung
+* [Yi-Hsin Chung](../../../author/yihsin-chung)
 
-* Sangeeth Koratten
+* [Sangeeth Koratten](../../../author/sangeeth-koratten)
 
 ## Advisors
 

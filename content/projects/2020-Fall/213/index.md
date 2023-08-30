@@ -19,7 +19,7 @@ summary: College football recruiting is big business. This project aims to deter
   are patterns in who and where football coaches recruit their players, regardless
   of talent.
 tags: *id001
-title: Detecting Biases in College Football Recruiting
+title: Detecting Biases in College Football Recruiting (Fall - 2020)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -36,11 +36,11 @@ College football recruiting is big business. This project aims to determine if t
 
 ## Students
 
-* Saurabh Jain
+* [Saurabh Jain](../../../author/saurabh-jain)
 
-* Jackie Fan
+* [Jackie Fan](../../../author/jackie-fan)
 
-* Akansha Das
+* [Akansha Das](../../../author/akansha-das)
 
 ## Advisors
 

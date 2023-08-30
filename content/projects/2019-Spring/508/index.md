@@ -31,7 +31,7 @@ This project created an electronic notebook using R and R studio for environment
 
 ## Students
 
-* Huy Nghiem
+* [Huy Nghiem](../../../author/huy-nghiem)
 
 ## Advisors
 

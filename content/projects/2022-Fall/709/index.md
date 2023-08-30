@@ -53,15 +53,15 @@ Fringe communities are often the sources of conspiracy theories and extreme idea
 
 ## Students
 
-* William Lu
+* [William Lu](../../../author/william-lu)
 
-* Zexun Yao
+* [Zexun Yao](../../../author/zexun-yao)
 
-* Duyen Nguyen
+* [Duyen Nguyen](../../../author/duyen-nguyen)
 
-* Jinyi Ye
+* [Jinyi Ye](../../../author/jinyi-ye)
 
-* Aaron Tom
+* [Aaron Tom](../../../author/aaron-tom)
 
 ## Advisors
 

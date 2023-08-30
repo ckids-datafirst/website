@@ -49,17 +49,17 @@ Politicians in modern democracies across the world have eagerly adopted social m
 
 ## Students
 
-* Alex Spangher
+* [Alex Spangher](../../../author/alex-spangher)
 
-* Yash Shah
+* [Yash Shah](../../../author/yash-shah)
 
-* Swetha Thomas
+* [Swetha Thomas](../../../author/swetha-thomas)
 
-* Hongyu Li
+* [Hongyu Li](../../../author/hongyu-li)
 
-* Raveena Kshatriya
+* [Raveena Kshatriya](../../../author/raveena-kshatriya)
 
-* Abhi Thadeshwar
+* [Abhi Thadeshwar](../../../author/abhi-thadeshwar)
 
 ## Advisors
 
@@ -70,3 +70,6 @@ Politicians in modern democracies across the world have eagerly adopted social m
 
 * NLP
 * Programming
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1j8e6L6RTTJdzabFxpg6CUSoYAJZJT35Z/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

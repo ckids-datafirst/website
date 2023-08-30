@@ -48,17 +48,17 @@ The goal of this project is to assist clinicians to find the best course of trea
 
 ## Students
 
-* Lili Zhou
+* [Lili Zhou](../../../author/lili-zhou)
 
-* Nikita Goel
+* [Nikita Goel](../../../author/nikita-goel)
 
-* Chanda
+* [Chanda](../../../author/chanda-)
 
-* Sanjeev Kadagathur Vadiraj
+* [Sanjeev Kadagathur Vadiraj](../../../author/sanjeev-kadagathurvadiraj)
 
-* Audrey Lin
+* [Audrey Lin](../../../author/audrey-lin)
 
-* Wenjia Dou
+* [Wenjia Dou](../../../author/wenjia-dou)
 
 ## Advisors
 

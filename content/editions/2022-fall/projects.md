@@ -35,7 +35,7 @@ widget: markdown
 
 * [Social media habits of misinformation spreaders](../../projects/2022-fall/710)
 
-* [Decoding How Humans Encode Memories](../../projects/2022-fall/711)
+* [Decoding How Humans Encode Memories (Fall - 2022)](../../projects/2022-fall/711)
 
 * [Identifying Catalysts for Online Depolarization](../../projects/2022-fall/712)
 

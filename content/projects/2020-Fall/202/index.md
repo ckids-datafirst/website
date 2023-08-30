@@ -56,15 +56,15 @@ The Kaggle.com competition ecosystem is a rich and active community with a desig
 
 ## Students
 
-* Sara Melotte
+* [Sara Melotte](../../../author/sara-melotte)
 
-* Devendra Swami
+* [Devendra Swami](../../../author/devendra-swami)
 
-* Jacob Bickman
+* [Jacob Bickman](../../../author/jacob-bickman)
 
-* Jae Young Kim
+* [Jae Young Kim](../../../author/jae-youngkim)
 
-* Kevin Tsang
+* [Kevin Tsang](../../../author/kevin-tsang)
 
 ## Advisors
 

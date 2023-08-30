@@ -1,12 +1,7 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: !!python/object:datafest_archive.models.website.pages.Education
-  courses:
-  - !!python/object:datafest_archive.models.website.pages.Course
-    course: Unknown
-    institution: Unknown
-    year: null
+education: null
 email: varunven@usc.edu
 first_name: Varun
 last_name: Venkatesh

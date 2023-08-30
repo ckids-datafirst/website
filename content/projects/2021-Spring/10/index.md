@@ -29,7 +29,7 @@ summary: "While many stories involve the friendly and familiar, scary stories ac
   \ in human-computer and human-robot interactions. The students will build on initial\
   \ work to apply NLP methods to these texts and improve upon existing initial results."
 tags: *id001
-title: Mapping the Uncanny Valley
+title: Mapping the Uncanny Valley (Spring - 2021)
 url_code: null
 url_pdf: null
 url_slides: null
@@ -46,15 +46,15 @@ While many stories involve the friendly and familiar, scary stories across cultu
 
 ## Students
 
-* Saurabh Jain
+* [Saurabh Jain](../../../author/saurabh-jain)
 
-* Athashree Vartak
+* [Athashree Vartak](../../../author/athashree-vartak)
 
-* Olivia Fryt
+* [Olivia Fryt](../../../author/olivia-fryt)
 
-* Yilin Qi
+* [Yilin Qi](../../../author/yilin-qi)
 
-* Jiashu Xu
+* [Jiashu Xu](../../../author/jiashu-xu)
 
 ## Advisors
 

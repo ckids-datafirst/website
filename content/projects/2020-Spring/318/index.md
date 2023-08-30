@@ -48,17 +48,17 @@ Libraries, museums, and archives hold unique collections that may be very useful
 
 ## Students
 
-* Chaitra Mudradi
+* [Chaitra Mudradi](../../../author/chaitra-mudradi)
 
-* Feilong Wu
+* [Feilong Wu](../../../author/feilong-wu)
 
-* Hsing-Hsien Wang
+* [Hsing-Hsien Wang](../../../author/hsinghsien-wang)
 
-* Maria MacHarrie
+* [Maria MacHarrie](../../../author/maria-macharrie)
 
-* Shubhankar Singh
+* [Shubhankar Singh](../../../author/shubhankar-singh)
 
-* Yangtao Hu
+* [Yangtao Hu](../../../author/yangtao-hu)
 
 ## Advisors
 

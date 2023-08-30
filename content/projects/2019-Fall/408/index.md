@@ -45,11 +45,11 @@ This project will result in an open-source software tool that will have general 
 
 ## Students
 
-* Ruiyu Zhao
+* [Ruiyu Zhao](../../../author/ruiyu-zhao)
 
-* Xingyu Wei
+* [Xingyu Wei](../../../author/xingyu-wei)
 
-* Tieming Sun
+* [Tieming Sun](../../../author/tieming-sun)
 
 ## Advisors
 

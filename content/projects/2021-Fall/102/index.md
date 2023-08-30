@@ -50,17 +50,17 @@ We aim to develop interventions to make media-balance salient to users to mitiga
 
 ## Students
 
-* Yanan Zhou
+* [Yanan Zhou](../../../author/yanan-zhou)
 
-* Megan Josep
+* [Megan Josep](../../../author/megan-josep)
 
-* Priya Mane
+* [Priya Mane](../../../author/priya-mane)
 
-* Minrui Chen
+* [Minrui Chen](../../../author/minrui-chen)
 
-* Abhinav Rao
+* [Abhinav Rao](../../../author/abhinav-rao)
 
-* Samip Kalyani
+* [Samip Kalyani](../../../author/samip-kalyani)
 
 ## Advisors
 
@@ -74,3 +74,6 @@ We aim to develop interventions to make media-balance salient to users to mitiga
 * Data Analysis
 * Data Collection
 * Data Visualization
+## Final presentation resources
+
+* [Final presentation](https://drive.google.com/file/d/12Zk_1YMWYH9NtknIqg8NSEX0W3XXtKK7/view?usp=sharing)

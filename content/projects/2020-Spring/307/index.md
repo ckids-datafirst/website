@@ -43,13 +43,13 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 ## Students
 
-* Jae Young Kim
+* [Jae Young Kim](../../../author/jae-youngkim)
 
-* Yuqin Jiang
+* [Yuqin Jiang](../../../author/yuqin-jiang)
 
-* Kanlin Cheng
+* [Kanlin Cheng](../../../author/kanlin-cheng)
 
-* Saravanan Manoharan
+* [Saravanan Manoharan](../../../author/saravanan-manoharan)
 
 ## Advisors
 
@@ -60,3 +60,6 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 * Statistical Analysis
 * Text Analysis
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/1y0FlBNOC2PxX3OPa45-d_Orr7kPnvaG3/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

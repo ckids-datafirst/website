@@ -53,13 +53,13 @@ We are increasingly hyper-aware of the effects of climate change. But we are not
 
 ## Students
 
-* Simon Khan
+* [Simon Khan](../../../author/simon-khan)
 
-* Vinith Angadi
+* [Vinith Angadi](../../../author/vinith-angadi)
 
-* Yingxi Lin
+* [Yingxi Lin](../../../author/yingxi-lin)
 
-* Shalini Mustala
+* [Shalini Mustala](../../../author/shalini-mustala)
 
 ## Advisors
 

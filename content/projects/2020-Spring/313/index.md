@@ -44,13 +44,13 @@ The data comes from Microscoft Academic Graph, containing millions of papers fro
 
 ## Students
 
-* Ninareh Mehrabi
+* [Ninareh Mehrabi](../../../author/ninareh-mehrabi)
 
-* Aditya Gupta
+* [Aditya Gupta](../../../author/aditya-gupta)
 
-* Vineetha Nadimpalli
+* [Vineetha Nadimpalli](../../../author/vineetha-nadimpalli)
 
-* Ayushi Jha
+* [Ayushi Jha](../../../author/ayushi-jha)
 
 ## Advisors
 
@@ -63,3 +63,6 @@ The data comes from Microscoft Academic Graph, containing millions of papers fro
 
 * Python
 * Statistics
+## Final presentation resources
+
+* [Final presentation](https://docs.google.com/presentation/d/16kHZphM8T7ACRlco0Ozg-1ADslPaP5Nm/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)

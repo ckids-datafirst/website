@@ -37,9 +37,9 @@ This project will result in a visual analytics toolkit that will enable social s
 
 ## Students
 
-* Mansi Ganatra
+* [Mansi Ganatra](../../../author/mansi-ganatra)
 
-* Saatvik Tikoo
+* [Saatvik Tikoo](../../../author/saatvik-tikoo)
 
 ## Advisors
 

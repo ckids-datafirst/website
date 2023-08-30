@@ -40,15 +40,15 @@ Internet memes are a popular tool for creatively expressing ideas on the Web. Ma
 
 ## Students
 
-* Mansi Kulhari
+* [Mansi Kulhari](../../../author/mansi-kulhari)
 
-* Zongmian Huang
+* [Zongmian Huang](../../../author/zongmian-huang)
 
-* Ryan Gleason
+* [Ryan Gleason](../../../author/ryan-gleason)
 
-* Dhandeep Suglani
+* [Dhandeep Suglani](../../../author/dhandeep-suglani)
 
-* Yunyi (Fiona) Zhang
+* [Yunyi (Fiona) Zhang](../../../author/yunyi-fionazhang)
 
 ## Advisors
 
