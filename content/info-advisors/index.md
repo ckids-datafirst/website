@@ -78,12 +78,6 @@ sections:
         | Midterm presentation   | Wednesday, October 18, 2023|
         | Final presentation     | Friday, December 1, 2023   |
 
-      # cta:
-      #   url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
-      #   label: Submit your proposal
-      #   icon_pack: fas
-      #   icon: user-graduate
-
   - block: hero
     id: keep-in-touch
     content:
