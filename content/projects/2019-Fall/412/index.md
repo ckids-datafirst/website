@@ -48,7 +48,7 @@ A lot of data is available in the web in a tabular manner, but it’s difficult 
 
 * [Daniel Garijo](../../../author/daniel-garijo)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

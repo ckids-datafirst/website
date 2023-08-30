@@ -74,7 +74,7 @@ This project will focus on extracting concise structured information about incid
 
 * [Najmedin Meshkati](../../../author/najmedin-meshkati)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Data Analysis

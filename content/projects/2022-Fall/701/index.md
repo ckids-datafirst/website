@@ -65,7 +65,7 @@ Currently, data entries are manually identified, discovered and registered using
 
 * [Seon Kim](../../../author/seon-kim)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

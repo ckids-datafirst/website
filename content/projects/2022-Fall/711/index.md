@@ -54,7 +54,7 @@ In this project, we will work on semantically aligning IoT sensor data and neura
 
 * [Luis Garcia](../../../author/luis-garcia)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

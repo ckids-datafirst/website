@@ -45,7 +45,7 @@ This research will be conducted to find out the relationship between humans’ b
 
 * [Zihan Wang](../../../author/zihan-wang)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Machine Learning

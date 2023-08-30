@@ -62,7 +62,7 @@ Ever get frustrated reading a README? Wish you could just ask someone for help i
 
 * [Jay Pujara](../../../author/jay-pujara)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

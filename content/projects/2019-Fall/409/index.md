@@ -45,7 +45,7 @@ This project will result in a visual analytics toolkit that will enable social s
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

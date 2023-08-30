@@ -55,7 +55,7 @@ Cyber ontologies such as STIX and ATT&amp;CK can represent complex relationships
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

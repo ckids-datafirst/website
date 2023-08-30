@@ -51,7 +51,7 @@ As the requirements for success in the workforce become increasingly technical, 
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

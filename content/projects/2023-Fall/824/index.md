@@ -33,7 +33,7 @@ Open source runs a lot of the world&#39;s critical software systems, but there i
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python (needed)

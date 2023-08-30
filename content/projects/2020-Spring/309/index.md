@@ -34,7 +34,7 @@ Induced seismicity refers to earthquakes that are caused as a result of human ac
 
 * [Orhun Aydin](../../../author/orhun-aydin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

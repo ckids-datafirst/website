@@ -55,7 +55,7 @@ Estimates of climate variations over the past 1,000 years play an increasing rol
 
 * [Julien Emile-Geay](../../../author/julien-emilegeay)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

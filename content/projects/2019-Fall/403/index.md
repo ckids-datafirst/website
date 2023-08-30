@@ -64,7 +64,7 @@ Since 1992, the USC Wrigley Institute for Environmental Studies ‘Catalina Cons
 
 * [Diane Kim](../../../author/diane-kim)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistics

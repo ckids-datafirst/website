@@ -57,7 +57,7 @@ Neural Machine Translation (NMT) is the process of mapping a segment of words fr
 
 * [Mohammad Reza Rajati](../../../author/mohammad-rezarajati)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -40,7 +40,7 @@ The broadband access market is increasingly dominated by a few large ISPs. Howev
 
 * [Hernan Galperin](../../../author/hernan-galperin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * GIS

@@ -60,7 +60,7 @@ In collaboration with the Sanitation Department of LA, IMSC has been developing 
 
 * [Seon Kim](../../../author/seon-kim)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

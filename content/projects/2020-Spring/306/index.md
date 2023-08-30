@@ -75,7 +75,7 @@ The project will build on the DataFest 2019 project, and will expand the scope t
 
 * [Yelena Mejova](../../../author/yelena-mejova)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

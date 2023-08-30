@@ -68,7 +68,7 @@ We aim to develop interventions to make media-balance salient to users to mitiga
 
 * [Daniel Benjamin](../../../author/daniel-benjamin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Data Analysis

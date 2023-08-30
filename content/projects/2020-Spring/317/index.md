@@ -65,7 +65,7 @@ Politicians in modern democracies across the world have eagerly adopted social m
 
 * [Andrés Abeliuk](../../../author/andrés-abeliuk)
 
-## Skills Required
+## Skills Required by the team
 
 
 * NLP

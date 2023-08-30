@@ -68,7 +68,7 @@ The development of COVID-19 has had an impact on the lives of millions of people
 
 * [Joon-Ho Choi](../../../author/joonho-choi)
 
-## Skills Required
+## Skills Required by the team
 
 
 * R

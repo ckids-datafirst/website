@@ -72,7 +72,7 @@ Advancements in artificial intelligence, especially neural networks, have enable
 
 * [Mitch Paul Mithun](../../../author/mitch-paulmithun)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

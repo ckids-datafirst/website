@@ -51,7 +51,7 @@ Competitive online multiplayer team games such as CounterStrike, PUBG or League 
 
 * [Goran Muric](../../../author/goran-muric)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

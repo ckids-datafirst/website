@@ -71,7 +71,7 @@ Social media habits represent one of the most common – and controversial – f
 
 * [Ian Anderson](../../../author/ian-anderson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistics

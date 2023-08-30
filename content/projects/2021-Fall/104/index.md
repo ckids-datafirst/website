@@ -53,7 +53,7 @@ weight: 10
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

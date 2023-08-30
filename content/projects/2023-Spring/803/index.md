@@ -53,7 +53,7 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 
 * [Mayil Dharmarajan](../../../author/mayil-dharmarajan)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistics

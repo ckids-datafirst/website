@@ -60,7 +60,7 @@ This project will explore the ability to track real-life health and nutrition si
 
 * [Andrés Abeliuk](../../../author/andrés-abeliuk)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

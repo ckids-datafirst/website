@@ -47,7 +47,7 @@ Our group focuses on the question of how to design a learning framework that pro
 
 * [Marcin Abram](../../../author/marcin-abram)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

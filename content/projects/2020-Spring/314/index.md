@@ -49,7 +49,7 @@ Paleoclimate data is highly diverse, requiring different sets of metadata to des
 
 * [Julien Emile-Geay](../../../author/julien-emilegeay)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

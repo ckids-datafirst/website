@@ -65,7 +65,7 @@ Infant and child mortality rates have been steadily declining worldwide over the
 
 * [Emily Smith-Greenaway](../../../author/emily-smithgreenaway)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Stata

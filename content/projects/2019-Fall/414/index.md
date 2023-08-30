@@ -32,7 +32,7 @@ Public sports data is often spread across many differing sources, creating issue
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

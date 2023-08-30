@@ -52,7 +52,7 @@ This project will result in a Python package for automated time series analysis.
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

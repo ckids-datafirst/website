@@ -52,7 +52,7 @@ Students will analyze aging in the African turquoise killifish, a species with t
 
 * [Jose Luis Ambite](../../../author/jose-luisambite)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -52,7 +52,7 @@ College football recruiting is big business. This project aims to build and anal
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

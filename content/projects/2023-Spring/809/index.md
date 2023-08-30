@@ -68,7 +68,7 @@ We recently published a novel algorithm for measuring influence among people. Wh
 
 * [Dmitri Williams](../../../author/dmitri-williams)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistics

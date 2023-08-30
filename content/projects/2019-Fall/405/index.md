@@ -54,7 +54,7 @@ Human, as a building occupant, is always surrounded by several indoor environmen
 
 * [Joon-Ho Choi](../../../author/joonho-choi)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

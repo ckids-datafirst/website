@@ -33,7 +33,7 @@ This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to unde
 
 * [Najmedin Meshkati](../../../author/najmedin-meshkati)
 
-## Skills Required
+## Skills Required by the team
 
 
 * AI/ML/NLP and associated skills.

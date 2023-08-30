@@ -60,7 +60,7 @@ The pandemic worsened eating disorders among adolescents, particularly girls. Ea
 
 * [Kristina Lerman](../../../author/kristina-lerman)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistics

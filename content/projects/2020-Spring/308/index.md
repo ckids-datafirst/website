@@ -51,7 +51,7 @@ The purpose of this project is to analyze a crowdsourcing setting for both the s
 
 * [Daniel E. O’Leary](../../../author/daniel-eoleary)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Social Network Analysis

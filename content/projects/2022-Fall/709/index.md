@@ -67,7 +67,7 @@ Fringe communities are often the sources of conspiracy theories and extreme idea
 
 * [Luca Luceri](../../../author/luca-luceri)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

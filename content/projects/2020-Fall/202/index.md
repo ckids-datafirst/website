@@ -70,7 +70,7 @@ The Kaggle.com competition ecosystem is a rich and active community with a desig
 
 * [Marlon Twyman](../../../author/marlon-twyman)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

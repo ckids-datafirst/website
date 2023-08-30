@@ -39,7 +39,7 @@ This is an interdisciplinary data science project that involves aspects and requ
 
 * [Amir Kalev](../../../author/amir-kalev)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

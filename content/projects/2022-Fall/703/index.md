@@ -56,7 +56,7 @@ Internet memes are a popular tool for creatively expressing ideas on the Web. Ma
 
 * [Riccardo Tommasini](../../../author/riccardo-tommasini)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

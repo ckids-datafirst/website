@@ -46,7 +46,7 @@ Analytics to determine what tertiary and quaternary care patients would have the
 
 * [Neil Bahroos](../../../author/neil-bahroos)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

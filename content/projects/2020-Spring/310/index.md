@@ -60,7 +60,7 @@ This project will develop a data scraper to collect salary records from a websit
 
 * [Ginger Clark](../../../author/ginger-clark)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Web Scraping

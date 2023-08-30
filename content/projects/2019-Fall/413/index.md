@@ -45,7 +45,7 @@ While many open data efforts have managed to successfully expose public data in 
 
 * [Daniel Garijo](../../../author/daniel-garijo)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

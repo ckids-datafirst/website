@@ -34,7 +34,7 @@ In this project, you will examine the mechanism responsible for forgetting previ
 
 * [Marcin Abram](../../../author/marcin-abram)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

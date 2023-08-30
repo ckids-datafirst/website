@@ -51,7 +51,7 @@ So far we do not know how much ventilation quantity will be needed to effectivel
 
 * [Minghuan Gong](../../../author/minghuan-gong)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

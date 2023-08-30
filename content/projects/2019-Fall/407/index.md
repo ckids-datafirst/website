@@ -35,7 +35,7 @@ Many musicians, from up-and-comers to established artists, rely heavily on perfo
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

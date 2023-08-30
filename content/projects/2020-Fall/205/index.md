@@ -65,7 +65,7 @@ We are increasingly hyper-aware of the effects of climate change. But we are not
 
 * [Gabriel Kahn](../../../author/gabriel-kahn)
 
-## Skills Required
+## Skills Required by the team
 
 
 * GIS

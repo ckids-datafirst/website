@@ -64,7 +64,7 @@ The goal of this project is to assist clinicians to find the best course of trea
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

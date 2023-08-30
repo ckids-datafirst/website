@@ -40,7 +40,7 @@ Seasonal drought predictions are important for the management of water resources
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

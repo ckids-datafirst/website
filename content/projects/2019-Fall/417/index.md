@@ -53,7 +53,7 @@ Developing software and data resources for USC students.  Software resources inc
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Open Source Software Development

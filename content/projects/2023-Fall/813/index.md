@@ -28,7 +28,7 @@ Build a knowledge graph of a crowdsourcing event.
 
 * [Daniel O&#39;Leary](../../../author/daniel-oleary)
 
-## Skills Required
+## Skills Required by the team
 
 
 * NEO4j

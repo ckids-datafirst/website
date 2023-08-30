@@ -59,7 +59,7 @@ Students will analyze genomic and environmental data collected through the lifet
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

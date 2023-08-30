@@ -61,7 +61,7 @@ After the COVID, the remote work environment has become popular, and many commer
 
 * [Joon-Ho Choi](../../../author/joonho-choi)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Machine Learning

@@ -34,7 +34,7 @@ Highly accurate fault detection in foundry produced microelectronics is crucial 
 
 * [Andrew Rittenbach](../../../author/andrew-rittenbach)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -30,7 +30,7 @@ We will build a working system that can decipher a letter substitution cipher in
 
 * [Jonathan May](../../../author/jonathan-may)
 
-## Skills Required
+## Skills Required by the team
 
 
 * python

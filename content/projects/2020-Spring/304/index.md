@@ -44,7 +44,7 @@ The DETER cybersecurity testbed has been running experiments for several years, 
 
 * [Jelena Mirkovic](../../../author/jelena-mirkovic)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -57,7 +57,7 @@ Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurit
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

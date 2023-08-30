@@ -61,7 +61,7 @@ With the recent enthusiasm about algorithmic fairness and responsible AI, many c
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

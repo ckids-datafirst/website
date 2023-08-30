@@ -43,7 +43,7 @@ What’s the next big idea, and who’s going to discover it? Our project is try
 
 * [Jay Pujara](../../../author/jay-pujara)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

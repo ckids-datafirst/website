@@ -43,7 +43,7 @@ Question type coding is used in research on forensic interviewing to distinguish
 
 * [Thomas D. Lyon](../../../author/thomas-dlyon)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python and/or R

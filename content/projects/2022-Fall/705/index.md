@@ -69,7 +69,7 @@ Are you passionate about data science and sustainability? Then this interdiscipl
 
 * [Julie V. Hopper](../../../author/julie-vhopper)
 
-## Skills Required
+## Skills Required by the team
 
 
 * R

@@ -54,7 +54,7 @@ This project aligns with ongoing work with the USC Generative AI Center.
 
 * [Benjamin Nye](../../../author/benjamin-nye)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

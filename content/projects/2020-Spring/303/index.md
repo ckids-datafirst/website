@@ -58,7 +58,7 @@ Data science projects require knowledge of software that changes rapidly. As a r
 
 * [Daniel Garijo](../../../author/daniel-garijo)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

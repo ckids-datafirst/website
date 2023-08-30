@@ -68,7 +68,7 @@ Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligen
 
 * [Luis Garcia](../../../author/luis-garcia)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

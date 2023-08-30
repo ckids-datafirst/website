@@ -49,7 +49,7 @@ Novel, or hypothesized medical treatments, such as COVID-19 vaccines and male co
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

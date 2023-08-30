@@ -55,7 +55,7 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 * [Daniel E. O’Leary](../../../author/daniel-eoleary)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistical Analysis

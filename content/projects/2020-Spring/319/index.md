@@ -34,7 +34,7 @@ Documenting how a result was obtained from data analysis involves documenting th
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Knowledge Graphs

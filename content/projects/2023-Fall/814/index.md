@@ -39,7 +39,7 @@ Cities are the focal point of economic, social, and environmental challenges and
 
 * [Alice Chen](../../../author/alice-chen)
 
-## Skills Required
+## Skills Required by the team
 
 
 * web design

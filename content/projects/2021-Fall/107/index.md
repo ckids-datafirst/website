@@ -55,7 +55,7 @@ This new project attempts to understand the interaction between anti-vaxxers (an
 
 * [Aimei Yang](../../../author/aimei-yang)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Social Network Analysis

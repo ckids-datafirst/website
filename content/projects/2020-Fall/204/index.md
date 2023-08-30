@@ -66,7 +66,7 @@ While many stories involve the friendly and familiar, scary stories across cultu
 
 * [Keith Burghardt](../../../author/keith-burghardt)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

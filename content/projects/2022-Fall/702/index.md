@@ -65,7 +65,7 @@ Food production and their supply chains are the main cause of water pollution, e
 
 * [Jay Pujara](../../../author/jay-pujara)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Knowledge Graphs

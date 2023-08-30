@@ -49,7 +49,7 @@ Wearable IMU and GPS sensors are used to estimate training volume in professiona
 
 * [Susan Sigward](../../../author/susan-sigward)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -72,7 +72,7 @@ The human corpus callosum is the largest pathway connecting the left and right h
 
 * [Neda Jahanshad](../../../author/neda-jahanshad)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

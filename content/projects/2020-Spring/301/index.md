@@ -50,7 +50,7 @@ This project will assemble a team to participate in the Biomarker and Endpoint A
 
 * [Neda Jahanshad](../../../author/neda-jahanshad)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Data Science

@@ -39,7 +39,7 @@ Determining what makes a region “most attractive” for new business will invo
 
 * [Palak Agarwal](../../../author/palak-agarwal)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

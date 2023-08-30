@@ -57,7 +57,7 @@ Attribution of cyber threat actors is an increasingly important and difficult pr
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

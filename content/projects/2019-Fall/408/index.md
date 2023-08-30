@@ -55,7 +55,7 @@ This project will result in an open-source software tool that will have general 
 
 * [Neda Jahanshad](../../../author/neda-jahanshad)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

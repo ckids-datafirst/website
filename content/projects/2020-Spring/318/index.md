@@ -66,7 +66,7 @@ Libraries, museums, and archives hold unique collections that may be very useful
 
 * [Deborah Holmes-Wong](../../../author/deborah-holmeswong)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Data Science

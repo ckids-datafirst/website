@@ -45,7 +45,7 @@ The project will combine socio-economic data from US Census with college and K-1
 
 * [Kristina Lerman](../../../author/kristina-lerman)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

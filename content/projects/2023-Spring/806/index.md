@@ -62,7 +62,7 @@ Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into
 
 * [Kian Ahrabian](../../../author/kian-ahrabian)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

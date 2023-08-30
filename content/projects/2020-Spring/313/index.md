@@ -58,7 +58,7 @@ The data comes from Microscoft Academic Graph, containing millions of papers fro
 
 * [Kristina Lerman](../../../author/kristina-lerman)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

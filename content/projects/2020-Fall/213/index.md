@@ -46,7 +46,7 @@ College football recruiting is big business. This project aims to determine if t
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

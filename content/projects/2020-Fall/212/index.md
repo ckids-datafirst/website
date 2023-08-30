@@ -53,7 +53,7 @@ In many architectural designing scenarios, architects and clients inevitably spe
 
 * [Joon-Ho Choi](../../../author/joonho-choi)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

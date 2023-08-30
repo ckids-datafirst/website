@@ -57,7 +57,7 @@ The COVID-19 pandemic has reinvigorated calls to close the digital divide in the
 
 * [Hernan Galperin](../../../author/hernan-galperin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Statistics

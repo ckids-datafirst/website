@@ -52,7 +52,7 @@ Students will learn to collect and analyze data in the goal of identifying causa
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

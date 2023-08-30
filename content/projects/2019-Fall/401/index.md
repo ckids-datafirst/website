@@ -49,7 +49,7 @@ Online multiplayer games provide a wealth of data that can be used to study huma
 
 * [Dmitri Williams](../../../author/dmitri-williams)
 
-## Skills Required
+## Skills Required by the team
 
 
 * R

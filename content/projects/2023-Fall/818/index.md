@@ -40,7 +40,7 @@ Broadband networks owned and/or operated by local governments (&#34;muni network
 
 * [Hernan Galperin](../../../author/hernan-galperin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Data scraping (Python)

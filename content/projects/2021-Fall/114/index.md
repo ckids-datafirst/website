@@ -106,7 +106,7 @@ The first task for the CKIDS student will be to re-implement the parameter estim
 
 * [Abigail Horn](../../../author/abigail-horn)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Computational Simulation

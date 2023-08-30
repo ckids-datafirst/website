@@ -35,7 +35,7 @@ Open source sports data such as the nflverse has lead to a massive increase in p
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python (pandas

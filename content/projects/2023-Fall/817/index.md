@@ -38,7 +38,7 @@ Public sector institutions at local, state, and federal levels are facing an unp
 
 * [William Resh](../../../author/william-resh)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

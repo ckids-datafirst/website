@@ -32,7 +32,7 @@ This project, which will be co-advised by Dr. Yolanda Gil, will use Natural Lang
 
 * [Najmedin Meshkati](../../../author/najmedin-meshkati)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Natural language Processing and related skills.

@@ -47,7 +47,7 @@ Droughts can have a substantial impact on agricultural systems and human livelih
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -60,7 +60,7 @@ Top climate scientists post their findings and views regularly on social media. 
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Classification

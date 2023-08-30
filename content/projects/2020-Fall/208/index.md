@@ -61,7 +61,7 @@ Cancer remains the second leading cause of death in the US. However, recent adva
 
 * [Paul Thompson](../../../author/paul-thompson)
 
-## Skills Required
+## Skills Required by the team
 
 
 * AI

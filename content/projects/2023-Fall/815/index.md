@@ -36,7 +36,7 @@ Paleoclimate timeseries data are crucial to understand how climate has changed i
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python: pandas

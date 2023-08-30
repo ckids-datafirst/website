@@ -37,7 +37,7 @@ Developing image-based object detection and classification models requires signi
 
 * [Seon Ho Kim](../../../author/seon-hokim)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

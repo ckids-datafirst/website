@@ -41,7 +41,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 
 * [Negar Mokhberian](../../../author/negar-mokhberian)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

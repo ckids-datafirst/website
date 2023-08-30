@@ -58,7 +58,7 @@ This project will look at events data collected at several recent feminist socia
 
 * [Aimei Yang](../../../author/aimei-yang)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

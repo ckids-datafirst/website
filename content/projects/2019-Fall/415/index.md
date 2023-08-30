@@ -57,7 +57,7 @@ LA Care has a mission to “provide access to quality health care for Los Angele
 
 * [Phil McAbee](../../../author/phil-mcabee)
 
-## Skills Required
+## Skills Required by the team
 
 
 * R

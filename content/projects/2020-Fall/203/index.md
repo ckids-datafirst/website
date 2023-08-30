@@ -58,7 +58,7 @@ Deep learning models are now able to predict how an individual’s face will age
 
 * [Neda Jahanshad](../../../author/neda-jahanshad)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

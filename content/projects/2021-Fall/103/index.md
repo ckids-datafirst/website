@@ -63,7 +63,7 @@ Common sense knowledge bases are used widely in research, spanning many areas in
 
 * [Filip Ilievski](../../../author/filip-ilievski)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

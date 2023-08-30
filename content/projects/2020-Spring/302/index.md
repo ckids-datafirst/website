@@ -43,7 +43,7 @@ Human patients should only be assigned to experimental medical treatments when i
 
 * [Daniel Benjamin](../../../author/daniel-benjamin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Classification

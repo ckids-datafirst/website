@@ -40,7 +40,7 @@ Spread of misinformation has become a significant problem, raising the importanc
 
 * [Wael Abd-Almageed](../../../author/wael-abdalmageed)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Programming

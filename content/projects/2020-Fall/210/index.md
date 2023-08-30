@@ -58,7 +58,7 @@ Students will analyze images from optical microscopes that reveal features of ma
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

@@ -35,7 +35,7 @@ Using real-time big data from Los Angeles freeways on traffic and Aclima data on
 
 * [Antonio Bento](../../../author/antonio-bento)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Machine Learning

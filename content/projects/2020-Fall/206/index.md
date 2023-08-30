@@ -52,7 +52,7 @@ The number of scientific products, including scientific software, has been stead
 
 * [Daniel Garijo](../../../author/daniel-garijo)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

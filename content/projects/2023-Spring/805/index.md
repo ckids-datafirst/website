@@ -64,7 +64,7 @@ There is anecdotal evidence that broadband service offers vary in quality and pr
 
 * [Hernan Galperin](../../../author/hernan-galperin)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Python

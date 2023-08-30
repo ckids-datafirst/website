@@ -68,7 +68,7 @@ This project will investigate the quality of Instagram textual posts as a source
 
 * [Kayla de la Haye](../../../author/kayla-delahaye)
 
-## Skills Required
+## Skills Required by the team
 
 
 * Social Network Analysis
