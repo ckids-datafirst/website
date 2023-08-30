@@ -22,12 +22,12 @@ sections:
 
         Faculty members from across USC submitted 17 project proposals for this semester.
 
-        Come to our information session and hear from faculty mentor.
+        Come to our information session and hear from faculty mentors.
 
         - Friday, August 31, 2023 - 5 PM to 7 PM
         - Taper Hall (TTH) 201 or [Zoom meeting](https://usc.zoom.us/j/96788303582)
 
-        Students can apply to work on one of these projects until **Sunday, September 3, 2023.**
+        Students can apply to work on these projects until **Sunday, September 3, 2023.**
 
 
         Useful links:
@@ -38,7 +38,7 @@ sections:
 
       cta:
         url: https://docs.google.com/forms/d/1fwzI5siGN7cuPajuMwLyMGqg5XEs_7MtX3IBdAutW1g/viewform
-        label: Apply for a project
+        label: Apply for projects
         icon_pack: fas
         icon: user-graduate
 
