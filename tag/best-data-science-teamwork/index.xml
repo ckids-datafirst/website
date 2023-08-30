@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Best Data Science Teamwork | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/best-data-science-teamwork/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/best-data-science-teamwork/index.xml" rel="self" type="application/rss+xml"/><description>Best Data Science Teamwork</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Best Data Science Teamwork</title><link>https://ckids-datafirst.github.io/website/tag/best-data-science-teamwork/</link></image><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Anood Alkhatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rushit Jain&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Samarth Saxena&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abishek Phalak&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yassamin Neshatvar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shruthakeerthy Srinivasan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vaidehi Vatsaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siddarth Rudraraju&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Gordo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shelby Wu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/najmedin-meshkati">Najmedin Meshkati&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>Clinical knowledge&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>AWS Sagemaker&lt;/li>
+&lt;/ul></description></item><item><title>Identification of Sustainability-Related Research at USC through Machine Learning and Keyword Mapping</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/705/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/705/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Are you passionate about data science and sustainability? Then this interdisciplinary project is for you! Here, we will develop a machine learning program to identify USC research publications and grants as ‘sustainability-focused’, ‘sustainability-inclusive’ or ‘not-sustainability-related’ by using pre-categorized publication samples. In addition, we will use keyword lists that relate to the 17 UN Sustainable Development Goals (SDGs) to map all research groups at USC as they relate to these SDGs (&lt;a href="https://sdgs.un.org/goals%29" target="_blank" rel="noopener">https://sdgs.un.org/goals)&lt;/a>. Lastly, we will create an interactive dashboard in R Shiny that will act as a public directory of all research at USC with classification of the research by the SDGs and broader sustainability categorization. As an example, check our github for USC curriculum: &lt;a href="https://github.com/USC-Office-of-Sustainability/USC-SDGmap" target="_blank" rel="noopener">https://github.com/USC-Office-of-Sustainability/USC-SDGmap&lt;/a> . Your work on this project is critical in boosting sustainability-related research at USC and thereby achieving our Asgmt: Earth Research Goals.&amp;quot;&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Collaboration Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ric Xian&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aurora Massari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xinyi Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bhavyakumar Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alison Chen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/julie-vhopper">Julie V. Hopper&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Turning READMEs into Chatbots</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/704/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/704/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Ever get frustrated reading a README? Wish you could just ask someone for help instead of reading pages of documentation, combing through StackOverflow posts, and consulting lecture slides? This ambitious project will build a team of students to convert documentation in README files, ReadTheDocs and other manual pages, and StackOverflow posts into short conversations. These conversations will be used to train a dialogue model like DialoGPT to help create an assistive chat bot that can answer questions about code.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shuijing Mejia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ronak Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Balaji Chidambaram&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aaron Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aamir Miyajiwala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hieu Nguyen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Huggingface&lt;/li>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Xiaoyu Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Stephen Iota&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bolong Pan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Junyi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ming Lyu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Computer Vision&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Worldwide Survey Estimates of Maternal Bereavement</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/201/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/201/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Infant and child mortality rates have been steadily declining worldwide over the last fifty years. Without reservation, these trends represent good news for children and for their parents, but the link between child mortality and parents’ experiences, however, remains loosely defined. Documenting global inequality in maternal bereavement offers a window into how health disparities directly affect the lives and well-being of mothers. In this project, we will offer the first, global analysis of the prevalence of bereaved mothers by leveraging data collected between 2010 and 2018 from 168 countries. I request student support to expand current survey coverage. Student(s) will work to identify and access public-use, nationally-representative reproductive history survey data for select European, Asian, and Latin American countries to supplement current data coverage, and to offer direct estimations to compare to indirectly derived ones based on current fertility and mortality levels. Students will work to adapt code used for other surveys to generate descriptive statistics of the prevalence of ever bereaved mothers in each country. Students will also work to improve and supplement the illustration of key study findings.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Aditi Singh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Madeleine Thompson&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Malika Seth&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Asumi Suguro&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/emily-smithgreenaway">Emily Smith-Greenaway&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Stata&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item></channel></rss>

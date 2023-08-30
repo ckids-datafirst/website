@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Param Bole | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/param-bole/</link><atom:link href="https://ckids-datafirst.github.io/website/author/param-bole/index.xml" rel="self" type="application/rss+xml"/><description>Param Bole</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Param Bole</title><link>https://ckids-datafirst.github.io/website/author/param-bole/</link></image><item><title>Mapping the Ethical Concerns Surrounding AI Research</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/3/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>With the recent enthusiasm about algorithmic fairness and responsible AI, many conferences are encouraging or requiring a broader impact section to assess societal harms and benefits of the AI research being presented. In this project, we will analyze the themes of these sections, with a particular focus on the ethical issues being addressed and acknowledged. We will develop tools and methods to evaluate the harms and benefits of the presented research. The goal is to see how is the community helping AI research to be less harmful but more beneficial for society. For more background on work in this area, please review this workshop.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Chaitali Joshi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Param Bole&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Madeleine Thompson&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aparna Nair&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>AI ethics&lt;/li>
+&lt;/ul></description></item><item><title>A framework for enabling software comparison and classification</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The number of scientific products, including scientific software, has been steadily growing in the last years. This growth makes it difficult for researchers to understand all the latest code and publications available. A great body of research has attempted at classifying similar papers and literature. However, there aren’t to date good approaches for finding similar or related code. In this project, the students will analyze different unsupervised methods to find scientific software similarities based on a) An automated analysis of their dependencies; b) By classifying the main functionality of software components.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yi Xie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bin Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mohan Krishna Thota&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Param Bole&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Sklearn&lt;/li>
+&lt;li>Data Manipulation&lt;/li>
+&lt;/ul></description></item></channel></rss>

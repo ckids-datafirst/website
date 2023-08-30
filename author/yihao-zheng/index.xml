@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yihao Zheng | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yihao-zheng/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yihao-zheng/index.xml" rel="self" type="application/rss+xml"/><description>Yihao Zheng</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Yihao Zheng</title><link>https://ckids-datafirst.github.io/website/author/yihao-zheng/</link></image><item><title>Listen to your body: Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The development of COVID-19 has had an impact on the lives of millions of people worldwide. Air quality needs to be improved immediately because COVID-19 can spread through airborne aerosols, raising concerns about how the virus will behave in enclosed spaces. To understand how to estimate the time lag of air quality transmission between indoor and outdoor, it is necessary to gather enough and reasonably accurate data before using a machine learning model and statistical tools to analyze the data. This will allow us to investigate the connection between indoor air quality and human physiological responses. Participants' bio-signals, survey results, and the state of the indoor and outdoor environments must all be collected as three different types of data. The heart rate, skin temperature, stress level, and EDA of the occupants make up the second set of bio-signal data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yifan Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vu Truong Si&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anood Alkatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pallavi Vijayan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Conner Kojima&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yihao Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nachiket Dunbray&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item></channel></rss>

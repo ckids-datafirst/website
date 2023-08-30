@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Olivia Fryt | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/olivia-fryt/</link><atom:link href="https://ckids-datafirst.github.io/website/author/olivia-fryt/index.xml" rel="self" type="application/rss+xml"/><description>Olivia Fryt</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Olivia Fryt</title><link>https://ckids-datafirst.github.io/website/author/olivia-fryt/</link></image><item><title>Mapping the Uncanny Valley</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>While many stories involve the friendly and familiar, scary stories across cultures, from Hamlet to Yotsuya Kaidan to Siren Head involve beings that are almost—but not quite—human. Can these stories give us insight into the “nearly-human” uncanny valley? Initial results from our group say yes! While some research has explored the uncanny valley for images, the research is limited and previously unexplored in text format. If we can extract human emotions surrounding text descriptions, we can exploit an enormous array of data. Our goal this semester is to analyze our objective definitions of “fear” or “creepiness” in a story and test how the similarity of words to “human” make them more or less creepy. Moreover, we will explore what features of objects make them more or less scary. These findings share a direct relationship to AI and robotics where our goal is always to improve pleasant interactions and affability in human-computer and human-robot interactions. The students will build on initial work to apply NLP methods to these texts and improve upon existing initial results.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Saurabh Jain&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Athashree Vartak&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Olivia Fryt&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yilin Qi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiashu Xu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/keith-burghardt">Keith Burghardt&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>NLTK&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Keras&lt;/li>
+&lt;/ul></description></item></channel></rss>

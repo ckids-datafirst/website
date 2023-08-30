@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Orhun Aydin | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/orhun-aydin/</link><atom:link href="https://ckids-datafirst.github.io/website/author/orhun-aydin/index.xml" rel="self" type="application/rss+xml"/><description>Orhun Aydin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Orhun Aydin</title><link>https://ckids-datafirst.github.io/website/author/orhun-aydin/</link></image><item><title>Modelling Spatiotemporal Relationships between Waste Water Injection and Induced Seismicity</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/309/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/309/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Induced seismicity refers to earthquakes that are caused as a result of human activity, such as disposing of wastewater by injecting it into the subsurface. This project will focus on spatiotemporal statistics to model space-time relationships between injected wastewater and induced earthquakes. The model will incorporate space-time data pertaining to seismic activity and associated human systems to create forecasts of induced earthquakes.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/orhun-aydin">Orhun Aydin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item></channel></rss>

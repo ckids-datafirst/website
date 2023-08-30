@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jooyoung Yoo | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/jooyoung-yoo/</link><atom:link href="https://ckids-datafirst.github.io/website/author/jooyoung-yoo/index.xml" rel="self" type="application/rss+xml"/><description>Jooyoung Yoo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Jooyoung Yoo</title><link>https://ckids-datafirst.github.io/website/author/jooyoung-yoo/</link></image><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct. The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States.&lt;/p>
+&lt;p>Currently, data entries are manually identified, discovered and registered using public, open-sourced information, mostly news articles on the web, which critically limits its data collection process. Thus, this project aims at automating the discovery of such data with an efficient identification mechanism. Working with the Price School of Policy, we will implement an automatic identification mechanism to effectively search police misconduct articles utilizing web crawling/scarping and natural language processing.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Deborah Ho&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jooyoung Yoo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshay Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ikenna Joe-Nweke&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item></channel></rss>

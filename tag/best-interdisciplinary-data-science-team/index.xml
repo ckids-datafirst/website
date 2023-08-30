@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Best Interdisciplinary Data Science Team | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/best-interdisciplinary-data-science-team/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/best-interdisciplinary-data-science-team/index.xml" rel="self" type="application/rss+xml"/><description>Best Interdisciplinary Data Science Team</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Best Interdisciplinary Data Science Team</title><link>https://ckids-datafirst.github.io/website/tag/best-interdisciplinary-data-science-team/</link></image><item><title>Quantum Natural Language Processing for Fake News Identification</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in artificial intelligence, especially neural networks, have enabled more intelligent models that can distinguish between fake and real information. However, these models suffer from over-fitting: a phenomenon where models memorize certain patterns in the dataset instead of understanding the actual underlying task.This prevents the models from generalizing well, especially across domains. Quantum Natural Language Processing (QNLP) is a very nascent field where quantum computers solve NLP problems. It has been shown that QNLP models have been able to solve many of the aforementioned tasks difficult for neural networks to solve. This is attributed to the fact that QNLP models naturally incorporate rich linguistic meanings and structure. In this project we will create neural network like models for QNLP. This will be done on fact verification datasets, with the goal of improving the quality of fake news identification.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sofian Ghazali&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yang Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chenghong Hu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anish Kushalapa&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/mitch-paulmithun">Mitch Paul Mithun&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Social media habits of misinformation spreaders</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/710/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/710/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Social media habits represent one of the most common – and controversial – forms of habitual behavior in contemporary society. This project will investigate whether and how social media habits are linked to the spread of misinformation. Specifically, this research aims at understanding whether there are habits that can be identified within social media data that are unique to misinformation spreaders. For example: do these users re-post, reply to, or post content in ways that seem habitual — as opposed to behaviors based on the rewards received from other users (e.g., likes, re-posting)? To perform this analysis, students will closely examine social media data across multiple platforms. The goal of this project will be to develop a model which can infer habit-based vs. non-habitual processes from existing user data, and identify how these processes play a role in the spread of misinformation. This project will be in collaboration with the USC Department of Psychology.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Interdisciplinary Data Science Team&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Website&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Zhenmin Hua&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siqi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xiayu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Daniel Pereira Da Costa&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Richa Sheth&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ian-anderson">Ian Anderson&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;/ul></description></item><item><title>Studying the Effects of Genes and Environment in Aging</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/7/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will analyze genomic and environmental data collected through the lifetime of individuals to investigate which genes and external conditions could be associated with aging. The goal of the project will be to reproduce an existing published paper and improve on its results.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Meera Patel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Boya Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Haoyang Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Qinming Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ming Yan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/t-emarpawong">T. Em Arpawong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Connections within Contemporary Feminism Movements</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will look at events data collected at several recent feminist social movements and understand their connection to each other. Specifically, it will explore individuals or organizations that played instrumental role in movement mobilization, relationship brokerage between movements, and building and sustaining activist communities. Previous research suggests that those distinctive movements are often not isolated incidents, but mobilized by a core group of “leaders” or similar ideas and frames. The goal is to understand how seemingly disconnected movements relate to one another help to reveal the lasting impact of mediated movements.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Keerti Bhogaraju&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ian Myoungsu Choi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Negar Mokhberian&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nazanin Alipourfard&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/aimei-yang">Aimei Yang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Data Mining&lt;/li>
+&lt;/ul></description></item><item><title>Investigations of a Data Science Online Community</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition? What are features that predict high-performing teams? What features help generate teammate recommendations?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sara Melotte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devendra Swami&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jacob Bickman&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Young Kim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tsang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/marlon-twyman">Marlon Twyman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Matlab&lt;/li>
+&lt;/ul></description></item><item><title>Mapping the impacts of climate change across LA County</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/205/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/205/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>We are increasingly hyper-aware of the effects of climate change. But we are not always aware of how hyper-local those effects can be. Across the 2,500 square miles of Los Angeles County, the impact of climate change is playing out in different ways. For example, some areas are experiencing more frequent spikes in extreme temperatures, while others are not. We propose a project that would fuse together several different datasets in order to map how temperature changes and other variables are hitting some corners of Los Angeles harder than others. Often, these areas are inhabited by people facing numerous other inequities, such as poor healthcare access. By examining several years’ worth of hourly average temperatures from thousands of spots across Los Angeles County, and combining that with other datasets, such as tree cover, cases of asthma, and so forth, it is possible to create an interactive map that illustrates where the impacts of climate change are most acute. This project would be published by Annenberg’s Crosstown publishing outlet and would be distributed widely. The project would have immediate practical applications and could inform policy decisions on issues such as where to place parks and green spaces.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Simon Khan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vinith Angadi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yingxi Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shalini Mustala&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>GIS&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;/ul></description></item><item><title>Turning Library Collections into Data Science Challenges and Resources</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Libraries, museums, and archives hold unique collections that may be very useful for data science. These collections include photographs, videos, letters, and other artifacts that could give unique insights when analyzed. In this project, students will work with the USC Libraries to identify existing collections that would be potentially interesting as targets for data science, describe those collections in collaboration with the USC Libraries so they can be promoted as data science resources, and create APIs and other access mechanisms for data science researchers on campus and beyond.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Chaitra Mudradi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Feilong Wu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hsing-Hsien Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Maria MacHarrie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubhankar Singh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yangtao Hu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-holmeswong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item></channel></rss>

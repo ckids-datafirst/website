@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andrew Zhao | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/andrew-zhao/</link><atom:link href="https://ckids-datafirst.github.io/website/author/andrew-zhao/index.xml" rel="self" type="application/rss+xml"/><description>Andrew Zhao</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Andrew Zhao</title><link>https://ckids-datafirst.github.io/website/author/andrew-zhao/</link></image><item><title>Creating and visualizing a linked knowledge base of crime data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/412/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/412/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>A lot of data is available in the web in a tabular manner, but it’s difficult to manipulate and visualize without a significant effort. In this project, we aim to test a novel framework created at ISI to build and visualize knowledge bases. The objective is to create a knowledge base that extends the other resources in the Web such as Wikidata or Wikipedia, and visualize the results using interactive maps and plots.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vedant Diwanji&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yi-Li Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Andrew Zhao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Haripriya Dharmala&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Representation&lt;/li>
+&lt;li>RDF&lt;/li>
+&lt;/ul></description></item></channel></rss>

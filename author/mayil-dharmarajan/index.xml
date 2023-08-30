@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mayil Dharmarajan | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/</link><atom:link href="https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/index.xml" rel="self" type="application/rss+xml"/><description>Mayil Dharmarajan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/avatar_huf173cf01dbca62a258402ab081fc6094_84454_270x270_fill_q75_lanczos_center.jpeg</url><title>Mayil Dharmarajan</title><link>https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/</link></image><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</guid><description>&lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following: Increase in pressors, Intubation, Trip to operating room within 24 hours, Starting dialysis The objective is to predict on a real-time/near real-time basis, whether someone is likely to require escalated care as defined above. Prediction of the likelihood of such a care escalation need is assumed to be an optional/secondary requirement at this stage.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mayil Dharmarajan | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/</link><atom:link href="https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/index.xml" rel="self" type="application/rss+xml"/><description>Mayil Dharmarajan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/avatar_huf173cf01dbca62a258402ab081fc6094_84454_270x270_fill_q75_lanczos_center.jpeg</url><title>Mayil Dharmarajan</title><link>https://ckids-datafirst.github.io/website/author/mayil-dharmarajan/</link></image><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</guid><description>&lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following: Increase in pressors, Intubation, Trip to operating room within 24 hours, Starting dialysis The objective is to predict on a real-time/near real-time basis, whether someone is likely to require escalated care as defined above. Prediction of the likelihood of such a care escalation need is assumed to be an optional/secondary requirement at this stage.&lt;/p></description></item><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following:
+• Increase in pressors
+• Intubation
+• Trip to operating room within 24 hours
+• Starting dialysis
+The objective is to predict on a real-time/near real-time basis, whether someone is likely to require escalated care as defined above. Prediction of the likelihood of such a care escalation need is assumed to be an optional/secondary requirement at this stage.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ho Ko&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vatsal Khandor&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/neil-bahroos">Neil Bahroos&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mayil-dharmarajan">Mayil Dharmarajan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shreya Padmanabhan | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/shreya-padmanabhan/</link><atom:link href="https://ckids-datafirst.github.io/website/author/shreya-padmanabhan/index.xml" rel="self" type="application/rss+xml"/><description>Shreya Padmanabhan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Shreya Padmanabhan</title><link>https://ckids-datafirst.github.io/website/author/shreya-padmanabhan/</link></image><item><title>Knowledge-powered understanding of diet’s water footprint</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/702/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/702/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Food production and their supply chains are the main cause of water pollution, especially in emerging and developed countries. Understanding the connection between our diet and water pollution is extremely challenging because it requires combining knowledge about food production, supply chains, and transportation. As more and more people seek to live sustainably, there is a need to inform consumers about the planetary impacts of their choices. We propose to construct a knowledge graph and application to create a water footprint calculator for our dietary choices that computes the water footprint for each ingredient of a meal proposed by the user and suggest alternatives to reduce the water footprint (e.g., replacing beef by pork in a cheesesteak meal will save the planet 1,600 gallons of water).&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Insight&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shreya Padmanabhan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shreya Raj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Maiah Pardo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saurav Joshi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yuhua Wu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/filip-ilievski">Filip Ilievski&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Information Extraction&lt;/li>
+&lt;li>Software Engineering&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;/ul></description></item></channel></rss>

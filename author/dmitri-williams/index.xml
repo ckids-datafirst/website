@@ -1,1 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dmitri Williams | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/dmitri-williams/</link><atom:link href="https://ckids-datafirst.github.io/website/author/dmitri-williams/index.xml" rel="self" type="application/rss+xml"/><description>Dmitri Williams</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/dmitri-williams/avatar_hu835962d2e315c3b5306d89174044cea2_32773_270x270_fill_q75_lanczos_center.jpeg</url><title>Dmitri Williams</title><link>https://ckids-datafirst.github.io/website/author/dmitri-williams/</link></image><item><title>Networked social influence in large-scale networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/5/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/5/</guid><description>&lt;p>We recently published a novel algorithm for measuring influence among people. What&amp;rsquo;s different about it is that it doesn&amp;rsquo;t rely on social media. It takes behavior data, such as might exist within a company&amp;rsquo;s databases, and is able to say &amp;ldquo;This person is causing this person to do X.&amp;rdquo; This technique is broad and powerful and has many social and business applications. We&amp;rsquo;re also fortunate to have a lot of data from corporations to explore, including over a 100m person dataset on charitable giving, several datasets of video game play, and one on commercial travel. What we need are smart students who can learn the algorithm and help us run it, answering questions of both scholarly and commercial interest. We need horsepower, and we&amp;rsquo;re happy to help train, advise and add students to the many publications we see coming out of this effort.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dmitri Williams | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/dmitri-williams/</link><atom:link href="https://ckids-datafirst.github.io/website/author/dmitri-williams/index.xml" rel="self" type="application/rss+xml"/><description>Dmitri Williams</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/dmitri-williams/avatar_hu835962d2e315c3b5306d89174044cea2_32773_270x270_fill_q75_lanczos_center.jpeg</url><title>Dmitri Williams</title><link>https://ckids-datafirst.github.io/website/author/dmitri-williams/</link></image><item><title>Networked social influence in large-scale networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/5/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/5/</guid><description>&lt;p>We recently published a novel algorithm for measuring influence among people. What&amp;rsquo;s different about it is that it doesn&amp;rsquo;t rely on social media. It takes behavior data, such as might exist within a company&amp;rsquo;s databases, and is able to say &amp;ldquo;This person is causing this person to do X.&amp;rdquo; This technique is broad and powerful and has many social and business applications. We&amp;rsquo;re also fortunate to have a lot of data from corporations to explore, including over a 100m person dataset on charitable giving, several datasets of video game play, and one on commercial travel. What we need are smart students who can learn the algorithm and help us run it, answering questions of both scholarly and commercial interest. We need horsepower, and we&amp;rsquo;re happy to help train, advise and add students to the many publications we see coming out of this effort.&lt;/p></description></item><item><title>Networked social influence in large-scale networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/809/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/809/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>We recently published a novel algorithm for measuring influence among people. What's different about it is that it doesn't rely on social media. It takes behavior data, such as might exist within a company's databases, and is able to say &amp;quot;&amp;quot;This person is causing this person to do X.&amp;quot;&amp;quot; This technique is broad and powerful and has many social and business applications. We're also fortunate to have a lot of data from corporations to explore, including over a 100m person dataset on charitable giving, several datasets of video game play, and one on commercial travel. What we need are smart students who can learn the algorithm and help us run it, answering questions of both scholarly and commercial interest. We need horsepower, and we're happy to help train, advise and add students to the many publications we see coming out of this effort.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Indrani Panchangam&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Can Jin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yunning Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Datt Patel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kaiyi Sun&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lei Cao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nishi Doshi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yingning Fan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aimei-yang">Aimei Yang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Game Data and Social Capital</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Natalie and Calvin look at social capital from two angles: social capital as a predictor and social capital as an outcome. First, they want to observe whether people who display social capital exhibit certain characteristics or behavior. Second, they want to study if people who are interested in a specific topic will exhibit certain types of social capital.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Natalie Jonckheere&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Calvin Liu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Learning to Connect: Modeling Social Network Dynamics and Evolution by Imitation Learning</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/420/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/420/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In this research, we aim to model how human players make connection decisions in an online game where players are free to add or delete a friend, as well as join a clan.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Yiley Zeng&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/emilio-ferrara">Emilio Ferrara&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Multiplayer Game’s Solo Players</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/502/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/502/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Even when engaging in a multiplayer online game, some players play by themselves. Do Own is interested in investigating personality, motivation, and behavioral patterns of social network isolates.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Do Own (Donna) Kim&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Overview of Multiplayer Games Dataset</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Professor Williams describes the kinds of questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. Students in his group focused on a wide range of projects that use this data to study a range of human behaviors.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Understanding Internet Communities through Videogames</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/401/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/401/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Many questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. We have a wide range of ongoing student projects that use this data to study a range of human behaviors.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Junchu Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himan Kriplani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shatad Purohit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jinney Guo&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Who is the Best Game Mentor?</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/505/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/505/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project explores the influence of the personality of game players who become mentors on mentoring outcomes using machine learning. The project will use survey data to analyze mentors’ extraversion and agreeableness as well as mentees’ game performance and churn rates.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Joo-Wha Hong&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Who is the One staying?</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/504/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/504/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Motivation plays a strong role as a moderator in the relationship between gamers’ in-game performances and enjoyment and churn, respectively. The research question for this project is ‘what is the relationship between players’ competitiveness and their level of enjoyment/churn?'&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Qiyao (Joyce) Peng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alejandro Marin&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zhaohong Feng | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/zhaohong-feng/</link><atom:link href="https://ckids-datafirst.github.io/website/author/zhaohong-feng/index.xml" rel="self" type="application/rss+xml"/><description>Zhaohong Feng</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Zhaohong Feng</title><link>https://ckids-datafirst.github.io/website/author/zhaohong-feng/</link></image><item><title>Investigate the healthy indoor air quality under Covid-19 in Los Angeles based on machine learning</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>So far we do not know how much ventilation quantity will be needed to effectively prevent infection with COVID-19, and there is no sensor can measure coronavirus. But PM 2.5 and CO2 are the good indicators to estimate the Covid-19 virus concentration. Moreover, bio-signals can be used to assess people’s state of health. In my experiment, I will find participants and collect data including indoor environmental data, outdoor environmental data and human bio-signals. Then, the data will be analyzed by machine learning to find the correlation between the indoor environmental factors and the outdoor environmental factors, the correlation between the indoor environmental factors and human factors, also I can find the appropriate range of every indoor air quality factors when people under human healthy state, therefore, finally I can control the window to keep the indoor CO2 and pm2.5 within that range of the conclusion to keep people in a healthy state.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yixiao Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhaohong Feng&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/minghuan-gong">Minghuan Gong&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item></channel></rss>

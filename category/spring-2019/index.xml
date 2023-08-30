@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spring 2019 | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/spring-2019/</link><atom:link href="https://ckids-datafirst.github.io/website/category/spring-2019/index.xml" rel="self" type="application/rss+xml"/><description>Spring 2019</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Spring 2019</title><link>https://ckids-datafirst.github.io/website/category/spring-2019/</link></image><item><title>A workshop Tutorial on R and R Studio for Environmental Sciences Curriculum</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/508/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/508/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project created an electronic notebook using R and R studio for environmental sciences curriculum. The notebook will be used for undergraduate students to teach advanced statistical analysis about population health in Fall 2019.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Huy Nghiem&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jill-sohm">Jill Sohm&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Analyzing Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/509/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/509/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project focused on a causality analysis of paleoclimate time series using Pyleoclim, which is a Python package geared towards the analysis and visualization of paleoclimate data. Future work includes exploring and testing additional algorithms for time series analysis.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Han Wu&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Behavioral Context Recognition</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/512/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/512/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project studied behavioral patterns by analyzing data from personal senses collected from 60 subjects. This data can be used to predict activities and infer people’s lifestyle and habits.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Ian Myoungsu Choi&lt;/li>
+&lt;/ul></description></item><item><title>Crosstown</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Giorgos and John are developing a machine learning system to automatically detect, prioritize, and alert journalists in the presence of abnormalities in crime data. Through this project, they want to assist journalists to identify interesting stories in data. The data is rich in features, and by using general feature engineering.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Giorgos Constantinou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>John Cutone&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Enhancing Thermal Control in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/511/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/511/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Mengqi presented her study about thermal control using Excel, Minitab, and Python for data analysis. She collected data in a lab setting and tried two models, a group model and an individual model. She found that a group model, which consisted of 20 subjects, did not work well, while individual models gave better results.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Mengqi Jia&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Foster Care Children: Administrative Data and Computational Methods</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/506/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/506/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project is using population-based administrative data, including birth, medical, and education records to study child welfare services. The research topics include: a family-level analysis of first births and sibling re-reports in the foster care system; identifying mothers who gave subsequent birth after the termination of parental rights; modeling the child protective services system using Markov models; and predicting risks for aging youth.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Eunhye Ahn&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/emily-putnamhornstein">Emily Putnam-Hornstein&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Game Data and Social Capital</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Natalie and Calvin look at social capital from two angles: social capital as a predictor and social capital as an outcome. First, they want to observe whether people who display social capital exhibit certain characteristics or behavior. Second, they want to study if people who are interested in a specific topic will exhibit certain types of social capital.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Natalie Jonckheere&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Calvin Liu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Lighting Control in Buildings for Visual Comfort</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/510/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/510/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Lingkai collected data in a controlled setting and studied lighting control in buildings for visual comfort. For data preprocessing, he used Excel and MathWorks; for data analysis, he used Python and Scikit learn.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Lingkai Cen&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Multiplayer Game’s Solo Players</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/502/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/502/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Even when engaging in a multiplayer online game, some players play by themselves. Do Own is interested in investigating personality, motivation, and behavioral patterns of social network isolates.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Do Own (Donna) Kim&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Overview of Multiplayer Games Dataset</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Professor Williams describes the kinds of questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. Students in his group focused on a wide range of projects that use this data to study a range of human behaviors.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Who is the Best Game Mentor?</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/505/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/505/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project explores the influence of the personality of game players who become mentors on mentoring outcomes using machine learning. The project will use survey data to analyze mentors’ extraversion and agreeableness as well as mentees’ game performance and churn rates.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Joo-Wha Hong&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Who is the One staying?</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/504/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/504/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Motivation plays a strong role as a moderator in the relationship between gamers’ in-game performances and enjoyment and churn, respectively. The research question for this project is ‘what is the relationship between players’ competitiveness and their level of enjoyment/churn?'&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Qiyao (Joyce) Peng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alejandro Marin&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

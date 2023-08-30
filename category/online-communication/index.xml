@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Online Communication | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/online-communication/</link><atom:link href="https://ckids-datafirst.github.io/website/category/online-communication/index.xml" rel="self" type="application/rss+xml"/><description>Online Communication</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Online Communication</title><link>https://ckids-datafirst.github.io/website/category/online-communication/</link></image><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Aryan Karnati&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sudesh Kumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siyi Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shuchan Zhou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/kristina-lerman">Kristina Lerman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Quantum Natural Language Processing for Fake News Identification</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in artificial intelligence, especially neural networks, have enabled more intelligent models that can distinguish between fake and real information. However, these models suffer from over-fitting: a phenomenon where models memorize certain patterns in the dataset instead of understanding the actual underlying task.This prevents the models from generalizing well, especially across domains. Quantum Natural Language Processing (QNLP) is a very nascent field where quantum computers solve NLP problems. It has been shown that QNLP models have been able to solve many of the aforementioned tasks difficult for neural networks to solve. This is attributed to the fact that QNLP models naturally incorporate rich linguistic meanings and structure. In this project we will create neural network like models for QNLP. This will be done on fact verification datasets, with the goal of improving the quality of fake news identification.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sofian Ghazali&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yang Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chenghong Hu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anish Kushalapa&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/mitch-paulmithun">Mitch Paul Mithun&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Studying Scientific Innovation with Temporal Knowledge Graph Representation Learning</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/608/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/608/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>What’s the next big idea, and who’s going to discover it? Our project is trying to understand how researchers make new discoveries and innovate new ideas. To do that we will apply deep learning techniques for temporal knowledge graph learning (RE-NET, CyGNet, HINGE, StarE) to a huge citation network dataset. We have assembled a KG with 260M research papers, 270M authors, 700K fields. To learn representations, our training tasks include citation prediction, author collaboration prediction, and field of study prediction.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dongho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Tensorflow&lt;/li>
+&lt;li>Wikidata&lt;/li>
+&lt;/ul></description></item><item><title>COVID-19 misinformation</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This new project attempts to understand the interaction between anti-vaxxers (anti-vaccination groups) and alt-right groups on platforms such as Facebook. The goal of this project is to understand how do these two types of fringe groups interact over the years, and how do their interactions and discourse evolve during the COVID-19 pandemic. It would be interesting to explore the longitudinal patterns of network/discourse co-evolution and how such patterns may change in times of dramatic events.In terms of data, I have access to Facebook’s historical data archive and I have collected a dataset that contains a list of anti-vaxxer (n=158) and alt-right groups’ (n=183) Facebook posts over 10 years (2010-2021). The dataset can be further expanded with additional help.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yilin Qi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Revanth Madamala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Luer Lyu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/aimei-yang">Aimei Yang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Jonathan Lal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanket Bhilare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Keerthana Prakash&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himani Amrute&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Dat Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wenwen Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nai Cih Liou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xinran Liang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;/ul></description></item><item><title>Turning Cyber Data into Language</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks, and infrastructure. While such representations are easily processed by computers, cyber analysts often prefer dealing with written text. Natural language ontologies like FrameNet represent language in a structured manner as well, but frame specifications are often not specific enough for a given domain (like cybersecurity). In this project, students will learn about cybersecurity threat ontologies and build a GUI web app tool that annotates provided cyber threat documents. No previous knowledge of cybersecurity necessary!&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruoyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chuqi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ziheng Gong&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Flask&lt;/li>
+&lt;li>Streamlit&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Collection&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Investigations of a Data Science Online Community</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition? What are features that predict high-performing teams? What features help generate teammate recommendations?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sara Melotte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devendra Swami&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jacob Bickman&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Young Kim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tsang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/marlon-twyman">Marlon Twyman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Matlab&lt;/li>
+&lt;/ul></description></item><item><title>Social Graph Analysis and Attribution of Software Exploit Contributors Using GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Attribution of cyber threat actors is an increasingly important and difficult problem. One potential mitigation is the early detection of potential threat actors via analysis of open-source intelligence (OSINT). This project will analyze the social graph of users who contribute to, follow, star, and otherwise interact with proof-of-concept CVE implementations and other relevant potentially malicious (e.g. software vulnerability) repositories on GitHub.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Atharva Rishi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erin Szeto&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaxin Liang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kshitij Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nghi Le&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;li>Graph Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Measuring population-level nutrition and dietary habits from Instagram</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will investigate the quality of Instagram textual posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial and textual features of posts linked to food outlets. Using an Instagram dataset of all geo-located posts at food outlets in Los Angeles for 3 months in 2014, this project will investigate whether Instagram posts, despite implicit biases (and to the extent possible, accounting for these biases), can provide a representative health signal, informative of the quality of population nutrition and dietary patterns at a highly-resolved (e.g. census tract level) spatial scale.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Divyatmika Lnu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shagun Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nina Thiebaut&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nisha Tiwari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ian Choi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Statistical Modeling&lt;/li>
+&lt;/ul></description></item></channel></rss>

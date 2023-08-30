@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deborah Khider | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/deborah-khider/</link><atom:link href="https://ckids-datafirst.github.io/website/author/deborah-khider/index.xml" rel="self" type="application/rss+xml"/><description>Deborah Khider</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/deborah-khider/avatar_hu76c41f7e6339f8eb756e6c284de2b7de_27461_270x270_fill_q75_lanczos_center.jpeg</url><title>Deborah Khider</title><link>https://ckids-datafirst.github.io/website/author/deborah-khider/</link></image><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Drought prediction in Southern California using deep learning</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/5/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/5/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Seasonal drought predictions are important for the management of water resources for agriculture, urban consumption… Seasonal forecasts have traditionally been done using a physics-based model. In this project, we will use a deep learning approach for drought forecasting in CA.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shubhashree Dash&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Katie Chak&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item><item><title>Annotating Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Paleoclimate data is highly diverse, requiring different sets of metadata to describe the various datasets. In this project, you will help build an interface to assist researchers in annotating their paleoclimate datasets according to an evolving reporting standard (PaCTS) and download them in the Linked Paleo Data (LiPD) format. The interface should be highly interactive (wizard) to accommodate the diversity of the data as well as offer editing capabilities for existing datasets (upload LiPD files) and check their compliance with PaCTS, plot location information and the time series, download into the LiPD format, upload to a semantic wiki and/or an SQL database. In addition, the interface should support the use of a recommender system (to be build) to help researchers in annotating their datasets.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yincheng Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shravya Manety&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;li>Web Technologies&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Collection&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Products</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/315/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/315/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters. In addition, you will develop post-processing code to determine the return period of the drought (is it a 1 in 20 yr event or 1 in 5 yr event?).&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Probability Theory&lt;/li>
+&lt;/ul></description></item><item><title>A workshop Tutorial on R and R Studio for Environmental Sciences Curriculum</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/508/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/508/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project created an electronic notebook using R and R studio for environmental sciences curriculum. The notebook will be used for undergraduate students to teach advanced statistical analysis about population health in Fall 2019.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Huy Nghiem&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jill-sohm">Jill Sohm&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Analyzing Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/509/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/509/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project focused on a causality analysis of paleoclimate time series using Pyleoclim, which is a Python package geared towards the analysis and visualization of paleoclimate data. Future work includes exploring and testing additional algorithms for time series analysis.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Han Wu&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Automated time series analysis</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a Python package for automated time series analysis. Based on the characteristics of the data, you will design functions that (1) perform essential tasks in data cleaning and select appropriate methodologies, (2) implement various algorithms currently not supported through pandas and scikit-learn, and (3) create appropriate visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Feng Zhu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Myron Kwan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shilpa Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deepanshu Madan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Pypi&lt;/li>
+&lt;/ul></description></item><item><title>Data Mining Over Past Climates</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Estimates of climate variations over the past 1,000 years play an increasing role in climate assessments. A key quantity to derive from them is the transient climate response (TCR), which quantifies the warming at expected from slowly-rising CO2 concentrations. TCR helps constrain the climate models used to predict the future evolution of Earth’s climate. In this project, you will help design an efficient workflow to estimate TCR from existing paleoclimate datasets and emerging statistical methods.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yuxuan Ji&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhifeng Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashka Patel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditi Choudhary&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shelly Mehta&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shravya Manety&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Tracking Coastal Change at Catalina Island</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/403/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/403/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Since 1992, the USC Wrigley Institute for Environmental Studies ‘Catalina Conservation Divers’ have been collecting underwater biological and environmental data from coastal ocean sites around Catalina Island, California. In cooperation with the USC Wrigley Institute, the CCD team (made up of community scientists and volunteer SCUBA divers) conducts quarterly surveys of marine species and benthic water temperatures at various depths and locations. The Wrigley Institute has been collecting and archiving this data for years, and the data has not been holistically studied to date. We need assistance in analyzing data for trends across location, ocean depth, and time.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Poster&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Wei-Fan Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sameeksha Mahajan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zijing Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pratheek Athreya&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jessica-dutton">Jessica Dutton&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saatvik Tikoo | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/saatvik-tikoo/</link><atom:link href="https://ckids-datafirst.github.io/website/author/saatvik-tikoo/index.xml" rel="self" type="application/rss+xml"/><description>Saatvik Tikoo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Saatvik Tikoo</title><link>https://ckids-datafirst.github.io/website/author/saatvik-tikoo/</link></image><item><title>A visual analytic toolkit for cultural biases</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a visual analytics toolkit that will enable social scientists to understand the cultural groups and biases at play in a social dataset. News, books, and social media all contain biases that stem from the cultural background of the author(s). We have developed algorithms to identify the cultural groups at play in an arbitrary dataset, as well as natural language processing approaches that can discover the biases of each group. This project would help bring put these tools into the hands of social scientists by displaying the output of these algorithms in novel visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Mansi Ganatra&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saatvik Tikoo&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;/ul></description></item></channel></rss>

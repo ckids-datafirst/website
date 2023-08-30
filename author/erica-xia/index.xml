@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Erica Xia | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/erica-xia/</link><atom:link href="https://ckids-datafirst.github.io/website/author/erica-xia/index.xml" rel="self" type="application/rss+xml"/><description>Erica Xia</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Erica Xia</title><link>https://ckids-datafirst.github.io/website/author/erica-xia/</link></image><item><title>Social Graph Analysis and Attribution of Software Exploit Contributors Using GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Attribution of cyber threat actors is an increasingly important and difficult problem. One potential mitigation is the early detection of potential threat actors via analysis of open-source intelligence (OSINT). This project will analyze the social graph of users who contribute to, follow, star, and otherwise interact with proof-of-concept CVE implementations and other relevant potentially malicious (e.g. software vulnerability) repositories on GitHub.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Atharva Rishi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erin Szeto&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaxin Liang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kshitij Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nghi Le&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;li>Graph Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
+&lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Analysis&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Sentiment Analysis&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Image Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
+&lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Analysis&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Sentiment Analysis&lt;/li>
+&lt;li>Image Analysis&lt;/li>
+&lt;/ul></description></item></channel></rss>

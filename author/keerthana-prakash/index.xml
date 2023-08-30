@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Keerthana Prakash | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/keerthana-prakash/</link><atom:link href="https://ckids-datafirst.github.io/website/author/keerthana-prakash/index.xml" rel="self" type="application/rss+xml"/><description>Keerthana Prakash</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Keerthana Prakash</title><link>https://ckids-datafirst.github.io/website/author/keerthana-prakash/</link></image><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Jonathan Lal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanket Bhilare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Keerthana Prakash&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himani Amrute&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item></channel></rss>

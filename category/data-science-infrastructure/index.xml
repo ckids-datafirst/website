@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Science Infrastructure | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/data-science-infrastructure/</link><atom:link href="https://ckids-datafirst.github.io/website/category/data-science-infrastructure/index.xml" rel="self" type="application/rss+xml"/><description>Data Science Infrastructure</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Data Science Infrastructure</title><link>https://ckids-datafirst.github.io/website/category/data-science-infrastructure/</link></image><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into their graph neural networks (GNNs) learning processes to predict temporally conditioned facts. These models capture the temporal dynamics of the facts well and are well-suited for temporally conditioned graph completion tasks. However, there remain many open issues that need to be addressed to make it more practical for real-world applications: (1) Real-world problems usually do not conform to the graph completion tasks which fill out the missing element in a fact; (2) Sparse graph due to lack of temporal triples for target task leads to poor performance; (3) Temporal graphs are inherently dynamic entities that grow and change over time but most existing models require computationally expensive training from scratch to incorporate these changes. Thus, we propose to design an efficient event forecasting framework that solves such challenges.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Parth Rohilla&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kiran Narahari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hangji He&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubham Gujar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Varun Venkatesh&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dongho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Web Crawling&lt;/li>
+&lt;/ul></description></item><item><title>Object detection and classification APIs for urban street image analysis</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vibhav Chitalia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carlos Zamora&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wonjun Lee&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>A framework for enabling software comparison and classification</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The number of scientific products, including scientific software, has been steadily growing in the last years. This growth makes it difficult for researchers to understand all the latest code and publications available. A great body of research has attempted at classifying similar papers and literature. However, there aren’t to date good approaches for finding similar or related code. In this project, the students will analyze different unsupervised methods to find scientific software similarities based on a) An automated analysis of their dependencies; b) By classifying the main functionality of software components.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yi Xie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bin Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mohan Krishna Thota&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Param Bole&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Sklearn&lt;/li>
+&lt;li>Data Manipulation&lt;/li>
+&lt;/ul></description></item><item><title>Generation of a Sports-based Introductory Data Science Curriculum to Increase Participation of Underrepresented Groups in STEM</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/211/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/211/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>As the requirements for success in the workforce become increasingly technical, there is a commensurate need for curricula that can engage and capture the imagination of students, especially those from traditionally underrepresented groups in STEM. One way to reach these groups is via curricula that appeals to contexts in which they’re familiar and engaged, such as sports. To that end, this project will explore the development of a sports-based introductory data science curriculum with the goal of engaging students who might otherwise not be interested in pursuing data science as a career. Students will work on generation of illustrative code examples/problem sets in Python using sports examples.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Everest Law&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhongying Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Pedagogy&lt;/li>
+&lt;li>Social Science&lt;/li>
+&lt;/ul></description></item><item><title>Integration of Frame Semantics to Cyber Ontologies</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/207/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/207/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks and infrastructure. While such representations are conducive to interoperability between systems, they are often unwieldy for human cyber analysts to deal with directly. Conversely, Natural language generation (NLG) frameworks like FrameNet represent language in a structured manner, but frame specifications are often not specific enough for specialized domains (such as cyber security). Leveraging and combining the semantic structure of both forms can create a tool that can translate cyber threat data in standard interoperable formats (such as STIX) to human-readable reports, via existing NLG frameworks. Working on a project such as this provides an opportunity for significant impact, as the fusion of these two structures could greatly increase both the adoption and the utility of cyber threat ontologies.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Folk Narongrit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Francis Sun&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Investigations of a Data Science Online Community</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition? What are features that predict high-performing teams? What features help generate teammate recommendations?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sara Melotte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devendra Swami&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jacob Bickman&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Young Kim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tsang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/marlon-twyman">Marlon Twyman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Matlab&lt;/li>
+&lt;/ul></description></item><item><title>Automated time series analysis</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a Python package for automated time series analysis. Based on the characteristics of the data, you will design functions that (1) perform essential tasks in data cleaning and select appropriate methodologies, (2) implement various algorithms currently not supported through pandas and scikit-learn, and (3) create appropriate visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Feng Zhu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Myron Kwan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shilpa Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deepanshu Madan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Pypi&lt;/li>
+&lt;/ul></description></item></channel></rss>

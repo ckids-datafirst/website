@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seon Kim | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/seon-kim/</link><atom:link href="https://ckids-datafirst.github.io/website/author/seon-kim/index.xml" rel="self" type="application/rss+xml"/><description>Seon Kim</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Seon Kim</title><link>https://ckids-datafirst.github.io/website/author/seon-kim/</link></image><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct. The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States.&lt;/p>
+&lt;p>Currently, data entries are manually identified, discovered and registered using public, open-sourced information, mostly news articles on the web, which critically limits its data collection process. Thus, this project aims at automating the discovery of such data with an efficient identification mechanism. Working with the Price School of Policy, we will implement an automatic identification mechanism to effectively search police misconduct articles utilizing web crawling/scarping and natural language processing.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Deborah Ho&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jooyoung Yoo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshay Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ikenna Joe-Nweke&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Object detection and classification APIs for urban street image analysis</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vibhav Chitalia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carlos Zamora&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wonjun Lee&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Object Detection and Classification for Street Cleanliness</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In collaboration with the Sanitation Department of LA, IMSC has been developing a framework to automatically detect the cleanliness of streets as well as any special objects in need of removal. The framework makes use of machine learning technology trained on images/videos collected by the city and/or taken by citizens. The images taken by mobile cameras (e.g., LA City’s garbage collection trucks and/or citizens’ smartphones using our own MediaQ App) are transferred to the MediaQ server, then these images can be automatically classified based on predefined cleanliness indexes and object types (such as bulky item, illegal dumping). In this project, we will focus on the detection and classification of homeless encampments in LA streets. Recorded images/videos with GPS location data will be processed and the classification results will be displayed on a map to understand the distribution of homeless people in LA, which is essential data to study the homeless issue.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Trisha Sinha&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Harsh Jaykumar Jalan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashwin Sakhare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divya Manjunath&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nai Cih Liou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;li>Computer Vision&lt;/li>
+&lt;/ul></description></item><item><title>Crosstown</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Giorgos and John are developing a machine learning system to automatically detect, prioritize, and alert journalists in the presence of abnormalities in crime data. Through this project, they want to assist journalists to identify interesting stories in data. The data is rich in features, and by using general feature engineering.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Giorgos Constantinou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>John Cutone&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Understanding human environmental perceptions using multi-biometric signals in the built environment</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/405/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/405/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Human, as a building occupant, is always surrounded by several indoor environmental quality (IEQ) elements, such as thermal, visual, air, and acoustic conditions. Therefore, the user’s environmental comfort and work productivity are significantly affected by the IEQ conditions, especially in residential, office, and educational facilities. This research is to investigate the relationships between the user’s IEQ comfort perceptions, IEQ conditions and his/her bio-metric signals to understand how to identify individual IEQ perception as a function of single or combined bio-signals (changes). The study outcome will have a potential to be integrated with the existing building mechanical/electrical control systems to enhance the user’s IEQ conditions while contributing to his/her comfort and well-being in the built environment.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Manoj Muralidhara&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubham Banka&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gaurav Gupta&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Mining&lt;/li>
+&lt;li>SPSS&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

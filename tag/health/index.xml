@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Health | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/health/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/health/index.xml" rel="self" type="application/rss+xml"/><description>Health</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Health</title><link>https://ckids-datafirst.github.io/website/tag/health/</link></image><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Aryan Karnati&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sudesh Kumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siyi Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shuchan Zhou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/kristina-lerman">Kristina Lerman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing Online Attitudes, Expectations, and Concerns about Novel Medical Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/605/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/605/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Novel, or hypothesized medical treatments, such as COVID-19 vaccines and male contraception, are regularly discussed on social media. For example, on the AskReddit subreddit, questions of the form “”Would you take [x] if it existed?”” Aside from willingness to use these novel treatments, the answers to these questions contain important clues to peoples’ latent concerns and barriers to adoption of novel medications. Understanding them can provide crucial information about how to introduce, communicate, and counsel about new medications when they come to market. In this project you will use pre-collected Reddit data spanning 10 years to answer questions including: What concerns do individuals have about a novel medication? How do these concerns vary by demographics, such as cultural background? How have these concerns evolved over time? What has caused users to become more or less accepting of the treatment over time?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Listen to your body: Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The development of COVID-19 has had an impact on the lives of millions of people worldwide. Air quality needs to be improved immediately because COVID-19 can spread through airborne aerosols, raising concerns about how the virus will behave in enclosed spaces. To understand how to estimate the time lag of air quality transmission between indoor and outdoor, it is necessary to gather enough and reasonably accurate data before using a machine learning model and statistical tools to analyze the data. This will allow us to investigate the connection between indoor air quality and human physiological responses. Participants' bio-signals, survey results, and the state of the indoor and outdoor environments must all be collected as three different types of data. The heart rate, skin temperature, stress level, and EDA of the occupants make up the second set of bio-signal data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yifan Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vu Truong Si&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anood Alkatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pallavi Vijayan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Conner Kojima&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yihao Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nachiket Dunbray&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>COVID-19 misinformation</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This new project attempts to understand the interaction between anti-vaxxers (anti-vaccination groups) and alt-right groups on platforms such as Facebook. The goal of this project is to understand how do these two types of fringe groups interact over the years, and how do their interactions and discourse evolve during the COVID-19 pandemic. It would be interesting to explore the longitudinal patterns of network/discourse co-evolution and how such patterns may change in times of dramatic events.In terms of data, I have access to Facebook’s historical data archive and I have collected a dataset that contains a list of anti-vaxxer (n=158) and alt-right groups’ (n=183) Facebook posts over 10 years (2010-2021). The dataset can be further expanded with additional help.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yilin Qi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Revanth Madamala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Luer Lyu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/aimei-yang">Aimei Yang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Impacts of Smart Windows on Human’s Bio-Signals</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This research will be conducted to find out the relationship between humans’ bio-signals and electrochromic windows, which is useful to create a possible mechanism of using bio-signals to control the windows. By using wearable sensors and remote sensors, subjects’ bio-signals like heart rate, skin temperature, and pupil sizes, and indoor environmental quality like temperature and humidity could be monitored and analyzed. At last, by utilizing machine learning and data analysis skills, the impacts on humans’ bio-signals could be analyzed.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Wenjia Dou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jingping Yu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/zihan-wang">Zihan Wang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Investigate the healthy indoor air quality under Covid-19 in Los Angeles based on machine learning</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>So far we do not know how much ventilation quantity will be needed to effectively prevent infection with COVID-19, and there is no sensor can measure coronavirus. But PM 2.5 and CO2 are the good indicators to estimate the Covid-19 virus concentration. Moreover, bio-signals can be used to assess people’s state of health. In my experiment, I will find participants and collect data including indoor environmental data, outdoor environmental data and human bio-signals. Then, the data will be analyzed by machine learning to find the correlation between the indoor environmental factors and the outdoor environmental factors, the correlation between the indoor environmental factors and human factors, also I can find the appropriate range of every indoor air quality factors when people under human healthy state, therefore, finally I can control the window to keep the indoor CO2 and pm2.5 within that range of the conclusion to keep people in a healthy state.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yixiao Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhaohong Feng&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/minghuan-gong">Minghuan Gong&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
+&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
+&lt;p>CKIDS PROJECT TASKS&lt;/p>
+&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
+&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Tao Huang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Computational Simulation&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
+&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
+&lt;p>CKIDS PROJECT TASKS&lt;/p>
+&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
+&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Tao Huang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Computational Simulation&lt;/li>
+&lt;/ul></description></item><item><title>Measuring population-level nutrition and dietary habits from Instagram</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will investigate the quality of Instagram textual posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial and textual features of posts linked to food outlets. Using an Instagram dataset of all geo-located posts at food outlets in Los Angeles for 3 months in 2014, this project will investigate whether Instagram posts, despite implicit biases (and to the extent possible, accounting for these biases), can provide a representative health signal, informative of the quality of population nutrition and dietary patterns at a highly-resolved (e.g. census tract level) spatial scale.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Divyatmika Lnu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shagun Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nina Thiebaut&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nisha Tiwari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ian Choi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Statistical Modeling&lt;/li>
+&lt;/ul></description></item></channel></rss>

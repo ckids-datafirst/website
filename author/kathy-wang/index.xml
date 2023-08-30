@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kathy Wang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/kathy-wang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/kathy-wang/index.xml" rel="self" type="application/rss+xml"/><description>Kathy Wang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Kathy Wang</title><link>https://ckids-datafirst.github.io/website/author/kathy-wang/</link></image><item><title>Automatically segmenting and describing the human corpus callosum from brain MRIs</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/106/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/106/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The human corpus callosum is the largest pathway connecting the left and right hemispheres of the brain. The shape of the corpus callosum (CC) changes throughout the course of human development, and it can also be altered with respect to disease onset. We can explore the variation in CC shape along the middle of the brain, but we need to extract it reliably first. The lab currently has two methods for extracting the CC, one using only image processing techniques, and another using deep learning (UNet) but these methods do not always extract the CC accurately. The accuracy results often depend on the MRI scanner that was used, or the abnormalities present in the scan. Can we improve the performance of our deep learning model with additional training data? Can we change some processing steps to improve the model? Once we do have an accurate segmentation, then what shape metrics of the CC as a whole, or in parts, are most telling of the underlying biology, such as age and risk for disease?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Project Achievement&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Project Website&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Interdisciplinary Data Science Project&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Kathy Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shayan Javid&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vineet Agarwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiahui Lu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>Bash&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

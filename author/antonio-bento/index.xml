@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antonio Bento | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/antonio-bento/</link><atom:link href="https://ckids-datafirst.github.io/website/author/antonio-bento/index.xml" rel="self" type="application/rss+xml"/><description>Antonio Bento</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Antonio Bento</title><link>https://ckids-datafirst.github.io/website/author/antonio-bento/</link></image><item><title>Measuring Pollution Benefits from Congestion Pricing Initiatives</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Using real-time big data from Los Angeles freeways on traffic and Aclima data on pollution measurements, this project will estimate the links between speed and pollution. Estimating this relationship properly is crucial for knowing the benefits that congestion pricing may generate in terms of pollution reduction. Computer Science methods will be used to guide the choice of policy intervention and guide prediction.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/antonio-bento">Antonio Bento&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

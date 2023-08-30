@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yassamin Neshatvar | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yassamin-neshatvar/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yassamin-neshatvar/index.xml" rel="self" type="application/rss+xml"/><description>Yassamin Neshatvar</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Yassamin Neshatvar</title><link>https://ckids-datafirst.github.io/website/author/yassamin-neshatvar/</link></image><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</guid><description>&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yassamin Neshatvar | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yassamin-neshatvar/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yassamin-neshatvar/index.xml" rel="self" type="application/rss+xml"/><description>Yassamin Neshatvar</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Yassamin Neshatvar</title><link>https://ckids-datafirst.github.io/website/author/yassamin-neshatvar/</link></image><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</guid><description>&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Anood Alkhatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rushit Jain&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Samarth Saxena&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abishek Phalak&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yassamin Neshatvar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shruthakeerthy Srinivasan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vaidehi Vatsaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siddarth Rudraraju&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Gordo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shelby Wu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/najmedin-meshkati">Najmedin Meshkati&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>Clinical knowledge&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>AWS Sagemaker&lt;/li>
+&lt;/ul></description></item></channel></rss>

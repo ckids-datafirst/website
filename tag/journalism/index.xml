@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Journalism | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/journalism/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/journalism/index.xml" rel="self" type="application/rss+xml"/><description>Journalism</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Journalism</title><link>https://ckids-datafirst.github.io/website/tag/journalism/</link></image><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct. The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States.&lt;/p>
+&lt;p>Currently, data entries are manually identified, discovered and registered using public, open-sourced information, mostly news articles on the web, which critically limits its data collection process. Thus, this project aims at automating the discovery of such data with an efficient identification mechanism. Working with the Price School of Policy, we will implement an automatic identification mechanism to effectively search police misconduct articles utilizing web crawling/scarping and natural language processing.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Deborah Ho&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jooyoung Yoo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshay Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ikenna Joe-Nweke&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>NVISION: Network Visualization Interventions Supporting Interpretation of Objective News</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“The current fractured media landscape allows individuals to choose confirming over credible information, and information spreads quicker online than interventions like fact-checking. Misinformation can be debiased by identifying gaps in mental representations of the world (mental models) and prompt alerts to be vigilant about assessing information (Lewandowsky et al, 2012).&lt;/p>
+&lt;p>We aim to develop interventions to make media-balance salient to users to mitigate the spread of misinformation. Social sampling theory describes that our misperceptions of others is explained by the sample of people we encounter (Galesic, Olsson, and Rieskamp, 2012), and we are more likely to link to similar people online (Kossinets &amp;amp; Watts, 2009). Our interventions address limitations in individual views of the media landscape. We aim to attach visualizations of sharing network to news articles in real-time to make these biases explicit.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yanan Zhou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Megan Josep&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Priya Mane&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Minrui Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhinav Rao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Samip Kalyani&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;/ul></description></item><item><title>Crosstown</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Giorgos and John are developing a machine learning system to automatically detect, prioritize, and alert journalists in the presence of abnormalities in crime data. Through this project, they want to assist journalists to identify interesting stories in data. The data is rich in features, and by using general feature engineering.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Giorgos Constantinou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>John Cutone&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Palak Agarwal | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/palak-agarwal/</link><atom:link href="https://ckids-datafirst.github.io/website/author/palak-agarwal/index.xml" rel="self" type="application/rss+xml"/><description>Palak Agarwal</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Palak Agarwal</title><link>https://ckids-datafirst.github.io/website/author/palak-agarwal/</link></image><item><title>Community Economic Tool</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/606/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/606/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Determining what makes a region “most attractive” for new business will involve more exploratory research in determining what variable(s) are most indicative of potential economic growth opportunities. Additional research will be conducted to identify various predictors of our indicator variable, such as unemployment rate and educational level of tract level residents, neighboring tract residents, and broadband accessibility. That is to say, “What does this region of Miami do?” What industries are the largest employers in each region and are they also the ones generating the most revenue? Once each region has been properly identified, one can identify the dominant predictors of economic growth within this region and compare to other tracts with the same dominant industry structure. This will highlight the role geographic regions play in economic development and growth of various industries.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/palak-agarwal">Palak Agarwal&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>William Lu | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/william-lu/</link><atom:link href="https://ckids-datafirst.github.io/website/author/william-lu/index.xml" rel="self" type="application/rss+xml"/><description>William Lu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>William Lu</title><link>https://ckids-datafirst.github.io/website/author/william-lu/</link></image><item><title>Identification and characterization of cross-platform misinformation diffusion</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/709/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/709/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fringe communities are often the sources of conspiracy theories and extreme ideas. Niche online platforms hosting such communities represent suitable incubators for reinforcing questionable stories and to ultimately push them into the mainstream. Over the years, information pathways from fringe to mainstream media have significantly increased, enabling the proliferation of harmful content. This project aims at developing novel network- and AI-based models for identifying and characterizing information pathways that enable the proliferation of potentially harmful content on online media channels. Mainstream social media (Twitter, Facebook, and Instagram), video streaming platforms (YouTube and Bitchute), niche platforms (Gab, 4chan, and Parler), and messaging apps (Telegram) will be considered to investigate how harmful narratives flow across diverse platforms and predict those that will gain traction on mainstream media.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Open and Sharing Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Cyberphysical Data Science&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>William Lu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zexun Yao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Duyen Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jinyi Ye&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aaron Tom&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;/ul></description></item></channel></rss>

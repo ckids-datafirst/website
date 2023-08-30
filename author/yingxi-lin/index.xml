@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yingxi Lin | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yingxi-lin/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yingxi-lin/index.xml" rel="self" type="application/rss+xml"/><description>Yingxi Lin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Yingxi Lin</title><link>https://ckids-datafirst.github.io/website/author/yingxi-lin/</link></image><item><title>Mapping the impacts of climate change across LA County</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/205/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/205/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>We are increasingly hyper-aware of the effects of climate change. But we are not always aware of how hyper-local those effects can be. Across the 2,500 square miles of Los Angeles County, the impact of climate change is playing out in different ways. For example, some areas are experiencing more frequent spikes in extreme temperatures, while others are not. We propose a project that would fuse together several different datasets in order to map how temperature changes and other variables are hitting some corners of Los Angeles harder than others. Often, these areas are inhabited by people facing numerous other inequities, such as poor healthcare access. By examining several years’ worth of hourly average temperatures from thousands of spots across Los Angeles County, and combining that with other datasets, such as tree cover, cases of asthma, and so forth, it is possible to create an interactive map that illustrates where the impacts of climate change are most acute. This project would be published by Annenberg’s Crosstown publishing outlet and would be distributed widely. The project would have immediate practical applications and could inform policy decisions on issues such as where to place parks and green spaces.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Simon Khan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vinith Angadi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yingxi Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shalini Mustala&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>GIS&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;/ul></description></item></channel></rss>

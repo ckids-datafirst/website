@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spring 2020 | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/spring-2020/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/spring-2020/index.xml" rel="self" type="application/rss+xml"/><description>Spring 2020</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Spring 2020</title><link>https://ckids-datafirst.github.io/website/tag/spring-2020/</link></image><item><title>A Data Challenge for Parkinson’s Disease</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will assemble a team to participate in the Biomarker and Endpoint Assessment to Track Parkinson’s Disease (BEAT-PD) DREAM Challenge by the Michael J. Fox Foundation and Sage Bionetworks. The challenge is designed to benchmark new methods to predict Parkinson’s disease progression. Teams participating in the Challenge will have access to raw sensor data that can be used to predict individual medication state and symptom severity. Specifically, teams are asked to develop methods to predict on/off medication status, dyskinesia severity, and/or tremor severity.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Nazgol Tavabi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Che-Pai Kung&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Likitha Lakshminarayanan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item><item><title>A Knowledge Graph for Cybersecurity Experiments</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/304/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/304/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The DETER cybersecurity testbed has been running experiments for several years, collecting information about intrusions, vulnerabilities, and mitigation strategies. This project will capture cybersecurity experiments as a knowledge graph that can be browsed, queried, and mined to find patterns and create models of cyberattacks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Alex Zihuan Ran&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hardik Mahipal Surana&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jelena-mirkovic">Jelena Mirkovic&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;/ul></description></item><item><title>Annotating Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Paleoclimate data is highly diverse, requiring different sets of metadata to describe the various datasets. In this project, you will help build an interface to assist researchers in annotating their paleoclimate datasets according to an evolving reporting standard (PaCTS) and download them in the Linked Paleo Data (LiPD) format. The interface should be highly interactive (wizard) to accommodate the diversity of the data as well as offer editing capabilities for existing datasets (upload LiPD files) and check their compliance with PaCTS, plot location information and the time series, download into the LiPD format, upload to a semantic wiki and/or an SQL database. In addition, the interface should support the use of a recommender system (to be build) to help researchers in annotating their datasets.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yincheng Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shravya Manety&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;li>Web Technologies&lt;/li>
+&lt;/ul></description></item><item><title>Capturing the Provenance of Data Analysis Using the PROV Standard</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/319/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/319/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. The current ASSET interface enables users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc). This project will focus on capturing provenance records for data science projects and using the W3C PROV standard to export those records. It will also develop tools to mine provenance data to find common patterns of use.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;li>UI Development&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Connections within Contemporary Feminism Movements</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will look at events data collected at several recent feminist social movements and understand their connection to each other. Specifically, it will explore individuals or organizations that played instrumental role in movement mobilization, relationship brokerage between movements, and building and sustaining activist communities. Previous research suggests that those distinctive movements are often not isolated incidents, but mobilized by a core group of “leaders” or similar ideas and frames. The goal is to understand how seemingly disconnected movements relate to one another help to reveal the lasting impact of mediated movements.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Keerti Bhogaraju&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ian Myoungsu Choi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Negar Mokhberian&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nazanin Alipourfard&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/aimei-yang">Aimei Yang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Data Mining&lt;/li>
+&lt;/ul></description></item><item><title>Data scraping for salary benchmarking</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will develop a data scraper to collect salary records from a website that provides compensation data for faculty at public universities. When provided a list of faculty names and institutional affiliations, this program will search for the associated records, extract the relevant results, and copy the data into a spreadsheet. The purpose of this project is to explore the feasibility of automating an otherwise time-consuming data collection task required for benchmarking of faculty salaries in relation to peer institutions. This will ultimately facilitate a number of important tasks, including analysis of potential salary disparities within certain disciplines and faculty tracks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Matthew Lim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Minh Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sindhu Ravi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vihang Mangalvedhekar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tsang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tj-mccarthy">T.J. McCarthy&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ginger-clark">Ginger Clark&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Web Scraping&lt;/li>
+&lt;/ul></description></item><item><title>Digital Democracy: Using Social Media to Improve Political Discourse</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/317/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/317/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Politicians in modern democracies across the world have eagerly adopted social media for engaging their constituents, entering into direct dialogs with citizens. From the perspective of political actors, there is a need to continuously gather, monitor, analyze, and visualize politically relevant information from online social media with the goal to improve communication with citizens and voters. The goal of this proposal is to create a tool that enhances interaction and dialogue between political actors and their followers. This will be achieved by creating compact and comprehensive summaries that aggregate and visualizes common narratives, thus, reducing the cognitive load required to read all the messages and streamlining the dialogue experience.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Alex Spangher&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yash Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Swetha Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hongyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Raveena Kshatriya&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>NLP&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item><item><title>Disparities in educational achievement</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/312/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/312/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The project will combine socio-economic data from US Census with college and K-12 performance data to identify correlates of positive educational outcomes. Of specific interest will be assessing how economic inequalities and racial disparities affect educational achievement in different regions of US.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yuzi He&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ziping Hu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zicai Wang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/kristina-lerman">Kristina Lerman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Gender inclusion in science</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will measure representation of women in various scientific disciplines across time (and different countries) and identify institutions who have succeeded in creating a more welcoming environment for women. While there are already studies that use bibliographic data to map career trajectories of women, they do not focus on the role that institutions (and countries) – and their policies – play in retaining female researchers.&lt;/p>
+&lt;p>The data comes from Microscoft Academic Graph, containing millions of papers from institutions around the world across many decades. We will use Ethenea API to extract gender (and ethnicity) of authors.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ninareh Mehrabi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vineetha Nadimpalli&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ayushi Jha&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/goran-muric">Goran Muric&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kristina-lerman">Kristina Lerman&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The broadband access market is increasingly dominated by a few large ISPs. However, small and medium-size operators (“microtelcos”) are critical to connectivity in low-income and rural communities in CA, serving markets of little interest to large operators. The primary goal of this project is to combine broadband infrastructure deployment data from the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau to understand the characteristics of the communities served by microtelcos, and to analyze whether the presence of a microtelco operator contributes to higher levels of connectivity in the community. The main technical challenge is to combine spatial data found in CPUC files with census block level data provided by the Census Bureau. This is part of an ongoing research program called Connected Communities and Inclusive Growth (CCIG).&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/hernan-galperin">Hernan Galperin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>GIS&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Stata&lt;/li>
+&lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Products</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/315/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/315/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters. In addition, you will develop post-processing code to determine the return period of the drought (is it a 1 in 20 yr event or 1 in 5 yr event?).&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Probability Theory&lt;/li>
+&lt;/ul></description></item><item><title>Modelling Spatiotemporal Relationships between Waste Water Injection and Induced Seismicity</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/309/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/309/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Induced seismicity refers to earthquakes that are caused as a result of human activity, such as disposing of wastewater by injecting it into the subsurface. This project will focus on spatiotemporal statistics to model space-time relationships between injected wastewater and induced earthquakes. The model will incorporate space-time data pertaining to seismic activity and associated human systems to create forecasts of induced earthquakes.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/orhun-aydin">Orhun Aydin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>GIS&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item><item><title>Predicting Effective Tax Rate of Publicly-Traded Firms</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/307/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/307/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The purpose of this project is to analyze business firms’ text disclosures to determine if those text disclosures are related to firms’ tax rates. In so doing we first capture information about the text and then relate that text information to quantitative information, using statistical modeling. So far, we have generated and used some bags of words to capture information that we expect will provide insight into the tax rates that those firms incur. Our knowledge acquisition approach, to gather those bags of words, was to interview an expert. We then counted the number of occurrences of those words in our text, and used statistical models to relate the number of those occurrences to different measures of tax rates. We find that those bags of words are statistically significantly related to measures of tax rates that firms pay. In addition, we find that “tax specific bags of words” work “better” than “generic accounting bags of words.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Jae Young Kim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yuqin Jiang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kanlin Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saravanan Manoharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-eoleary">Daniel E. O’Leary&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistical Analysis&lt;/li>
+&lt;li>Text Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Team Dynamics in Online Multiplayer Games</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/320/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/320/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Competitive online multiplayer team games such as CounterStrike, PUBG or League of Legends are extremely popular. Multiple teams of professional players compete in hundreds of tournaments yearly. Player transfer between teams are common. The goal of the project is to measure the effects of player transfers and to answer some of the questions such as: How does a new player affect the team’s performance?; How does the change of a team affects player’s performance? The world of online games can be used as a fruitful area for tackling more fundamental questions on human society and collaboration dynamics in different settings.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Collection&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Kevin Tsang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaqi Liu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/goran-muric">Goran Muric&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Text Analysis, Social Networks and Crowdsourcing</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/308/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/308/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The purpose of this project is to analyze a crowdsourcing setting for both the sentiment and other categories of meaning in the text, and the roles and impact of a network of contributors on the votes and potentially on the content.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Dan Peng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gitanjali Kanakaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hanieh Arabzadehghahyazi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Naiya Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nana Andriana&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/keith-burghardt">Keith Burghardt&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/daniel-eoleary">Daniel E. O’Leary&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Text Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Towards Automated Understanding of Scientific Software</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Data science projects require knowledge of software that changes rapidly. As a result, scientists spend hours reading long documentations and manuals instead of advancing their scientific fields. In this project, we aim to automatically extract relevant aspects of scientific software (e.g., what does it do, how to install it, how to operate with it or how to cite it) from documentation and code using machine learning techniques. The students will build on an existing baseline of classifiers and try to improve the existing results.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Open and Sharing Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Project Presentation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Haripriya Dharmala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaying Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vedant Diwanji&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Sklearn&lt;/li>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
+&lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Analysis&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Sentiment Analysis&lt;/li>
+&lt;li>Image Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Turning Library Collections into Data Science Challenges and Resources</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Libraries, museums, and archives hold unique collections that may be very useful for data science. These collections include photographs, videos, letters, and other artifacts that could give unique insights when analyzed. In this project, students will work with the USC Libraries to identify existing collections that would be potentially interesting as targets for data science, describe those collections in collaboration with the USC Libraries so they can be promoted as data science resources, and create APIs and other access mechanisms for data science researchers on campus and beyond.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Chaitra Mudradi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Feilong Wu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hsing-Hsien Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Maria MacHarrie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubhankar Singh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yangtao Hu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-holmeswong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item><item><title>Using Biomedical Researcher Judgments to Predict Clinical Trial Outcomes</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/302/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/302/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Human patients should only be assigned to experimental medical treatments when investigators are truly uncertain about the novel treatment’s clinical utility. As such, the outcomes of clinical trials are difficult to predict by design. The goal of this project is to work toward building a predictive model of clinical trials. The first step is to categorize treatments based on their history and diseases based on their treatability using FDA records among other data sources. In collaboration with the Biomedical Ethics Unit at McGill University, we have collected many probability predictions about scientific and operational outcomes of newly registered clinical trials. When pre-processing is completed, we will begin building a model to predict the judgments of medical experts based on several trial and researcher characteristics. This model can be used to assess whether medical researchers are biased in their judgments about their own trials. Finally, we aim to assemble these components to develop a model to predict the outcomes of the clinical trials by accounting for the history of the treatment, treatability of the disease, and judgments of medical research accounting for revealed biases.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Predictive modeling&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item></channel></rss>

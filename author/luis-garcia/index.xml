@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luis Garcia | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/luis-garcia/</link><atom:link href="https://ckids-datafirst.github.io/website/author/luis-garcia/index.xml" rel="self" type="application/rss+xml"/><description>Luis Garcia</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Luis Garcia</title><link>https://ckids-datafirst.github.io/website/author/luis-garcia/</link></image><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In this project, we will work on semantically aligning IoT sensor data and neural data with the human experience. We have developed a sensor platform to record the human experience as patients perform navigational tasks. The goal is to understand what context shifts in the human experience anchor our episodic memories. Each student will have the opportunity to work with different sensing modalities, and develop models for both sensory perception and reasoning.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Helin Yilmaz&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ao Xu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ketki Kinkar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saurabh Koshatwar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Christian Bryan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashley Sue&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Tensorflow&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/602/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/602/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Cyberphysical Data Science Project&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yishan Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Navyada Koshatwar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gayathri Shrikanth&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rushi Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pranjali Tushar Tembhurnikar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Manuel Amaya&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item></channel></rss>

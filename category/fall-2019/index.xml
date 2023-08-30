@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fall 2019 | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/fall-2019/</link><atom:link href="https://ckids-datafirst.github.io/website/category/fall-2019/index.xml" rel="self" type="application/rss+xml"/><description>Fall 2019</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Fall 2019</title><link>https://ckids-datafirst.github.io/website/category/fall-2019/</link></image><item><title>A visual analytic toolkit for cultural biases</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a visual analytics toolkit that will enable social scientists to understand the cultural groups and biases at play in a social dataset. News, books, and social media all contain biases that stem from the cultural background of the author(s). We have developed algorithms to identify the cultural groups at play in an arbitrary dataset, as well as natural language processing approaches that can discover the biases of each group. This project would help bring put these tools into the hands of social scientists by displaying the output of these algorithms in novel visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Mansi Ganatra&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saatvik Tikoo&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;/ul></description></item><item><title>Automated generation of paper authors</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in an open-source software tool that will have general applicability for scientific publications. Papers with hundreds of authors are not uncommon in science, and it often takes many weeks to compile an author list in the desired order with proper affiliations and acknowledgments. We have implemented an algorithm that generates the author information for a paper based on the type of contribution of each author within the ENIGMA neuroscience consortium. This project would extend this software to read in compiled spreadsheets or forms and extract information about universities and other institutions from structured web sources, to interoperate with widely-used frameworks such as Wikidata.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Open and Sharing Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruiyu Zhao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xingyu Wei&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tieming Sun&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>RDF&lt;/li>
+&lt;li>UI Development&lt;/li>
+&lt;/ul></description></item><item><title>Automated time series analysis</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a Python package for automated time series analysis. Based on the characteristics of the data, you will design functions that (1) perform essential tasks in data cleaning and select appropriate methodologies, (2) implement various algorithms currently not supported through pandas and scikit-learn, and (3) create appropriate visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Feng Zhu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Myron Kwan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shilpa Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deepanshu Madan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Pypi&lt;/li>
+&lt;/ul></description></item><item><title>Building an open catalog of integrated datasets for Los Angeles</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>While many open data efforts have managed to successfully expose public data in the web, it is often complicated to determine how these records can be integrated with each other (due to heterogeneous ids, not clear how to place them into a map, etc.). In this project, the student will leverage the novel techniques for integrating, registering and connecting datasets with overlapping elements. The results will be visualized by the student using interactive maps.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Anjana Niranjan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kushagra Singh Sachan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chi Sheng Yang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Building Sports Data Knowledge Graphs</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/414/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/414/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Public sports data is often spread across many differing sources, creating issues of entity resolution and record linkage. Knowledge graphs are a popular conceptual technology for storing, fusing and querying information from such disparate sources. This project will focus on building a sports data knowledge graph, from various open data and asset (e.g. video) sources/API, based on a Wikidata infrastructure.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Unix System&lt;/li>
+&lt;li>SPARQL&lt;/li>
+&lt;/ul></description></item><item><title>Capturing provenance of data analyses</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/416/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/416/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. This project will design and develop a user interface for specifying provenance records using W3C standards. The interface will enable users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Rahul Jeswani&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Javascript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;/ul></description></item><item><title>Creating and visualizing a linked knowledge base of crime data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/412/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/412/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>A lot of data is available in the web in a tabular manner, but it’s difficult to manipulate and visualize without a significant effort. In this project, we aim to test a novel framework created at ISI to build and visualize knowledge bases. The objective is to create a knowledge base that extends the other resources in the Web such as Wikidata or Wikipedia, and visualize the results using interactive maps and plots.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vedant Diwanji&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yi-Li Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Andrew Zhao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Haripriya Dharmala&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Representation&lt;/li>
+&lt;li>RDF&lt;/li>
+&lt;/ul></description></item><item><title>Data infrastructure for USC</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing software and data resources for USC students. Software resources include tools to process and analyze specific types of data (eg social networks, images, text, etc), data preparation tools, or machine learning libraries. Data resources include thematic data repositories, such as urban LA data, environmental LA data, entertainment LA data, etc.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yang Dai&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zixuan Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Parul Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yu Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanjiv Soni&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shenoy Pratik Gurudatt&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Open Source Software Development&lt;/li>
+&lt;li>Data Services&lt;/li>
+&lt;/ul></description></item><item><title>Data Mining Over Past Climates</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Estimates of climate variations over the past 1,000 years play an increasing role in climate assessments. A key quantity to derive from them is the transient climate response (TCR), which quantifies the warming at expected from slowly-rising CO2 concentrations. TCR helps constrain the climate models used to predict the future evolution of Earth’s climate. In this project, you will help design an efficient workflow to estimate TCR from existing paleoclimate datasets and emerging statistical methods.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yuxuan Ji&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhifeng Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashka Patel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditi Choudhary&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shelly Mehta&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Detecting deep fakes</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Shenoy Pratik Gurudatt&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item><item><title>Learning to Connect: Modeling Social Network Dynamics and Evolution by Imitation Learning</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/420/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/420/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In this research, we aim to model how human players make connection decisions in an online game where players are free to add or delete a friend, as well as join a clan.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Yiley Zeng&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/emilio-ferrara">Emilio Ferrara&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Measuring Pollution Benefits from Congestion Pricing Initiatives</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Using real-time big data from Los Angeles freeways on traffic and Aclima data on pollution measurements, this project will estimate the links between speed and pollution. Estimating this relationship properly is crucial for knowing the benefits that congestion pricing may generate in terms of pollution reduction. Computer Science methods will be used to guide the choice of policy intervention and guide prediction.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/antonio-bento">Antonio Bento&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Measuring population-level nutrition and dietary habits from Instagram</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will investigate the quality of Instagram textual posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial and textual features of posts linked to food outlets. Using an Instagram dataset of all geo-located posts at food outlets in Los Angeles for 3 months in 2014, this project will investigate whether Instagram posts, despite implicit biases (and to the extent possible, accounting for these biases), can provide a representative health signal, informative of the quality of population nutrition and dietary patterns at a highly-resolved (e.g. census tract level) spatial scale.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Divyatmika Lnu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shagun Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nina Thiebaut&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nisha Tiwari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ian Choi&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>Statistical Modeling&lt;/li>
+&lt;/ul></description></item><item><title>Mining Side Effects in Cancer Treatment</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/406/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/406/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>SideEffects is a cancer patient’s resource to access treatment and side effects tailored to the patient’s treatment and disease history. The app sources content from clinical data, National Cancer Institute, social media, and user input from an app.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Justin Ho&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sankareswari Govindarajan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tran&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yi-Hsin Chung&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sangeeth Koratten&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/thuy-thanhtruong">Thuy Thanh Truong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Modeling the career trajectory of music artists</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/407/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/407/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Many musicians, from up-and-comers to established artists, rely heavily on performing live to promote and disseminate their music. To advertise live shows, artists often use concert discovery platforms that make it easier for their fans to track tour dates. In this project, we ask whether digital traces of musical performances generated on those platforms can be used to understand career trajectories of artists. We have amassed a dataset we constructed by cross-referencing data from such platforms (Songkick, and Discogs). In this project, you will identify and explore patterns that can be used to identify successful musicians.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shravya Manety&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Tell us where it hurts</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/415/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/415/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>LA Care has a mission to “provide access to quality health care for Los Angeles County’s vulnerable and low-income communities and residents and to support the safety net required to achieve that purpose.” In the many coordinated activities LA Care conducts to provide a comprehensive health insurance safety net, it collects massive amounts of healthcare data. With advances in analytics enabled by AI approaches (e.g. predictive modeling, machine learning, model refinement and validation), the organization is looking for ways to mine and analyze its data to drive optimization and improvement of product development, marketing techniques and business strategies. Students will work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions. The ability to identify and address “pain points” will depend on the skills that students bring to the project.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yihang Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lisa Meng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chiaofeng Yang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nelson Lam&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/george-tolomiczenko">George Tolomiczenko&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/phil-mcabee">Phil McAbee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;li>Data Mining&lt;/li>
+&lt;/ul></description></item><item><title>Tracking Coastal Change at Catalina Island</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/403/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/403/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Since 1992, the USC Wrigley Institute for Environmental Studies ‘Catalina Conservation Divers’ have been collecting underwater biological and environmental data from coastal ocean sites around Catalina Island, California. In cooperation with the USC Wrigley Institute, the CCD team (made up of community scientists and volunteer SCUBA divers) conducts quarterly surveys of marine species and benthic water temperatures at various depths and locations. The Wrigley Institute has been collecting and archiving this data for years, and the data has not been holistically studied to date. We need assistance in analyzing data for trends across location, ocean depth, and time.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Poster&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Wei-Fan Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sameeksha Mahajan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zijing Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pratheek Athreya&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jessica-dutton">Jessica Dutton&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item><item><title>Understanding human environmental perceptions using multi-biometric signals in the built environment</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/405/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/405/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Human, as a building occupant, is always surrounded by several indoor environmental quality (IEQ) elements, such as thermal, visual, air, and acoustic conditions. Therefore, the user’s environmental comfort and work productivity are significantly affected by the IEQ conditions, especially in residential, office, and educational facilities. This research is to investigate the relationships between the user’s IEQ comfort perceptions, IEQ conditions and his/her bio-metric signals to understand how to identify individual IEQ perception as a function of single or combined bio-signals (changes). The study outcome will have a potential to be integrated with the existing building mechanical/electrical control systems to enhance the user’s IEQ conditions while contributing to his/her comfort and well-being in the built environment.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Manoj Muralidhara&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubham Banka&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gaurav Gupta&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Mining&lt;/li>
+&lt;li>SPSS&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Understanding Internet Communities through Videogames</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/401/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/401/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Many questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. We have a wide range of ongoing student projects that use this data to study a range of human behaviors.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Junchu Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himan Kriplani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shatad Purohit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jinney Guo&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

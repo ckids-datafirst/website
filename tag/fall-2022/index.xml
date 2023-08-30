@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fall 2022 | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/fall-2022/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/fall-2022/index.xml" rel="self" type="application/rss+xml"/><description>Fall 2022</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Fall 2022</title><link>https://ckids-datafirst.github.io/website/tag/fall-2022/</link></image><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct. The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States.&lt;/p>
+&lt;p>Currently, data entries are manually identified, discovered and registered using public, open-sourced information, mostly news articles on the web, which critically limits its data collection process. Thus, this project aims at automating the discovery of such data with an efficient identification mechanism. Working with the Price School of Policy, we will implement an automatic identification mechanism to effectively search police misconduct articles utilizing web crawling/scarping and natural language processing.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Deborah Ho&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jooyoung Yoo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshay Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ikenna Joe-Nweke&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In this project, we will work on semantically aligning IoT sensor data and neural data with the human experience. We have developed a sensor platform to record the human experience as patients perform navigational tasks. The goal is to understand what context shifts in the human experience anchor our episodic memories. Each student will have the opportunity to work with different sensing modalities, and develop models for both sensory perception and reasoning.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Helin Yilmaz&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ao Xu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ketki Kinkar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saurabh Koshatwar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Christian Bryan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashley Sue&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Tensorflow&lt;/li>
+&lt;/ul></description></item><item><title>Hot desking system guarantee your productivity? : Investigation of a first-come-first-served workplace system focusing on the occupants’ work productivity and wellness</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/708/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/708/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>After the COVID, the remote work environment has become popular, and many commercial offices have tried to keep both the in-person work environment and the remote work environment while attempting to reduce the size of their workplaces. Even though hot desking systems are increasingly common and even starting to feel like a trend these days, there isn't much data to show how such systems can support occupants' environmental comfort, work productivity, and psychological stability while they are at work. This project adopts a commercial office as a testbed, which is located in the downtown Los Angeles, and conducts questionnaire surveys, indoor environmental quality measurements. The project's findings will help design this new desking system in a way that will increase occupants' satisfaction with their surroundings and productivity at work without compromising their quality of life in the workplace.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Dhruv Goel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Indrani Panchangam&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mingxuan Ma&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siqi Qiao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Crystal Sheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Winnie Hou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>WEKA&lt;/li>
+&lt;/ul></description></item><item><title>Identification and characterization of cross-platform misinformation diffusion</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/709/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/709/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fringe communities are often the sources of conspiracy theories and extreme ideas. Niche online platforms hosting such communities represent suitable incubators for reinforcing questionable stories and to ultimately push them into the mainstream. Over the years, information pathways from fringe to mainstream media have significantly increased, enabling the proliferation of harmful content. This project aims at developing novel network- and AI-based models for identifying and characterizing information pathways that enable the proliferation of potentially harmful content on online media channels. Mainstream social media (Twitter, Facebook, and Instagram), video streaming platforms (YouTube and Bitchute), niche platforms (Gab, 4chan, and Parler), and messaging apps (Telegram) will be considered to investigate how harmful narratives flow across diverse platforms and predict those that will gain traction on mainstream media.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Open and Sharing Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Cyberphysical Data Science&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>William Lu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zexun Yao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Duyen Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jinyi Ye&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aaron Tom&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Identification of Sustainability-Related Research at USC through Machine Learning and Keyword Mapping</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/705/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/705/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Are you passionate about data science and sustainability? Then this interdisciplinary project is for you! Here, we will develop a machine learning program to identify USC research publications and grants as ‘sustainability-focused’, ‘sustainability-inclusive’ or ‘not-sustainability-related’ by using pre-categorized publication samples. In addition, we will use keyword lists that relate to the 17 UN Sustainable Development Goals (SDGs) to map all research groups at USC as they relate to these SDGs (&lt;a href="https://sdgs.un.org/goals%29" target="_blank" rel="noopener">https://sdgs.un.org/goals)&lt;/a>. Lastly, we will create an interactive dashboard in R Shiny that will act as a public directory of all research at USC with classification of the research by the SDGs and broader sustainability categorization. As an example, check our github for USC curriculum: &lt;a href="https://github.com/USC-Office-of-Sustainability/USC-SDGmap" target="_blank" rel="noopener">https://github.com/USC-Office-of-Sustainability/USC-SDGmap&lt;/a> . Your work on this project is critical in boosting sustainability-related research at USC and thereby achieving our Asgmt: Earth Research Goals.&amp;quot;&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Collaboration Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ric Xian&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aurora Massari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xinyi Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bhavyakumar Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alison Chen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/julie-vhopper">Julie V. Hopper&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Identifying Catalysts for Online Depolarization</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/712/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/712/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>None&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shengnan Ke&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xiao Zhou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Diana Pham&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yitong Qian&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/kristina-lerman">Kristina Lerman&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Intelligent Analytics and Integration of Internet Memes</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/703/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/703/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Internet memes are a popular tool for creatively expressing ideas on the Web. Machine understanding of memes would benefit researchers interested in trends, virality of topics, and hate speech. However, understanding memes is difficult, as it requires combining text, vision, and extensive background knowledge. Recently, we created an Internet Meme Knowledge Graph that contains rich information about thousands of entities. In this project, we will perform extensive profiling of the Internet Meme Knowledge Graph, enrich it with other sources, and store its knowledge into a centralized resource like Wikidata.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Mansi Kulhari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zongmian Huang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ryan Gleason&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dhandeep Suglani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yunyi (Fiona) Zhang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/filip-ilievski">Filip Ilievski&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/riccardo-tommasini">Riccardo Tommasini&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Wikidata&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;/ul></description></item><item><title>Knowledge-powered understanding of diet’s water footprint</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/702/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/702/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Food production and their supply chains are the main cause of water pollution, especially in emerging and developed countries. Understanding the connection between our diet and water pollution is extremely challenging because it requires combining knowledge about food production, supply chains, and transportation. As more and more people seek to live sustainably, there is a need to inform consumers about the planetary impacts of their choices. We propose to construct a knowledge graph and application to create a water footprint calculator for our dietary choices that computes the water footprint for each ingredient of a meal proposed by the user and suggest alternatives to reduce the water footprint (e.g., replacing beef by pork in a cheesesteak meal will save the planet 1,600 gallons of water).&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Insight&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shreya Padmanabhan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shreya Raj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Maiah Pardo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saurav Joshi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yuhua Wu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/filip-ilievski">Filip Ilievski&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Information Extraction&lt;/li>
+&lt;li>Software Engineering&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;/ul></description></item><item><title>Listen to your body: Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The development of COVID-19 has had an impact on the lives of millions of people worldwide. Air quality needs to be improved immediately because COVID-19 can spread through airborne aerosols, raising concerns about how the virus will behave in enclosed spaces. To understand how to estimate the time lag of air quality transmission between indoor and outdoor, it is necessary to gather enough and reasonably accurate data before using a machine learning model and statistical tools to analyze the data. This will allow us to investigate the connection between indoor air quality and human physiological responses. Participants' bio-signals, survey results, and the state of the indoor and outdoor environments must all be collected as three different types of data. The heart rate, skin temperature, stress level, and EDA of the occupants make up the second set of bio-signal data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yifan Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vu Truong Si&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anood Alkatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pallavi Vijayan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Conner Kojima&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yihao Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nachiket Dunbray&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Quantum Natural Language Processing for Fake News Identification</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in artificial intelligence, especially neural networks, have enabled more intelligent models that can distinguish between fake and real information. However, these models suffer from over-fitting: a phenomenon where models memorize certain patterns in the dataset instead of understanding the actual underlying task.This prevents the models from generalizing well, especially across domains. Quantum Natural Language Processing (QNLP) is a very nascent field where quantum computers solve NLP problems. It has been shown that QNLP models have been able to solve many of the aforementioned tasks difficult for neural networks to solve. This is attributed to the fact that QNLP models naturally incorporate rich linguistic meanings and structure. In this project we will create neural network like models for QNLP. This will be done on fact verification datasets, with the goal of improving the quality of fake news identification.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sofian Ghazali&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yang Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chenghong Hu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anish Kushalapa&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/mitch-paulmithun">Mitch Paul Mithun&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Social media habits of misinformation spreaders</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/710/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/710/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Social media habits represent one of the most common – and controversial – forms of habitual behavior in contemporary society. This project will investigate whether and how social media habits are linked to the spread of misinformation. Specifically, this research aims at understanding whether there are habits that can be identified within social media data that are unique to misinformation spreaders. For example: do these users re-post, reply to, or post content in ways that seem habitual — as opposed to behaviors based on the rewards received from other users (e.g., likes, re-posting)? To perform this analysis, students will closely examine social media data across multiple platforms. The goal of this project will be to develop a model which can infer habit-based vs. non-habitual processes from existing user data, and identify how these processes play a role in the spread of misinformation. This project will be in collaboration with the USC Department of Psychology.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Interdisciplinary Data Science Team&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Website&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Zhenmin Hua&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siqi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xiayu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Daniel Pereira Da Costa&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Richa Sheth&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ian-anderson">Ian Anderson&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Statistics&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;/ul></description></item><item><title>Turning READMEs into Chatbots</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/704/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/704/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Ever get frustrated reading a README? Wish you could just ask someone for help instead of reading pages of documentation, combing through StackOverflow posts, and consulting lecture slides? This ambitious project will build a team of students to convert documentation in README files, ReadTheDocs and other manual pages, and StackOverflow posts into short conversations. These conversations will be used to train a dialogue model like DialoGPT to help create an assistive chat bot that can answer questions about code.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Shuijing Mejia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ronak Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Balaji Chidambaram&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aaron Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aamir Miyajiwala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hieu Nguyen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Huggingface&lt;/li>
+&lt;/ul></description></item></channel></rss>

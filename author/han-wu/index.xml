@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Han Wu | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/han-wu/</link><atom:link href="https://ckids-datafirst.github.io/website/author/han-wu/index.xml" rel="self" type="application/rss+xml"/><description>Han Wu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Han Wu</title><link>https://ckids-datafirst.github.io/website/author/han-wu/</link></image><item><title>Analyzing Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/509/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/509/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project focused on a causality analysis of paleoclimate time series using Pyleoclim, which is a Python package geared towards the analysis and visualization of paleoclimate data. Future work includes exploring and testing additional algorithms for time series analysis.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Han Wu&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

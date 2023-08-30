@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trisha Sinha | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/trisha-sinha/</link><atom:link href="https://ckids-datafirst.github.io/website/author/trisha-sinha/index.xml" rel="self" type="application/rss+xml"/><description>Trisha Sinha</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Trisha Sinha</title><link>https://ckids-datafirst.github.io/website/author/trisha-sinha/</link></image><item><title>Object Detection and Classification for Street Cleanliness</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In collaboration with the Sanitation Department of LA, IMSC has been developing a framework to automatically detect the cleanliness of streets as well as any special objects in need of removal. The framework makes use of machine learning technology trained on images/videos collected by the city and/or taken by citizens. The images taken by mobile cameras (e.g., LA City’s garbage collection trucks and/or citizens’ smartphones using our own MediaQ App) are transferred to the MediaQ server, then these images can be automatically classified based on predefined cleanliness indexes and object types (such as bulky item, illegal dumping). In this project, we will focus on the detection and classification of homeless encampments in LA streets. Recorded images/videos with GPS location data will be processed and the classification results will be displayed on a map to understand the distribution of homeless people in LA, which is essential data to study the homeless issue.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Trisha Sinha&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Harsh Jaykumar Jalan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashwin Sakhare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divya Manjunath&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nai Cih Liou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;li>Computer Vision&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rengapriya Aravindan | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/rengapriya-aravindan/</link><atom:link href="https://ckids-datafirst.github.io/website/author/rengapriya-aravindan/index.xml" rel="self" type="application/rss+xml"/><description>Rengapriya Aravindan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Rengapriya Aravindan</title><link>https://ckids-datafirst.github.io/website/author/rengapriya-aravindan/</link></image><item><title>Turning Cyber Data into Language</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks, and infrastructure. While such representations are easily processed by computers, cyber analysts often prefer dealing with written text. Natural language ontologies like FrameNet represent language in a structured manner as well, but frame specifications are often not specific enough for a given domain (like cybersecurity). In this project, students will learn about cybersecurity threat ontologies and build a GUI web app tool that annotates provided cyber threat documents. No previous knowledge of cybersecurity necessary!&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruoyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chuqi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ziheng Gong&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Flask&lt;/li>
+&lt;li>Streamlit&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fall 2021 | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/fall-2021/</link><atom:link href="https://ckids-datafirst.github.io/website/category/fall-2021/index.xml" rel="self" type="application/rss+xml"/><description>Fall 2021</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Fall 2021</title><link>https://ckids-datafirst.github.io/website/category/fall-2021/</link></image><item><title>Automatically segmenting and describing the human corpus callosum from brain MRIs</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/106/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/106/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The human corpus callosum is the largest pathway connecting the left and right hemispheres of the brain. The shape of the corpus callosum (CC) changes throughout the course of human development, and it can also be altered with respect to disease onset. We can explore the variation in CC shape along the middle of the brain, but we need to extract it reliably first. The lab currently has two methods for extracting the CC, one using only image processing techniques, and another using deep learning (UNet) but these methods do not always extract the CC accurately. The accuracy results often depend on the MRI scanner that was used, or the abnormalities present in the scan. Can we improve the performance of our deep learning model with additional training data? Can we change some processing steps to improve the model? Once we do have an accurate segmentation, then what shape metrics of the CC as a whole, or in parts, are most telling of the underlying biology, such as age and risk for disease?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Project Achievement&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Project Website&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Interdisciplinary Data Science Project&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Kathy Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shayan Javid&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vineet Agarwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiahui Lu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>Bash&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Project&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Lili Zhou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikita Goel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chanda&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanjeev Kadagathur Vadiraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Audrey Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wenjia Dou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>COVID-19 misinformation</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This new project attempts to understand the interaction between anti-vaxxers (anti-vaccination groups) and alt-right groups on platforms such as Facebook. The goal of this project is to understand how do these two types of fringe groups interact over the years, and how do their interactions and discourse evolve during the COVID-19 pandemic. It would be interesting to explore the longitudinal patterns of network/discourse co-evolution and how such patterns may change in times of dramatic events.In terms of data, I have access to Facebook’s historical data archive and I have collected a dataset that contains a list of anti-vaxxer (n=158) and alt-right groups’ (n=183) Facebook posts over 10 years (2010-2021). The dataset can be further expanded with additional help.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yilin Qi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Revanth Madamala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Luer Lyu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/aimei-yang">Aimei Yang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Social Network Analysis&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Cyberphysical Data Science Project&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yishan Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Navyada Koshatwar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gayathri Shrikanth&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rushi Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pranjali Tushar Tembhurnikar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Manuel Amaya&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Hassaan Hasan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Dave&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yin He&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kartik Balodi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Akshat Jetli&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Manav Jain&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
+&lt;/ul></description></item><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Insight&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Linglan Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yu Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sara Melotte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Uday Malte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Namita Santosh Mutha&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/filip-ilievski">Filip Ilievski&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Clustering&lt;/li>
+&lt;li>Language Models&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Impacts of Smart Windows on Human’s Bio-Signals</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This research will be conducted to find out the relationship between humans’ bio-signals and electrochromic windows, which is useful to create a possible mechanism of using bio-signals to control the windows. By using wearable sensors and remote sensors, subjects’ bio-signals like heart rate, skin temperature, and pupil sizes, and indoor environmental quality like temperature and humidity could be monitored and analyzed. At last, by utilizing machine learning and data analysis skills, the impacts on humans’ bio-signals could be analyzed.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Wenjia Dou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jingping Yu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/zihan-wang">Zihan Wang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Investigate the healthy indoor air quality under Covid-19 in Los Angeles based on machine learning</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>So far we do not know how much ventilation quantity will be needed to effectively prevent infection with COVID-19, and there is no sensor can measure coronavirus. But PM 2.5 and CO2 are the good indicators to estimate the Covid-19 virus concentration. Moreover, bio-signals can be used to assess people’s state of health. In my experiment, I will find participants and collect data including indoor environmental data, outdoor environmental data and human bio-signals. Then, the data will be analyzed by machine learning to find the correlation between the indoor environmental factors and the outdoor environmental factors, the correlation between the indoor environmental factors and human factors, also I can find the appropriate range of every indoor air quality factors when people under human healthy state, therefore, finally I can control the window to keep the indoor CO2 and pm2.5 within that range of the conclusion to keep people in a healthy state.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yixiao Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhaohong Feng&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/minghuan-gong">Minghuan Gong&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
+&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
+&lt;p>CKIDS PROJECT TASKS&lt;/p>
+&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
+&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Tao Huang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Computational Simulation&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Jonathan Lal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanket Bhilare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Keerthana Prakash&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himani Amrute&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>NVISION: Network Visualization Interventions Supporting Interpretation of Objective News</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“The current fractured media landscape allows individuals to choose confirming over credible information, and information spreads quicker online than interventions like fact-checking. Misinformation can be debiased by identifying gaps in mental representations of the world (mental models) and prompt alerts to be vigilant about assessing information (Lewandowsky et al, 2012).&lt;/p>
+&lt;p>We aim to develop interventions to make media-balance salient to users to mitigate the spread of misinformation. Social sampling theory describes that our misperceptions of others is explained by the sample of people we encounter (Galesic, Olsson, and Rieskamp, 2012), and we are more likely to link to similar people online (Kossinets &amp;amp; Watts, 2009). Our interventions address limitations in individual views of the media landscape. We aim to attach visualizations of sharing network to news articles in real-time to make these biases explicit.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yanan Zhou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Megan Josep&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Priya Mane&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Minrui Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhinav Rao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Samip Kalyani&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;/ul></description></item><item><title>Object detection and classification APIs for urban street image analysis</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vibhav Chitalia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carlos Zamora&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wonjun Lee&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data (begun Spring 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/113/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/113/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Food environments (the physical spaces where people acquire and consume food) can profoundly impact diet and related diseases. Effective, robust measures of food environment nutritional quality are required by researchers and policymakers investigating their effects on individual dietary behavior and designing targeted public health interventions. The most commonly used indicators of food environment nutritional quality are limited to measuring the binary presence or absence of entire categories of food outlet type, such as ‘fast-food’ outlets, which can range from burger joints to salad chains. There would be great value in a summarizing indicator of restaurant nutritional quality that exists along a continuum, and which can be applied at the scale of large food environments, for example across Los Angeles County, to make distinctions between diverse restaurants within and across categories of food outlets.&lt;/p>
+&lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Foursquare and Yelp. We will investigate the ability to access menu information from the APIs of these social media platforms, and develop measures to assess the nutritional content of these menus. Multiple aims will be investigated in this project, including scraping data from social media; NLP of menu text, tag, and comment data; developing predictive models of obesity; and more. “Ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from menu data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Iris C. Liu&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Statistical Modeling&lt;/li>
+&lt;/ul></description></item><item><title>Transfer learning for adversarial machine translation</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/109/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/109/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Neural Machine Translation (NMT) is the process of mapping a segment of words from a source language to a target language using neural networks. However, NMT systems rely on large datasets for the source and target languages, and perform poorly on low-resource languages where there is insufficient parallel data. An effective method for improving NMT on low-resource languages is to employ transfer learning, where a model trained on a high-resource language pair is used to initialize training for the low-resource language pair. In this work, we will study the effect of employing transfer learning methods on an adversarial machine translation models based on Long Short-Term Memory Recurrent Neural Networks (LSTM).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Manoj Yadav&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Frederick Norman&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vikrame Vasudev Krishnan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hanyu He&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shaochen Tan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amit Singh&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/mohammad-rezarajati">Mohammad Reza Rajati&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item></channel></rss>

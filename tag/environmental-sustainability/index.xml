@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Environmental Sustainability | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/environmental-sustainability/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/environmental-sustainability/index.xml" rel="self" type="application/rss+xml"/><description>Environmental Sustainability</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Environmental Sustainability</title><link>https://ckids-datafirst.github.io/website/tag/environmental-sustainability/</link></image><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Listen to your body: Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/707/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The development of COVID-19 has had an impact on the lives of millions of people worldwide. Air quality needs to be improved immediately because COVID-19 can spread through airborne aerosols, raising concerns about how the virus will behave in enclosed spaces. To understand how to estimate the time lag of air quality transmission between indoor and outdoor, it is necessary to gather enough and reasonably accurate data before using a machine learning model and statistical tools to analyze the data. This will allow us to investigate the connection between indoor air quality and human physiological responses. Participants' bio-signals, survey results, and the state of the indoor and outdoor environments must all be collected as three different types of data. The heart rate, skin temperature, stress level, and EDA of the occupants make up the second set of bio-signal data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yifan Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vu Truong Si&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anood Alkatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pallavi Vijayan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Conner Kojima&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yihao Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nachiket Dunbray&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Impacts of Smart Windows on Human’s Bio-Signals</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This research will be conducted to find out the relationship between humans’ bio-signals and electrochromic windows, which is useful to create a possible mechanism of using bio-signals to control the windows. By using wearable sensors and remote sensors, subjects’ bio-signals like heart rate, skin temperature, and pupil sizes, and indoor environmental quality like temperature and humidity could be monitored and analyzed. At last, by utilizing machine learning and data analysis skills, the impacts on humans’ bio-signals could be analyzed.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Wenjia Dou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jingping Yu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/zihan-wang">Zihan Wang&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Investigate the healthy indoor air quality under Covid-19 in Los Angeles based on machine learning</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/111/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>So far we do not know how much ventilation quantity will be needed to effectively prevent infection with COVID-19, and there is no sensor can measure coronavirus. But PM 2.5 and CO2 are the good indicators to estimate the Covid-19 virus concentration. Moreover, bio-signals can be used to assess people’s state of health. In my experiment, I will find participants and collect data including indoor environmental data, outdoor environmental data and human bio-signals. Then, the data will be analyzed by machine learning to find the correlation between the indoor environmental factors and the outdoor environmental factors, the correlation between the indoor environmental factors and human factors, also I can find the appropriate range of every indoor air quality factors when people under human healthy state, therefore, finally I can control the window to keep the indoor CO2 and pm2.5 within that range of the conclusion to keep people in a healthy state.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yixiao Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhaohong Feng&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/minghuan-gong">Minghuan Gong&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Object detection and classification APIs for urban street image analysis</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Vibhav Chitalia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carlos Zamora&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wonjun Lee&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Object Detection and Classification for Street Cleanliness</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In collaboration with the Sanitation Department of LA, IMSC has been developing a framework to automatically detect the cleanliness of streets as well as any special objects in need of removal. The framework makes use of machine learning technology trained on images/videos collected by the city and/or taken by citizens. The images taken by mobile cameras (e.g., LA City’s garbage collection trucks and/or citizens’ smartphones using our own MediaQ App) are transferred to the MediaQ server, then these images can be automatically classified based on predefined cleanliness indexes and object types (such as bulky item, illegal dumping). In this project, we will focus on the detection and classification of homeless encampments in LA streets. Recorded images/videos with GPS location data will be processed and the classification results will be displayed on a map to understand the distribution of homeless people in LA, which is essential data to study the homeless issue.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Trisha Sinha&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Harsh Jaykumar Jalan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashwin Sakhare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divya Manjunath&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nai Cih Liou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;li>Computer Vision&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Collection&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Measuring Pollution Benefits from Congestion Pricing Initiatives</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Using real-time big data from Los Angeles freeways on traffic and Aclima data on pollution measurements, this project will estimate the links between speed and pollution. Estimating this relationship properly is crucial for knowing the benefits that congestion pricing may generate in terms of pollution reduction. Computer Science methods will be used to guide the choice of policy intervention and guide prediction.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/antonio-bento">Antonio Bento&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

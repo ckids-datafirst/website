@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rahul Jeswani | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/rahul-jeswani/</link><atom:link href="https://ckids-datafirst.github.io/website/author/rahul-jeswani/index.xml" rel="self" type="application/rss+xml"/><description>Rahul Jeswani</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Rahul Jeswani</title><link>https://ckids-datafirst.github.io/website/author/rahul-jeswani/</link></image><item><title>Capturing provenance of data analyses</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/416/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/416/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. This project will design and develop a user interface for specifying provenance records using W3C standards. The interface will enable users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Rahul Jeswani&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Javascript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neda Jahanshad | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/neda-jahanshad/</link><atom:link href="https://ckids-datafirst.github.io/website/author/neda-jahanshad/index.xml" rel="self" type="application/rss+xml"/><description>Neda Jahanshad</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Neda Jahanshad</title><link>https://ckids-datafirst.github.io/website/author/neda-jahanshad/</link></image><item><title>Automatically segmenting and describing the human corpus callosum from brain MRIs</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/106/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/106/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The human corpus callosum is the largest pathway connecting the left and right hemispheres of the brain. The shape of the corpus callosum (CC) changes throughout the course of human development, and it can also be altered with respect to disease onset. We can explore the variation in CC shape along the middle of the brain, but we need to extract it reliably first. The lab currently has two methods for extracting the CC, one using only image processing techniques, and another using deep learning (UNet) but these methods do not always extract the CC accurately. The accuracy results often depend on the MRI scanner that was used, or the abnormalities present in the scan. Can we improve the performance of our deep learning model with additional training data? Can we change some processing steps to improve the model? Once we do have an accurate segmentation, then what shape metrics of the CC as a whole, or in parts, are most telling of the underlying biology, such as age and risk for disease?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Project Achievement&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Project Website&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Interdisciplinary Data Science Project&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Kathy Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shayan Javid&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vineet Agarwal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiahui Lu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>Bash&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>A Data Challenge for Parkinson’s Disease</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will assemble a team to participate in the Biomarker and Endpoint Assessment to Track Parkinson’s Disease (BEAT-PD) DREAM Challenge by the Michael J. Fox Foundation and Sage Bionetworks. The challenge is designed to benchmark new methods to predict Parkinson’s disease progression. Teams participating in the Challenge will have access to raw sensor data that can be used to predict individual medication state and symptom severity. Specifically, teams are asked to develop methods to predict on/off medication status, dyskinesia severity, and/or tremor severity.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Nazgol Tavabi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Che-Pai Kung&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Likitha Lakshminarayanan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item><item><title>Brain morphometry from contrast-enhanced T1-weighted brain MRIs</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/208/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/208/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cancer remains the second leading cause of death in the US. However, recent advancements have increased cancer survivorship, now numbering tens of millions. Given this, there is tremendous interest in studying cancer-related cognitive impairment (CRCI) and CRCI due to chemotherapy or “chemobrain”, can afflict up to 78% of survivors. The neural substrates of CRCI are unknown and understanding this may improve survivors’ quality of life. The CRCI neuroimaging literature is still in its infancy and these studies have used small sample sizes from traditional research-dedicated nCE scans. Because conducting well-powered neuroimaging studies is very expensive, adapting clinical CE T1w scans could prove useful for CRCI and many other diseases like dementia. The promary objective of this project is to develop a novel deep learning method to generate nCE images from acquired CE T1w scans to allow accurate brain morphometry and be a plentiful source of inexpensive neuroimaging data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ming Lyu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Danielle Sim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devansh Shah&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ting Fung Lam&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mark-shiroishi">Mark Shiroishi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/paul-thompson">Paul Thompson&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>AI&lt;/li>
+&lt;li>Familiarity with MRIs&lt;/li>
+&lt;/ul></description></item><item><title>The aging individual brain</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/203/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/203/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Deep learning models are now able to predict how an individual’s face will age in a very realistic manner — ensuring key individual features, for example eye color, are maintained, while more age related features, such as the texture of skin, are altered to be representative of a desired age group. However, little work has been done to try and predict how an individual’s brain will age. Such models may be able to help predict early signatures of neurodegenerative disorders. The goal of this project will be to test several models to realistically predict how a given individual’s brain will look at any age in mid to late adulthood. Either or both deep learning based and image processing based methods would be encouraged. Students will work with a dataset of over 20,000 brain scans of individuals aged 45-80, approximately 1000 of whom have a scan again after two years. This is currently an active project in the lab and students will join researchers already working on this problem to further explore and improve methodology.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Aleck Cervantes&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>David Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shunlin Lu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tianyu Zhu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yichao Zhu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;/ul></description></item><item><title>Automated generation of paper authors</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in an open-source software tool that will have general applicability for scientific publications. Papers with hundreds of authors are not uncommon in science, and it often takes many weeks to compile an author list in the desired order with proper affiliations and acknowledgments. We have implemented an algorithm that generates the author information for a paper based on the type of contribution of each author within the ENIGMA neuroscience consortium. This project would extend this software to read in compiled spreadsheets or forms and extract information about universities and other institutions from structured web sources, to interoperate with widely-used frameworks such as Wikidata.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Open and Sharing Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruiyu Zhao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xingyu Wei&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tieming Sun&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>RDF&lt;/li>
+&lt;li>UI Development&lt;/li>
+&lt;/ul></description></item></channel></rss>

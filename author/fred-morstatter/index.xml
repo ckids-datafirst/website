@@ -1,1 +1,365 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fred Morstatter | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link><atom:link href="https://ckids-datafirst.github.io/website/author/fred-morstatter/index.xml" rel="self" type="application/rss+xml"/><description>Fred Morstatter</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/fred-morstatter/avatar_hu0dad9eb7a3824dbc0060d77f5565cbdc_1056091_270x270_fill_q75_lanczos_center.jpeg</url><title>Fred Morstatter</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link></image><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</guid><description>&lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fred Morstatter | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link><atom:link href="https://ckids-datafirst.github.io/website/author/fred-morstatter/index.xml" rel="self" type="application/rss+xml"/><description>Fred Morstatter</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/fred-morstatter/avatar_hu0dad9eb7a3824dbc0060d77f5565cbdc_1056091_270x270_fill_q75_lanczos_center.jpeg</url><title>Fred Morstatter</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link></image><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</guid><description>&lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p></description></item><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yufei Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kaixin Guo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Emerson Jin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Seoyoun Kim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Haohan Wang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing Online Attitudes, Expectations, and Concerns about Novel Medical Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/605/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/605/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Novel, or hypothesized medical treatments, such as COVID-19 vaccines and male contraception, are regularly discussed on social media. For example, on the AskReddit subreddit, questions of the form “”Would you take [x] if it existed?”” Aside from willingness to use these novel treatments, the answers to these questions contain important clues to peoples’ latent concerns and barriers to adoption of novel medications. Understanding them can provide crucial information about how to introduce, communicate, and counsel about new medications when they come to market. In this project you will use pre-collected Reddit data spanning 10 years to answer questions including: What concerns do individuals have about a novel medication? How do these concerns vary by demographics, such as cultural background? How have these concerns evolved over time? What has caused users to become more or less accepting of the treatment over time?&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Insight&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Linglan Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yu Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sara Melotte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Uday Malte&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Namita Santosh Mutha&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/filip-ilievski">Filip Ilievski&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Clustering&lt;/li>
+&lt;li>Language Models&lt;/li>
+&lt;li>Data Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Mapping the Ethical Concerns Surrounding AI Research</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/3/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>With the recent enthusiasm about algorithmic fairness and responsible AI, many conferences are encouraging or requiring a broader impact section to assess societal harms and benefits of the AI research being presented. In this project, we will analyze the themes of these sections, with a particular focus on the ethical issues being addressed and acknowledged. We will develop tools and methods to evaluate the harms and benefits of the presented research. The goal is to see how is the community helping AI research to be less harmful but more beneficial for society. For more background on work in this area, please review this workshop.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Collaboration Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Chaitali Joshi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Param Bole&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Madeleine Thompson&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aparna Nair&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>AI ethics&lt;/li>
+&lt;/ul></description></item><item><title>NVISION: Network Visualization Interventions Supporting Interpretation of Objective News</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“The current fractured media landscape allows individuals to choose confirming over credible information, and information spreads quicker online than interventions like fact-checking. Misinformation can be debiased by identifying gaps in mental representations of the world (mental models) and prompt alerts to be vigilant about assessing information (Lewandowsky et al, 2012).&lt;/p>
+&lt;p>We aim to develop interventions to make media-balance salient to users to mitigate the spread of misinformation. Social sampling theory describes that our misperceptions of others is explained by the sample of people we encounter (Galesic, Olsson, and Rieskamp, 2012), and we are more likely to link to similar people online (Kossinets &amp;amp; Watts, 2009). Our interventions address limitations in individual views of the media landscape. We aim to attach visualizations of sharing network to news articles in real-time to make these biases explicit.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yanan Zhou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Megan Josep&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Priya Mane&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Minrui Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhinav Rao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Samip Kalyani&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;li>Data Visualization&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Collection&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Jajodia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vanshika Sridharan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Classification&lt;/li>
+&lt;li>Data Collection&lt;/li>
+&lt;/ul></description></item><item><title>Data scraping for salary benchmarking</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will develop a data scraper to collect salary records from a website that provides compensation data for faculty at public universities. When provided a list of faculty names and institutional affiliations, this program will search for the associated records, extract the relevant results, and copy the data into a spreadsheet. The purpose of this project is to explore the feasibility of automating an otherwise time-consuming data collection task required for benchmarking of faculty salaries in relation to peer institutions. This will ultimately facilitate a number of important tasks, including analysis of potential salary disparities within certain disciplines and faculty tracks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Matthew Lim&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Minh Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sindhu Ravi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vihang Mangalvedhekar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tsang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tj-mccarthy">T.J. McCarthy&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ginger-clark">Ginger Clark&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Web Scraping&lt;/li>
+&lt;/ul></description></item><item><title>A visual analytic toolkit for cultural biases</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a visual analytics toolkit that will enable social scientists to understand the cultural groups and biases at play in a social dataset. News, books, and social media all contain biases that stem from the cultural background of the author(s). We have developed algorithms to identify the cultural groups at play in an arbitrary dataset, as well as natural language processing approaches that can discover the biases of each group. This project would help bring put these tools into the hands of social scientists by displaying the output of these algorithms in novel visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Mansi Ganatra&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Saatvik Tikoo&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;/ul></description></item><item><title>Mining Side Effects in Cancer Treatment</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/406/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/406/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>SideEffects is a cancer patient’s resource to access treatment and side effects tailored to the patient’s treatment and disease history. The app sources content from clinical data, National Cancer Institute, social media, and user input from an app.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Justin Ho&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sankareswari Govindarajan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kevin Tran&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yi-Hsin Chung&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sangeeth Koratten&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/thuy-thanhtruong">Thuy Thanh Truong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Modeling the career trajectory of music artists</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/407/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/407/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Many musicians, from up-and-comers to established artists, rely heavily on performing live to promote and disseminate their music. To advertise live shows, artists often use concert discovery platforms that make it easier for their fans to track tour dates. In this project, we ask whether digital traces of musical performances generated on those platforms can be used to understand career trajectories of artists. We have amassed a dataset we constructed by cross-referencing data from such platforms (Songkick, and Discogs). In this project, you will identify and explore patterns that can be used to identify successful musicians.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Understanding Internet Communities through Videogames</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/401/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/401/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Many questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. We have a wide range of ongoing student projects that use this data to study a range of human behaviors.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Junchu Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himan Kriplani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shatad Purohit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jinney Guo&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item></channel></rss>

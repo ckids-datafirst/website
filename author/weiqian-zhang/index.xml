@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weiqian Zhang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/weiqian-zhang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/weiqian-zhang/index.xml" rel="self" type="application/rss+xml"/><description>Weiqian Zhang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Weiqian Zhang</title><link>https://ckids-datafirst.github.io/website/author/weiqian-zhang/</link></image><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</guid><description>&lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP&amp;rsquo;s websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;ldquo;poverty penalty&amp;rdquo; whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weiqian Zhang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/weiqian-zhang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/weiqian-zhang/index.xml" rel="self" type="application/rss+xml"/><description>Weiqian Zhang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Weiqian Zhang</title><link>https://ckids-datafirst.github.io/website/author/weiqian-zhang/</link></image><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</guid><description>&lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP&amp;rsquo;s websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;ldquo;poverty penalty&amp;rdquo; whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP's websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;quot;poverty penalty' whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Weiqian Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aurora Massari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Angel Chavez-Penate&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zirong Huang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mahika Mushuni&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lei Cao&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/hernan-galperin">Hernan Galperin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yichao Zhu | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yichao-zhu/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yichao-zhu/index.xml" rel="self" type="application/rss+xml"/><description>Yichao Zhu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Yichao Zhu</title><link>https://ckids-datafirst.github.io/website/author/yichao-zhu/</link></image><item><title>The aging individual brain</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/203/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/203/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Deep learning models are now able to predict how an individual’s face will age in a very realistic manner — ensuring key individual features, for example eye color, are maintained, while more age related features, such as the texture of skin, are altered to be representative of a desired age group. However, little work has been done to try and predict how an individual’s brain will age. Such models may be able to help predict early signatures of neurodegenerative disorders. The goal of this project will be to test several models to realistically predict how a given individual’s brain will look at any age in mid to late adulthood. Either or both deep learning based and image processing based methods would be encouraged. Students will work with a dataset of over 20,000 brain scans of individuals aged 45-80, approximately 1000 of whom have a scan again after two years. This is currently an active project in the lab and students will join researchers already working on this problem to further explore and improve methodology.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Aleck Cervantes&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>David Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shunlin Lu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tianyu Zhu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yichao Zhu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;/ul></description></item></channel></rss>

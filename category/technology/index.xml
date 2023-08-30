@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/technology/</link><atom:link href="https://ckids-datafirst.github.io/website/category/technology/index.xml" rel="self" type="application/rss+xml"/><description>Technology</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Technology</title><link>https://ckids-datafirst.github.io/website/category/technology/</link></image><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into their graph neural networks (GNNs) learning processes to predict temporally conditioned facts. These models capture the temporal dynamics of the facts well and are well-suited for temporally conditioned graph completion tasks. However, there remain many open issues that need to be addressed to make it more practical for real-world applications: (1) Real-world problems usually do not conform to the graph completion tasks which fill out the missing element in a fact; (2) Sparse graph due to lack of temporal triples for target task leads to poor performance; (3) Temporal graphs are inherently dynamic entities that grow and change over time but most existing models require computationally expensive training from scratch to incorporate these changes. Thus, we propose to design an efficient event forecasting framework that solves such challenges.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Parth Rohilla&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kiran Narahari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hangji He&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubham Gujar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Varun Venkatesh&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dongho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Web Crawling&lt;/li>
+&lt;/ul></description></item><item><title>Quantum Natural Language Processing for Fake News Identification</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/706/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in artificial intelligence, especially neural networks, have enabled more intelligent models that can distinguish between fake and real information. However, these models suffer from over-fitting: a phenomenon where models memorize certain patterns in the dataset instead of understanding the actual underlying task.This prevents the models from generalizing well, especially across domains. Quantum Natural Language Processing (QNLP) is a very nascent field where quantum computers solve NLP problems. It has been shown that QNLP models have been able to solve many of the aforementioned tasks difficult for neural networks to solve. This is attributed to the fact that QNLP models naturally incorporate rich linguistic meanings and structure. In this project we will create neural network like models for QNLP. This will be done on fact verification datasets, with the goal of improving the quality of fake news identification.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Sofian Ghazali&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yang Cheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chenghong Hu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Anish Kushalapa&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jae Park&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/mitch-paulmithun">Mitch Paul Mithun&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Jonathan Lal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanket Bhilare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Keerthana Prakash&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himani Amrute&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Dat Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wenwen Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nai Cih Liou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xinran Liang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;/ul></description></item><item><title>Turning Cyber Data into Language</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks, and infrastructure. While such representations are easily processed by computers, cyber analysts often prefer dealing with written text. Natural language ontologies like FrameNet represent language in a structured manner as well, but frame specifications are often not specific enough for a given domain (like cybersecurity). In this project, students will learn about cybersecurity threat ontologies and build a GUI web app tool that annotates provided cyber threat documents. No previous knowledge of cybersecurity necessary!&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruoyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chuqi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ziheng Gong&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Flask&lt;/li>
+&lt;li>Streamlit&lt;/li>
+&lt;/ul></description></item><item><title>A framework for enabling software comparison and classification</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The number of scientific products, including scientific software, has been steadily growing in the last years. This growth makes it difficult for researchers to understand all the latest code and publications available. A great body of research has attempted at classifying similar papers and literature. However, there aren’t to date good approaches for finding similar or related code. In this project, the students will analyze different unsupervised methods to find scientific software similarities based on a) An automated analysis of their dependencies; b) By classifying the main functionality of software components.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yi Xie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bin Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mohan Krishna Thota&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Param Bole&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Sklearn&lt;/li>
+&lt;li>Data Manipulation&lt;/li>
+&lt;/ul></description></item><item><title>Integration of Frame Semantics to Cyber Ontologies</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/207/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/207/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks and infrastructure. While such representations are conducive to interoperability between systems, they are often unwieldy for human cyber analysts to deal with directly. Conversely, Natural language generation (NLG) frameworks like FrameNet represent language in a structured manner, but frame specifications are often not specific enough for specialized domains (such as cyber security). Leveraging and combining the semantic structure of both forms can create a tool that can translate cyber threat data in standard interoperable formats (such as STIX) to human-readable reports, via existing NLG frameworks. Working on a project such as this provides an opportunity for significant impact, as the fusion of these two structures could greatly increase both the adoption and the utility of cyber threat ontologies.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Folk Narongrit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Francis Sun&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Social Graph Analysis and Attribution of Software Exploit Contributors Using GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Attribution of cyber threat actors is an increasingly important and difficult problem. One potential mitigation is the early detection of potential threat actors via analysis of open-source intelligence (OSINT). This project will analyze the social graph of users who contribute to, follow, star, and otherwise interact with proof-of-concept CVE implementations and other relevant potentially malicious (e.g. software vulnerability) repositories on GitHub.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Atharva Rishi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erin Szeto&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaxin Liang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kshitij Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nghi Le&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;li>Graph Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Towards Automated Understanding of Scientific Software</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Data science projects require knowledge of software that changes rapidly. As a result, scientists spend hours reading long documentations and manuals instead of advancing their scientific fields. In this project, we aim to automatically extract relevant aspects of scientific software (e.g., what does it do, how to install it, how to operate with it or how to cite it) from documentation and code using machine learning techniques. The students will build on an existing baseline of classifiers and try to improve the existing results.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Open and Sharing Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Project Presentation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Haripriya Dharmala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaying Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vedant Diwanji&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Sklearn&lt;/li>
+&lt;/ul></description></item><item><title>Detecting deep fakes</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Shenoy Pratik Gurudatt&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Programming&lt;/li>
+&lt;/ul></description></item></channel></rss>

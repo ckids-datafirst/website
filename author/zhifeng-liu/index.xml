@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zhifeng Liu | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/zhifeng-liu/</link><atom:link href="https://ckids-datafirst.github.io/website/author/zhifeng-liu/index.xml" rel="self" type="application/rss+xml"/><description>Zhifeng Liu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Zhifeng Liu</title><link>https://ckids-datafirst.github.io/website/author/zhifeng-liu/</link></image><item><title>Data Mining Over Past Climates</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/404/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Estimates of climate variations over the past 1,000 years play an increasing role in climate assessments. A key quantity to derive from them is the transient climate response (TCR), which quantifies the warming at expected from slowly-rising CO2 concentrations. TCR helps constrain the climate models used to predict the future evolution of Earth’s climate. In this project, you will help design an efficient workflow to estimate TCR from existing paleoclimate datasets and emerging statistical methods.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yuxuan Ji&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhifeng Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ashka Patel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditi Choudhary&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shelly Mehta&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item></channel></rss>

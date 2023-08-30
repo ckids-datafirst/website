@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Likitha Lakshminarayanan | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/likitha-lakshminarayanan/</link><atom:link href="https://ckids-datafirst.github.io/website/author/likitha-lakshminarayanan/index.xml" rel="self" type="application/rss+xml"/><description>Likitha Lakshminarayanan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Likitha Lakshminarayanan</title><link>https://ckids-datafirst.github.io/website/author/likitha-lakshminarayanan/</link></image><item><title>A Data Challenge for Parkinson’s Disease</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will assemble a team to participate in the Biomarker and Endpoint Assessment to Track Parkinson’s Disease (BEAT-PD) DREAM Challenge by the Michael J. Fox Foundation and Sage Bionetworks. The challenge is designed to benchmark new methods to predict Parkinson’s disease progression. Teams participating in the Challenge will have access to raw sensor data that can be used to predict individual medication state and symptom severity. Specifically, teams are asked to develop methods to predict on/off medication status, dyskinesia severity, and/or tremor severity.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Nazgol Tavabi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Che-Pai Kung&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Likitha Lakshminarayanan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item></channel></rss>

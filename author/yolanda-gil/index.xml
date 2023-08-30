@@ -1,1 +1,296 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yolanda Gil | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yolanda-gil/index.xml" rel="self" type="application/rss+xml"/><description>Yolanda Gil</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/yolanda-gil/avatar_hued13e254d9caf65a2dfa6f58ff9b25b6_8718_270x270_fill_q75_lanczos_center.jpeg</url><title>Yolanda Gil</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link></image><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</guid><description>&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yolanda Gil | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yolanda-gil/index.xml" rel="self" type="application/rss+xml"/><description>Yolanda Gil</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/yolanda-gil/avatar_hued13e254d9caf65a2dfa6f58ff9b25b6_8718_270x270_fill_q75_lanczos_center.jpeg</url><title>Yolanda Gil</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link></image><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</guid><description>&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Anood Alkhatheeri&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rushit Jain&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Samarth Saxena&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Abishek Phalak&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yassamin Neshatvar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shruthakeerthy Srinivasan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vaidehi Vatsaraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Siddarth Rudraraju&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Iris Gordo&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shelby Wu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/najmedin-meshkati">Najmedin Meshkati&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Analysis&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>Clinical knowledge&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>AWS Sagemaker&lt;/li>
+&lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Project&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Lili Zhou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikita Goel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chanda&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanjeev Kadagathur Vadiraj&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Audrey Lin&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wenjia Dou&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Xiaoyu Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Stephen Iota&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bolong Pan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Junyi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ming Lyu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Computer Vision&lt;/li>
+&lt;/ul></description></item><item><title>Studying the Effects of Genes and Environment in Aging</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/7/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will analyze genomic and environmental data collected through the lifetime of individuals to investigate which genes and external conditions could be associated with aging. The goal of the project will be to reproduce an existing published paper and improve on its results.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Meera Patel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Boya Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Haoyang Chen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Qinming Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ming Yan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/t-emarpawong">T. Em Arpawong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>R&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul></description></item><item><title>Capturing the Provenance of Data Analysis Using the PROV Standard</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/319/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/319/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. The current ASSET interface enables users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc). This project will focus on capturing provenance records for data science projects and using the W3C PROV standard to export those records. It will also develop tools to mine provenance data to find common patterns of use.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Javascript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;li>UI Development&lt;/li>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bolong Pan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bryan Beh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hanzhi Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Feilong Wu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Image Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Turning Library Collections into Data Science Challenges and Resources</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Libraries, museums, and archives hold unique collections that may be very useful for data science. These collections include photographs, videos, letters, and other artifacts that could give unique insights when analyzed. In this project, students will work with the USC Libraries to identify existing collections that would be potentially interesting as targets for data science, describe those collections in collaboration with the USC Libraries so they can be promoted as data science resources, and create APIs and other access mechanisms for data science researchers on campus and beyond.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Chaitra Mudradi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Feilong Wu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hsing-Hsien Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Maria MacHarrie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shubhankar Singh&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yangtao Hu&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-holmeswong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item><item><title>Capturing provenance of data analyses</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/416/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/416/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. This project will design and develop a user interface for specifying provenance records using W3C standards. The interface will enable users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>Rahul Jeswani&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Javascript&lt;/li>
+&lt;li>Firebase&lt;/li>
+&lt;/ul></description></item><item><title>Data infrastructure for USC</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Developing software and data resources for USC students. Software resources include tools to process and analyze specific types of data (eg social networks, images, text, etc), data preparation tools, or machine learning libraries. Data resources include thematic data repositories, such as urban LA data, environmental LA data, entertainment LA data, etc.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Yang Dai&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zixuan Zhang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Parul Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yu Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanjiv Soni&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shenoy Pratik Gurudatt&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Open Source Software Development&lt;/li>
+&lt;li>Data Services&lt;/li>
+&lt;/ul></description></item></channel></rss>

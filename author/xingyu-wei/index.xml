@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xingyu Wei | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/xingyu-wei/</link><atom:link href="https://ckids-datafirst.github.io/website/author/xingyu-wei/index.xml" rel="self" type="application/rss+xml"/><description>Xingyu Wei</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Xingyu Wei</title><link>https://ckids-datafirst.github.io/website/author/xingyu-wei/</link></image><item><title>Automated generation of paper authors</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in an open-source software tool that will have general applicability for scientific publications. Papers with hundreds of authors are not uncommon in science, and it often takes many weeks to compile an author list in the desired order with proper affiliations and acknowledgments. We have implemented an algorithm that generates the author information for a paper based on the type of contribution of each author within the ENIGMA neuroscience consortium. This project would extend this software to read in compiled spreadsheets or forms and extract information about universities and other institutions from structured web sources, to interoperate with widely-used frameworks such as Wikidata.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Data Science Open and Sharing Practices&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruiyu Zhao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xingyu Wei&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tieming Sun&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>RDF&lt;/li>
+&lt;li>UI Development&lt;/li>
+&lt;/ul></description></item></channel></rss>

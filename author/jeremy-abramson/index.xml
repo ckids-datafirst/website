@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jeremy Abramson | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/jeremy-abramson/</link><atom:link href="https://ckids-datafirst.github.io/website/author/jeremy-abramson/index.xml" rel="self" type="application/rss+xml"/><description>Jeremy Abramson</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Jeremy Abramson</title><link>https://ckids-datafirst.github.io/website/author/jeremy-abramson/</link></image><item><title>OSINT Social Networks on GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. We’ll use the GitHub API and related tools to build networks to try to answer a number of interesting questions, such as “can you tell what software a company uses based on its employees networks?”, “do white hat hackers have social networks that look different than black hatters?” and others. If you’re interested in cybersecurity, OSINT, social networks, databases, APIs etc. then this is the project for you!&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;li>Neo4j&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Hassaan Hasan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Dave&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yin He&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kartik Balodi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Akshat Jetli&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Manav Jain&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Manasi Godse&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jackie Fan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yash Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rehan Ahmed&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiahang Song&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Jonathan Lal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Ramani&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sanket Bhilare&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Keerthana Prakash&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Himani Amrute&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Dat Nguyen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wenwen Zheng&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nai Cih Liou&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xinran Liang&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
+&lt;/ul></description></item><item><title>Turning Cyber Data into Language</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks, and infrastructure. While such representations are easily processed by computers, cyber analysts often prefer dealing with written text. Natural language ontologies like FrameNet represent language in a structured manner as well, but frame specifications are often not specific enough for a given domain (like cybersecurity). In this project, students will learn about cybersecurity threat ontologies and build a GUI web app tool that annotates provided cyber threat documents. No previous knowledge of cybersecurity necessary!&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ruoyu Li&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chuqi Liu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ziheng Gong&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Flask&lt;/li>
+&lt;li>Streamlit&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to determine if there are biases in who and how college football coaches recruit players. By creating a comprehensive data set of college recruits and integrating relevant data with current socioeconomic markers (i.e. census data) we hope to determine if there are patterns in who and where football coaches recruit their players, regardless of talent.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Saurabh Jain&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jackie Fan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Akansha Das&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>Social Science&lt;/li>
+&lt;li>Mapmaking&lt;/li>
+&lt;li>Economics&lt;/li>
+&lt;/ul></description></item><item><title>Generation of a Sports-based Introductory Data Science Curriculum to Increase Participation of Underrepresented Groups in STEM</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/211/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/211/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>As the requirements for success in the workforce become increasingly technical, there is a commensurate need for curricula that can engage and capture the imagination of students, especially those from traditionally underrepresented groups in STEM. One way to reach these groups is via curricula that appeals to contexts in which they’re familiar and engaged, such as sports. To that end, this project will explore the development of a sports-based introductory data science curriculum with the goal of engaging students who might otherwise not be interested in pursuing data science as a career. Students will work on generation of illustrative code examples/problem sets in Python using sports examples.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Everest Law&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zhongying Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Pedagogy&lt;/li>
+&lt;li>Social Science&lt;/li>
+&lt;/ul></description></item><item><title>Integration of Frame Semantics to Cyber Ontologies</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/207/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/207/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks and infrastructure. While such representations are conducive to interoperability between systems, they are often unwieldy for human cyber analysts to deal with directly. Conversely, Natural language generation (NLG) frameworks like FrameNet represent language in a structured manner, but frame specifications are often not specific enough for specialized domains (such as cyber security). Leveraging and combining the semantic structure of both forms can create a tool that can translate cyber threat data in standard interoperable formats (such as STIX) to human-readable reports, via existing NLG frameworks. Working on a project such as this provides an opportunity for significant impact, as the fusion of these two structures could greatly increase both the adoption and the utility of cyber threat ontologies.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Folk Narongrit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carol Varkey&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Francis Sun&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>NLP&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>OSINT&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Social Graph Analysis and Attribution of Software Exploit Contributors Using GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Attribution of cyber threat actors is an increasingly important and difficult problem. One potential mitigation is the early detection of potential threat actors via analysis of open-source intelligence (OSINT). This project will analyze the social graph of users who contribute to, follow, star, and otherwise interact with proof-of-concept CVE implementations and other relevant potentially malicious (e.g. software vulnerability) repositories on GitHub.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Atharva Rishi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erin Szeto&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaxin Liang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kshitij Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nghi Le&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Erica Xia&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>Cybersecurity&lt;/li>
+&lt;li>Graph Analysis&lt;/li>
+&lt;/ul></description></item><item><title>Building Sports Data Knowledge Graphs</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/414/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/414/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Public sports data is often spread across many differing sources, creating issues of entity resolution and record linkage. Knowledge graphs are a popular conceptual technology for storing, fusing and querying information from such disparate sources. This project will focus on building a sports data knowledge graph, from various open data and asset (e.g. video) sources/API, based on a Wikidata infrastructure.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Unix System&lt;/li>
+&lt;li>SPARQL&lt;/li>
+&lt;/ul></description></item></channel></rss>

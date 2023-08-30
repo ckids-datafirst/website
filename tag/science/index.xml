@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Science | DataFirst</title><link>https://ckids-datafirst.github.io/website/tag/science/</link><atom:link href="https://ckids-datafirst.github.io/website/tag/science/index.xml" rel="self" type="application/rss+xml"/><description>Science</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Science</title><link>https://ckids-datafirst.github.io/website/tag/science/</link></image><item><title>Studying Scientific Innovation with Temporal Knowledge Graph Representation Learning</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/608/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/608/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>What’s the next big idea, and who’s going to discover it? Our project is trying to understand how researchers make new discoveries and innovate new ideas. To do that we will apply deep learning techniques for temporal knowledge graph learning (RE-NET, CyGNet, HINGE, StarE) to a huge citation network dataset. We have assembled a KG with 260M research papers, 270M authors, 700K fields. To learn representations, our training tasks include citation prediction, author collaboration prediction, and field of study prediction.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dongho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>PyTorch&lt;/li>
+&lt;li>Tensorflow&lt;/li>
+&lt;li>Wikidata&lt;/li>
+&lt;/ul></description></item><item><title>Gender inclusion in science</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will measure representation of women in various scientific disciplines across time (and different countries) and identify institutions who have succeeded in creating a more welcoming environment for women. While there are already studies that use bibliographic data to map career trajectories of women, they do not focus on the role that institutions (and countries) – and their policies – play in retaining female researchers.&lt;/p>
+&lt;p>The data comes from Microscoft Academic Graph, containing millions of papers from institutions around the world across many decades. We will use Ethenea API to extract gender (and ethnicity) of authors.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Ninareh Mehrabi&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Aditya Gupta&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vineetha Nadimpalli&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ayushi Jha&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/goran-muric">Goran Muric&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kristina-lerman">Kristina Lerman&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Statistics&lt;/li>
+&lt;/ul></description></item><item><title>Towards Automated Understanding of Scientific Software</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Data science projects require knowledge of software that changes rapidly. As a result, scientists spend hours reading long documentations and manuals instead of advancing their scientific fields. In this project, we aim to automatically extract relevant aspects of scientific software (e.g., what does it do, how to install it, how to operate with it or how to cite it) from documentation and code using machine learning techniques. The students will build on an existing baseline of classifiers and try to improve the existing results.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Open and Sharing Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Project Presentation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Haripriya Dharmala&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jiaying Wang&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Vedant Diwanji&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;li>Sklearn&lt;/li>
+&lt;/ul></description></item><item><title>Automated time series analysis</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/411/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project will result in a Python package for automated time series analysis. Based on the characteristics of the data, you will design functions that (1) perform essential tasks in data cleaning and select appropriate methodologies, (2) implement various algorithms currently not supported through pandas and scikit-learn, and (3) create appropriate visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Feng Zhu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Myron Kwan&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Shilpa Thomas&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deepanshu Madan&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Pypi&lt;/li>
+&lt;/ul></description></item></channel></rss>
