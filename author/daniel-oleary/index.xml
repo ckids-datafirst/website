@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniel O'Leary | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/daniel-oleary/</link><atom:link href="https://ckids-datafirst.github.io/website/author/daniel-oleary/index.xml" rel="self" type="application/rss+xml"/><description>Daniel O'Leary</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/author/daniel-oleary/avatar_hu0fd64699d673ad754f89fc2617ed430d_69341_270x270_fill_q75_lanczos_center.jpeg</url><title>Daniel O'Leary</title><link>https://ckids-datafirst.github.io/website/author/daniel-oleary/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daniel O'Leary | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/daniel-oleary/</link><atom:link href="https://ckids-datafirst.github.io/website/author/daniel-oleary/index.xml" rel="self" type="application/rss+xml"/><description>Daniel O'Leary</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/daniel-oleary/avatar_hu0fd64699d673ad754f89fc2617ed430d_69341_270x270_fill_q75_lanczos_center.jpeg</url><title>Daniel O'Leary</title><link>https://ckids-datafirst.github.io/website/author/daniel-oleary/</link></image><item><title>A Knowledge Graph of a Crowdsourcing Event</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/813/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/813/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Build a knowledge graph of a crowdsourcing event.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-oleary">Daniel O'Leary&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required">Skills Required&lt;/h2>
+&lt;ul>
+&lt;li>NEO4j&lt;/li>
+&lt;li>or Python&lt;/li>
+&lt;/ul></description></item></channel></rss>
