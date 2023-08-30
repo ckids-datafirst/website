@@ -1,50 +1,61 @@
 !Menu
 main:
-  - name: Fall 2023
-    id: fall-2023
-    parent: null
+  - name: Home
+    url: /
     weight: 1
-
-  - name: Call for Project Proposals
-    parent: Fall 2023
+  - name: Advisors
     url: info-advisors
-    weight: 1
-  - name: Call for Students - Information session
-    parent: Fall 2023
+    weight: 10
+  - name: Students
     url: info-students
-    weight: 2
-  # - !!python/object:datafest_archive.models.website.configuration.MenuItem
-  #   name: Info for Students
-  #   parent: null
-  #   url: info-students
-  #   weight: 2
+    weight: 20
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Previous Semesters
+    name: Semesters
     parent: null
     url: previous-semesters
-    weight: 3
-  # - !!python/object:datafest_archive.models.website.configuration.MenuItem
-  #   name: People
-  #   parent: null
-  #   url: people
-  #   weight: 4
+    weight: 30
   - !!python/object:datafest_archive.models.website.configuration.MenuItem
     name: Contact
     parent: null
     url: contact
-    weight: 6
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Spring 2023
-    parent: Previous Semesters
+    weight: 40
+  - name: Fall 2023 (Open)
+    parent: Semesters
+    url: editions/2023-fall
+    weight: 10
+  - name: Spring 2023
+    parent: Semesters
     url: editions/2023-spring
     weight: 20
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: 2019 to 2022
-    parent: Previous Semesters
-    url: https://sites.usc.edu/ckids/datafest-s22-spring-2022/
-    weight: 21
-
-  - name: Events
-    parent: null
-    url: event
-    weight: 5
+  - name: Fall 2022
+    parent: Semesters
+    url: editions/2022-fall
+    weight: 30
+  - name: Spring 2022
+    parent: Semesters
+    url: editions/2022-spring
+    weight: 40
+  - name: Fall 2021
+    parent: Semesters
+    url: editions/2021-fall
+    weight: 50
+  - name: Spring 2021
+    parent: Semesters
+    url: editions/2021-spring
+    weight: 60
+  - name: Fall 2020
+    parent: Semesters
+    url: editions/2020-fall
+    weight: 70
+  - name: Spring 2020
+    parent: Semesters
+    url: editions/2020-spring
+    weight: 80
+  - name: Fall 2019
+    parent: Semesters
+    url: editions/2019-fall
+    weight: 90
+  - name: Spring 2019
+    parent: Semesters
+    url: editions/2019-spring
+    weight: 100

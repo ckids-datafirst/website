@@ -1,0 +1,63 @@
+---
+!ProjectPage
+authors:
+- Justin Ho
+- Sankareswari Govindarajan
+- Kevin Tran
+- Yi-Hsin Chung
+- Sangeeth Koratten
+- Fred Morstatter
+- Thuy Thanh Truong
+- Ken Nguyen
+categories: &id001
+- Fall 2019
+- Featured
+- Best Project Presentation
+date: '2019-01-01 00:00:00'
+external_link: null
+image: null
+slides: null
+summary: "SideEffects is a cancer patient\u2019s resource to access treatment and\
+  \ side effects tailored to the patient\u2019s treatment and disease history. The\
+  \ app sources content from clinical data, National Cancer Institute, social media,\
+  \ and user input from an app."
+tags: *id001
+title: Mining Side Effects in Cancer Treatment
+url_code: null
+url_pdf: null
+url_slides: null
+url_video: null
+weight: 10
+---
+## Description
+
+SideEffects is a cancer patient’s resource to access treatment and side effects tailored to the patient’s treatment and disease history. The app sources content from clinical data, National Cancer Institute, social media, and user input from an app.
+
+
+
+## Awards
+* Best Project Presentation
+
+
+
+
+
+## Students
+
+* Justin Ho
+
+* Sankareswari Govindarajan
+
+* Kevin Tran
+
+* Yi-Hsin Chung
+
+* Sangeeth Koratten
+
+## Advisors
+
+* [Fred Morstatter](../../../author/fred-morstatter)
+
+* [Thuy Thanh Truong](../../../author/thuy-thanhtruong)
+
+* [Ken Nguyen](../../../author/ken-nguyen)

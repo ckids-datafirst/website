@@ -7,17 +7,19 @@ first_name: Neil
 last_name: Bahroos
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: jennifer.see@med.usc.edu
+  link: mailto:jennifer.see@med.usc.edu
 title: Neil Bahroos
 user_groups:
-- Advisor
+- Advisor (Spring 2023)
 ---
 
-    
+## Previous involvement
+
+* Spring 2023

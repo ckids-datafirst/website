@@ -1,7 +1,12 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: null
+education: !!python/object:datafest_archive.models.website.pages.Education
+  courses:
+  - !!python/object:datafest_archive.models.website.pages.Course
+    course: Unknown
+    institution: Unknown
+    year: null
 email: gordo@usc.edu
 first_name: Iris
 last_name: Gordo
@@ -11,10 +16,14 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: gordo@usc.edu
+  link: mailto:gordo@usc.edu
 title: Iris Gordo
 user_groups:
-- Student
+- Student (Spring 2023)
 ---
 
-    
+
+## Previous involvement
+
+* Spring 2023
+

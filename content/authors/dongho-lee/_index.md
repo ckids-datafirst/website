@@ -7,17 +7,21 @@ first_name: Dong-Ho
 last_name: Lee
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: dongho.lee@usc.edu
+  link: mailto:dongho.lee@usc.edu
 title: Dong-Ho Lee
 user_groups:
-- Advisor
+- Advisor (Spring 2022)
+- Advisor (Spring 2023)
 ---
 
-    
+## Previous involvement
+
+* Spring 2022
+* Spring 2023

@@ -2,7 +2,7 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: hgalperi@usc.edu
+email: hgalper@yahoo.com
 first_name: Hernan
 last_name: Galperin
 organizations:
@@ -14,10 +14,12 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: hgalperi@usc.edu
+  link: mailto:hgalper@yahoo.com
 title: Hernan Galperin
 user_groups:
-- Advisor
+- Advisor (Fall 2023)
 ---
 
-    
+## Previous involvement
+
+* Fall 2023

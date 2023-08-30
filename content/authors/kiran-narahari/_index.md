@@ -1,7 +1,12 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: null
+education: !!python/object:datafest_archive.models.website.pages.Education
+  courses:
+  - !!python/object:datafest_archive.models.website.pages.Course
+    course: Unknown
+    institution: Unknown
+    year: null
 email: vnarahar@usc.edu
 first_name: Kiran
 last_name: Narahari
@@ -11,10 +16,14 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: vnarahar@usc.edu
+  link: mailto:vnarahar@usc.edu
 title: Kiran Narahari
 user_groups:
-- Student
+- Student (Spring 2023)
 ---
 
-    
+
+## Previous involvement
+
+* Spring 2023
+

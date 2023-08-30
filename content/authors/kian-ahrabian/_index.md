@@ -2,22 +2,26 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: null
+email: ahrabian@usc.edu
 first_name: Kian
 last_name: Ahrabian
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: null
+  link: mailto:ahrabian@usc.edu
 title: Kian Ahrabian
 user_groups:
-- Advisor
+- Advisor (Spring 2022)
+- Advisor (Spring 2023)
 ---
 
-    
+## Previous involvement
+
+* Spring 2022
+* Spring 2023
