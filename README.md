@@ -1,4 +1,4 @@
-# [DataFirst Website](https://github.com/wowchemy/starter-hugo-research-group)
+# [DataFirst Website](https://ckids-datafirst.github.io/website/)
 
 The website is built using [Hugo](https://gohugo.io/) and the [Wowchemy](https://wowchemy.com/) framework.
 
