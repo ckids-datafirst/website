@@ -1,7 +1,12 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: null
+education: !!python/object:datafest_archive.models.website.pages.Education
+  courses:
+  - !!python/object:datafest_archive.models.website.pages.Course
+    course: Unknown
+    institution: Unknown
+    year: null
 email: smathana@usc.edu
 first_name: Sowmiya
 last_name: Mathanagopalan
@@ -11,10 +16,14 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: smathana@usc.edu
+  link: mailto:smathana@usc.edu
 title: Sowmiya Mathanagopalan
 user_groups:
-- Student
+- Student (Spring 2023)
 ---
 
-    
+
+## Previous involvement
+
+* Spring 2023
+

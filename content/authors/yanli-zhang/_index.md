@@ -1,7 +1,12 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
-education: null
+education: !!python/object:datafest_archive.models.website.pages.Education
+  courses:
+  - !!python/object:datafest_archive.models.website.pages.Course
+    course: Unknown
+    institution: Unknown
+    year: null
 email: yanlizha@usc.edu
 first_name: Yanli
 last_name: Zhang
@@ -11,10 +16,14 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: yanlizha@usc.edu
+  link: mailto:yanlizha@usc.edu
 title: Yanli Zhang
 user_groups:
-- Student
+- Student (Spring 2023)
 ---
 
-    
+
+## Previous involvement
+
+* Spring 2023
+

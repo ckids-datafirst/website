@@ -7,17 +7,23 @@ first_name: Kristina
 last_name: Lerman
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: lerman@isi.edu
+  link: mailto:lerman@isi.edu
 title: Kristina Lerman
 user_groups:
-- Advisor
+- Advisor (Spring 2020)
+- Advisor (Fall 2022)
+- Advisor (Spring 2023)
 ---
 
-    
+## Previous involvement
+
+* Fall 2022
+* Spring 2020
+* Spring 2023

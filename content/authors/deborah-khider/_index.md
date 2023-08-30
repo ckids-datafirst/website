@@ -1,23 +1,37 @@
 ---
 !!python/object:datafest_archive.models.website.pages.PeoplePage
-bio: ""
+bio: ''
 education: null
 email: khider@usc.edu
 first_name: Deborah
 last_name: Khider
 organizations:
-  - !Organization
-    name: null
-    url: null
+- !Organization
+  name: USC
+  url: null
 role: Advisor
 social:
-  - !Social
-    icon: envelope
-    icon_pack: fas
-    link: khider@usc.edu
-user_groups:
-  - Advisor Fall 2023
+- !Social
+  icon: envelope
+  icon_pack: fas
+  link: mailto:khider@usc.edu
 title: Deborah Khider
+user_groups:
+- Advisor (Spring 2021)
+- Advisor (Fall 2020)
+- Advisor (Spring 2020)
+- Advisor (Fall 2019)
+- Advisor (Spring 2019)
+- Advisor (Spring 2022)
+- Advisor (Fall 2023)
 ---
 
-My research interests lie at the intersection of geoscience and artificial intelligence. I am particularly interested in using AI to advance the field of paleoclimatology, including tools to annotate and retrieve data, workflows for analysis and machine learning for climate-relevant predictions.
+## Previous involvement
+
+* Fall 2019
+* Fall 2020
+* Fall 2023
+* Spring 2019
+* Spring 2020
+* Spring 2021
+* Spring 2022

@@ -7,17 +7,27 @@ first_name: Joon-Ho
 last_name: Choi
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: joonhoch@usc.edu
+  link: mailto:joonhoch@usc.edu
 title: Joon-Ho Choi
 user_groups:
-- Advisor
+- Advisor (Fall 2020)
+- Advisor (Fall 2019)
+- Advisor (Spring 2019)
+- Advisor (Fall 2022)
+- Advisor (Spring 2023)
 ---
 
-    
+## Previous involvement
+
+* Fall 2019
+* Fall 2020
+* Fall 2022
+* Spring 2019
+* Spring 2023

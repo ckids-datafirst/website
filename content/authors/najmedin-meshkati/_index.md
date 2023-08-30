@@ -7,17 +7,21 @@ first_name: Najmedin
 last_name: Meshkati
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: meshkati@usc.edu
+  link: mailto:meshkati@usc.edu
 title: Najmedin Meshkati
 user_groups:
-- Advisor
+- Advisor (Spring 2023)
+- Advisor (Fall 2023)
 ---
 
-    
+## Previous involvement
+
+* Fall 2023
+* Spring 2023
