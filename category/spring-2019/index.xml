@@ -2,7 +2,7 @@
 &lt;p>This project created an electronic notebook using R and R studio for environmental sciences curriculum. The notebook will be used for undergraduate students to teach advanced statistical analysis about population health in Fall 2019.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Huy Nghiem&lt;/li>
+&lt;li>&lt;a href="../../../author/huy-nghiem">Huy Nghiem&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -16,7 +16,7 @@
 &lt;p>This project focused on a causality analysis of paleoclimate time series using Pyleoclim, which is a Python package geared towards the analysis and visualization of paleoclimate data. Future work includes exploring and testing additional algorithms for time series analysis.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Han Wu&lt;/li>
+&lt;li>&lt;a href="../../../author/han-wu">Han Wu&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -25,16 +25,16 @@
 &lt;p>This project studied behavioral patterns by analyzing data from personal senses collected from 60 subjects. This data can be used to predict activities and infer people’s lifestyle and habits.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Ian Myoungsu Choi&lt;/li>
+&lt;li>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Crosstown</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/507/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Giorgos and John are developing a machine learning system to automatically detect, prioritize, and alert journalists in the presence of abnormalities in crime data. Through this project, they want to assist journalists to identify interesting stories in data. The data is rich in features, and by using general feature engineering.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Giorgos Constantinou&lt;/p>
+&lt;p>&lt;a href="../../../author/giorgos-constantinou">Giorgos Constantinou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>John Cutone&lt;/p>
+&lt;p>&lt;a href="../../../author/john-cutone">John Cutone&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -49,29 +49,37 @@
 &lt;p>Mengqi presented her study about thermal control using Excel, Minitab, and Python for data analysis. She collected data in a lab setting and tried two models, a group model and an individual model. She found that a group model, which consisted of 20 subjects, did not work well, while individual models gave better results.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Mengqi Jia&lt;/li>
+&lt;li>&lt;a href="../../../author/mengqi-jia">Mengqi Jia&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx?dl=0" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Foster Care Children: Administrative Data and Computational Methods</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/506/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/506/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project is using population-based administrative data, including birth, medical, and education records to study child welfare services. The research topics include: a family-level analysis of first births and sibling re-reports in the foster care system; identifying mothers who gave subsequent birth after the termination of parental rights; modeling the child protective services system using Markov models; and predicting risks for aging youth.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Eunhye Ahn&lt;/li>
+&lt;li>&lt;a href="../../../author/eunhye-ahn">Eunhye Ahn&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/emily-putnamhornstein">Emily Putnam-Hornstein&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1rbJu4no7acBdfUCv3zP5wvjdG04vlhh70eFOCzHomkg/edit?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Game Data and Social Capital</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Natalie and Calvin look at social capital from two angles: social capital as a predictor and social capital as an outcome. First, they want to observe whether people who display social capital exhibit certain characteristics or behavior. Second, they want to study if people who are interested in a specific topic will exhibit certain types of social capital.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Natalie Jonckheere&lt;/p>
+&lt;p>&lt;a href="../../../author/natalie-jonckheere">Natalie Jonckheere&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Calvin Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/calvin-liu">Calvin Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -81,20 +89,28 @@
 &lt;p>Lingkai collected data in a controlled setting and studied lighting control in buildings for visual comfort. For data preprocessing, he used Excel and MathWorks; for data analysis, he used Python and Scikit learn.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Lingkai Cen&lt;/li>
+&lt;li>&lt;a href="../../../author/lingkai-cen">Lingkai Cen&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dropbox.com/s/krllixhcdt8nacc/4.26_Lingkai_Cen.pptx?dl=0" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Multiplayer Game’s Solo Players</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/502/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/502/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Even when engaging in a multiplayer online game, some players play by themselves. Do Own is interested in investigating personality, motivation, and behavioral patterns of social network isolates.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Do Own (Donna) Kim&lt;/li>
+&lt;li>&lt;a href="../../../author/do-owndonnakim">Do Own (Donna) Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1dI4Q65xrjIUt_OsHStoXI6CzoEOe45g4cjmQWxBQZXA/edit?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Overview of Multiplayer Games Dataset</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Professor Williams describes the kinds of questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. Students in his group focused on a wide range of projects that use this data to study a range of human behaviors.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -104,7 +120,7 @@
 &lt;p>This project explores the influence of the personality of game players who become mentors on mentoring outcomes using machine learning. The project will use survey data to analyze mentors’ extraversion and agreeableness as well as mentees’ game performance and churn rates.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Joo-Wha Hong&lt;/li>
+&lt;li>&lt;a href="../../../author/joowha-hong">Joo-Wha Hong&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -114,10 +130,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Qiyao (Joyce) Peng&lt;/p>
+&lt;p>&lt;a href="../../../author/qiyao-joycepeng">Qiyao (Joyce) Peng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Alejandro Marin&lt;/p>
+&lt;p>&lt;a href="../../../author/alejandro-marin">Alejandro Marin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

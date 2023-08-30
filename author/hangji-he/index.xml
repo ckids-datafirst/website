@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hangji He | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/hangji-he/</link><atom:link href="https://ckids-datafirst.github.io/website/author/hangji-he/index.xml" rel="self" type="application/rss+xml"/><description>Hangji He</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Hangji He</title><link>https://ckids-datafirst.github.io/website/author/hangji-he/</link></image><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/6/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/6/</guid><description>&lt;p>Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into their graph neural networks (GNNs) learning processes to predict temporally conditioned facts. These models capture the temporal dynamics of the facts well and are well-suited for temporally conditioned graph completion tasks. However, there remain many open issues that need to be addressed to make it more practical for real-world applications: (1) Real-world problems usually do not conform to the graph completion tasks which fill out the missing element in a fact; (2) Sparse graph due to lack of temporal triples for target task leads to poor performance; (3) Temporal graphs are inherently dynamic entities that grow and change over time but most existing models require computationally expensive training from scratch to incorporate these changes. Thus, we propose to design an efficient event forecasting framework that solves such challenges.&lt;/p></description></item><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hangji He | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/hangji-he/</link><atom:link href="https://ckids-datafirst.github.io/website/author/hangji-he/index.xml" rel="self" type="application/rss+xml"/><description>Hangji He</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Hangji He</title><link>https://ckids-datafirst.github.io/website/author/hangji-he/</link></image><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into their graph neural networks (GNNs) learning processes to predict temporally conditioned facts. These models capture the temporal dynamics of the facts well and are well-suited for temporally conditioned graph completion tasks. However, there remain many open issues that need to be addressed to make it more practical for real-world applications: (1) Real-world problems usually do not conform to the graph completion tasks which fill out the missing element in a fact; (2) Sparse graph due to lack of temporal triples for target task leads to poor performance; (3) Temporal graphs are inherently dynamic entities that grow and change over time but most existing models require computationally expensive training from scratch to incorporate these changes. Thus, we propose to design an efficient event forecasting framework that solves such challenges.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Parth Rohilla&lt;/p>
+&lt;p>&lt;a href="../../../author/parth-rohilla">Parth Rohilla&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kiran Narahari&lt;/p>
+&lt;p>&lt;a href="../../../author/kiran-narahari">Kiran Narahari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hangji He&lt;/p>
+&lt;p>&lt;a href="../../../author/hangji-he">Hangji He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubham Gujar&lt;/p>
+&lt;p>&lt;a href="../../../author/shubham-gujar">Shubham Gujar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Varun Venkatesh&lt;/p>
+&lt;p>&lt;a href="../../../author/varun-venkatesh">Varun Venkatesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

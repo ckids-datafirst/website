@@ -3,16 +3,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yilin Qi&lt;/p>
+&lt;p>&lt;a href="../../../author/yilin-qi">Yilin Qi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Revanth Madamala&lt;/p>
+&lt;p>&lt;a href="../../../author/revanth-madamala">Revanth Madamala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Luer Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/luer-lyu">Luer Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;p>&lt;a href="../../../author/chidambaram-veerappan">Chidambaram Veerappan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -23,4 +23,8 @@
 &lt;ul>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>NLP&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

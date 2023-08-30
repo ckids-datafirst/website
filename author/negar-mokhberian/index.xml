@@ -19,16 +19,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Keerti Bhogaraju&lt;/p>
+&lt;p>&lt;a href="../../../author/keerti-bhogaraju">Keerti Bhogaraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Myoungsu Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Negar Mokhberian&lt;/p>
+&lt;p>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nazanin Alipourfard&lt;/p>
+&lt;p>&lt;a href="../../../author/nazanin-alipourfard">Nazanin Alipourfard&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -40,4 +40,8 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Data Mining&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1ocNzQLKJNMOLdlvl4wRBD20cMav60T6d/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -15,19 +15,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kathy Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/kathy-wang">Kathy Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shayan Javid&lt;/p>
+&lt;p>&lt;a href="../../../author/shayan-javid">Shayan Javid&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinaav-ramesh">Abhinaav Ramesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineet Agarwal&lt;/p>
+&lt;p>&lt;a href="../../../author/vineet-agarwal">Vineet Agarwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahui Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahui-lu">Jiahui Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -40,6 +40,10 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;li>R&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -49,22 +53,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Lili Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/lili-zhou">Lili Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikita Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/nikita-goel">Nikita Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chanda&lt;/p>
+&lt;p>&lt;a href="../../../author/chanda-">Chanda&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanjeev Kadagathur Vadiraj&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjeev-kadagathurvadiraj">Sanjeev Kadagathur Vadiraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Audrey Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/audrey-lin">Audrey Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -79,16 +83,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yilin Qi&lt;/p>
+&lt;p>&lt;a href="../../../author/yilin-qi">Yilin Qi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Revanth Madamala&lt;/p>
+&lt;p>&lt;a href="../../../author/revanth-madamala">Revanth Madamala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Luer Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/luer-lyu">Luer Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;p>&lt;a href="../../../author/chidambaram-veerappan">Chidambaram Veerappan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -99,7 +103,11 @@
 &lt;ul>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>NLP&lt;/li>
-&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -108,22 +116,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yishan Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yishan-li">Yishan Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Navyada Koshatwar&lt;/p>
+&lt;p>&lt;a href="../../../author/navyada-koshatwar">Navyada Koshatwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gayathri Shrikanth&lt;/p>
+&lt;p>&lt;a href="../../../author/gayathri-shrikanth">Gayathri Shrikanth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rushi Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/rushi-shah">Rushi Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pranjali Tushar Tembhurnikar&lt;/p>
+&lt;p>&lt;a href="../../../author/pranjali-tushartembhurnikar">Pranjali Tushar Tembhurnikar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manuel Amaya&lt;/p>
+&lt;p>&lt;a href="../../../author/manuel-amaya">Manuel Amaya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -139,22 +147,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Hassaan Hasan&lt;/p>
+&lt;p>&lt;a href="../../../author/hassaan-hasan">Hassaan Hasan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Dave&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-dave">Aditya Dave&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yin He&lt;/p>
+&lt;p>&lt;a href="../../../author/yin-he">Yin He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kartik Balodi&lt;/p>
+&lt;p>&lt;a href="../../../author/kartik-balodi">Kartik Balodi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akshat Jetli&lt;/p>
+&lt;p>&lt;a href="../../../author/akshat-jetli">Akshat Jetli&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manav Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/manav-jain">Manav Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -167,6 +175,10 @@
 &lt;li>Web Scraping&lt;/li>
 &lt;li>SQL&lt;/li>
 &lt;li>NoSQL&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -176,19 +188,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Linglan Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/linglan-zhang">Linglan Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yu-zhang">Yu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Uday Malte&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-udaymalte">Aditya Uday Malte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Namita Santosh Mutha&lt;/p>
+&lt;p>&lt;a href="../../../author/namita-santoshmutha">Namita Santosh Mutha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -213,10 +225,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jingping Yu&lt;/p>
+&lt;p>&lt;a href="../../../author/jingping-yu">Jingping Yu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -232,10 +244,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yixiao Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yixiao-li">Yixiao Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhaohong Feng&lt;/p>
+&lt;p>&lt;a href="../../../author/zhaohong-feng">Zhaohong Feng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -255,10 +267,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Tao Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -274,19 +286,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Jonathan Lal&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-lal">Jonathan Lal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Ramani&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-ramani">Aditya Ramani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanket Bhilare&lt;/p>
+&lt;p>&lt;a href="../../../author/sanket-bhilare">Sanket Bhilare&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Keerthana Prakash&lt;/p>
+&lt;p>&lt;a href="../../../author/keerthana-prakash">Keerthana Prakash&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Himani Amrute&lt;/p>
+&lt;p>&lt;a href="../../../author/himani-amrute">Himani Amrute&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -307,22 +319,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yanan Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/yanan-zhou">Yanan Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Megan Josep&lt;/p>
+&lt;p>&lt;a href="../../../author/megan-josep">Megan Josep&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Priya Mane&lt;/p>
+&lt;p>&lt;a href="../../../author/priya-mane">Priya Mane&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Minrui Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/minrui-chen">Minrui Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinav Rao&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinav-rao">Abhinav Rao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Samip Kalyani&lt;/p>
+&lt;p>&lt;a href="../../../author/samip-kalyani">Samip Kalyani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -339,6 +351,10 @@
 &lt;li>Data Analysis&lt;/li>
 &lt;li>Data Collection&lt;/li>
 &lt;li>Data Visualization&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/12Zk_1YMWYH9NtknIqg8NSEX0W3XXtKK7/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Object detection and classification APIs for urban street image analysis</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -348,27 +364,31 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vibhav Chitalia&lt;/p>
+&lt;p>&lt;a href="../../../author/vibhav-chitalia">Vibhav Chitalia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;p>&lt;a href="../../../author/utkarsh-baranwal">Utkarsh Baranwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carlos Zamora&lt;/p>
+&lt;p>&lt;a href="../../../author/carlos-zamora">Carlos Zamora&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wonjun Lee&lt;/p>
+&lt;p>&lt;a href="../../../author/wonjun-lee">Wonjun Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://sites.google.com/usc.edu/homeless-encampments-in-la/home__;!!LIr3w8kk_Xxm!8Eq9mrdqLFc0LUaCGdonNK44IuCugGgQSvt90cBL0xEveRFYamBdezONTYoHeoo$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data (begun Spring 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/113/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/113/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Food environments (the physical spaces where people acquire and consume food) can profoundly impact diet and related diseases. Effective, robust measures of food environment nutritional quality are required by researchers and policymakers investigating their effects on individual dietary behavior and designing targeted public health interventions. The most commonly used indicators of food environment nutritional quality are limited to measuring the binary presence or absence of entire categories of food outlet type, such as ‘fast-food’ outlets, which can range from burger joints to salad chains. There would be great value in a summarizing indicator of restaurant nutritional quality that exists along a continuum, and which can be applied at the scale of large food environments, for example across Los Angeles County, to make distinctions between diverse restaurants within and across categories of food outlets.&lt;/p>
 &lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Foursquare and Yelp. We will investigate the ability to access menu information from the APIs of these social media platforms, and develop measures to assess the nutritional content of these menus. Multiple aims will be investigated in this project, including scraping data from social media; NLP of menu text, tag, and comment data; developing predictive models of obesity; and more. “Ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from menu data.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Iris C. Liu&lt;/li>
+&lt;li>&lt;a href="../../../author/iris-cliu">Iris C. Liu&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -390,22 +410,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manoj Yadav&lt;/p>
+&lt;p>&lt;a href="../../../author/manoj-yadav">Manoj Yadav&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Frederick Norman&lt;/p>
+&lt;p>&lt;a href="../../../author/frederick-norman">Frederick Norman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vikrame Vasudev Krishnan&lt;/p>
+&lt;p>&lt;a href="../../../author/vikrame-vasudevkrishnan">Vikrame Vasudev Krishnan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hanyu He&lt;/p>
+&lt;p>&lt;a href="../../../author/hanyu-he">Hanyu He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shaochen Tan&lt;/p>
+&lt;p>&lt;a href="../../../author/shaochen-tan">Shaochen Tan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Amit Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/amit-singh">Amit Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

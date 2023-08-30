@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spring 2021 | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/spring-2021/</link><atom:link href="https://ckids-datafirst.github.io/website/category/spring-2021/index.xml" rel="self" type="application/rss+xml"/><description>Spring 2021</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Spring 2021</title><link>https://ckids-datafirst.github.io/website/category/spring-2021/</link></image><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spring 2021 | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/spring-2021/</link><atom:link href="https://ckids-datafirst.github.io/website/category/spring-2021/index.xml" rel="self" type="application/rss+xml"/><description>Spring 2021</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Spring 2021</title><link>https://ckids-datafirst.github.io/website/category/spring-2021/</link></image><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manasi Godse&lt;/p>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jackie Fan&lt;/p>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rehan Ahmed&lt;/p>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahang Song&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -35,10 +35,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shubhashree Dash&lt;/p>
+&lt;p>&lt;a href="../../../author/shubhashree-dash">Shubhashree Dash&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Katie Chak&lt;/p>
+&lt;p>&lt;a href="../../../author/katie-chak">Katie Chak&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -60,10 +60,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Tao Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -84,16 +84,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dat Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenwen Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinran Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -106,7 +106,7 @@
 &lt;li>Databases&lt;/li>
 &lt;li>APIs&lt;/li>
 &lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -115,19 +115,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Xiaoyu Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/xiaoyu-wang">Xiaoyu Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Stephen Iota&lt;/p>
+&lt;p>&lt;a href="../../../author/stephen-iota">Stephen Iota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bolong Pan&lt;/p>
+&lt;p>&lt;a href="../../../author/bolong-pan">Bolong Pan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Junyi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/junyi-liu">Junyi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-lyu">Ming Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -153,19 +153,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitali Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitali-joshi">Chaitali Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aparna Nair&lt;/p>
+&lt;p>&lt;a href="../../../author/aparna-nair">Aparna Nair&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -176,24 +176,24 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>AI ethics&lt;/li>
-&lt;/ul></description></item><item><title>Mapping the Uncanny Valley</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Mapping the Uncanny Valley (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many stories involve the friendly and familiar, scary stories across cultures, from Hamlet to Yotsuya Kaidan to Siren Head involve beings that are almost—but not quite—human. Can these stories give us insight into the “nearly-human” uncanny valley? Initial results from our group say yes! While some research has explored the uncanny valley for images, the research is limited and previously unexplored in text format. If we can extract human emotions surrounding text descriptions, we can exploit an enormous array of data. Our goal this semester is to analyze our objective definitions of “fear” or “creepiness” in a story and test how the similarity of words to “human” make them more or less creepy. Moreover, we will explore what features of objects make them more or less scary. These findings share a direct relationship to AI and robotics where our goal is always to improve pleasant interactions and affability in human-computer and human-robot interactions. The students will build on initial work to apply NLP methods to these texts and improve upon existing initial results.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Saurabh Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/saurabh-jain">Saurabh Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Athashree Vartak&lt;/p>
+&lt;p>&lt;a href="../../../author/athashree-vartak">Athashree Vartak&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Olivia Fryt&lt;/p>
+&lt;p>&lt;a href="../../../author/olivia-fryt">Olivia Fryt&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yilin Qi&lt;/p>
+&lt;p>&lt;a href="../../../author/yilin-qi">Yilin Qi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiashu Xu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiashu-xu">Jiashu Xu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -206,7 +206,7 @@
 &lt;li>NLTK&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Keras&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The COVID-19 pandemic has reinvigorated calls to close the digital divide in the US and elsewhere. Without adequate Internet access, households are at a disadvantage in education, jobs, health, and other key dimensions of wellbeing. While local broadband markets are increasingly concentrated, there is also increased interest in exploring the role those small local operators (“microtelcos”) can play in serving in low-income and rural communities. These microtelcos range from small wireless cooperatives to mom-and-pop private ISPs to municipal-backed operators. This project seeks to a) map and identify the characteristics of communities where microtelcos are present in CA, and b) to examine whether microtelcos presence affects broadband service quality and adoption by businesses and households in the community. The project will use broadband deployment data collected by the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -215,10 +215,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Asjad Asif Jah&lt;/p>
+&lt;p>&lt;a href="../../../author/asjad-asifjah">Asjad Asif Jah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jonathan Gonzalez&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-gonzalez">Jonathan Gonzalez&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -235,19 +235,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Trisha Sinha&lt;/p>
+&lt;p>&lt;a href="../../../author/trisha-sinha">Trisha Sinha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Harsh Jaykumar Jalan&lt;/p>
+&lt;p>&lt;a href="../../../author/harsh-jaykumarjalan">Harsh Jaykumar Jalan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ashwin Sakhare&lt;/p>
+&lt;p>&lt;a href="../../../author/ashwin-sakhare">Ashwin Sakhare&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Divya Manjunath&lt;/p>
+&lt;p>&lt;a href="../../../author/divya-manjunath">Divya Manjunath&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -265,19 +265,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Deven Panchac&lt;/p>
+&lt;p>&lt;a href="../../../author/deven-panchac">Deven Panchac&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Michael Mathew&lt;/p>
+&lt;p>&lt;a href="../../../author/michael-mathew">Michael Mathew&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akansha Das&lt;/p>
+&lt;p>&lt;a href="../../../author/akansha-das">Akansha Das&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Suchetha Bhat&lt;/p>
+&lt;p>&lt;a href="../../../author/suchetha-bhat">Suchetha Bhat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shruti Krishna Kumar&lt;/p>
+&lt;p>&lt;a href="../../../author/shruti-krishnakumar">Shruti Krishna Kumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -303,19 +303,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Meera Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/meera-patel">Meera Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Boya Li&lt;/p>
+&lt;p>&lt;a href="../../../author/boya-li">Boya Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haoyang Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/haoyang-chen">Haoyang Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Qinming Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/qinming-zhang">Qinming Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Yan&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-yan">Ming Yan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -337,19 +337,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruoyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/ruoyu-li">Ruoyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carol Varkey&lt;/p>
+&lt;p>&lt;a href="../../../author/carol-varkey">Carol Varkey&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;p>&lt;a href="../../../author/rengapriya-aravindan">Rengapriya Aravindan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chuqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/chuqi-liu">Chuqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ziheng Gong&lt;/p>
+&lt;p>&lt;a href="../../../author/ziheng-gong">Ziheng Gong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

@@ -3,10 +3,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Mansi Ganatra&lt;/p>
+&lt;p>&lt;a href="../../../author/mansi-ganatra">Mansi Ganatra&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saatvik Tikoo&lt;/p>
+&lt;p>&lt;a href="../../../author/saatvik-tikoo">Saatvik Tikoo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -26,13 +26,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruiyu Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/ruiyu-zhao">Ruiyu Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xingyu Wei&lt;/p>
+&lt;p>&lt;a href="../../../author/xingyu-wei">Xingyu Wei&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tieming Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/tieming-sun">Tieming Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -49,19 +49,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Feng Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/feng-zhu">Feng Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Myron Kwan&lt;/p>
+&lt;p>&lt;a href="../../../author/myron-kwan">Myron Kwan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shilpa Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/shilpa-thomas">Shilpa Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;p>&lt;a href="../../../author/nikhil-dharavenkata">Nikhil Dhara Venkata&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Deepanshu Madan&lt;/p>
+&lt;p>&lt;a href="../../../author/deepanshu-madan">Deepanshu Madan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -77,13 +77,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Anjana Niranjan&lt;/p>
+&lt;p>&lt;a href="../../../author/anjana-niranjan">Anjana Niranjan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kushagra Singh Sachan&lt;/p>
+&lt;p>&lt;a href="../../../author/kushagra-singhsachan">Kushagra Singh Sachan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chi Sheng Yang&lt;/p>
+&lt;p>&lt;a href="../../../author/chi-shengyang">Chi Sheng Yang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -108,7 +108,7 @@
 &lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. This project will design and develop a user interface for specifying provenance records using W3C standards. The interface will enable users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc).&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Rahul Jeswani&lt;/li>
+&lt;li>&lt;a href="../../../author/rahul-jeswani">Rahul Jeswani&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -123,16 +123,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Li Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yili-chen">Yi-Li Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Andrew Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/andrew-zhao">Andrew Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -149,22 +149,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yang Dai&lt;/p>
+&lt;p>&lt;a href="../../../author/yang-dai">Yang Dai&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zixuan Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/zixuan-zhang">Zixuan Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Parul Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/parul-gupta">Parul Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yu Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/yu-wang">Yu Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanjiv Soni&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjiv-soni">Sanjiv Soni&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shenoy Pratik Gurudatt&lt;/p>
+&lt;p>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -180,19 +180,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yuxuan Ji&lt;/p>
+&lt;p>&lt;a href="../../../author/yuxuan-ji">Yuxuan Ji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhifeng Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/zhifeng-liu">Zhifeng Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ashka Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/ashka-patel">Ashka Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditi Choudhary&lt;/p>
+&lt;p>&lt;a href="../../../author/aditi-choudhary">Aditi Choudhary&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shelly Mehta&lt;/p>
+&lt;p>&lt;a href="../../../author/shelly-mehta">Shelly Mehta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -211,7 +211,7 @@
 &lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Shenoy Pratik Gurudatt&lt;/li>
+&lt;li>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -224,7 +224,7 @@
 &lt;p>In this research, we aim to model how human players make connection decisions in an online game where players are free to add or delete a friend, as well as join a clan.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Yiley Zeng&lt;/li>
+&lt;li>&lt;a href="../../../author/yiley-zeng">Yiley Zeng&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -253,19 +253,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Divyatmika Lnu&lt;/p>
+&lt;p>&lt;a href="../../../author/divyatmika-lnu">Divyatmika Lnu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shagun Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/shagun-gupta">Shagun Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nina Thiebaut&lt;/p>
+&lt;p>&lt;a href="../../../author/nina-thiebaut">Nina Thiebaut&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nisha Tiwari&lt;/p>
+&lt;p>&lt;a href="../../../author/nisha-tiwari">Nisha Tiwari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-choi">Ian Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -293,19 +293,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Justin Ho&lt;/p>
+&lt;p>&lt;a href="../../../author/justin-ho">Justin Ho&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sankareswari Govindarajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sankareswari-govindarajan">Sankareswari Govindarajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tran&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tran">Kevin Tran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Hsin Chung&lt;/p>
+&lt;p>&lt;a href="../../../author/yihsin-chung">Yi-Hsin Chung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sangeeth Koratten&lt;/p>
+&lt;p>&lt;a href="../../../author/sangeeth-koratten">Sangeeth Koratten&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -337,10 +337,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shravya Manety&lt;/p>
+&lt;p>&lt;a href="../../../author/shravya-manety">Shravya Manety&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -355,16 +355,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yihang Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yihang-chen">Yihang Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Lisa Meng&lt;/p>
+&lt;p>&lt;a href="../../../author/lisa-meng">Lisa Meng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chiaofeng Yang&lt;/p>
+&lt;p>&lt;a href="../../../author/chiaofeng-yang">Chiaofeng Yang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nelson Lam&lt;/p>
+&lt;p>&lt;a href="../../../author/nelson-lam">Nelson Lam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -392,16 +392,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Wei-Fan Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/weifan-chen">Wei-Fan Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sameeksha Mahajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sameeksha-mahajan">Sameeksha Mahajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zijing Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/zijing-zhang">Zijing Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pratheek Athreya&lt;/p>
+&lt;p>&lt;a href="../../../author/pratheek-athreya">Pratheek Athreya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -425,13 +425,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manoj Muralidhara&lt;/p>
+&lt;p>&lt;a href="../../../author/manoj-muralidhara">Manoj Muralidhara&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubham Banka&lt;/p>
+&lt;p>&lt;a href="../../../author/shubham-banka">Shubham Banka&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gaurav Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/gaurav-gupta">Gaurav Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -454,16 +454,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Junchu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/junchu-zhang">Junchu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Himan Kriplani&lt;/p>
+&lt;p>&lt;a href="../../../author/himan-kriplani">Himan Kriplani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shatad Purohit&lt;/p>
+&lt;p>&lt;a href="../../../author/shatad-purohit">Shatad Purohit&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jinney Guo&lt;/p>
+&lt;p>&lt;a href="../../../author/jinney-guo">Jinney Guo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

@@ -12,13 +12,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaying-wang">Jiaying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -31,21 +31,25 @@
 &lt;li>Knowledge Graphs&lt;/li>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Sklearn&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Creating and visualizing a linked knowledge base of crime data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/412/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/412/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>A lot of data is available in the web in a tabular manner, but it’s difficult to manipulate and visualize without a significant effort. In this project, we aim to test a novel framework created at ISI to build and visualize knowledge bases. The objective is to create a knowledge base that extends the other resources in the Web such as Wikidata or Wikipedia, and visualize the results using interactive maps and plots.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Li Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yili-chen">Yi-Li Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Andrew Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/andrew-zhao">Andrew Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

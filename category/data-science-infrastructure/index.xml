@@ -3,19 +3,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Parth Rohilla&lt;/p>
+&lt;p>&lt;a href="../../../author/parth-rohilla">Parth Rohilla&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kiran Narahari&lt;/p>
+&lt;p>&lt;a href="../../../author/kiran-narahari">Kiran Narahari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hangji He&lt;/p>
+&lt;p>&lt;a href="../../../author/hangji-he">Hangji He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubham Gujar&lt;/p>
+&lt;p>&lt;a href="../../../author/shubham-gujar">Shubham Gujar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Varun Venkatesh&lt;/p>
+&lt;p>&lt;a href="../../../author/varun-venkatesh">Varun Venkatesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -40,36 +40,40 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vibhav Chitalia&lt;/p>
+&lt;p>&lt;a href="../../../author/vibhav-chitalia">Vibhav Chitalia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;p>&lt;a href="../../../author/utkarsh-baranwal">Utkarsh Baranwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carlos Zamora&lt;/p>
+&lt;p>&lt;a href="../../../author/carlos-zamora">Carlos Zamora&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wonjun Lee&lt;/p>
+&lt;p>&lt;a href="../../../author/wonjun-lee">Wonjun Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://sites.google.com/usc.edu/homeless-encampments-in-la/home__;!!LIr3w8kk_Xxm!8Eq9mrdqLFc0LUaCGdonNK44IuCugGgQSvt90cBL0xEveRFYamBdezONTYoHeoo$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>A framework for enabling software comparison and classification</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The number of scientific products, including scientific software, has been steadily growing in the last years. This growth makes it difficult for researchers to understand all the latest code and publications available. A great body of research has attempted at classifying similar papers and literature. However, there aren’t to date good approaches for finding similar or related code. In this project, the students will analyze different unsupervised methods to find scientific software similarities based on a) An automated analysis of their dependencies; b) By classifying the main functionality of software components.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yi Xie&lt;/p>
+&lt;p>&lt;a href="../../../author/yi-xie">Yi Xie&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bin Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/bin-zhang">Bin Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mohan Krishna Thota&lt;/p>
+&lt;p>&lt;a href="../../../author/mohan-krishnathota">Mohan Krishna Thota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -87,13 +91,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Everest Law&lt;/p>
+&lt;p>&lt;a href="../../../author/everest-law">Everest Law&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhongying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/zhongying-wang">Zhongying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -110,13 +114,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Folk Narongrit&lt;/p>
+&lt;p>&lt;a href="../../../author/folk-narongrit">Folk Narongrit&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carol Varkey&lt;/p>
+&lt;p>&lt;a href="../../../author/carol-varkey">Carol Varkey&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Francis Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/francis-sun">Francis Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -139,19 +143,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Devendra Swami&lt;/p>
+&lt;p>&lt;a href="../../../author/devendra-swami">Devendra Swami&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jacob Bickman&lt;/p>
+&lt;p>&lt;a href="../../../author/jacob-bickman">Jacob Bickman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Young Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -171,19 +175,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Feng Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/feng-zhu">Feng Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Myron Kwan&lt;/p>
+&lt;p>&lt;a href="../../../author/myron-kwan">Myron Kwan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shilpa Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/shilpa-thomas">Shilpa Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;p>&lt;a href="../../../author/nikhil-dharavenkata">Nikhil Dhara Venkata&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Deepanshu Madan&lt;/p>
+&lt;p>&lt;a href="../../../author/deepanshu-madan">Deepanshu Madan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

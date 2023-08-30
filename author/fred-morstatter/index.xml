@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fred Morstatter | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link><atom:link href="https://ckids-datafirst.github.io/website/author/fred-morstatter/index.xml" rel="self" type="application/rss+xml"/><description>Fred Morstatter</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/fred-morstatter/avatar_hu0dad9eb7a3824dbc0060d77f5565cbdc_1056091_270x270_fill_q75_lanczos_center.jpeg</url><title>Fred Morstatter</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link></image><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</guid><description>&lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p></description></item><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fred Morstatter | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link><atom:link href="https://ckids-datafirst.github.io/website/author/fred-morstatter/index.xml" rel="self" type="application/rss+xml"/><description>Fred Morstatter</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/fred-morstatter/avatar_hu0dad9eb7a3824dbc0060d77f5565cbdc_1056091_270x270_fill_q75_lanczos_center.jpeg</url><title>Fred Morstatter</title><link>https://ckids-datafirst.github.io/website/author/fred-morstatter/</link></image><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yufei Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/yufei-wang">Yufei Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kaixin Guo&lt;/p>
+&lt;p>&lt;a href="../../../author/kaixin-guo">Kaixin Guo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Emerson Jin&lt;/p>
+&lt;p>&lt;a href="../../../author/emerson-jin">Emerson Jin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Seoyoun Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/seoyoun-kim">Seoyoun Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haohan Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/haohan-wang">Haohan Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -39,7 +39,7 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Machine Learning&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Spring - 2022)</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -65,19 +65,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Linglan Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/linglan-zhang">Linglan Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yu-zhang">Yu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Uday Malte&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-udaymalte">Aditya Uday Malte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Namita Santosh Mutha&lt;/p>
+&lt;p>&lt;a href="../../../author/namita-santoshmutha">Namita Santosh Mutha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -106,19 +106,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitali Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitali-joshi">Chaitali Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aparna Nair&lt;/p>
+&lt;p>&lt;a href="../../../author/aparna-nair">Aparna Nair&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -135,22 +135,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yanan Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/yanan-zhou">Yanan Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Megan Josep&lt;/p>
+&lt;p>&lt;a href="../../../author/megan-josep">Megan Josep&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Priya Mane&lt;/p>
+&lt;p>&lt;a href="../../../author/priya-mane">Priya Mane&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Minrui Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/minrui-chen">Minrui Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinav Rao&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinav-rao">Abhinav Rao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Samip Kalyani&lt;/p>
+&lt;p>&lt;a href="../../../author/samip-kalyani">Samip Kalyani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -167,25 +167,29 @@
 &lt;li>Data Analysis&lt;/li>
 &lt;li>Data Collection&lt;/li>
 &lt;li>Data Visualization&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/12Zk_1YMWYH9NtknIqg8NSEX0W3XXtKK7/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>Best Data Science Teamwork&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Jajodia&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshika Sridharan&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -201,25 +205,29 @@
 &lt;ul>
 &lt;li>Classification&lt;/li>
 &lt;li>Data Collection&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1c9WlvN8qHV6xKS7SRY1FNWZ7AHxNW3cf/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;li>Best Data Collection&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Jajodia&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshika Sridharan&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -240,19 +248,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Matthew Lim&lt;/p>
+&lt;p>&lt;a href="../../../author/matthew-lim">Matthew Lim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Minh Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/minh-nguyen">Minh Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sindhu Ravi&lt;/p>
+&lt;p>&lt;a href="../../../author/sindhu-ravi">Sindhu Ravi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vihang Mangalvedhekar&lt;/p>
+&lt;p>&lt;a href="../../../author/vihang-mangalvedhekar">Vihang Mangalvedhekar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -270,15 +278,19 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Web Scraping&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>A visual analytic toolkit for cultural biases</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/409/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will result in a visual analytics toolkit that will enable social scientists to understand the cultural groups and biases at play in a social dataset. News, books, and social media all contain biases that stem from the cultural background of the author(s). We have developed algorithms to identify the cultural groups at play in an arbitrary dataset, as well as natural language processing approaches that can discover the biases of each group. This project would help bring put these tools into the hands of social scientists by displaying the output of these algorithms in novel visualizations.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Mansi Ganatra&lt;/p>
+&lt;p>&lt;a href="../../../author/mansi-ganatra">Mansi Ganatra&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saatvik Tikoo&lt;/p>
+&lt;p>&lt;a href="../../../author/saatvik-tikoo">Saatvik Tikoo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -298,19 +310,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Justin Ho&lt;/p>
+&lt;p>&lt;a href="../../../author/justin-ho">Justin Ho&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sankareswari Govindarajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sankareswari-govindarajan">Sankareswari Govindarajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tran&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tran">Kevin Tran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Hsin Chung&lt;/p>
+&lt;p>&lt;a href="../../../author/yihsin-chung">Yi-Hsin Chung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sangeeth Koratten&lt;/p>
+&lt;p>&lt;a href="../../../author/sangeeth-koratten">Sangeeth Koratten&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -338,16 +350,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Junchu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/junchu-zhang">Junchu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Himan Kriplani&lt;/p>
+&lt;p>&lt;a href="../../../author/himan-kriplani">Himan Kriplani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shatad Purohit&lt;/p>
+&lt;p>&lt;a href="../../../author/shatad-purohit">Shatad Purohit&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jinney Guo&lt;/p>
+&lt;p>&lt;a href="../../../author/jinney-guo">Jinney Guo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

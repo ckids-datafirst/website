@@ -12,19 +12,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>William Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/william-lu">William Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zexun Yao&lt;/p>
+&lt;p>&lt;a href="../../../author/zexun-yao">Zexun Yao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Duyen Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/duyen-nguyen">Duyen Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jinyi Ye&lt;/p>
+&lt;p>&lt;a href="../../../author/jinyi-ye">Jinyi Ye&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aaron Tom&lt;/p>
+&lt;p>&lt;a href="../../../author/aaron-tom">Aaron Tom&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -51,13 +51,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaying-wang">Jiaying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -70,6 +70,10 @@
 &lt;li>Knowledge Graphs&lt;/li>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Sklearn&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Automated generation of paper authors</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/408/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will result in an open-source software tool that will have general applicability for scientific publications. Papers with hundreds of authors are not uncommon in science, and it often takes many weeks to compile an author list in the desired order with proper affiliations and acknowledgments. We have implemented an algorithm that generates the author information for a paper based on the type of contribution of each author within the ENIGMA neuroscience consortium. This project would extend this software to read in compiled spreadsheets or forms and extract information about universities and other institutions from structured web sources, to interoperate with widely-used frameworks such as Wikidata.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -79,13 +83,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruiyu Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/ruiyu-zhao">Ruiyu Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xingyu Wei&lt;/p>
+&lt;p>&lt;a href="../../../author/xingyu-wei">Xingyu Wei&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tieming Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/tieming-sun">Tieming Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

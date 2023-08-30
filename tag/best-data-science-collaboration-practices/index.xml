@@ -12,19 +12,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ric Xian&lt;/p>
+&lt;p>&lt;a href="../../../author/ric-xian">Ric Xian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aurora Massari&lt;/p>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinyi Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinyi-zhang">Xinyi Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bhavyakumar Ramani&lt;/p>
+&lt;p>&lt;a href="../../../author/bhavyakumar-ramani">Bhavyakumar Ramani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Alison Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/alison-chen">Alison Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -46,19 +46,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitali Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitali-joshi">Chaitali Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aparna Nair&lt;/p>
+&lt;p>&lt;a href="../../../author/aparna-nair">Aparna Nair&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -78,22 +78,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Spangher&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-spangher">Alex Spangher&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-shah">Yash Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Swetha Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/swetha-thomas">Swetha Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hongyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/hongyu-li">Hongyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;p>&lt;a href="../../../author/abhi-thadeshwar">Abhi Thadeshwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -104,6 +104,10 @@
 &lt;ul>
 &lt;li>NLP&lt;/li>
 &lt;li>Programming&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1j8e6L6RTTJdzabFxpg6CUSoYAJZJT35Z/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Measuring population-level nutrition and dietary habits from Instagram</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/402/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will investigate the quality of Instagram textual posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial and textual features of posts linked to food outlets. Using an Instagram dataset of all geo-located posts at food outlets in Los Angeles for 3 months in 2014, this project will investigate whether Instagram posts, despite implicit biases (and to the extent possible, accounting for these biases), can provide a representative health signal, informative of the quality of population nutrition and dietary patterns at a highly-resolved (e.g. census tract level) spatial scale.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -113,19 +117,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Divyatmika Lnu&lt;/p>
+&lt;p>&lt;a href="../../../author/divyatmika-lnu">Divyatmika Lnu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shagun Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/shagun-gupta">Shagun Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nina Thiebaut&lt;/p>
+&lt;p>&lt;a href="../../../author/nina-thiebaut">Nina Thiebaut&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nisha Tiwari&lt;/p>
+&lt;p>&lt;a href="../../../author/nisha-tiwari">Nisha Tiwari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-choi">Ian Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

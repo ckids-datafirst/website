@@ -3,10 +3,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Zihuan Ran&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-zihuanran">Alex Zihuan Ran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hardik Mahipal Surana&lt;/p>
+&lt;p>&lt;a href="../../../author/hardik-mahipalsurana">Hardik Mahipal Surana&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -22,4 +22,8 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Knowledge Graphs&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

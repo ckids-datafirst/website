@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hernan Galperin | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/hernan-galperin/</link><atom:link href="https://ckids-datafirst.github.io/website/author/hernan-galperin/index.xml" rel="self" type="application/rss+xml"/><description>Hernan Galperin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/hernan-galperin/avatar_hu96c42e090cc1777992d2696b09ba1e46_479617_270x270_fill_q75_lanczos_center.jpeg</url><title>Hernan Galperin</title><link>https://ckids-datafirst.github.io/website/author/hernan-galperin/</link></image><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</guid><description>&lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP&amp;rsquo;s websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;ldquo;poverty penalty&amp;rdquo; whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hernan Galperin | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/hernan-galperin/</link><atom:link href="https://ckids-datafirst.github.io/website/author/hernan-galperin/index.xml" rel="self" type="application/rss+xml"/><description>Hernan Galperin</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/hernan-galperin/avatar_hu96c42e090cc1777992d2696b09ba1e46_479617_270x270_fill_q75_lanczos_center.jpeg</url><title>Hernan Galperin</title><link>https://ckids-datafirst.github.io/website/author/hernan-galperin/</link></image><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP's websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;quot;poverty penalty' whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -7,22 +7,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Weiqian Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/weiqian-zhang">Weiqian Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aurora Massari&lt;/p>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Angel Chavez-Penate&lt;/p>
+&lt;p>&lt;a href="../../../author/angel-chavezpenate">Angel Chavez-Penate&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zirong Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/zirong-huang">Zirong Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mahika Mushuni&lt;/p>
+&lt;p>&lt;a href="../../../author/mahika-mushuni">Mahika Mushuni&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Lei Cao&lt;/p>
+&lt;p>&lt;a href="../../../author/lei-cao">Lei Cao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -33,6 +33,10 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sites.google.com/usc.edu/determinants-of-spatial-var/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Does Municipal Broadband Deliver as Promised? An examination of broadband pricing and household adoption in areas served by muni networks.</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Broadband networks owned and/or operated by local governments (&amp;quot;muni networks&amp;quot;) are increasingly seen as a key tool to close the digital divide in Internet availability and adoption. There is however only anecdotal evidence about whether muni networks deliver on the promise of more affordable broadband in communities of little interest to traditional ISPs - typically disadvantaged communities. Taking advantage of the greater level of resolution in the new FCC broadband availability maps, this project will examine broadband pricing and adoption at the address level in areas served by muni networks, using a matched sample of comparable areas as a reference point. The goal of the project is to empirically assert whether muni networks are delivering on the promise of more affordable services, and whether this results in more household adoption than expected. The project is a component of an ongoing collaboration with digital equity advocacy organizations.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -43,7 +47,7 @@
 &lt;ul>
 &lt;li>Data scraping (Python)&lt;/li>
 &lt;li>statistics and basic GIS skills&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The COVID-19 pandemic has reinvigorated calls to close the digital divide in the US and elsewhere. Without adequate Internet access, households are at a disadvantage in education, jobs, health, and other key dimensions of wellbeing. While local broadband markets are increasingly concentrated, there is also increased interest in exploring the role those small local operators (“microtelcos”) can play in serving in low-income and rural communities. These microtelcos range from small wireless cooperatives to mom-and-pop private ISPs to municipal-backed operators. This project seeks to a) map and identify the characteristics of communities where microtelcos are present in CA, and b) to examine whether microtelcos presence affects broadband service quality and adoption by businesses and households in the community. The project will use broadband deployment data collected by the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -52,10 +56,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Asjad Asif Jah&lt;/p>
+&lt;p>&lt;a href="../../../author/asjad-asifjah">Asjad Asif Jah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jonathan Gonzalez&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-gonzalez">Jonathan Gonzalez&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -67,7 +71,7 @@
 &lt;li>Statistics&lt;/li>
 &lt;li>GIS&lt;/li>
 &lt;li>Econometrics&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The broadband access market is increasingly dominated by a few large ISPs. However, small and medium-size operators (“microtelcos”) are critical to connectivity in low-income and rural communities in CA, serving markets of little interest to large operators. The primary goal of this project is to combine broadband infrastructure deployment data from the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau to understand the characteristics of the communities served by microtelcos, and to analyze whether the presence of a microtelco operator contributes to higher levels of connectivity in the community. The main technical challenge is to combine spatial data found in CPUC files with census block level data provided by the Census Bureau. This is part of an ongoing research program called Connected Communities and Inclusive Growth (CCIG).&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>

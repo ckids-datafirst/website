@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Featured | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/featured/</link><atom:link href="https://ckids-datafirst.github.io/website/category/featured/index.xml" rel="self" type="application/rss+xml"/><description>Featured</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Featured</title><link>https://ckids-datafirst.github.io/website/category/featured/</link></image><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/2/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/2/</guid><description>&lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p></description></item><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Featured | DataFirst</title><link>https://ckids-datafirst.github.io/website/category/featured/</link><atom:link href="https://ckids-datafirst.github.io/website/category/featured/index.xml" rel="self" type="application/rss+xml"/><description>Featured</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Featured</title><link>https://ckids-datafirst.github.io/website/category/featured/</link></image><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -7,16 +7,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aryan Karnati&lt;/p>
+&lt;p>&lt;a href="../../../author/aryan-karnati">Aryan Karnati&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sudesh Kumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sudesh-kumar">Sudesh Kumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siyi Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/siyi-chen">Siyi Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shuchan Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/shuchan-zhou">Shuchan Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -30,6 +30,10 @@
 &lt;li>Python&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Machine Learning&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://auditing-drivers-for-eating-disorders.netlify.app/index.html" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP's websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;quot;poverty penalty' whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -39,22 +43,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Weiqian Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/weiqian-zhang">Weiqian Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aurora Massari&lt;/p>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Angel Chavez-Penate&lt;/p>
+&lt;p>&lt;a href="../../../author/angel-chavezpenate">Angel Chavez-Penate&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zirong Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/zirong-huang">Zirong Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mahika Mushuni&lt;/p>
+&lt;p>&lt;a href="../../../author/mahika-mushuni">Mahika Mushuni&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Lei Cao&lt;/p>
+&lt;p>&lt;a href="../../../author/lei-cao">Lei Cao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -65,7 +69,11 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch&lt;/li>
-&lt;/ul></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</guid><description>&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sites.google.com/usc.edu/determinants-of-spatial-var/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -74,34 +82,34 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Anood Alkhatheeri&lt;/p>
+&lt;p>&lt;a href="../../../author/anood-alkhatheeri">Anood Alkhatheeri&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rushit Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/rushit-jain">Rushit Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Samarth Saxena&lt;/p>
+&lt;p>&lt;a href="../../../author/samarth-saxena">Samarth Saxena&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abishek Phalak&lt;/p>
+&lt;p>&lt;a href="../../../author/abishek-phalak">Abishek Phalak&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yassamin Neshatvar&lt;/p>
+&lt;p>&lt;a href="../../../author/yassamin-neshatvar">Yassamin Neshatvar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shruthakeerthy Srinivasan&lt;/p>
+&lt;p>&lt;a href="../../../author/shruthakeerthy-srinivasan">Shruthakeerthy Srinivasan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vaidehi Vatsaraj&lt;/p>
+&lt;p>&lt;a href="../../../author/vaidehi-vatsaraj">Vaidehi Vatsaraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siddarth Rudraraju&lt;/p>
+&lt;p>&lt;a href="../../../author/siddarth-rudraraju">Siddarth Rudraraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Iris Gordo&lt;/p>
+&lt;p>&lt;a href="../../../author/iris-gordo">Iris Gordo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shelby Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/shelby-wu">Shelby Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -130,10 +138,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yan Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yan-zheng">Yan Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuan Luo&lt;/p>
+&lt;p>&lt;a href="../../../author/yuan-luo">Yuan Luo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -144,7 +152,11 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Web Scraping&lt;/li>
-&lt;/ul></description></item><item><title>Transition of Care</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/9/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/9/</guid><description>&lt;p>Analytics to determine what tertiary and quaternary care patients would have the best outcomes at Keck Medical Center. Analyze data from incoming transfer patients to look at data quality, evaluate clinical records and predict outcomes.&lt;/p></description></item><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sites.google.com/usc.edu/keck-medicine-toc/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct. The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States.&lt;/p>
 &lt;p>Currently, data entries are manually identified, discovered and registered using public, open-sourced information, mostly news articles on the web, which critically limits its data collection process. Thus, this project aims at automating the discovery of such data with an efficient identification mechanism. Working with the Price School of Policy, we will implement an automatic identification mechanism to effectively search police misconduct articles utilizing web crawling/scarping and natural language processing.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -154,16 +166,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Deborah Ho&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-ho">Deborah Ho&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jooyoung Yoo&lt;/p>
+&lt;p>&lt;a href="../../../author/jooyoung-yoo">Jooyoung Yoo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshay Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshay-gupta">Vanshay Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ikenna Joe-Nweke&lt;/p>
+&lt;p>&lt;a href="../../../author/ikenna-joenweke">Ikenna Joe-Nweke&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -201,19 +213,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>William Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/william-lu">William Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zexun Yao&lt;/p>
+&lt;p>&lt;a href="../../../author/zexun-yao">Zexun Yao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Duyen Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/duyen-nguyen">Duyen Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jinyi Ye&lt;/p>
+&lt;p>&lt;a href="../../../author/jinyi-ye">Jinyi Ye&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aaron Tom&lt;/p>
+&lt;p>&lt;a href="../../../author/aaron-tom">Aaron Tom&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -240,19 +252,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ric Xian&lt;/p>
+&lt;p>&lt;a href="../../../author/ric-xian">Ric Xian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aurora Massari&lt;/p>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinyi Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinyi-zhang">Xinyi Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bhavyakumar Ramani&lt;/p>
+&lt;p>&lt;a href="../../../author/bhavyakumar-ramani">Bhavyakumar Ramani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Alison Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/alison-chen">Alison Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -274,19 +286,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shreya Padmanabhan&lt;/p>
+&lt;p>&lt;a href="../../../author/shreya-padmanabhan">Shreya Padmanabhan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shreya Raj&lt;/p>
+&lt;p>&lt;a href="../../../author/shreya-raj">Shreya Raj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Maiah Pardo&lt;/p>
+&lt;p>&lt;a href="../../../author/maiah-pardo">Maiah Pardo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saurav Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/saurav-joshi">Saurav Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuhua Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/yuhua-wu">Yuhua Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -314,25 +326,25 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sofian Ghazali&lt;/p>
+&lt;p>&lt;a href="../../../author/sofian-ghazali">Sofian Ghazali&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;p>&lt;a href="../../../author/pasha-biglarzadeh">Pasha Biglarzadeh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;p>&lt;a href="../../../author/vignesh-selvaraj">Vignesh Selvaraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yang Cheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yang-cheng">Yang Cheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chenghong Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/chenghong-hu">Chenghong Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Anish Kushalapa&lt;/p>
+&lt;p>&lt;a href="../../../author/anish-kushalapa">Anish Kushalapa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Park&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-park">Jae Park&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -375,19 +387,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Zhenmin Hua&lt;/p>
+&lt;p>&lt;a href="../../../author/zhenmin-hua">Zhenmin Hua&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/siqi-liu">Siqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xiayu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/xiayu-li">Xiayu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Daniel Pereira Da Costa&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-pereiradacosta">Daniel Pereira Da Costa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Richa Sheth&lt;/p>
+&lt;p>&lt;a href="../../../author/richa-sheth">Richa Sheth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -413,22 +425,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shuijing Mejia&lt;/p>
+&lt;p>&lt;a href="../../../author/shuijing-mejia">Shuijing Mejia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ronak Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/ronak-shah">Ronak Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Balaji Chidambaram&lt;/p>
+&lt;p>&lt;a href="../../../author/balaji-chidambaram">Balaji Chidambaram&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aaron Cheng&lt;/p>
+&lt;p>&lt;a href="../../../author/aaron-cheng">Aaron Cheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aamir Miyajiwala&lt;/p>
+&lt;p>&lt;a href="../../../author/aamir-miyajiwala">Aamir Miyajiwala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hieu Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/hieu-nguyen">Hieu Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -457,19 +469,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kathy Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/kathy-wang">Kathy Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shayan Javid&lt;/p>
+&lt;p>&lt;a href="../../../author/shayan-javid">Shayan Javid&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinaav-ramesh">Abhinaav Ramesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineet Agarwal&lt;/p>
+&lt;p>&lt;a href="../../../author/vineet-agarwal">Vineet Agarwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahui Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahui-lu">Jiahui Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -482,6 +494,10 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;li>R&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -491,22 +507,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Lili Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/lili-zhou">Lili Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikita Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/nikita-goel">Nikita Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chanda&lt;/p>
+&lt;p>&lt;a href="../../../author/chanda-">Chanda&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanjeev Kadagathur Vadiraj&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjeev-kadagathurvadiraj">Sanjeev Kadagathur Vadiraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Audrey Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/audrey-lin">Audrey Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -516,7 +532,7 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
-&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -525,22 +541,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yishan Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yishan-li">Yishan Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Navyada Koshatwar&lt;/p>
+&lt;p>&lt;a href="../../../author/navyada-koshatwar">Navyada Koshatwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gayathri Shrikanth&lt;/p>
+&lt;p>&lt;a href="../../../author/gayathri-shrikanth">Gayathri Shrikanth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rushi Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/rushi-shah">Rushi Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pranjali Tushar Tembhurnikar&lt;/p>
+&lt;p>&lt;a href="../../../author/pranjali-tushartembhurnikar">Pranjali Tushar Tembhurnikar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manuel Amaya&lt;/p>
+&lt;p>&lt;a href="../../../author/manuel-amaya">Manuel Amaya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -560,19 +576,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Linglan Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/linglan-zhang">Linglan Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yu-zhang">Yu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Uday Malte&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-udaymalte">Aditya Uday Malte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Namita Santosh Mutha&lt;/p>
+&lt;p>&lt;a href="../../../author/namita-santoshmutha">Namita Santosh Mutha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -601,16 +617,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dat Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenwen Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinran Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -623,7 +639,7 @@
 &lt;li>Databases&lt;/li>
 &lt;li>APIs&lt;/li>
 &lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -632,19 +648,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Xiaoyu Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/xiaoyu-wang">Xiaoyu Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Stephen Iota&lt;/p>
+&lt;p>&lt;a href="../../../author/stephen-iota">Stephen Iota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bolong Pan&lt;/p>
+&lt;p>&lt;a href="../../../author/bolong-pan">Bolong Pan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Junyi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/junyi-liu">Junyi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-lyu">Ming Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -670,19 +686,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitali Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitali-joshi">Chaitali Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aparna Nair&lt;/p>
+&lt;p>&lt;a href="../../../author/aparna-nair">Aparna Nair&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -693,7 +709,7 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>AI ethics&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The COVID-19 pandemic has reinvigorated calls to close the digital divide in the US and elsewhere. Without adequate Internet access, households are at a disadvantage in education, jobs, health, and other key dimensions of wellbeing. While local broadband markets are increasingly concentrated, there is also increased interest in exploring the role those small local operators (“microtelcos”) can play in serving in low-income and rural communities. These microtelcos range from small wireless cooperatives to mom-and-pop private ISPs to municipal-backed operators. This project seeks to a) map and identify the characteristics of communities where microtelcos are present in CA, and b) to examine whether microtelcos presence affects broadband service quality and adoption by businesses and households in the community. The project will use broadband deployment data collected by the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -702,10 +718,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Asjad Asif Jah&lt;/p>
+&lt;p>&lt;a href="../../../author/asjad-asifjah">Asjad Asif Jah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jonathan Gonzalez&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-gonzalez">Jonathan Gonzalez&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -726,21 +742,25 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vibhav Chitalia&lt;/p>
+&lt;p>&lt;a href="../../../author/vibhav-chitalia">Vibhav Chitalia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;p>&lt;a href="../../../author/utkarsh-baranwal">Utkarsh Baranwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carlos Zamora&lt;/p>
+&lt;p>&lt;a href="../../../author/carlos-zamora">Carlos Zamora&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wonjun Lee&lt;/p>
+&lt;p>&lt;a href="../../../author/wonjun-lee">Wonjun Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://sites.google.com/usc.edu/homeless-encampments-in-la/home__;!!LIr3w8kk_Xxm!8Eq9mrdqLFc0LUaCGdonNK44IuCugGgQSvt90cBL0xEveRFYamBdezONTYoHeoo$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Studying the Effects of Genes and Environment in Aging</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/7/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/7/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze genomic and environmental data collected through the lifetime of individuals to investigate which genes and external conditions could be associated with aging. The goal of the project will be to reproduce an existing published paper and improve on its results.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -750,19 +770,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Meera Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/meera-patel">Meera Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Boya Li&lt;/p>
+&lt;p>&lt;a href="../../../author/boya-li">Boya Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haoyang Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/haoyang-chen">Haoyang Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Qinming Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/qinming-zhang">Qinming Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Yan&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-yan">Ming Yan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -779,25 +799,25 @@
 &lt;li>Python&lt;/li>
 &lt;li>R&lt;/li>
 &lt;li>Machine Learning&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>Best Data Science Teamwork&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Jajodia&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshika Sridharan&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -813,25 +833,29 @@
 &lt;ul>
 &lt;li>Classification&lt;/li>
 &lt;li>Data Collection&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1c9WlvN8qHV6xKS7SRY1FNWZ7AHxNW3cf/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;li>Best Data Collection&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Jajodia&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshika Sridharan&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -856,16 +880,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Keerti Bhogaraju&lt;/p>
+&lt;p>&lt;a href="../../../author/keerti-bhogaraju">Keerti Bhogaraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Myoungsu Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Negar Mokhberian&lt;/p>
+&lt;p>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nazanin Alipourfard&lt;/p>
+&lt;p>&lt;a href="../../../author/nazanin-alipourfard">Nazanin Alipourfard&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -877,6 +901,10 @@
 &lt;li>Python&lt;/li>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Data Mining&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1ocNzQLKJNMOLdlvl4wRBD20cMav60T6d/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Digital Democracy: Using Social Media to Improve Political Discourse</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/317/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/317/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Politicians in modern democracies across the world have eagerly adopted social media for engaging their constituents, entering into direct dialogs with citizens. From the perspective of political actors, there is a need to continuously gather, monitor, analyze, and visualize politically relevant information from online social media with the goal to improve communication with citizens and voters. The goal of this proposal is to create a tool that enhances interaction and dialogue between political actors and their followers. This will be achieved by creating compact and comprehensive summaries that aggregate and visualizes common narratives, thus, reducing the cognitive load required to read all the messages and streamlining the dialogue experience.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -886,22 +914,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Spangher&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-spangher">Alex Spangher&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-shah">Yash Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Swetha Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/swetha-thomas">Swetha Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hongyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/hongyu-li">Hongyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;p>&lt;a href="../../../author/abhi-thadeshwar">Abhi Thadeshwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -912,6 +940,10 @@
 &lt;ul>
 &lt;li>NLP&lt;/li>
 &lt;li>Programming&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1j8e6L6RTTJdzabFxpg6CUSoYAJZJT35Z/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Investigations of a Data Science Online Community</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition? What are features that predict high-performing teams? What features help generate teammate recommendations?&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -921,19 +953,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Devendra Swami&lt;/p>
+&lt;p>&lt;a href="../../../author/devendra-swami">Devendra Swami&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jacob Bickman&lt;/p>
+&lt;p>&lt;a href="../../../author/jacob-bickman">Jacob Bickman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Young Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -948,7 +980,7 @@
 &lt;li>Machine Learning&lt;/li>
 &lt;li>R&lt;/li>
 &lt;li>Matlab&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -957,19 +989,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;p>&lt;a href="../../../author/abhivineet-veeraghanta">Abhivineet Veeraghanta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bolong Pan&lt;/p>
+&lt;p>&lt;a href="../../../author/bolong-pan">Bolong Pan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bryan Beh&lt;/p>
+&lt;p>&lt;a href="../../../author/bryan-beh">Bryan Beh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hanzhi Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/hanzhi-zhang">Hanzhi Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Feilong Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -990,16 +1022,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Simon Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/simon-khan">Simon Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vinith Angadi&lt;/p>
+&lt;p>&lt;a href="../../../author/vinith-angadi">Vinith Angadi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yingxi Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/yingxi-lin">Yingxi Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shalini Mustala&lt;/p>
+&lt;p>&lt;a href="../../../author/shalini-mustala">Shalini Mustala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1011,7 +1043,7 @@
 &lt;li>GIS&lt;/li>
 &lt;li>R&lt;/li>
 &lt;li>SQL&lt;/li>
-&lt;/ul></description></item><item><title>Mapping the Uncanny Valley</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Mapping the Uncanny Valley (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many stories involve the friendly and familiar, scary stories across cultures, from Hamlet to Yotsuya Kaidan to Siren Head involve beings that are almost—but not quite—human. Can these stories give us insight into the “nearly-human” uncanny valley? And are the most popular stories at the nadir of this valley? In this project we aim to explore the uncanny valley through analysis of several thousand stories posted on Reddit posted over a decade. These data contain stories that cross a range of topics, and include user comments and story scores. We will explore the prevalence of the monsters over time, and explore whether there is some optimal characteristics of these monsters that make them so scary. While some research has explored the uncanny valley for images, the research is limited and virtually unexplored in text format. The students will build on initial work by the advisor to apply NLP methods to these texts and improve upon existing initial results.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -1020,19 +1052,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yuchen Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yuchen-zhang">Yuchen Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai-Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/naicih-liou">Nai-Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sakshi Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/sakshi-goel">Sakshi Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1055,10 +1087,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaqi-liu">Jiaqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1068,6 +1100,10 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1VqiPWIAd8En19Yh1PZwBY_3uhtIDOEex/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Towards Automated Understanding of Scientific Software</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Data science projects require knowledge of software that changes rapidly. As a result, scientists spend hours reading long documentations and manuals instead of advancing their scientific fields. In this project, we aim to automatically extract relevant aspects of scientific software (e.g., what does it do, how to install it, how to operate with it or how to cite it) from documentation and code using machine learning techniques. The students will build on an existing baseline of classifiers and try to improve the existing results.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1082,13 +1118,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaying-wang">Jiaying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1101,6 +1137,10 @@
 &lt;li>Knowledge Graphs&lt;/li>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Sklearn&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/306/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
 &lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
@@ -1111,16 +1151,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-karpurapu">Abhilash Karpurapu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erica Xia&lt;/p>
+&lt;p>&lt;a href="../../../author/erica-xia">Erica Xia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Iris Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/iris-liu">Iris Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;p>&lt;a href="../../../author/spoorti-nidagundi">Spoorti Nidagundi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1148,6 +1188,10 @@
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Sentiment Analysis&lt;/li>
 &lt;li>Image Analysis&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1JL_7V4M3pyrxM48YQt3m-E-MgTgvE4s4/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Turning Library Collections into Data Science Challenges and Resources</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Libraries, museums, and archives hold unique collections that may be very useful for data science. These collections include photographs, videos, letters, and other artifacts that could give unique insights when analyzed. In this project, students will work with the USC Libraries to identify existing collections that would be potentially interesting as targets for data science, describe those collections in collaboration with the USC Libraries so they can be promoted as data science resources, and create APIs and other access mechanisms for data science researchers on campus and beyond.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1157,22 +1201,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitra Mudradi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitra-mudradi">Chaitra Mudradi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Feilong Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hsing-Hsien Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/hsinghsien-wang">Hsing-Hsien Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Maria MacHarrie&lt;/p>
+&lt;p>&lt;a href="../../../author/maria-macharrie">Maria MacHarrie&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubhankar Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/shubhankar-singh">Shubhankar Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yangtao Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/yangtao-hu">Yangtao Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1196,16 +1240,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aditi Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/aditi-singh">Aditi Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Malika Seth&lt;/p>
+&lt;p>&lt;a href="../../../author/malika-seth">Malika Seth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Asumi Suguro&lt;/p>
+&lt;p>&lt;a href="../../../author/asumi-suguro">Asumi Suguro&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1225,13 +1269,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruiyu Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/ruiyu-zhao">Ruiyu Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xingyu Wei&lt;/p>
+&lt;p>&lt;a href="../../../author/xingyu-wei">Xingyu Wei&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tieming Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/tieming-sun">Tieming Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1252,19 +1296,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Divyatmika Lnu&lt;/p>
+&lt;p>&lt;a href="../../../author/divyatmika-lnu">Divyatmika Lnu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shagun Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/shagun-gupta">Shagun Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nina Thiebaut&lt;/p>
+&lt;p>&lt;a href="../../../author/nina-thiebaut">Nina Thiebaut&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nisha Tiwari&lt;/p>
+&lt;p>&lt;a href="../../../author/nisha-tiwari">Nisha Tiwari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-choi">Ian Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1292,19 +1336,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Justin Ho&lt;/p>
+&lt;p>&lt;a href="../../../author/justin-ho">Justin Ho&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sankareswari Govindarajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sankareswari-govindarajan">Sankareswari Govindarajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tran&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tran">Kevin Tran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Hsin Chung&lt;/p>
+&lt;p>&lt;a href="../../../author/yihsin-chung">Yi-Hsin Chung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sangeeth Koratten&lt;/p>
+&lt;p>&lt;a href="../../../author/sangeeth-koratten">Sangeeth Koratten&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1327,10 +1371,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shravya Manety&lt;/p>
+&lt;p>&lt;a href="../../../author/shravya-manety">Shravya Manety&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1349,16 +1393,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Wei-Fan Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/weifan-chen">Wei-Fan Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sameeksha Mahajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sameeksha-mahajan">Sameeksha Mahajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zijing Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/zijing-zhang">Zijing Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pratheek Athreya&lt;/p>
+&lt;p>&lt;a href="../../../author/pratheek-athreya">Pratheek Athreya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

@@ -7,16 +7,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aryan Karnati&lt;/p>
+&lt;p>&lt;a href="../../../author/aryan-karnati">Aryan Karnati&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sudesh Kumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sudesh-kumar">Sudesh Kumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siyi Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/siyi-chen">Siyi Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shuchan Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/shuchan-zhou">Shuchan Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -30,6 +30,10 @@
 &lt;li>Python&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Machine Learning&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://auditing-drivers-for-eating-disorders.netlify.app/index.html" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Characterizing Online Attitudes, Expectations, and Concerns about Novel Medical Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/605/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/605/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Novel, or hypothesized medical treatments, such as COVID-19 vaccines and male contraception, are regularly discussed on social media. For example, on the AskReddit subreddit, questions of the form “”Would you take [x] if it existed?”” Aside from willingness to use these novel treatments, the answers to these questions contain important clues to peoples’ latent concerns and barriers to adoption of novel medications. Understanding them can provide crucial information about how to introduce, communicate, and counsel about new medications when they come to market. In this project you will use pre-collected Reddit data spanning 10 years to answer questions including: What concerns do individuals have about a novel medication? How do these concerns vary by demographics, such as cultural background? How have these concerns evolved over time? What has caused users to become more or less accepting of the treatment over time?&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -49,28 +53,28 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yifan Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/yifan-wang">Yifan Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vu Truong Si&lt;/p>
+&lt;p>&lt;a href="../../../author/vu-truongsi">Vu Truong Si&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Anood Alkatheeri&lt;/p>
+&lt;p>&lt;a href="../../../author/anood-alkatheeri">Anood Alkatheeri&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pallavi Vijayan&lt;/p>
+&lt;p>&lt;a href="../../../author/pallavi-vijayan">Pallavi Vijayan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Park&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-park">Jae Park&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Conner Kojima&lt;/p>
+&lt;p>&lt;a href="../../../author/conner-kojima">Conner Kojima&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yihao Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yihao-zheng">Yihao Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nachiket Dunbray&lt;/p>
+&lt;p>&lt;a href="../../../author/nachiket-dunbray">Nachiket Dunbray&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -87,16 +91,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yilin Qi&lt;/p>
+&lt;p>&lt;a href="../../../author/yilin-qi">Yilin Qi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Revanth Madamala&lt;/p>
+&lt;p>&lt;a href="../../../author/revanth-madamala">Revanth Madamala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Luer Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/luer-lyu">Luer Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;p>&lt;a href="../../../author/chidambaram-veerappan">Chidambaram Veerappan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -107,15 +111,19 @@
 &lt;ul>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>NLP&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Impacts of Smart Windows on Human’s Bio-Signals</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/112/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This research will be conducted to find out the relationship between humans’ bio-signals and electrochromic windows, which is useful to create a possible mechanism of using bio-signals to control the windows. By using wearable sensors and remote sensors, subjects’ bio-signals like heart rate, skin temperature, and pupil sizes, and indoor environmental quality like temperature and humidity could be monitored and analyzed. At last, by utilizing machine learning and data analysis skills, the impacts on humans’ bio-signals could be analyzed.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jingping Yu&lt;/p>
+&lt;p>&lt;a href="../../../author/jingping-yu">Jingping Yu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -131,10 +139,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yixiao Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yixiao-li">Yixiao Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhaohong Feng&lt;/p>
+&lt;p>&lt;a href="../../../author/zhaohong-feng">Zhaohong Feng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -154,10 +162,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Tao Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -177,10 +185,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Tao Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -201,19 +209,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Divyatmika Lnu&lt;/p>
+&lt;p>&lt;a href="../../../author/divyatmika-lnu">Divyatmika Lnu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shagun Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/shagun-gupta">Shagun Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nina Thiebaut&lt;/p>
+&lt;p>&lt;a href="../../../author/nina-thiebaut">Nina Thiebaut&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nisha Tiwari&lt;/p>
+&lt;p>&lt;a href="../../../author/nisha-tiwari">Nisha Tiwari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-choi">Ian Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

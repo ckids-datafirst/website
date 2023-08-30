@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gayathri Shrikanth | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/gayathri-shrikanth/</link><atom:link href="https://ckids-datafirst.github.io/website/author/gayathri-shrikanth/index.xml" rel="self" type="application/rss+xml"/><description>Gayathri Shrikanth</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Gayathri Shrikanth</title><link>https://ckids-datafirst.github.io/website/author/gayathri-shrikanth/</link></image><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gayathri Shrikanth | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/gayathri-shrikanth/</link><atom:link href="https://ckids-datafirst.github.io/website/author/gayathri-shrikanth/index.xml" rel="self" type="application/rss+xml"/><description>Gayathri Shrikanth</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Gayathri Shrikanth</title><link>https://ckids-datafirst.github.io/website/author/gayathri-shrikanth/</link></image><item><title>Decoding How Humans Encode Memories (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -7,22 +7,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yishan Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yishan-li">Yishan Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Navyada Koshatwar&lt;/p>
+&lt;p>&lt;a href="../../../author/navyada-koshatwar">Navyada Koshatwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gayathri Shrikanth&lt;/p>
+&lt;p>&lt;a href="../../../author/gayathri-shrikanth">Gayathri Shrikanth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rushi Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/rushi-shah">Rushi Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pranjali Tushar Tembhurnikar&lt;/p>
+&lt;p>&lt;a href="../../../author/pranjali-tushartembhurnikar">Pranjali Tushar Tembhurnikar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manuel Amaya&lt;/p>
+&lt;p>&lt;a href="../../../author/manuel-amaya">Manuel Amaya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

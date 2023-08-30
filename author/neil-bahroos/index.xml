@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neil Bahroos | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/neil-bahroos/</link><atom:link href="https://ckids-datafirst.github.io/website/author/neil-bahroos/index.xml" rel="self" type="application/rss+xml"/><description>Neil Bahroos</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/neil-bahroos/avatar_hu995ced7ce2aaa1a535a02b20b0d38051_97443_270x270_fill_q75_lanczos_center.jpeg</url><title>Neil Bahroos</title><link>https://ckids-datafirst.github.io/website/author/neil-bahroos/</link></image><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</guid><description>&lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following: Increase in pressors, Intubation, Trip to operating room within 24 hours, Starting dialysis The objective is to predict on a real-time/near real-time basis, whether someone is likely to require escalated care as defined above. Prediction of the likelihood of such a care escalation need is assumed to be an optional/secondary requirement at this stage.&lt;/p></description></item><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Neil Bahroos | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/neil-bahroos/</link><atom:link href="https://ckids-datafirst.github.io/website/author/neil-bahroos/index.xml" rel="self" type="application/rss+xml"/><description>Neil Bahroos</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/neil-bahroos/avatar_hu995ced7ce2aaa1a535a02b20b0d38051_97443_270x270_fill_q75_lanczos_center.jpeg</url><title>Neil Bahroos</title><link>https://ckids-datafirst.github.io/website/author/neil-bahroos/</link></image><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following:
 • Increase in pressors
 • Intubation
@@ -8,10 +8,10 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ho Ko&lt;/p>
+&lt;p>&lt;a href="../../../author/ho-ko">Ho Ko&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vatsal Khandor&lt;/p>
+&lt;p>&lt;a href="../../../author/vatsal-khandor">Vatsal Khandor&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -36,10 +36,10 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yan Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yan-zheng">Yan Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuan Luo&lt;/p>
+&lt;p>&lt;a href="../../../author/yuan-luo">Yuan Luo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -50,4 +50,8 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Web Scraping&lt;/li>
-&lt;/ul></description></item><item><title>Transition of Care</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/9/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/9/</guid><description>&lt;p>Analytics to determine what tertiary and quaternary care patients would have the best outcomes at Keck Medical Center. Analyze data from incoming transfer patients to look at data quality, evaluate clinical records and predict outcomes.&lt;/p></description></item></channel></rss>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sites.google.com/usc.edu/keck-medicine-toc/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

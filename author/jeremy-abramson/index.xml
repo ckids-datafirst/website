@@ -40,22 +40,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Hassaan Hasan&lt;/p>
+&lt;p>&lt;a href="../../../author/hassaan-hasan">Hassaan Hasan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Dave&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-dave">Aditya Dave&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yin He&lt;/p>
+&lt;p>&lt;a href="../../../author/yin-he">Yin He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kartik Balodi&lt;/p>
+&lt;p>&lt;a href="../../../author/kartik-balodi">Kartik Balodi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akshat Jetli&lt;/p>
+&lt;p>&lt;a href="../../../author/akshat-jetli">Akshat Jetli&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manav Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/manav-jain">Manav Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -68,24 +68,28 @@
 &lt;li>Web Scraping&lt;/li>
 &lt;li>SQL&lt;/li>
 &lt;li>NoSQL&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manasi Godse&lt;/p>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jackie Fan&lt;/p>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rehan Ahmed&lt;/p>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahang Song&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -105,19 +109,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Jonathan Lal&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-lal">Jonathan Lal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Ramani&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-ramani">Aditya Ramani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanket Bhilare&lt;/p>
+&lt;p>&lt;a href="../../../author/sanket-bhilare">Sanket Bhilare&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Keerthana Prakash&lt;/p>
+&lt;p>&lt;a href="../../../author/keerthana-prakash">Keerthana Prakash&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Himani Amrute&lt;/p>
+&lt;p>&lt;a href="../../../author/himani-amrute">Himani Amrute&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -141,16 +145,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dat Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenwen Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinran Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -168,19 +172,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruoyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/ruoyu-li">Ruoyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carol Varkey&lt;/p>
+&lt;p>&lt;a href="../../../author/carol-varkey">Carol Varkey&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;p>&lt;a href="../../../author/rengapriya-aravindan">Rengapriya Aravindan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chuqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/chuqi-liu">Chuqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ziheng Gong&lt;/p>
+&lt;p>&lt;a href="../../../author/ziheng-gong">Ziheng Gong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -192,18 +196,18 @@
 &lt;li>Python&lt;/li>
 &lt;li>Flask&lt;/li>
 &lt;li>Streamlit&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to determine if there are biases in who and how college football coaches recruit players. By creating a comprehensive data set of college recruits and integrating relevant data with current socioeconomic markers (i.e. census data) we hope to determine if there are patterns in who and where football coaches recruit their players, regardless of talent.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Saurabh Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/saurabh-jain">Saurabh Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jackie Fan&lt;/p>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akansha Das&lt;/p>
+&lt;p>&lt;a href="../../../author/akansha-das">Akansha Das&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -222,13 +226,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Everest Law&lt;/p>
+&lt;p>&lt;a href="../../../author/everest-law">Everest Law&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhongying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/zhongying-wang">Zhongying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -245,13 +249,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Folk Narongrit&lt;/p>
+&lt;p>&lt;a href="../../../author/folk-narongrit">Folk Narongrit&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carol Varkey&lt;/p>
+&lt;p>&lt;a href="../../../author/carol-varkey">Carol Varkey&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Francis Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/francis-sun">Francis Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -270,22 +274,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Atharva Rishi&lt;/p>
+&lt;p>&lt;a href="../../../author/atharva-rishi">Atharva Rishi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erin Szeto&lt;/p>
+&lt;p>&lt;a href="../../../author/erin-szeto">Erin Szeto&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaxin Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaxin-liang">Jiaxin Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kshitij Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/kshitij-gupta">Kshitij Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nghi Le&lt;/p>
+&lt;p>&lt;a href="../../../author/nghi-le">Nghi Le&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erica Xia&lt;/p>
+&lt;p>&lt;a href="../../../author/erica-xia">Erica Xia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

@@ -3,22 +3,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Spangher&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-spangher">Alex Spangher&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-shah">Yash Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Swetha Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/swetha-thomas">Swetha Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hongyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/hongyu-li">Hongyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;p>&lt;a href="../../../author/abhi-thadeshwar">Abhi Thadeshwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -38,22 +38,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Spangher&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-spangher">Alex Spangher&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-shah">Yash Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Swetha Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/swetha-thomas">Swetha Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hongyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/hongyu-li">Hongyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;p>&lt;a href="../../../author/abhi-thadeshwar">Abhi Thadeshwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -64,4 +64,8 @@
 &lt;ul>
 &lt;li>NLP&lt;/li>
 &lt;li>Programming&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1j8e6L6RTTJdzabFxpg6CUSoYAJZJT35Z/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

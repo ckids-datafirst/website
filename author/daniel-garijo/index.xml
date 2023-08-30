@@ -3,16 +3,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yi Xie&lt;/p>
+&lt;p>&lt;a href="../../../author/yi-xie">Yi Xie&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bin Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/bin-zhang">Bin Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mohan Krishna Thota&lt;/p>
+&lt;p>&lt;a href="../../../author/mohan-krishnathota">Mohan Krishna Thota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -30,10 +30,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Zihuan Ran&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-zihuanran">Alex Zihuan Ran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hardik Mahipal Surana&lt;/p>
+&lt;p>&lt;a href="../../../author/hardik-mahipalsurana">Hardik Mahipal Surana&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -49,6 +49,10 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Knowledge Graphs&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Towards Automated Understanding of Scientific Software</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Data science projects require knowledge of software that changes rapidly. As a result, scientists spend hours reading long documentations and manuals instead of advancing their scientific fields. In this project, we aim to automatically extract relevant aspects of scientific software (e.g., what does it do, how to install it, how to operate with it or how to cite it) from documentation and code using machine learning techniques. The students will build on an existing baseline of classifiers and try to improve the existing results.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -63,13 +67,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaying-wang">Jiaying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -82,18 +86,22 @@
 &lt;li>Knowledge Graphs&lt;/li>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Sklearn&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Building an open catalog of integrated datasets for Los Angeles</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many open data efforts have managed to successfully expose public data in the web, it is often complicated to determine how these records can be integrated with each other (due to heterogeneous ids, not clear how to place them into a map, etc.). In this project, the student will leverage the novel techniques for integrating, registering and connecting datasets with overlapping elements. The results will be visualized by the student using interactive maps.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Anjana Niranjan&lt;/p>
+&lt;p>&lt;a href="../../../author/anjana-niranjan">Anjana Niranjan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kushagra Singh Sachan&lt;/p>
+&lt;p>&lt;a href="../../../author/kushagra-singhsachan">Kushagra Singh Sachan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chi Sheng Yang&lt;/p>
+&lt;p>&lt;a href="../../../author/chi-shengyang">Chi Sheng Yang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -108,16 +116,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Li Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yili-chen">Yi-Li Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Andrew Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/andrew-zhao">Andrew Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

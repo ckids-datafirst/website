@@ -32,19 +32,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kathy Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/kathy-wang">Kathy Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shayan Javid&lt;/p>
+&lt;p>&lt;a href="../../../author/shayan-javid">Shayan Javid&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinaav-ramesh">Abhinaav Ramesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineet Agarwal&lt;/p>
+&lt;p>&lt;a href="../../../author/vineet-agarwal">Vineet Agarwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahui Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahui-lu">Jiahui Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -57,6 +57,10 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;li>R&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -66,16 +70,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dat Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenwen Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinran Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -98,16 +102,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-karpurapu">Abhilash Karpurapu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erica Xia&lt;/p>
+&lt;p>&lt;a href="../../../author/erica-xia">Erica Xia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Iris Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/iris-liu">Iris Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;p>&lt;a href="../../../author/spoorti-nidagundi">Spoorti Nidagundi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -135,6 +139,10 @@
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Sentiment Analysis&lt;/li>
 &lt;li>Image Analysis&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1JL_7V4M3pyrxM48YQt3m-E-MgTgvE4s4/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -144,10 +152,10 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shravya Manety&lt;/p>
+&lt;p>&lt;a href="../../../author/shravya-manety">Shravya Manety&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

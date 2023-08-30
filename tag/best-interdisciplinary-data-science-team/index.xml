@@ -7,25 +7,25 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sofian Ghazali&lt;/p>
+&lt;p>&lt;a href="../../../author/sofian-ghazali">Sofian Ghazali&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;p>&lt;a href="../../../author/pasha-biglarzadeh">Pasha Biglarzadeh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;p>&lt;a href="../../../author/vignesh-selvaraj">Vignesh Selvaraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yang Cheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yang-cheng">Yang Cheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chenghong Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/chenghong-hu">Chenghong Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Anish Kushalapa&lt;/p>
+&lt;p>&lt;a href="../../../author/anish-kushalapa">Anish Kushalapa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Park&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-park">Jae Park&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -51,19 +51,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Zhenmin Hua&lt;/p>
+&lt;p>&lt;a href="../../../author/zhenmin-hua">Zhenmin Hua&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/siqi-liu">Siqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xiayu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/xiayu-li">Xiayu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Daniel Pereira Da Costa&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-pereiradacosta">Daniel Pereira Da Costa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Richa Sheth&lt;/p>
+&lt;p>&lt;a href="../../../author/richa-sheth">Richa Sheth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -89,19 +89,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Meera Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/meera-patel">Meera Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Boya Li&lt;/p>
+&lt;p>&lt;a href="../../../author/boya-li">Boya Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haoyang Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/haoyang-chen">Haoyang Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Qinming Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/qinming-zhang">Qinming Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Yan&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-yan">Ming Yan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -127,16 +127,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Keerti Bhogaraju&lt;/p>
+&lt;p>&lt;a href="../../../author/keerti-bhogaraju">Keerti Bhogaraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Myoungsu Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Negar Mokhberian&lt;/p>
+&lt;p>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nazanin Alipourfard&lt;/p>
+&lt;p>&lt;a href="../../../author/nazanin-alipourfard">Nazanin Alipourfard&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -148,6 +148,10 @@
 &lt;li>Python&lt;/li>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Data Mining&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1ocNzQLKJNMOLdlvl4wRBD20cMav60T6d/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Investigations of a Data Science Online Community</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/202/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition? What are features that predict high-performing teams? What features help generate teammate recommendations?&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -157,19 +161,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Devendra Swami&lt;/p>
+&lt;p>&lt;a href="../../../author/devendra-swami">Devendra Swami&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jacob Bickman&lt;/p>
+&lt;p>&lt;a href="../../../author/jacob-bickman">Jacob Bickman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Young Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -193,16 +197,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Simon Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/simon-khan">Simon Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vinith Angadi&lt;/p>
+&lt;p>&lt;a href="../../../author/vinith-angadi">Vinith Angadi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yingxi Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/yingxi-lin">Yingxi Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shalini Mustala&lt;/p>
+&lt;p>&lt;a href="../../../author/shalini-mustala">Shalini Mustala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -223,22 +227,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitra Mudradi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitra-mudradi">Chaitra Mudradi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Feilong Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hsing-Hsien Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/hsinghsien-wang">Hsing-Hsien Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Maria MacHarrie&lt;/p>
+&lt;p>&lt;a href="../../../author/maria-macharrie">Maria MacHarrie&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubhankar Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/shubhankar-singh">Shubhankar Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yangtao Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/yangtao-hu">Yangtao Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

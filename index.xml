@@ -52,7 +52,7 @@
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
 &lt;li>R or Stata&lt;/li>
-&lt;/ul></description></item><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/2/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/2/</guid><description>&lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p></description></item><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -61,16 +61,16 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aryan Karnati&lt;/p>
+&lt;p>&lt;a href="../../../author/aryan-karnati">Aryan Karnati&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sudesh Kumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sudesh-kumar">Sudesh Kumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siyi Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/siyi-chen">Siyi Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shuchan Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/shuchan-zhou">Shuchan Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -84,6 +84,10 @@
 &lt;li>Python&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Machine Learning&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://auditing-drivers-for-eating-disorders.netlify.app/index.html" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Automated question type coding of forensic interviews</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Question type coding is used in research on forensic interviewing to distinguish between best practice open-ended questions, and closed-ended and leading questions that interviewers are trained to avoid. Most research teams in the field rely on a time-consuming and labor-intensive method of question type coding whereby a researcher codes every question in the interview, and a second researcher codes a subset to demonstrate inter-rater reliability. We are currently working with a graduate of the Masters in Computer Science program at USC on a project exploring automated question type coding of forensic interviews with victims of child abuse. In collaboration with the student, we have trained a large language model (RoBERTa) to distinguish between question types based on a rudimentary classification system. In the next stage of the project, we are aiming to finetune the model and use zero shot and few shot prompting to make distinctions for which there is limited manually-coded data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -131,7 +135,7 @@
 &lt;li>streamlit&lt;/li>
 &lt;li>dash&lt;/li>
 &lt;li>etc. is a bonus!)&lt;/li>
-&lt;/ul></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/1/</guid><description>&lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP&amp;rsquo;s websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;ldquo;poverty penalty&amp;rdquo; whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>There is anecdotal evidence that broadband service offers vary in quality and price along income and racial lines. This project seeks to validate these claims by collecting data about service speeds and prices for all known serviceable locations in Los Angeles County, and merging with sociodemographic variables from the Census Bureau and other sources. Other researchers have already developed prototype code for scraping data from ISP's websites, but the study only covered a small percentage of addresses in LA County. The analysis will probe for evidence of a &amp;quot;poverty penalty' whereby residents of poorer areas in Los Angeles are offered higher cost/lower quality broadband services.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -140,22 +144,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Weiqian Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/weiqian-zhang">Weiqian Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aurora Massari&lt;/p>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Angel Chavez-Penate&lt;/p>
+&lt;p>&lt;a href="../../../author/angel-chavezpenate">Angel Chavez-Penate&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zirong Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/zirong-huang">Zirong Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mahika Mushuni&lt;/p>
+&lt;p>&lt;a href="../../../author/mahika-mushuni">Mahika Mushuni&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Lei Cao&lt;/p>
+&lt;p>&lt;a href="../../../author/lei-cao">Lei Cao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -166,6 +170,10 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sites.google.com/usc.edu/determinants-of-spatial-var/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Does Municipal Broadband Deliver as Promised? An examination of broadband pricing and household adoption in areas served by muni networks.</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Broadband networks owned and/or operated by local governments (&amp;quot;muni networks&amp;quot;) are increasingly seen as a key tool to close the digital divide in Internet availability and adoption. There is however only anecdotal evidence about whether muni networks deliver on the promise of more affordable broadband in communities of little interest to traditional ISPs - typically disadvantaged communities. Taking advantage of the greater level of resolution in the new FCC broadband availability maps, this project will examine broadband pricing and adoption at the address level in areas served by muni networks, using a matched sample of comparable areas as a reference point. The goal of the project is to empirically assert whether muni networks are delivering on the promise of more affordable services, and whether this results in more household adoption than expected. The project is a component of an ongoing collaboration with digital equity advocacy organizations.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -176,24 +184,24 @@
 &lt;ul>
 &lt;li>Data scraping (Python)&lt;/li>
 &lt;li>statistics and basic GIS skills&lt;/li>
-&lt;/ul></description></item><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/6/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/6/</guid><description>&lt;p>Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into their graph neural networks (GNNs) learning processes to predict temporally conditioned facts. These models capture the temporal dynamics of the facts well and are well-suited for temporally conditioned graph completion tasks. However, there remain many open issues that need to be addressed to make it more practical for real-world applications: (1) Real-world problems usually do not conform to the graph completion tasks which fill out the missing element in a fact; (2) Sparse graph due to lack of temporal triples for target task leads to poor performance; (3) Temporal graphs are inherently dynamic entities that grow and change over time but most existing models require computationally expensive training from scratch to incorporate these changes. Thus, we propose to design an efficient event forecasting framework that solves such challenges.&lt;/p></description></item><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into their graph neural networks (GNNs) learning processes to predict temporally conditioned facts. These models capture the temporal dynamics of the facts well and are well-suited for temporally conditioned graph completion tasks. However, there remain many open issues that need to be addressed to make it more practical for real-world applications: (1) Real-world problems usually do not conform to the graph completion tasks which fill out the missing element in a fact; (2) Sparse graph due to lack of temporal triples for target task leads to poor performance; (3) Temporal graphs are inherently dynamic entities that grow and change over time but most existing models require computationally expensive training from scratch to incorporate these changes. Thus, we propose to design an efficient event forecasting framework that solves such challenges.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Parth Rohilla&lt;/p>
+&lt;p>&lt;a href="../../../author/parth-rohilla">Parth Rohilla&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kiran Narahari&lt;/p>
+&lt;p>&lt;a href="../../../author/kiran-narahari">Kiran Narahari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hangji He&lt;/p>
+&lt;p>&lt;a href="../../../author/hangji-he">Hangji He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubham Gujar&lt;/p>
+&lt;p>&lt;a href="../../../author/shubham-gujar">Shubham Gujar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Varun Venkatesh&lt;/p>
+&lt;p>&lt;a href="../../../author/varun-venkatesh">Varun Venkatesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -220,15 +228,15 @@
 &lt;li>Python&lt;/li>
 &lt;li>Tensorflow&lt;/li>
 &lt;li>deep learning&lt;/li>
-&lt;/ul></description></item><item><title>Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/4/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/4/</guid><description>&lt;p>After the COVID, the remote work environment has become popular, and many commercial offices have tried to keep both the in-person work environment and the remote work environment while attempting to reduce the size of their workplaces. Even though hot desking systems are increasingly common and even starting to feel like a trend these days, there isn&amp;rsquo;t much data to show how such systems can support occupants&amp;rsquo; environmental comfort, work productivity, and psychological stability while they are at work. Therefore, this project focuses on investigating how much the occupants are satisfied with their new workplace platform and how much a hotdesking system affects their work productivity, environmental satisfaction, etc. The project&amp;rsquo;s findings will help design this new desking system in a way that will increase occupants&amp;rsquo; satisfaction with their surroundings and productivity at work without compromising their quality of life in the workplace.&lt;/p></description></item><item><title>Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/807/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/807/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/807/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/807/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>After the COVID, the remote work environment has become popular, and many commercial offices have tried to keep both the in-person work environment and the remote work environment while attempting to reduce the size of their workplaces. Even though hot desking systems are increasingly common and even starting to feel like a trend these days, there isn't much data to show how such systems can support occupants' environmental comfort, work productivity, and psychological stability while they are at work. Therefore, this project focuses on investigating how much the occupants are satisfied with their new workplace platform and how much a hotdesking system affects their work productivity, environmental satisfaction, etc. The project's findings will help design this new desking system in a way that will increase occupants' satisfaction with their surroundings and productivity at work without compromising their quality of life in the workplace.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yanli Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yanli-zhang">Yanli Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sowmiya Mathanagopalan&lt;/p>
+&lt;p>&lt;a href="../../../author/sowmiya-mathanagopalan">Sowmiya Mathanagopalan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -241,24 +249,24 @@
 &lt;li>Python&lt;/li>
 &lt;li>Matlab&lt;/li>
 &lt;li>Statistics&lt;/li>
-&lt;/ul></description></item><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/7/</guid><description>&lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p></description></item><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Identifying Causal Pathways from Online to Offline Systems</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/804/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will learn to collect and analyze data in the goal of identifying causal pathways between online and offline systems. Video games, present a rich set of opportunities for this analysis, and we will begin by studying them. We will start with the effect that video games have on culture, movement, and discussion offline. We will then transition to Reddit activity, where certain communities can spur offline action. Students will not only collect data, but apply state-of-the-art causal detection algorithms alongside PhD students studying the same phenomena.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yufei Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/yufei-wang">Yufei Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kaixin Guo&lt;/p>
+&lt;p>&lt;a href="../../../author/kaixin-guo">Kaixin Guo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Emerson Jin&lt;/p>
+&lt;p>&lt;a href="../../../author/emerson-jin">Emerson Jin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Seoyoun Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/seoyoun-kim">Seoyoun Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haohan Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/haohan-wang">Haohan Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -287,7 +295,7 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Natural language Processing and related skills.&lt;/li>
-&lt;/ul></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/10/</guid><description>&lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -296,34 +304,34 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Anood Alkhatheeri&lt;/p>
+&lt;p>&lt;a href="../../../author/anood-alkhatheeri">Anood Alkhatheeri&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rushit Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/rushit-jain">Rushit Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Samarth Saxena&lt;/p>
+&lt;p>&lt;a href="../../../author/samarth-saxena">Samarth Saxena&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abishek Phalak&lt;/p>
+&lt;p>&lt;a href="../../../author/abishek-phalak">Abishek Phalak&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yassamin Neshatvar&lt;/p>
+&lt;p>&lt;a href="../../../author/yassamin-neshatvar">Yassamin Neshatvar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shruthakeerthy Srinivasan&lt;/p>
+&lt;p>&lt;a href="../../../author/shruthakeerthy-srinivasan">Shruthakeerthy Srinivasan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vaidehi Vatsaraj&lt;/p>
+&lt;p>&lt;a href="../../../author/vaidehi-vatsaraj">Vaidehi Vatsaraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siddarth Rudraraju&lt;/p>
+&lt;p>&lt;a href="../../../author/siddarth-rudraraju">Siddarth Rudraraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Iris Gordo&lt;/p>
+&lt;p>&lt;a href="../../../author/iris-gordo">Iris Gordo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shelby Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/shelby-wu">Shelby Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -343,33 +351,33 @@
 &lt;li>Statistics&lt;/li>
 &lt;li>Python&lt;/li>
 &lt;li>AWS Sagemaker&lt;/li>
-&lt;/ul></description></item><item><title>Networked social influence in large-scale networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/5/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/5/</guid><description>&lt;p>We recently published a novel algorithm for measuring influence among people. What&amp;rsquo;s different about it is that it doesn&amp;rsquo;t rely on social media. It takes behavior data, such as might exist within a company&amp;rsquo;s databases, and is able to say &amp;ldquo;This person is causing this person to do X.&amp;rdquo; This technique is broad and powerful and has many social and business applications. We&amp;rsquo;re also fortunate to have a lot of data from corporations to explore, including over a 100m person dataset on charitable giving, several datasets of video game play, and one on commercial travel. What we need are smart students who can learn the algorithm and help us run it, answering questions of both scholarly and commercial interest. We need horsepower, and we&amp;rsquo;re happy to help train, advise and add students to the many publications we see coming out of this effort.&lt;/p></description></item><item><title>Networked social influence in large-scale networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/809/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/809/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Networked social influence in large-scale networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/809/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/809/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>We recently published a novel algorithm for measuring influence among people. What's different about it is that it doesn't rely on social media. It takes behavior data, such as might exist within a company's databases, and is able to say &amp;quot;&amp;quot;This person is causing this person to do X.&amp;quot;&amp;quot; This technique is broad and powerful and has many social and business applications. We're also fortunate to have a lot of data from corporations to explore, including over a 100m person dataset on charitable giving, several datasets of video game play, and one on commercial travel. What we need are smart students who can learn the algorithm and help us run it, answering questions of both scholarly and commercial interest. We need horsepower, and we're happy to help train, advise and add students to the many publications we see coming out of this effort.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Indrani Panchangam&lt;/p>
+&lt;p>&lt;a href="../../../author/indrani-panchangam">Indrani Panchangam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Can Jin&lt;/p>
+&lt;p>&lt;a href="../../../author/can-jin">Can Jin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yunning Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yunning-chen">Yunning Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Datt Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/datt-patel">Datt Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kaiyi Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/kaiyi-sun">Kaiyi Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Lei Cao&lt;/p>
+&lt;p>&lt;a href="../../../author/lei-cao">Lei Cao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nishi Doshi&lt;/p>
+&lt;p>&lt;a href="../../../author/nishi-doshi">Nishi Doshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yingning Fan&lt;/p>
+&lt;p>&lt;a href="../../../author/yingning-fan">Yingning Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -388,7 +396,7 @@
 &lt;li>Python&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Machine Learning&lt;/li>
-&lt;/ul></description></item><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/11/</guid><description>&lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following: Increase in pressors, Intubation, Trip to operating room within 24 hours, Starting dialysis The objective is to predict on a real-time/near real-time basis, whether someone is likely to require escalated care as defined above. Prediction of the likelihood of such a care escalation need is assumed to be an optional/secondary requirement at this stage.&lt;/p></description></item><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Predicting the possibility of escalation of care for specific cohorts admitted to ICU</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/803/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>To predict the possibility of escalation of care for specific cohorts admitted to Keck ICU,), on the following:
 • Increase in pressors
 • Intubation
@@ -398,10 +406,10 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ho Ko&lt;/p>
+&lt;p>&lt;a href="../../../author/ho-ko">Ho Ko&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vatsal Khandor&lt;/p>
+&lt;p>&lt;a href="../../../author/vatsal-khandor">Vatsal Khandor&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -429,15 +437,15 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;li>numpy&lt;/li>
 &lt;li>matplotlib&lt;/li>
 &lt;li>seaborn. GitHub knowledge preferred but not necessary&lt;/li>
-&lt;/ul></description></item><item><title>The value of player tracking technology in assessment of training volume in youth soccer players</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/8/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/8/</guid><description>&lt;p>Wearable IMU and GPS sensors are used to estimate training volume in professional sports to ensure adequate preparation for competition. Recommendations to modify training is individualized to meet health and performance needs of each player. Expense associated with these systems restrict their use in youth sports. More economical alternatives are available but it is not clear if the data is comparable. This project will compare data collected concurrently to determine if the economical system provides similar conclusions. Players from the LA Galaxy (second and developmental teams) will participate. Continuous data from triaxial accelerometers, gyroscope and GPS will be collected during practice and competition. Raw data and commercially derived key performance indicators will be compared to understand the agreement between the systems. Acceptable agreement with comparable interpretation of data with respect to training recommendations may allow for greater access for young athletes&lt;/p></description></item><item><title>The value of player tracking technology in assessment of training volume in youth soccer players.</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>The value of player tracking technology in assessment of training volume in youth soccer players.</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Wearable IMU and GPS sensors are used to estimate training volume in professional sports to ensure adequate preparation for competition. Recommendations to modify training is individualized to meet health and performance needs of each player. Expense associated with these systems restrict their use in youth sports. More economical alternatives are available but it is not clear if the data is comparable. This project will compare data collected concurrently to determine if the economical system provides similar conclusions. Players from the LA Galaxy (second and developmental teams) will participate. Continuous data from triaxial accelerometers, gyroscope and GPS will be collected during practice and competition. Raw data and commercially derived key performance indicators will be compared to understand the agreement between the systems. Acceptable agreement with comparable interpretation of data with respect to training recommendations may allow for greater access for young athletes&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ajay Kc&lt;/p>
+&lt;p>&lt;a href="../../../author/ajay-kc">Ajay Kc&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shardul Nazirkar&lt;/p>
+&lt;p>&lt;a href="../../../author/shardul-nazirkar">Shardul Nazirkar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -458,10 +466,10 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yan Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yan-zheng">Yan Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuan Luo&lt;/p>
+&lt;p>&lt;a href="../../../author/yuan-luo">Yuan Luo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -472,7 +480,11 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Web Scraping&lt;/li>
-&lt;/ul></description></item><item><title>Transition of Care</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/9/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/9/</guid><description>&lt;p>Analytics to determine what tertiary and quaternary care patients would have the best outcomes at Keck Medical Center. Analyze data from incoming transfer patients to look at data quality, evaluate clinical records and predict outcomes.&lt;/p></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sites.google.com/usc.edu/keck-medicine-toc/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>When it comes to classification tasks, many previous work has tried to design larger and more complex neural networks. Recently, the line of data-centric AI has worked on shifting the focus to the quality of the train data. This shift arises from the recognition that the annotations associated with dataset instances can exhibit both noise, stemming from vague instructions or human errors, and bias, arising from differing perspectives among annotators in response to given prompts.
 In this project, our objective is to bridge the gap between the two lines of research: one dedicated to identifying noisy instances and the other striving to account for the diverse perspectives of annotators. Specifically, we will delve into the domain of offensive text detection datasets, a highly subjective task. Our investigation will center on whether perspectivist classification models have effectively harnessed valuable information from instances flagged as noisy by noise-detection techniques.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -516,16 +528,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Deborah Ho&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-ho">Deborah Ho&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jooyoung Yoo&lt;/p>
+&lt;p>&lt;a href="../../../author/jooyoung-yoo">Jooyoung Yoo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshay Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshay-gupta">Vanshay Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ikenna Joe-Nweke&lt;/p>
+&lt;p>&lt;a href="../../../author/ikenna-joenweke">Ikenna Joe-Nweke&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -549,7 +561,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Machine Learning&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Spring - 2022)</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -577,27 +589,37 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
 &lt;li>Machine Learning&lt;/li>
-&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/602/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/602/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Deep Learning&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories (Fall - 2022)</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/711/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>In this project, we will work on semantically aligning IoT sensor data and neural data with the human experience. We have developed a sensor platform to record the human experience as patients perform navigational tasks. The goal is to understand what context shifts in the human experience anchor our episodic memories. Each student will have the opportunity to work with different sensing modalities, and develop models for both sensory perception and reasoning.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Helin Yilmaz&lt;/p>
+&lt;p>&lt;a href="../../../author/helin-yilmaz">Helin Yilmaz&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ao Xu&lt;/p>
+&lt;p>&lt;a href="../../../author/ao-xu">Ao Xu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ketki Kinkar&lt;/p>
+&lt;p>&lt;a href="../../../author/ketki-kinkar">Ketki Kinkar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saurabh Koshatwar&lt;/p>
+&lt;p>&lt;a href="../../../author/saurabh-koshatwar">Saurabh Koshatwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Christian Bryan&lt;/p>
+&lt;p>&lt;a href="../../../author/christian-bryan">Christian Bryan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ashley Sue&lt;/p>
+&lt;p>&lt;a href="../../../author/ashley-sue">Ashley Sue&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -609,37 +631,27 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch&lt;/li>
 &lt;li>Tensorflow&lt;/li>
-&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/602/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/602/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/luis-garcia">Luis Garcia&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Deep Learning&lt;/li>
 &lt;/ul></description></item><item><title>Hot desking system guarantee your productivity? : Investigation of a first-come-first-served workplace system focusing on the occupants’ work productivity and wellness</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/708/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/708/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>After the COVID, the remote work environment has become popular, and many commercial offices have tried to keep both the in-person work environment and the remote work environment while attempting to reduce the size of their workplaces. Even though hot desking systems are increasingly common and even starting to feel like a trend these days, there isn't much data to show how such systems can support occupants' environmental comfort, work productivity, and psychological stability while they are at work. This project adopts a commercial office as a testbed, which is located in the downtown Los Angeles, and conducts questionnaire surveys, indoor environmental quality measurements. The project's findings will help design this new desking system in a way that will increase occupants' satisfaction with their surroundings and productivity at work without compromising their quality of life in the workplace.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dhruv Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/dhruv-goel">Dhruv Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Indrani Panchangam&lt;/p>
+&lt;p>&lt;a href="../../../author/indrani-panchangam">Indrani Panchangam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mingxuan Ma&lt;/p>
+&lt;p>&lt;a href="../../../author/mingxuan-ma">Mingxuan Ma&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siqi Qiao&lt;/p>
+&lt;p>&lt;a href="../../../author/siqi-qiao">Siqi Qiao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Crystal Sheng&lt;/p>
+&lt;p>&lt;a href="../../../author/crystal-sheng">Crystal Sheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Winnie Hou&lt;/p>
+&lt;p>&lt;a href="../../../author/winnie-hou">Winnie Hou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -666,19 +678,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>William Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/william-lu">William Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zexun Yao&lt;/p>
+&lt;p>&lt;a href="../../../author/zexun-yao">Zexun Yao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Duyen Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/duyen-nguyen">Duyen Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jinyi Ye&lt;/p>
+&lt;p>&lt;a href="../../../author/jinyi-ye">Jinyi Ye&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aaron Tom&lt;/p>
+&lt;p>&lt;a href="../../../author/aaron-tom">Aaron Tom&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -705,19 +717,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ric Xian&lt;/p>
+&lt;p>&lt;a href="../../../author/ric-xian">Ric Xian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aurora Massari&lt;/p>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinyi Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinyi-zhang">Xinyi Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bhavyakumar Ramani&lt;/p>
+&lt;p>&lt;a href="../../../author/bhavyakumar-ramani">Bhavyakumar Ramani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Alison Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/alison-chen">Alison Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -735,16 +747,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shengnan Ke&lt;/p>
+&lt;p>&lt;a href="../../../author/shengnan-ke">Shengnan Ke&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xiao Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/xiao-zhou">Xiao Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Diana Pham&lt;/p>
+&lt;p>&lt;a href="../../../author/diana-pham">Diana Pham&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yitong Qian&lt;/p>
+&lt;p>&lt;a href="../../../author/yitong-qian">Yitong Qian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -755,19 +767,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Mansi Kulhari&lt;/p>
+&lt;p>&lt;a href="../../../author/mansi-kulhari">Mansi Kulhari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zongmian Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/zongmian-huang">Zongmian Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ryan Gleason&lt;/p>
+&lt;p>&lt;a href="../../../author/ryan-gleason">Ryan Gleason&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Dhandeep Suglani&lt;/p>
+&lt;p>&lt;a href="../../../author/dhandeep-suglani">Dhandeep Suglani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yunyi (Fiona) Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yunyi-fionazhang">Yunyi (Fiona) Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -795,19 +807,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shreya Padmanabhan&lt;/p>
+&lt;p>&lt;a href="../../../author/shreya-padmanabhan">Shreya Padmanabhan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shreya Raj&lt;/p>
+&lt;p>&lt;a href="../../../author/shreya-raj">Shreya Raj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Maiah Pardo&lt;/p>
+&lt;p>&lt;a href="../../../author/maiah-pardo">Maiah Pardo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saurav Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/saurav-joshi">Saurav Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuhua Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/yuhua-wu">Yuhua Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -831,28 +843,28 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yifan Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/yifan-wang">Yifan Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vu Truong Si&lt;/p>
+&lt;p>&lt;a href="../../../author/vu-truongsi">Vu Truong Si&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Anood Alkatheeri&lt;/p>
+&lt;p>&lt;a href="../../../author/anood-alkatheeri">Anood Alkatheeri&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pallavi Vijayan&lt;/p>
+&lt;p>&lt;a href="../../../author/pallavi-vijayan">Pallavi Vijayan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Park&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-park">Jae Park&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Conner Kojima&lt;/p>
+&lt;p>&lt;a href="../../../author/conner-kojima">Conner Kojima&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yihao Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yihao-zheng">Yihao Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nachiket Dunbray&lt;/p>
+&lt;p>&lt;a href="../../../author/nachiket-dunbray">Nachiket Dunbray&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -895,25 +907,25 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sofian Ghazali&lt;/p>
+&lt;p>&lt;a href="../../../author/sofian-ghazali">Sofian Ghazali&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pasha Biglarzadeh&lt;/p>
+&lt;p>&lt;a href="../../../author/pasha-biglarzadeh">Pasha Biglarzadeh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vignesh Selvaraj&lt;/p>
+&lt;p>&lt;a href="../../../author/vignesh-selvaraj">Vignesh Selvaraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yang Cheng&lt;/p>
+&lt;p>&lt;a href="../../../author/yang-cheng">Yang Cheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chenghong Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/chenghong-hu">Chenghong Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Anish Kushalapa&lt;/p>
+&lt;p>&lt;a href="../../../author/anish-kushalapa">Anish Kushalapa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Park&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-park">Jae Park&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -956,19 +968,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Zhenmin Hua&lt;/p>
+&lt;p>&lt;a href="../../../author/zhenmin-hua">Zhenmin Hua&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Siqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/siqi-liu">Siqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xiayu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/xiayu-li">Xiayu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Daniel Pereira Da Costa&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-pereiradacosta">Daniel Pereira Da Costa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Richa Sheth&lt;/p>
+&lt;p>&lt;a href="../../../author/richa-sheth">Richa Sheth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1015,22 +1027,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shuijing Mejia&lt;/p>
+&lt;p>&lt;a href="../../../author/shuijing-mejia">Shuijing Mejia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ronak Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/ronak-shah">Ronak Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Balaji Chidambaram&lt;/p>
+&lt;p>&lt;a href="../../../author/balaji-chidambaram">Balaji Chidambaram&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aaron Cheng&lt;/p>
+&lt;p>&lt;a href="../../../author/aaron-cheng">Aaron Cheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aamir Miyajiwala&lt;/p>
+&lt;p>&lt;a href="../../../author/aamir-miyajiwala">Aamir Miyajiwala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hieu Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/hieu-nguyen">Hieu Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1059,19 +1071,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kathy Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/kathy-wang">Kathy Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shayan Javid&lt;/p>
+&lt;p>&lt;a href="../../../author/shayan-javid">Shayan Javid&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinaav-ramesh">Abhinaav Ramesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineet Agarwal&lt;/p>
+&lt;p>&lt;a href="../../../author/vineet-agarwal">Vineet Agarwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahui Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahui-lu">Jiahui Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1084,6 +1096,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Deep Learning&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;li>R&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1093,22 +1109,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Lili Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/lili-zhou">Lili Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikita Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/nikita-goel">Nikita Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chanda&lt;/p>
+&lt;p>&lt;a href="../../../author/chanda-">Chanda&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanjeev Kadagathur Vadiraj&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjeev-kadagathurvadiraj">Sanjeev Kadagathur Vadiraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Audrey Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/audrey-lin">Audrey Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1123,16 +1139,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yilin Qi&lt;/p>
+&lt;p>&lt;a href="../../../author/yilin-qi">Yilin Qi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Revanth Madamala&lt;/p>
+&lt;p>&lt;a href="../../../author/revanth-madamala">Revanth Madamala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Luer Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/luer-lyu">Luer Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chidambaram Veerappan&lt;/p>
+&lt;p>&lt;a href="../../../author/chidambaram-veerappan">Chidambaram Veerappan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1143,7 +1159,11 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>NLP&lt;/li>
-&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Decoding How Humans Encode Memories (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/101/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligent autonomy for therapeutic intervention across a wide range of neurologic and psychiatric disorders. The predominant approach relies on control-theoretic approximations of the brain’s complex functional relationships with the external environment–in particular, a mapping between targeted stimulation and naturalistic responses of different regions of the brain. However, existing approaches fail to capture the environmental context of neuronal biomarkers. Thus, we leverage a set of IoT sensors to capture the human experience and environmental context, i.e., a subset of human sensory channels, in order to estimate the state of the human brain and provide the foundation for smarter, context-dependent DBS. We explore neural-symbolic approaches that integrate the powerful perception capabilities of deep learning with human logic to reason about the complex dependencies across a heterogeneous set of sensors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -1152,22 +1172,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yishan Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yishan-li">Yishan Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Navyada Koshatwar&lt;/p>
+&lt;p>&lt;a href="../../../author/navyada-koshatwar">Navyada Koshatwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gayathri Shrikanth&lt;/p>
+&lt;p>&lt;a href="../../../author/gayathri-shrikanth">Gayathri Shrikanth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rushi Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/rushi-shah">Rushi Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pranjali Tushar Tembhurnikar&lt;/p>
+&lt;p>&lt;a href="../../../author/pranjali-tushartembhurnikar">Pranjali Tushar Tembhurnikar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manuel Amaya&lt;/p>
+&lt;p>&lt;a href="../../../author/manuel-amaya">Manuel Amaya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1183,22 +1203,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Hassaan Hasan&lt;/p>
+&lt;p>&lt;a href="../../../author/hassaan-hasan">Hassaan Hasan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Dave&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-dave">Aditya Dave&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yin He&lt;/p>
+&lt;p>&lt;a href="../../../author/yin-he">Yin He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kartik Balodi&lt;/p>
+&lt;p>&lt;a href="../../../author/kartik-balodi">Kartik Balodi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akshat Jetli&lt;/p>
+&lt;p>&lt;a href="../../../author/akshat-jetli">Akshat Jetli&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Manav Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/manav-jain">Manav Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1211,24 +1231,28 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Web Scraping&lt;/li>
 &lt;li>SQL&lt;/li>
 &lt;li>NoSQL&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manasi Godse&lt;/p>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jackie Fan&lt;/p>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rehan Ahmed&lt;/p>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahang Song&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1252,19 +1276,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Linglan Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/linglan-zhang">Linglan Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yu-zhang">Yu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Uday Malte&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-udaymalte">Aditya Uday Malte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Namita Santosh Mutha&lt;/p>
+&lt;p>&lt;a href="../../../author/namita-santoshmutha">Namita Santosh Mutha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1289,10 +1313,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shubhashree Dash&lt;/p>
+&lt;p>&lt;a href="../../../author/shubhashree-dash">Shubhashree Dash&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Katie Chak&lt;/p>
+&lt;p>&lt;a href="../../../author/katie-chak">Katie Chak&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1310,10 +1334,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jingping Yu&lt;/p>
+&lt;p>&lt;a href="../../../author/jingping-yu">Jingping Yu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1329,10 +1353,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yixiao Li&lt;/p>
+&lt;p>&lt;a href="../../../author/yixiao-li">Yixiao Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhaohong Feng&lt;/p>
+&lt;p>&lt;a href="../../../author/zhaohong-feng">Zhaohong Feng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1352,10 +1376,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Tao Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1375,10 +1399,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Tao Huang&lt;/p>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jianing (Julia) Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1395,19 +1419,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Jonathan Lal&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-lal">Jonathan Lal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Ramani&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-ramani">Aditya Ramani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanket Bhilare&lt;/p>
+&lt;p>&lt;a href="../../../author/sanket-bhilare">Sanket Bhilare&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Keerthana Prakash&lt;/p>
+&lt;p>&lt;a href="../../../author/keerthana-prakash">Keerthana Prakash&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Himani Amrute&lt;/p>
+&lt;p>&lt;a href="../../../author/himani-amrute">Himani Amrute&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1431,16 +1455,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dat Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenwen Zheng&lt;/p>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xinran Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1453,7 +1477,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Databases&lt;/li>
 &lt;li>APIs&lt;/li>
 &lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -1462,19 +1486,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Xiaoyu Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/xiaoyu-wang">Xiaoyu Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Stephen Iota&lt;/p>
+&lt;p>&lt;a href="../../../author/stephen-iota">Stephen Iota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bolong Pan&lt;/p>
+&lt;p>&lt;a href="../../../author/bolong-pan">Bolong Pan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Junyi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/junyi-liu">Junyi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-lyu">Ming Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1500,19 +1524,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitali Joshi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitali-joshi">Chaitali Joshi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aparna Nair&lt;/p>
+&lt;p>&lt;a href="../../../author/aparna-nair">Aparna Nair&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1523,24 +1547,24 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>AI ethics&lt;/li>
-&lt;/ul></description></item><item><title>Mapping the Uncanny Valley</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Mapping the Uncanny Valley (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/10/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many stories involve the friendly and familiar, scary stories across cultures, from Hamlet to Yotsuya Kaidan to Siren Head involve beings that are almost—but not quite—human. Can these stories give us insight into the “nearly-human” uncanny valley? Initial results from our group say yes! While some research has explored the uncanny valley for images, the research is limited and previously unexplored in text format. If we can extract human emotions surrounding text descriptions, we can exploit an enormous array of data. Our goal this semester is to analyze our objective definitions of “fear” or “creepiness” in a story and test how the similarity of words to “human” make them more or less creepy. Moreover, we will explore what features of objects make them more or less scary. These findings share a direct relationship to AI and robotics where our goal is always to improve pleasant interactions and affability in human-computer and human-robot interactions. The students will build on initial work to apply NLP methods to these texts and improve upon existing initial results.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Saurabh Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/saurabh-jain">Saurabh Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Athashree Vartak&lt;/p>
+&lt;p>&lt;a href="../../../author/athashree-vartak">Athashree Vartak&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Olivia Fryt&lt;/p>
+&lt;p>&lt;a href="../../../author/olivia-fryt">Olivia Fryt&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yilin Qi&lt;/p>
+&lt;p>&lt;a href="../../../author/yilin-qi">Yilin Qi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiashu Xu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiashu-xu">Jiashu Xu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1553,7 +1577,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>NLTK&lt;/li>
 &lt;li>NLP&lt;/li>
 &lt;li>Keras&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/1/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The COVID-19 pandemic has reinvigorated calls to close the digital divide in the US and elsewhere. Without adequate Internet access, households are at a disadvantage in education, jobs, health, and other key dimensions of wellbeing. While local broadband markets are increasingly concentrated, there is also increased interest in exploring the role those small local operators (“microtelcos”) can play in serving in low-income and rural communities. These microtelcos range from small wireless cooperatives to mom-and-pop private ISPs to municipal-backed operators. This project seeks to a) map and identify the characteristics of communities where microtelcos are present in CA, and b) to examine whether microtelcos presence affects broadband service quality and adoption by businesses and households in the community. The project will use broadband deployment data collected by the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -1562,10 +1586,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Asjad Asif Jah&lt;/p>
+&lt;p>&lt;a href="../../../author/asjad-asifjah">Asjad Asif Jah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jonathan Gonzalez&lt;/p>
+&lt;p>&lt;a href="../../../author/jonathan-gonzalez">Jonathan Gonzalez&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1583,22 +1607,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yanan Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/yanan-zhou">Yanan Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Megan Josep&lt;/p>
+&lt;p>&lt;a href="../../../author/megan-josep">Megan Josep&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Priya Mane&lt;/p>
+&lt;p>&lt;a href="../../../author/priya-mane">Priya Mane&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Minrui Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/minrui-chen">Minrui Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinav Rao&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinav-rao">Abhinav Rao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Samip Kalyani&lt;/p>
+&lt;p>&lt;a href="../../../author/samip-kalyani">Samip Kalyani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1615,6 +1639,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Data Analysis&lt;/li>
 &lt;li>Data Collection&lt;/li>
 &lt;li>Data Visualization&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/12Zk_1YMWYH9NtknIqg8NSEX0W3XXtKK7/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Object detection and classification APIs for urban street image analysis</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/110/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1624,39 +1652,43 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vibhav Chitalia&lt;/p>
+&lt;p>&lt;a href="../../../author/vibhav-chitalia">Vibhav Chitalia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Utkarsh Baranwal&lt;/p>
+&lt;p>&lt;a href="../../../author/utkarsh-baranwal">Utkarsh Baranwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carlos Zamora&lt;/p>
+&lt;p>&lt;a href="../../../author/carlos-zamora">Carlos Zamora&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wonjun Lee&lt;/p>
+&lt;p>&lt;a href="../../../author/wonjun-lee">Wonjun Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://sites.google.com/usc.edu/homeless-encampments-in-la/home__;!!LIr3w8kk_Xxm!8Eq9mrdqLFc0LUaCGdonNK44IuCugGgQSvt90cBL0xEveRFYamBdezONTYoHeoo$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Object Detection and Classification for Street Cleanliness</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/4/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>In collaboration with the Sanitation Department of LA, IMSC has been developing a framework to automatically detect the cleanliness of streets as well as any special objects in need of removal. The framework makes use of machine learning technology trained on images/videos collected by the city and/or taken by citizens. The images taken by mobile cameras (e.g., LA City’s garbage collection trucks and/or citizens’ smartphones using our own MediaQ App) are transferred to the MediaQ server, then these images can be automatically classified based on predefined cleanliness indexes and object types (such as bulky item, illegal dumping). In this project, we will focus on the detection and classification of homeless encampments in LA streets. Recorded images/videos with GPS location data will be processed and the classification results will be displayed on a map to understand the distribution of homeless people in LA, which is essential data to study the homeless issue.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Trisha Sinha&lt;/p>
+&lt;p>&lt;a href="../../../author/trisha-sinha">Trisha Sinha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Harsh Jaykumar Jalan&lt;/p>
+&lt;p>&lt;a href="../../../author/harsh-jaykumarjalan">Harsh Jaykumar Jalan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ashwin Sakhare&lt;/p>
+&lt;p>&lt;a href="../../../author/ashwin-sakhare">Ashwin Sakhare&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Divya Manjunath&lt;/p>
+&lt;p>&lt;a href="../../../author/divya-manjunath">Divya Manjunath&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1674,19 +1706,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Deven Panchac&lt;/p>
+&lt;p>&lt;a href="../../../author/deven-panchac">Deven Panchac&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Michael Mathew&lt;/p>
+&lt;p>&lt;a href="../../../author/michael-mathew">Michael Mathew&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akansha Das&lt;/p>
+&lt;p>&lt;a href="../../../author/akansha-das">Akansha Das&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Suchetha Bhat&lt;/p>
+&lt;p>&lt;a href="../../../author/suchetha-bhat">Suchetha Bhat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shruti Krishna Kumar&lt;/p>
+&lt;p>&lt;a href="../../../author/shruti-krishnakumar">Shruti Krishna Kumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1712,19 +1744,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Meera Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/meera-patel">Meera Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Boya Li&lt;/p>
+&lt;p>&lt;a href="../../../author/boya-li">Boya Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haoyang Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/haoyang-chen">Haoyang Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Qinming Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/qinming-zhang">Qinming Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ming Yan&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-yan">Ming Yan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1746,7 +1778,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Foursquare and Yelp. We will investigate the ability to access menu information from the APIs of these social media platforms, and develop measures to assess the nutritional content of these menus. Multiple aims will be investigated in this project, including scraping data from social media; NLP of menu text, tag, and comment data; developing predictive models of obesity; and more. “Ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from menu data.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Iris C. Liu&lt;/li>
+&lt;li>&lt;a href="../../../author/iris-cliu">Iris C. Liu&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -1768,22 +1800,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manoj Yadav&lt;/p>
+&lt;p>&lt;a href="../../../author/manoj-yadav">Manoj Yadav&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Frederick Norman&lt;/p>
+&lt;p>&lt;a href="../../../author/frederick-norman">Frederick Norman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vikrame Vasudev Krishnan&lt;/p>
+&lt;p>&lt;a href="../../../author/vikrame-vasudevkrishnan">Vikrame Vasudev Krishnan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hanyu He&lt;/p>
+&lt;p>&lt;a href="../../../author/hanyu-he">Hanyu He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shaochen Tan&lt;/p>
+&lt;p>&lt;a href="../../../author/shaochen-tan">Shaochen Tan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Amit Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/amit-singh">Amit Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1801,19 +1833,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruoyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/ruoyu-li">Ruoyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carol Varkey&lt;/p>
+&lt;p>&lt;a href="../../../author/carol-varkey">Carol Varkey&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rengapriya Aravindan&lt;/p>
+&lt;p>&lt;a href="../../../author/rengapriya-aravindan">Rengapriya Aravindan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chuqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/chuqi-liu">Chuqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ziheng Gong&lt;/p>
+&lt;p>&lt;a href="../../../author/ziheng-gong">Ziheng Gong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1830,16 +1862,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Nazgol Tavabi&lt;/p>
+&lt;p>&lt;a href="../../../author/nazgol-tavabi">Nazgol Tavabi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Che-Pai Kung&lt;/p>
+&lt;p>&lt;a href="../../../author/chepai-kung">Che-Pai Kung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;p>&lt;a href="../../../author/abhivineet-veeraghanta">Abhivineet Veeraghanta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Likitha Lakshminarayanan&lt;/p>
+&lt;p>&lt;a href="../../../author/likitha-lakshminarayanan">Likitha Lakshminarayanan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1849,21 +1881,25 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Data Science&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1pY10sNfzXdAmuiSFJomMNlRpiiXH3vzH/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>A framework for enabling software comparison and classification</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/206/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The number of scientific products, including scientific software, has been steadily growing in the last years. This growth makes it difficult for researchers to understand all the latest code and publications available. A great body of research has attempted at classifying similar papers and literature. However, there aren’t to date good approaches for finding similar or related code. In this project, the students will analyze different unsupervised methods to find scientific software similarities based on a) An automated analysis of their dependencies; b) By classifying the main functionality of software components.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yi Xie&lt;/p>
+&lt;p>&lt;a href="../../../author/yi-xie">Yi Xie&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bin Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/bin-zhang">Bin Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Mohan Krishna Thota&lt;/p>
+&lt;p>&lt;a href="../../../author/mohan-krishnathota">Mohan Krishna Thota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Param Bole&lt;/p>
+&lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1881,10 +1917,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Zihuan Ran&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-zihuanran">Alex Zihuan Ran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hardik Mahipal Surana&lt;/p>
+&lt;p>&lt;a href="../../../author/hardik-mahipalsurana">Hardik Mahipal Surana&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1900,15 +1936,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Knowledge Graphs&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Annotating Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Paleoclimate data is highly diverse, requiring different sets of metadata to describe the various datasets. In this project, you will help build an interface to assist researchers in annotating their paleoclimate datasets according to an evolving reporting standard (PaCTS) and download them in the Linked Paleo Data (LiPD) format. The interface should be highly interactive (wizard) to accommodate the diversity of the data as well as offer editing capabilities for existing datasets (upload LiPD files) and check their compliance with PaCTS, plot location information and the time series, download into the LiPD format, upload to a semantic wiki and/or an SQL database. In addition, the interface should support the use of a recommender system (to be build) to help researchers in annotating their datasets.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yincheng Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/yincheng-lin">Yincheng Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shravya Manety&lt;/p>
+&lt;p>&lt;a href="../../../author/shravya-manety">Shravya Manety&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1925,21 +1965,25 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>Javascript&lt;/li>
 &lt;li>Web Technologies&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Brain morphometry from contrast-enhanced T1-weighted brain MRIs</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/208/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/208/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Cancer remains the second leading cause of death in the US. However, recent advancements have increased cancer survivorship, now numbering tens of millions. Given this, there is tremendous interest in studying cancer-related cognitive impairment (CRCI) and CRCI due to chemotherapy or “chemobrain”, can afflict up to 78% of survivors. The neural substrates of CRCI are unknown and understanding this may improve survivors’ quality of life. The CRCI neuroimaging literature is still in its infancy and these studies have used small sample sizes from traditional research-dedicated nCE scans. Because conducting well-powered neuroimaging studies is very expensive, adapting clinical CE T1w scans could prove useful for CRCI and many other diseases like dementia. The promary objective of this project is to develop a novel deep learning method to generate nCE images from acquired CE T1w scans to allow accurate brain morphometry and be a plentiful source of inexpensive neuroimaging data.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ming Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-lyu">Ming Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Danielle Sim&lt;/p>
+&lt;p>&lt;a href="../../../author/danielle-sim">Danielle Sim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Devansh Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/devansh-shah">Devansh Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ting Fung Lam&lt;/p>
+&lt;p>&lt;a href="../../../author/ting-funglam">Ting Fung Lam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1970,25 +2014,25 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Javascript&lt;/li>
 &lt;li>Firebase&lt;/li>
 &lt;li>UI Development&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>Best Data Science Teamwork&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Jajodia&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshika Sridharan&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2004,25 +2048,29 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Classification&lt;/li>
 &lt;li>Data Collection&lt;/li>
-&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/316/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1c9WlvN8qHV6xKS7SRY1FNWZ7AHxNW3cf/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;li>Best Data Collection&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Jajodia&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-jajodia">Aditya Jajodia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vanshika Sridharan&lt;/p>
+&lt;p>&lt;a href="../../../author/vanshika-sridharan">Vanshika Sridharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2047,16 +2095,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Keerti Bhogaraju&lt;/p>
+&lt;p>&lt;a href="../../../author/keerti-bhogaraju">Keerti Bhogaraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Myoungsu Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Negar Mokhberian&lt;/p>
+&lt;p>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nazanin Alipourfard&lt;/p>
+&lt;p>&lt;a href="../../../author/nazanin-alipourfard">Nazanin Alipourfard&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2068,24 +2116,28 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Data Mining&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1ocNzQLKJNMOLdlvl4wRBD20cMav60T6d/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Data scraping for salary benchmarking</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will develop a data scraper to collect salary records from a website that provides compensation data for faculty at public universities. When provided a list of faculty names and institutional affiliations, this program will search for the associated records, extract the relevant results, and copy the data into a spreadsheet. The purpose of this project is to explore the feasibility of automating an otherwise time-consuming data collection task required for benchmarking of faculty salaries in relation to peer institutions. This will ultimately facilitate a number of important tasks, including analysis of potential salary disparities within certain disciplines and faculty tracks.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Matthew Lim&lt;/p>
+&lt;p>&lt;a href="../../../author/matthew-lim">Matthew Lim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Minh Nguyen&lt;/p>
+&lt;p>&lt;a href="../../../author/minh-nguyen">Minh Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sindhu Ravi&lt;/p>
+&lt;p>&lt;a href="../../../author/sindhu-ravi">Sindhu Ravi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vihang Mangalvedhekar&lt;/p>
+&lt;p>&lt;a href="../../../author/vihang-mangalvedhekar">Vihang Mangalvedhekar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2103,18 +2155,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Web Scraping&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/213/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to determine if there are biases in who and how college football coaches recruit players. By creating a comprehensive data set of college recruits and integrating relevant data with current socioeconomic markers (i.e. census data) we hope to determine if there are patterns in who and where football coaches recruit their players, regardless of talent.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Saurabh Jain&lt;/p>
+&lt;p>&lt;a href="../../../author/saurabh-jain">Saurabh Jain&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jackie Fan&lt;/p>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Akansha Das&lt;/p>
+&lt;p>&lt;a href="../../../author/akansha-das">Akansha Das&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2133,22 +2189,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Spangher&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-spangher">Alex Spangher&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-shah">Yash Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Swetha Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/swetha-thomas">Swetha Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hongyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/hongyu-li">Hongyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;p>&lt;a href="../../../author/abhi-thadeshwar">Abhi Thadeshwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2168,22 +2224,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Alex Spangher&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-spangher">Alex Spangher&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yash Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-shah">Yash Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Swetha Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/swetha-thomas">Swetha Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hongyu Li&lt;/p>
+&lt;p>&lt;a href="../../../author/hongyu-li">Hongyu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhi Thadeshwar&lt;/p>
+&lt;p>&lt;a href="../../../author/abhi-thadeshwar">Abhi Thadeshwar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2194,18 +2250,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>NLP&lt;/li>
 &lt;li>Programming&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1j8e6L6RTTJdzabFxpg6CUSoYAJZJT35Z/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Disparities in educational achievement</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/312/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/312/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The project will combine socio-economic data from US Census with college and K-12 performance data to identify correlates of positive educational outcomes. Of specific interest will be assessing how economic inequalities and racial disparities affect educational achievement in different regions of US.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yuzi He&lt;/p>
+&lt;p>&lt;a href="../../../author/yuzi-he">Yuzi He&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ziping Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/ziping-hu">Ziping Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zicai Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/zicai-wang">Zicai Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2216,22 +2276,26 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1fHg8Yvi6SPm1LDqRAl9rCAVH2KGFmhSz/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Gender inclusion in science</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will measure representation of women in various scientific disciplines across time (and different countries) and identify institutions who have succeeded in creating a more welcoming environment for women. While there are already studies that use bibliographic data to map career trajectories of women, they do not focus on the role that institutions (and countries) – and their policies – play in retaining female researchers.&lt;/p>
 &lt;p>The data comes from Microscoft Academic Graph, containing millions of papers from institutions around the world across many decades. We will use Ethenea API to extract gender (and ethnicity) of authors.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ninareh Mehrabi&lt;/p>
+&lt;p>&lt;a href="../../../author/ninareh-mehrabi">Ninareh Mehrabi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditya Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-gupta">Aditya Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineetha Nadimpalli&lt;/p>
+&lt;p>&lt;a href="../../../author/vineetha-nadimpalli">Vineetha Nadimpalli&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ayushi Jha&lt;/p>
+&lt;p>&lt;a href="../../../author/ayushi-jha">Ayushi Jha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2247,18 +2311,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/16kHZphM8T7ACRlco0Ozg-1ADslPaP5Nm/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Generation of a Sports-based Introductory Data Science Curriculum to Increase Participation of Underrepresented Groups in STEM</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/211/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/211/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>As the requirements for success in the workforce become increasingly technical, there is a commensurate need for curricula that can engage and capture the imagination of students, especially those from traditionally underrepresented groups in STEM. One way to reach these groups is via curricula that appeals to contexts in which they’re familiar and engaged, such as sports. To that end, this project will explore the development of a sports-based introductory data science curriculum with the goal of engaging students who might otherwise not be interested in pursuing data science as a career. Students will work on generation of illustrative code examples/problem sets in Python using sports examples.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Everest Law&lt;/p>
+&lt;p>&lt;a href="../../../author/everest-law">Everest Law&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhongying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/zhongying-wang">Zhongying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sushmitha Ravikumar&lt;/p>
+&lt;p>&lt;a href="../../../author/sushmitha-ravikumar">Sushmitha Ravikumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2275,13 +2343,13 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Folk Narongrit&lt;/p>
+&lt;p>&lt;a href="../../../author/folk-narongrit">Folk Narongrit&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Carol Varkey&lt;/p>
+&lt;p>&lt;a href="../../../author/carol-varkey">Carol Varkey&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Francis Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/francis-sun">Francis Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2304,19 +2372,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Sara Melotte&lt;/p>
+&lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Devendra Swami&lt;/p>
+&lt;p>&lt;a href="../../../author/devendra-swami">Devendra Swami&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jacob Bickman&lt;/p>
+&lt;p>&lt;a href="../../../author/jacob-bickman">Jacob Bickman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jae Young Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2331,7 +2399,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Machine Learning&lt;/li>
 &lt;li>R&lt;/li>
 &lt;li>Matlab&lt;/li>
-&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/210/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -2340,19 +2408,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;p>&lt;a href="../../../author/abhivineet-veeraghanta">Abhivineet Veeraghanta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bolong Pan&lt;/p>
+&lt;p>&lt;a href="../../../author/bolong-pan">Bolong Pan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bryan Beh&lt;/p>
+&lt;p>&lt;a href="../../../author/bryan-beh">Bryan Beh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hanzhi Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/hanzhi-zhang">Hanzhi Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Feilong Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2373,16 +2441,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Simon Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/simon-khan">Simon Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vinith Angadi&lt;/p>
+&lt;p>&lt;a href="../../../author/vinith-angadi">Vinith Angadi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yingxi Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/yingxi-lin">Yingxi Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shalini Mustala&lt;/p>
+&lt;p>&lt;a href="../../../author/shalini-mustala">Shalini Mustala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2394,7 +2462,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>GIS&lt;/li>
 &lt;li>R&lt;/li>
 &lt;li>SQL&lt;/li>
-&lt;/ul></description></item><item><title>Mapping the Uncanny Valley</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Mapping the Uncanny Valley (Fall - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/204/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many stories involve the friendly and familiar, scary stories across cultures, from Hamlet to Yotsuya Kaidan to Siren Head involve beings that are almost—but not quite—human. Can these stories give us insight into the “nearly-human” uncanny valley? And are the most popular stories at the nadir of this valley? In this project we aim to explore the uncanny valley through analysis of several thousand stories posted on Reddit posted over a decade. These data contain stories that cross a range of topics, and include user comments and story scores. We will explore the prevalence of the monsters over time, and explore whether there is some optimal characteristics of these monsters that make them so scary. While some research has explored the uncanny valley for images, the research is limited and virtually unexplored in text format. The students will build on initial work by the advisor to apply NLP methods to these texts and improve upon existing initial results.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -2403,19 +2471,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yuchen Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/yuchen-zhang">Yuchen Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nai-Cih Liou&lt;/p>
+&lt;p>&lt;a href="../../../author/naicih-liou">Nai-Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sakshi Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/sakshi-goel">Sakshi Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raveena Kshatriya&lt;/p>
+&lt;p>&lt;a href="../../../author/raveena-kshatriya">Raveena Kshatriya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2429,7 +2497,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>NLP&lt;/li>
 &lt;li>Keras&lt;/li>
 &lt;li>Gensim&lt;/li>
-&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Microtelcos and the Digital Divide in CA (Spring - 2020)</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/311/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The broadband access market is increasingly dominated by a few large ISPs. However, small and medium-size operators (“microtelcos”) are critical to connectivity in low-income and rural communities in CA, serving markets of little interest to large operators. The primary goal of this project is to combine broadband infrastructure deployment data from the CPUC (California Public Utilities Commission) and socioeconomic data from the Census Bureau to understand the characteristics of the communities served by microtelcos, and to analyze whether the presence of a microtelco operator contributes to higher levels of connectivity in the community. The main technical challenge is to combine spatial data found in CPUC files with census block level data provided by the Census Bureau. This is part of an ongoing research program called Connected Communities and Inclusive Growth (CCIG).&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -2470,16 +2538,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Jae Young Kim&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuqin Jiang&lt;/p>
+&lt;p>&lt;a href="../../../author/yuqin-jiang">Yuqin Jiang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kanlin Cheng&lt;/p>
+&lt;p>&lt;a href="../../../author/kanlin-cheng">Kanlin Cheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saravanan Manoharan&lt;/p>
+&lt;p>&lt;a href="../../../author/saravanan-manoharan">Saravanan Manoharan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2490,27 +2558,31 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Statistical Analysis&lt;/li>
 &lt;li>Text Analysis&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1y0FlBNOC2PxX3OPa45-d_Orr7kPnvaG3/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Social Graph Analysis and Attribution of Software Exploit Contributors Using GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/209/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Attribution of cyber threat actors is an increasingly important and difficult problem. One potential mitigation is the early detection of potential threat actors via analysis of open-source intelligence (OSINT). This project will analyze the social graph of users who contribute to, follow, star, and otherwise interact with proof-of-concept CVE implementations and other relevant potentially malicious (e.g. software vulnerability) repositories on GitHub.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Atharva Rishi&lt;/p>
+&lt;p>&lt;a href="../../../author/atharva-rishi">Atharva Rishi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erin Szeto&lt;/p>
+&lt;p>&lt;a href="../../../author/erin-szeto">Erin Szeto&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaxin Liang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaxin-liang">Jiaxin Liang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kshitij Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/kshitij-gupta">Kshitij Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nghi Le&lt;/p>
+&lt;p>&lt;a href="../../../author/nghi-le">Nghi Le&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erica Xia&lt;/p>
+&lt;p>&lt;a href="../../../author/erica-xia">Erica Xia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2528,10 +2600,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaqi-liu">Jiaqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2550,10 +2622,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kevin Tsang&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaqi Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaqi-liu">Jiaqi Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2563,24 +2635,28 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1VqiPWIAd8En19Yh1PZwBY_3uhtIDOEex/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Text Analysis, Social Networks and Crowdsourcing</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/308/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/308/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The purpose of this project is to analyze a crowdsourcing setting for both the sentiment and other categories of meaning in the text, and the roles and impact of a network of contributors on the votes and potentially on the content.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Dan Peng&lt;/p>
+&lt;p>&lt;a href="../../../author/dan-peng">Dan Peng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gitanjali Kanakaraj&lt;/p>
+&lt;p>&lt;a href="../../../author/gitanjali-kanakaraj">Gitanjali Kanakaraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hanieh Arabzadehghahyazi&lt;/p>
+&lt;p>&lt;a href="../../../author/hanieh-arabzadehghahyazi">Hanieh Arabzadehghahyazi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Naiya Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/naiya-shah">Naiya Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nana Andriana&lt;/p>
+&lt;p>&lt;a href="../../../author/nana-andriana">Nana Andriana&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2596,24 +2672,28 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Text Analysis&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>The aging individual brain</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/203/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/203/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Deep learning models are now able to predict how an individual’s face will age in a very realistic manner — ensuring key individual features, for example eye color, are maintained, while more age related features, such as the texture of skin, are altered to be representative of a desired age group. However, little work has been done to try and predict how an individual’s brain will age. Such models may be able to help predict early signatures of neurodegenerative disorders. The goal of this project will be to test several models to realistically predict how a given individual’s brain will look at any age in mid to late adulthood. Either or both deep learning based and image processing based methods would be encouraged. Students will work with a dataset of over 20,000 brain scans of individuals aged 45-80, approximately 1000 of whom have a scan again after two years. This is currently an active project in the lab and students will join researchers already working on this problem to further explore and improve methodology.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aleck Cervantes&lt;/p>
+&lt;p>&lt;a href="../../../author/aleck-cervantes">Aleck Cervantes&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>David Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/david-lin">David Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shunlin Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/shunlin-lu">Shunlin Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tianyu Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/tianyu-zhu">Tianyu Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yichao Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/yichao-zhu">Yichao Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2640,13 +2720,13 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiaying Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/jiaying-wang">Jiaying Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2659,22 +2739,26 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Knowledge Graphs&lt;/li>
 &lt;li>Machine Learning&lt;/li>
 &lt;li>Sklearn&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1PPJju0B0EbdnZcLuSrZjDE4SHT_8mZHd/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Tracking health and nutrition signals from social media data</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/214/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Instagram and Foursquare. We will investigate the quality of Instagram posts as a source of data for measurements of dietary patterns and nutrition quality, focusing on spatial, textual, and (&lt;em>new in this semester&lt;/em>) image content of posts linked to food outlets in Los Angeles, as well as nutritional content analysis of menus available online. Multiple aims will be investigated in this project, including: scraping data from social media; NLP of tag, comments, and menu data; image analysis; predictive models and social network analysis; and more. Also new in this semester: “ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from Instagram posts.&lt;/p>
 &lt;p>The project will build on the DataFest 2019 project, and will expand the scope to actually access up-to-date data from Instagram, in particular: data with images, the underlying social connections / social network, and of course more timely (which requires data scraping).&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-karpurapu">Abhilash Karpurapu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erica Xia&lt;/p>
+&lt;p>&lt;a href="../../../author/erica-xia">Erica Xia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Iris Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/iris-liu">Iris Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;p>&lt;a href="../../../author/spoorti-nidagundi">Spoorti Nidagundi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2712,16 +2796,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Abhilash Karpurapu&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-karpurapu">Abhilash Karpurapu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Erica Xia&lt;/p>
+&lt;p>&lt;a href="../../../author/erica-xia">Erica Xia&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Iris Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/iris-liu">Iris Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Spoorti Nidagundi&lt;/p>
+&lt;p>&lt;a href="../../../author/spoorti-nidagundi">Spoorti Nidagundi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2749,6 +2833,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Social Network Analysis&lt;/li>
 &lt;li>Sentiment Analysis&lt;/li>
 &lt;li>Image Analysis&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1JL_7V4M3pyrxM48YQt3m-E-MgTgvE4s4/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Turning Library Collections into Data Science Challenges and Resources</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Libraries, museums, and archives hold unique collections that may be very useful for data science. These collections include photographs, videos, letters, and other artifacts that could give unique insights when analyzed. In this project, students will work with the USC Libraries to identify existing collections that would be potentially interesting as targets for data science, describe those collections in collaboration with the USC Libraries so they can be promoted as data science resources, and create APIs and other access mechanisms for data science researchers on campus and beyond.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -2758,22 +2846,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Chaitra Mudradi&lt;/p>
+&lt;p>&lt;a href="../../../author/chaitra-mudradi">Chaitra Mudradi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Feilong Wu&lt;/p>
+&lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Hsing-Hsien Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/hsinghsien-wang">Hsing-Hsien Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Maria MacHarrie&lt;/p>
+&lt;p>&lt;a href="../../../author/maria-macharrie">Maria MacHarrie&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubhankar Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/shubhankar-singh">Shubhankar Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yangtao Hu&lt;/p>
+&lt;p>&lt;a href="../../../author/yangtao-hu">Yangtao Hu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2793,16 +2881,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Muhammad Oneeb Ul Haq Khan&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Adwaita Jadhav&lt;/p>
+&lt;p>&lt;a href="../../../author/adwaita-jadhav">Adwaita Jadhav&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Rosy Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/rosy-zhou">Rosy Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yuka Kaku&lt;/p>
+&lt;p>&lt;a href="../../../author/yuka-kaku">Yuka Kaku&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2837,16 +2925,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aditi Singh&lt;/p>
+&lt;p>&lt;a href="../../../author/aditi-singh">Aditi Singh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Madeleine Thompson&lt;/p>
+&lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Malika Seth&lt;/p>
+&lt;p>&lt;a href="../../../author/malika-seth">Malika Seth&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Asumi Suguro&lt;/p>
+&lt;p>&lt;a href="../../../author/asumi-suguro">Asumi Suguro&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2862,10 +2950,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Mansi Ganatra&lt;/p>
+&lt;p>&lt;a href="../../../author/mansi-ganatra">Mansi Ganatra&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Saatvik Tikoo&lt;/p>
+&lt;p>&lt;a href="../../../author/saatvik-tikoo">Saatvik Tikoo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2880,7 +2968,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project created an electronic notebook using R and R studio for environmental sciences curriculum. The notebook will be used for undergraduate students to teach advanced statistical analysis about population health in Fall 2019.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Huy Nghiem&lt;/li>
+&lt;li>&lt;a href="../../../author/huy-nghiem">Huy Nghiem&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -2894,7 +2982,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project focused on a causality analysis of paleoclimate time series using Pyleoclim, which is a Python package geared towards the analysis and visualization of paleoclimate data. Future work includes exploring and testing additional algorithms for time series analysis.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Han Wu&lt;/li>
+&lt;li>&lt;a href="../../../author/han-wu">Han Wu&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -2908,13 +2996,13 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruiyu Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/ruiyu-zhao">Ruiyu Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xingyu Wei&lt;/p>
+&lt;p>&lt;a href="../../../author/xingyu-wei">Xingyu Wei&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tieming Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/tieming-sun">Tieming Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2931,19 +3019,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Feng Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/feng-zhu">Feng Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Myron Kwan&lt;/p>
+&lt;p>&lt;a href="../../../author/myron-kwan">Myron Kwan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shilpa Thomas&lt;/p>
+&lt;p>&lt;a href="../../../author/shilpa-thomas">Shilpa Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikhil Dhara Venkata&lt;/p>
+&lt;p>&lt;a href="../../../author/nikhil-dharavenkata">Nikhil Dhara Venkata&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Deepanshu Madan&lt;/p>
+&lt;p>&lt;a href="../../../author/deepanshu-madan">Deepanshu Madan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2958,19 +3046,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project studied behavioral patterns by analyzing data from personal senses collected from 60 subjects. This data can be used to predict activities and infer people’s lifestyle and habits.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Ian Myoungsu Choi&lt;/li>
+&lt;li>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Building an open catalog of integrated datasets for Los Angeles</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many open data efforts have managed to successfully expose public data in the web, it is often complicated to determine how these records can be integrated with each other (due to heterogeneous ids, not clear how to place them into a map, etc.). In this project, the student will leverage the novel techniques for integrating, registering and connecting datasets with overlapping elements. The results will be visualized by the student using interactive maps.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Anjana Niranjan&lt;/p>
+&lt;p>&lt;a href="../../../author/anjana-niranjan">Anjana Niranjan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kushagra Singh Sachan&lt;/p>
+&lt;p>&lt;a href="../../../author/kushagra-singhsachan">Kushagra Singh Sachan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chi Sheng Yang&lt;/p>
+&lt;p>&lt;a href="../../../author/chi-shengyang">Chi Sheng Yang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2995,7 +3083,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Documenting how a result was obtained from data analysis involves documenting the software, software settings, and datasets used to obtain that result so it can be explained properly. This project will design and develop a user interface for specifying provenance records using W3C standards. The interface will enable users to document the provenance of data analysis no matter what infrastructure they used (R scripts, sk-learn, etc).&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Rahul Jeswani&lt;/li>
+&lt;li>&lt;a href="../../../author/rahul-jeswani">Rahul Jeswani&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -3010,16 +3098,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Vedant Diwanji&lt;/p>
+&lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Li Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yili-chen">Yi-Li Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Andrew Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/andrew-zhao">Andrew Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Haripriya Dharmala&lt;/p>
+&lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3036,10 +3124,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Giorgos Constantinou&lt;/p>
+&lt;p>&lt;a href="../../../author/giorgos-constantinou">Giorgos Constantinou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>John Cutone&lt;/p>
+&lt;p>&lt;a href="../../../author/john-cutone">John Cutone&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3055,22 +3143,22 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yang Dai&lt;/p>
+&lt;p>&lt;a href="../../../author/yang-dai">Yang Dai&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zixuan Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/zixuan-zhang">Zixuan Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Parul Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/parul-gupta">Parul Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yu Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/yu-wang">Yu Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanjiv Soni&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjiv-soni">Sanjiv Soni&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shenoy Pratik Gurudatt&lt;/p>
+&lt;p>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3086,19 +3174,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yuxuan Ji&lt;/p>
+&lt;p>&lt;a href="../../../author/yuxuan-ji">Yuxuan Ji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zhifeng Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/zhifeng-liu">Zhifeng Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ashka Patel&lt;/p>
+&lt;p>&lt;a href="../../../author/ashka-patel">Ashka Patel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Aditi Choudhary&lt;/p>
+&lt;p>&lt;a href="../../../author/aditi-choudhary">Aditi Choudhary&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shelly Mehta&lt;/p>
+&lt;p>&lt;a href="../../../author/shelly-mehta">Shelly Mehta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3117,7 +3205,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Shenoy Pratik Gurudatt&lt;/li>
+&lt;li>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -3130,29 +3218,37 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Mengqi presented her study about thermal control using Excel, Minitab, and Python for data analysis. She collected data in a lab setting and tried two models, a group model and an individual model. She found that a group model, which consisted of 20 subjects, did not work well, while individual models gave better results.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Mengqi Jia&lt;/li>
+&lt;li>&lt;a href="../../../author/mengqi-jia">Mengqi Jia&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx?dl=0" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Foster Care Children: Administrative Data and Computational Methods</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/506/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/506/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project is using population-based administrative data, including birth, medical, and education records to study child welfare services. The research topics include: a family-level analysis of first births and sibling re-reports in the foster care system; identifying mothers who gave subsequent birth after the termination of parental rights; modeling the child protective services system using Markov models; and predicting risks for aging youth.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Eunhye Ahn&lt;/li>
+&lt;li>&lt;a href="../../../author/eunhye-ahn">Eunhye Ahn&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/emily-putnamhornstein">Emily Putnam-Hornstein&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1rbJu4no7acBdfUCv3zP5wvjdG04vlhh70eFOCzHomkg/edit?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Game Data and Social Capital</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/503/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Natalie and Calvin look at social capital from two angles: social capital as a predictor and social capital as an outcome. First, they want to observe whether people who display social capital exhibit certain characteristics or behavior. Second, they want to study if people who are interested in a specific topic will exhibit certain types of social capital.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Natalie Jonckheere&lt;/p>
+&lt;p>&lt;a href="../../../author/natalie-jonckheere">Natalie Jonckheere&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Calvin Liu&lt;/p>
+&lt;p>&lt;a href="../../../author/calvin-liu">Calvin Liu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3162,7 +3258,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>In this research, we aim to model how human players make connection decisions in an online game where players are free to add or delete a friend, as well as join a clan.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Yiley Zeng&lt;/li>
+&lt;li>&lt;a href="../../../author/yiley-zeng">Yiley Zeng&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -3176,11 +3272,15 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Lingkai collected data in a controlled setting and studied lighting control in buildings for visual comfort. For data preprocessing, he used Excel and MathWorks; for data analysis, he used Python and Scikit learn.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Lingkai Cen&lt;/li>
+&lt;li>&lt;a href="../../../author/lingkai-cen">Lingkai Cen&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dropbox.com/s/krllixhcdt8nacc/4.26_Lingkai_Cen.pptx?dl=0" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Measuring Pollution Benefits from Congestion Pricing Initiatives</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/419/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Using real-time big data from Los Angeles freeways on traffic and Aclima data on pollution measurements, this project will estimate the links between speed and pollution. Estimating this relationship properly is crucial for knowing the benefits that congestion pricing may generate in terms of pollution reduction. Computer Science methods will be used to guide the choice of policy intervention and guide prediction.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3200,19 +3300,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Divyatmika Lnu&lt;/p>
+&lt;p>&lt;a href="../../../author/divyatmika-lnu">Divyatmika Lnu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shagun Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/shagun-gupta">Shagun Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nina Thiebaut&lt;/p>
+&lt;p>&lt;a href="../../../author/nina-thiebaut">Nina Thiebaut&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nisha Tiwari&lt;/p>
+&lt;p>&lt;a href="../../../author/nisha-tiwari">Nisha Tiwari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ian Choi&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-choi">Ian Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3240,19 +3340,19 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Justin Ho&lt;/p>
+&lt;p>&lt;a href="../../../author/justin-ho">Justin Ho&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sankareswari Govindarajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sankareswari-govindarajan">Sankareswari Govindarajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Kevin Tran&lt;/p>
+&lt;p>&lt;a href="../../../author/kevin-tran">Kevin Tran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yi-Hsin Chung&lt;/p>
+&lt;p>&lt;a href="../../../author/yihsin-chung">Yi-Hsin Chung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sangeeth Koratten&lt;/p>
+&lt;p>&lt;a href="../../../author/sangeeth-koratten">Sangeeth Koratten&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3284,10 +3384,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Shravya Manety&lt;/p>
+&lt;p>&lt;a href="../../../author/shravya-manety">Shravya Manety&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhilash Pandurangan&lt;/p>
+&lt;p>&lt;a href="../../../author/abhilash-pandurangan">Abhilash Pandurangan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3301,11 +3401,15 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Even when engaging in a multiplayer online game, some players play by themselves. Do Own is interested in investigating personality, motivation, and behavioral patterns of social network isolates.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Do Own (Donna) Kim&lt;/li>
+&lt;li>&lt;a href="../../../author/do-owndonnakim">Do Own (Donna) Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1dI4Q65xrjIUt_OsHStoXI6CzoEOe45g4cjmQWxBQZXA/edit?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Overview of Multiplayer Games Dataset</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/501/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Online multiplayer games provide a wealth of data that can be used to study human behaviors. Professor Williams describes the kinds of questions that can be investigated with rich datasets of online game player actions, interactions, and targeted survey questions. Students in his group focused on a wide range of projects that use this data to study a range of human behaviors.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3316,16 +3420,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Yihang Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/yihang-chen">Yihang Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Lisa Meng&lt;/p>
+&lt;p>&lt;a href="../../../author/lisa-meng">Lisa Meng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chiaofeng Yang&lt;/p>
+&lt;p>&lt;a href="../../../author/chiaofeng-yang">Chiaofeng Yang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nelson Lam&lt;/p>
+&lt;p>&lt;a href="../../../author/nelson-lam">Nelson Lam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3353,16 +3457,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Wei-Fan Chen&lt;/p>
+&lt;p>&lt;a href="../../../author/weifan-chen">Wei-Fan Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sameeksha Mahajan&lt;/p>
+&lt;p>&lt;a href="../../../author/sameeksha-mahajan">Sameeksha Mahajan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Zijing Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/zijing-zhang">Zijing Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Pratheek Athreya&lt;/p>
+&lt;p>&lt;a href="../../../author/pratheek-athreya">Pratheek Athreya&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3386,13 +3490,13 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Manoj Muralidhara&lt;/p>
+&lt;p>&lt;a href="../../../author/manoj-muralidhara">Manoj Muralidhara&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shubham Banka&lt;/p>
+&lt;p>&lt;a href="../../../author/shubham-banka">Shubham Banka&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Gaurav Gupta&lt;/p>
+&lt;p>&lt;a href="../../../author/gaurav-gupta">Gaurav Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3415,16 +3519,16 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Junchu Zhang&lt;/p>
+&lt;p>&lt;a href="../../../author/junchu-zhang">Junchu Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Himan Kriplani&lt;/p>
+&lt;p>&lt;a href="../../../author/himan-kriplani">Himan Kriplani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shatad Purohit&lt;/p>
+&lt;p>&lt;a href="../../../author/shatad-purohit">Shatad Purohit&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jinney Guo&lt;/p>
+&lt;p>&lt;a href="../../../author/jinney-guo">Jinney Guo&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3443,7 +3547,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project explores the influence of the personality of game players who become mentors on mentoring outcomes using machine learning. The project will use survey data to analyze mentors’ extraversion and agreeableness as well as mentees’ game performance and churn rates.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>Joo-Wha Hong&lt;/li>
+&lt;li>&lt;a href="../../../author/joowha-hong">Joo-Wha Hong&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -3453,10 +3557,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Qiyao (Joyce) Peng&lt;/p>
+&lt;p>&lt;a href="../../../author/qiyao-joycepeng">Qiyao (Joyce) Peng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Alejandro Marin&lt;/p>
+&lt;p>&lt;a href="../../../author/alejandro-marin">Alejandro Marin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

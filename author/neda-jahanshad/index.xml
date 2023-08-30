@@ -15,19 +15,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kathy Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/kathy-wang">Kathy Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shayan Javid&lt;/p>
+&lt;p>&lt;a href="../../../author/shayan-javid">Shayan Javid&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinaav-ramesh">Abhinaav Ramesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineet Agarwal&lt;/p>
+&lt;p>&lt;a href="../../../author/vineet-agarwal">Vineet Agarwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahui Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahui-lu">Jiahui Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -40,21 +40,25 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;li>R&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>A Data Challenge for Parkinson’s Disease</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/301/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will assemble a team to participate in the Biomarker and Endpoint Assessment to Track Parkinson’s Disease (BEAT-PD) DREAM Challenge by the Michael J. Fox Foundation and Sage Bionetworks. The challenge is designed to benchmark new methods to predict Parkinson’s disease progression. Teams participating in the Challenge will have access to raw sensor data that can be used to predict individual medication state and symptom severity. Specifically, teams are asked to develop methods to predict on/off medication status, dyskinesia severity, and/or tremor severity.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Nazgol Tavabi&lt;/p>
+&lt;p>&lt;a href="../../../author/nazgol-tavabi">Nazgol Tavabi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Che-Pai Kung&lt;/p>
+&lt;p>&lt;a href="../../../author/chepai-kung">Che-Pai Kung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhivineet Veeraghanta&lt;/p>
+&lt;p>&lt;a href="../../../author/abhivineet-veeraghanta">Abhivineet Veeraghanta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Likitha Lakshminarayanan&lt;/p>
+&lt;p>&lt;a href="../../../author/likitha-lakshminarayanan">Likitha Lakshminarayanan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -64,21 +68,25 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Data Science&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1pY10sNfzXdAmuiSFJomMNlRpiiXH3vzH/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Brain morphometry from contrast-enhanced T1-weighted brain MRIs</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/208/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/208/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Cancer remains the second leading cause of death in the US. However, recent advancements have increased cancer survivorship, now numbering tens of millions. Given this, there is tremendous interest in studying cancer-related cognitive impairment (CRCI) and CRCI due to chemotherapy or “chemobrain”, can afflict up to 78% of survivors. The neural substrates of CRCI are unknown and understanding this may improve survivors’ quality of life. The CRCI neuroimaging literature is still in its infancy and these studies have used small sample sizes from traditional research-dedicated nCE scans. Because conducting well-powered neuroimaging studies is very expensive, adapting clinical CE T1w scans could prove useful for CRCI and many other diseases like dementia. The promary objective of this project is to develop a novel deep learning method to generate nCE images from acquired CE T1w scans to allow accurate brain morphometry and be a plentiful source of inexpensive neuroimaging data.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ming Lyu&lt;/p>
+&lt;p>&lt;a href="../../../author/ming-lyu">Ming Lyu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Danielle Sim&lt;/p>
+&lt;p>&lt;a href="../../../author/danielle-sim">Danielle Sim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Devansh Shah&lt;/p>
+&lt;p>&lt;a href="../../../author/devansh-shah">Devansh Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ting Fung Lam&lt;/p>
+&lt;p>&lt;a href="../../../author/ting-funglam">Ting Fung Lam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -102,19 +110,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Aleck Cervantes&lt;/p>
+&lt;p>&lt;a href="../../../author/aleck-cervantes">Aleck Cervantes&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>David Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/david-lin">David Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shunlin Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/shunlin-lu">Shunlin Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tianyu Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/tianyu-zhu">Tianyu Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Yichao Zhu&lt;/p>
+&lt;p>&lt;a href="../../../author/yichao-zhu">Yichao Zhu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -136,13 +144,13 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Ruiyu Zhao&lt;/p>
+&lt;p>&lt;a href="../../../author/ruiyu-zhao">Ruiyu Zhao&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Xingyu Wei&lt;/p>
+&lt;p>&lt;a href="../../../author/xingyu-wei">Xingyu Wei&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Tieming Sun&lt;/p>
+&lt;p>&lt;a href="../../../author/tieming-sun">Tieming Sun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>

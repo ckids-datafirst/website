@@ -15,19 +15,19 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Kathy Wang&lt;/p>
+&lt;p>&lt;a href="../../../author/kathy-wang">Kathy Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Shayan Javid&lt;/p>
+&lt;p>&lt;a href="../../../author/shayan-javid">Shayan Javid&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Abhinaav Ramesh&lt;/p>
+&lt;p>&lt;a href="../../../author/abhinaav-ramesh">Abhinaav Ramesh&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Vineet Agarwal&lt;/p>
+&lt;p>&lt;a href="../../../author/vineet-agarwal">Vineet Agarwal&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Jiahui Lu&lt;/p>
+&lt;p>&lt;a href="../../../author/jiahui-lu">Jiahui Lu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -40,6 +40,10 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;li>R&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -49,22 +53,22 @@
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Lili Zhou&lt;/p>
+&lt;p>&lt;a href="../../../author/lili-zhou">Lili Zhou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Nikita Goel&lt;/p>
+&lt;p>&lt;a href="../../../author/nikita-goel">Nikita Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Chanda&lt;/p>
+&lt;p>&lt;a href="../../../author/chanda-">Chanda&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Sanjeev Kadagathur Vadiraj&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjeev-kadagathurvadiraj">Sanjeev Kadagathur Vadiraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Audrey Lin&lt;/p>
+&lt;p>&lt;a href="../../../author/audrey-lin">Audrey Lin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Wenjia Dou&lt;/p>
+&lt;p>&lt;a href="../../../author/wenjia-dou">Wenjia Dou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
