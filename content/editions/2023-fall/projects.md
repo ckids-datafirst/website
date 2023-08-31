@@ -6,7 +6,7 @@ design: !!python/object:datafest_archive.models.website.pages.DesignProject
   columns: '2'
   view: card
 headless: true
-subtitle: 17 projects
+subtitle: 18 projects
 title: Fall 2023 Projects
 type: landing
 widget: markdown
@@ -48,4 +48,6 @@ widget: markdown
 * [Natural language processing of safety reports  in nuclear power plants](../../projects/2023-fall/826)
 
 * [Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety](../../projects/2023-fall/827)
+
+* [AI Ethics for Smart Health through Smart Watches](../../projects/2023-fall/828)
 

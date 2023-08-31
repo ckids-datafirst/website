@@ -23,6 +23,7 @@ user_groups:
 - Advisor (Spring 2020)
 - Advisor (Fall 2019)
 - Advisor (Spring 2023)
+- Advisor (Fall 2023)
 ---
 
 ## Previous involvement
@@ -30,6 +31,7 @@ user_groups:
 * Fall 2019
 * Fall 2020
 * Fall 2021
+* Fall 2023
 * Spring 2020
 * Spring 2021
 * Spring 2023
