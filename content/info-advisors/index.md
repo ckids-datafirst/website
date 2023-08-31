@@ -77,17 +77,4 @@ sections:
         | Student assignments    | Saturday, September 9, 2023|
         | Midterm presentation   | Wednesday, October 18, 2023|
         | Final presentation     | Friday, December 1, 2023   |
-
-  - block: hero
-    id: keep-in-touch
-    content:
-      title: |
-        Keep in touch
-      text: |
-        We welcome faculty, students, researchers, and everyone in the Trojan family to participate in DataFirst. Please signup for our mailing list or contact us with any questions!
-      cta:
-        url: "https://mymaillists.usc.edu/sympa/subscribe/ckidsmail-l"
-        label: Subscribe to our mailing list
-        icon_pack: fas
-        icon: envelope
 ---
