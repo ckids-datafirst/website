@@ -7,7 +7,20 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>NEO4j or Python&lt;/li>
-&lt;/ul></description></item><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Crowdsourcing, knowledge graphs and text analysis&lt;/p></description></item><item><title>AI Ethics for Smart Health through Smart Watches</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/828/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/828/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Lots of personal data can be obtained from wearable devices such as smart watches. This data can be used to improve health, for example to learn to detect health problems and to check whether people adhere to doctor’s exercise recommendations. This project will conduct a thorough study of the ethical issues in using AI systems in this domain, with recommendations of how AI systems for smart health should be designed with ethical considerations in mind.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Interest in healthcare and data science.&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>What kinds of health-related data can be captured through wearable devices, what kinds of analyses are possible, privacy and ethical aspects of personal applications for smart health.&lt;/p></description></item><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Highly accurate fault detection in foundry produced microelectronics is crucial to ensuring quality of devices that leave the foundry. However, current defect detection flows are human-centric, which produces a bottleneck. The objective of this project is to leverage recent advances in AI/ML to develop automated techniques that can 1) identify manufacturing defects in microelectronics using imagery collected at the foundry, and 2) determine whether the identified defect will impact the performance of the manufactured component.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -18,7 +31,9 @@
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch or TensorFlow&lt;/li>
 &lt;li>image analysis&lt;/li>
-&lt;/ul></description></item><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Students will learn about manufacturing defect detection algorithms, machine learning techniques, and microelectronics fabrication.&lt;/p></description></item><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source runs a lot of the world's critical software systems, but there is much that's unknown in how maintainers, developers and other parts of the software ecosystem function. Help us analyze a large corpus of open source data — both source code and patch conversations — to better understand them! We'll study things like rise to influence, authorship styles, malware analysis, topic modeling and social network analysis!&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -30,7 +45,9 @@
 &lt;li>experience with LLMs/OpenAI APIs&lt;/li>
 &lt;li>program analysis&lt;/li>
 &lt;li>C code (preferred - but not necessary!)&lt;/li>
-&lt;/ul></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to understand root-causes of one of the serious aviation safety problem in the US - runway incursions. The Aviation Safety Reporting Systems, which is administered by the NASA and is an untapped treasure trove of textual data, will be used for this project.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -39,7 +56,9 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>AI/ML/NLP and associated skills.&lt;/li>
-&lt;/ul></description></item><item><title>Assessing the California Public Sector Job Market</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/817/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/817/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Using AI/ML/NLP and working on the data from a major global industry - aviation.&lt;/p></description></item><item><title>Assessing the California Public Sector Job Market</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/817/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/817/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Public sector institutions at local, state, and federal levels are facing an unprecedented hiring crisis in competition for new talent. Yet there is no systematic understanding of the needs and openings across these levels of government to inform stakeholders such as universities, community colleges, and high schools on the current and emerging hiring trends in what constitutes approximately 15-20% of the entire labor market. In this project, students will develop algorithms that continuously scrap relevant job sites used by these governments to assess both developed and emerging hiring trends by aptitudes, professions, entry-levels, mobility, location, and other important attributes. In so doing, the project will inform researchers in public policy, public administration, political science, and labor economics as well as practitioners in government and associated stakeholders.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -50,7 +69,9 @@
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
 &lt;li>R or Stata&lt;/li>
-&lt;/ul></description></item><item><title>Automated question type coding of forensic interviews</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Students will learn how to develop and organize labor market data to be used by practitioners and researchers through the construction of portal that can ably transform data into usable aggregated statistics and graphs.&lt;/p></description></item><item><title>Automated question type coding of forensic interviews</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Question type coding is used in research on forensic interviewing to distinguish between best practice open-ended questions, and closed-ended and leading questions that interviewers are trained to avoid. Most research teams in the field rely on a time-consuming and labor-intensive method of question type coding whereby a researcher codes every question in the interview, and a second researcher codes a subset to demonstrate inter-rater reliability. We are currently working with a graduate of the Masters in Computer Science program at USC on a project exploring automated question type coding of forensic interviews with victims of child abuse. In collaboration with the student, we have trained a large language model (RoBERTa) to distinguish between question types based on a rudimentary classification system. In the next stage of the project, we are aiming to finetune the model and use zero shot and few shot prompting to make distinctions for which there is limited manually-coded data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -59,7 +80,9 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python and/or R&lt;/li>
-&lt;/ul></description></item><item><title>Bad Writing is "Fine": Tuning an LLM to Suggest Improvements</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/823/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/823/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Students will learn to train and finetune large language models&lt;/p></description></item><item><title>Bad Writing is "Fine": Tuning an LLM to Suggest Improvements</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/823/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/823/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Prototype an approach to fine-tune a large language model (LLM) to help diagnose areas to improve a specific writing product. For example, scientific papers require consistent language but in creative writing variety matters. Proposed steps are:&lt;/p>
 &lt;ol>
 &lt;li>Writing Product: Coordinate with project mentors to choose a common and important writing product, such as a position paper or an academic conference. Identify/gather a rubric and a corpus.&lt;/li>
@@ -75,7 +98,9 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
-&lt;/ul></description></item><item><title>Build a multilingual decipherment system</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/825/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/825/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Generative AI for large language models. Generating synthetic data for a rubric. Fine tuning a large language model, likely using CARC (the on campus computing cluster). Understanding intelligent tutoring system design fundamentals for modeling how experts diagnose issues from novices.&lt;/p></description></item><item><title>Build a multilingual decipherment system</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/825/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/825/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>We will build a working system that can decipher a letter substitution cipher into 14 languages and beyond, based on &lt;a href="https://aclanthology.org/2021.acl-long.561/" target="_blank" rel="noopener">https://aclanthology.org/2021.acl-long.561/&lt;/a> then apply it to languages it has never seen&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -85,7 +110,9 @@
 &lt;ul>
 &lt;li>python&lt;/li>
 &lt;li>deep learning with transformers&lt;/li>
-&lt;/ul></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>read and understand an NLP paper, unusual applications of transformers, reproduction study&lt;/p></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source sports data such as the nflverse has lead to a massive increase in public sports analytics. But it's still hard to process, subset, visualize and analyze this data. This project will build a general-purpose analysis platform and dashboard, similar to what many teams use internally. Using the nflfastr data, this platform will allow interested individuals to select the play parameters they're interested in, and will provide relevant analysis, visualization and insight. Ideally, we'll set up the dashboard on the internet, and open source the project, allowing others to expand the available datasets, analyses and visualizations.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -97,7 +124,9 @@
 &lt;li>streamlit&lt;/li>
 &lt;li>dash&lt;/li>
 &lt;li>etc. is a bonus!)&lt;/li>
-&lt;/ul></description></item><item><title>Does Municipal Broadband Deliver as Promised? An examination of broadband pricing and household adoption in areas served by muni networks.</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>How to analyze and present insights from NFL play-by-play data&lt;/p></description></item><item><title>Does Municipal Broadband Deliver as Promised? An examination of broadband pricing and household adoption in areas served by muni networks.</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Broadband networks owned and/or operated by local governments (&amp;quot;muni networks&amp;quot;) are increasingly seen as a key tool to close the digital divide in Internet availability and adoption. There is however only anecdotal evidence about whether muni networks deliver on the promise of more affordable broadband in communities of little interest to traditional ISPs - typically disadvantaged communities. Taking advantage of the greater level of resolution in the new FCC broadband availability maps, this project will examine broadband pricing and adoption at the address level in areas served by muni networks, using a matched sample of comparable areas as a reference point. The goal of the project is to empirically assert whether muni networks are delivering on the promise of more affordable services, and whether this results in more household adoption than expected. The project is a component of an ongoing collaboration with digital equity advocacy organizations.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -107,7 +136,9 @@
 &lt;ul>
 &lt;li>Data scraping (Python)&lt;/li>
 &lt;li>statistics and basic GIS skills&lt;/li>
-&lt;/ul></description></item><item><title>Federated Learning for Neuroscience</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/822/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/822/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Students will have the opportunity to apply data scraping, organization and analysis skills in the context of policy analysis&lt;/p></description></item><item><title>Federated Learning for Neuroscience</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/822/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/822/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Federated learning is an approach to distributed deep learning without sharing data. Multiple site train a neural network over private data. The parameters of the neural network are shared with a federation controller, but they are encrypted before sharing. Model aggregation is performed under fully homomorphic encryption. We propose to apply federated learning to several problems in neuroscience, such as predicting Alzheimer's, Parkinson's, epilepsy, and autism, possibly over multimodal data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -118,7 +149,9 @@
 &lt;li>Python&lt;/li>
 &lt;li>Tensorflow&lt;/li>
 &lt;li>deep learning&lt;/li>
-&lt;/ul></description></item><item><title>Learning and forgetting in neural networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/811/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/811/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Federated learning, machine learning for biomedical applications.&lt;/p></description></item><item><title>Learning and forgetting in neural networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/811/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/811/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>In this project, you will examine the mechanism responsible for forgetting previous tasks in artificial neural networks. You will study how those mechanisms shape the behavior of neural network learning from heterogeneous data distributions. You will investigate how new information is stored in neural networks by plotting and interpreting the neuron activation patterns. You will also compare different learning schemas, and you will examine how they influence the final loss function landscape.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -128,7 +161,9 @@
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>TensorFlow or PyTorch&lt;/li>
-&lt;/ul></description></item><item><title>Natural language processing of safety reports in nuclear power plants</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/826/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/826/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>How the information is stored in neural networks. How neural networks can forget how to perform previously mastered tasks. How to interpret neural networks (by examining the neuron activation patterns). How to conduct scientific experiments (in the domain of machine learning). How to present and visualize scientific data.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear power plants</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/826/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/826/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project, which will be co-advised by Dr. Yolanda Gil, will use Natural Language Processing (NLP) techniques to analyze voluminous Diablo Canyon Independent Safety Committee (DCISC) annual reports to identify the role and contribution of &amp;quot;Traits of a Healthy Nuclear Safety Culture&amp;quot;, as defined by the Nuclear Regulatory Commission and the Institute of Nuclear Power Operations, in incident causation.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -137,7 +172,9 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Natural language Processing and related skills.&lt;/li>
-&lt;/ul></description></item><item><title>Pyleoclim: A Python Package for the Analysis of Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Application of NLP in real-world, working on very serious and important issues with global applications, which can be generalized and applied to other safety-sensitive technologies.&lt;/p></description></item><item><title>Pyleoclim: A Python Package for the Analysis of Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Paleoclimate timeseries data are crucial to understand how climate has changed in the past. A major aspect of this work falls under exploratory analysis, and in particular, visualization. Pyleoclim contains many functionalities for timeseries analysis of paleoclimate data and has already been used in teaching and research settings. In the coming months, we are expanding several functionalities of the package to address growing community need: outlier detection, automated visualizations, automated checks for the validity of datasets loaded into the package. In addition, these new functionalities will be integrated into tutorials distributed through a Jupyter Book.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -149,7 +186,9 @@
 &lt;li>numpy&lt;/li>
 &lt;li>matplotlib&lt;/li>
 &lt;li>seaborn. GitHub knowledge preferred but not necessary&lt;/li>
-&lt;/ul></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>When it comes to classification tasks, many previous work has tried to design larger and more complex neural networks. Recently, the line of data-centric AI has worked on shifting the focus to the quality of the train data. This shift arises from the recognition that the annotations associated with dataset instances can exhibit both noise, stemming from vague instructions or human errors, and bias, arising from differing perspectives among annotators in response to given prompts.
 In this project, our objective is to bridge the gap between the two lines of research: one dedicated to identifying noisy instances and the other striving to account for the diverse perspectives of annotators. Specifically, we will delve into the domain of offensive text detection datasets, a highly subjective task. Our investigation will center on whether perspectivist classification models have effectively harnessed valuable information from instances flagged as noisy by noise-detection techniques.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -161,7 +200,9 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch&lt;/li>
 &lt;li>Fine-tuning language models in Huggingface package&lt;/li>
-&lt;/ul></description></item><item><title>Urban Futures Data Core</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/814/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/814/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>The student will learn the importance of individual instances and individual annotations in training the classification models. Each of these datapoints can introduce either useful signal or noise to the model and the student will learn to recognize the difference.&lt;/p></description></item><item><title>Urban Futures Data Core</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/814/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/814/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Cities are the focal point of economic, social, and environmental challenges and opportunities. To establish USC as a thought leader and partner of choice to tackle the challenges of the urban future, the USC Sol Price School of Public Policy and the USC Marshall School of Business propose establishing an Urban Futures Data Core to serve as a university-wide hub for data analysis and dissemination. Students working on this project will work with all faculty at Price and Marshall to catalogue the publicly available, restricted-use, and self-collected datasets that USC researchers have previously used. They will then create a secure website to track each data source and its data use agreements, dates of availability, and geographic level of granularity. After a data website is constructed, students will have the opportunity to assist with creating geographic visualizations of key indices related to urban futures.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -171,7 +212,9 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>web design&lt;/li>
 &lt;li>python&lt;/li>
-&lt;/ul></description></item><item><title>Utilizing AI Generated Images for Object Detection and Classification</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/812/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/812/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>The students will learn about all data sources used in public policy and business, data management, and web design.&lt;/p></description></item><item><title>Utilizing AI Generated Images for Object Detection and Classification</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/812/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/812/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Developing image-based object detection and classification models requires significant time, resources, and effort. Especially, acquiring a good training dataset is essential. However, there are some cases when it is very hard to get quality data such as rare cases (e.g., disasters) or expensive cases to get (e.g., faraway places). Due to the development of generative AI, we might produce synthetic images to enhance the quality of dataset by filling up missing images with them. Based on our prior work in object detection and classification for smart city applications, we would like to explore the potential of AI generated images for an enhanced object detection and classification.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -183,4 +226,6 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Some knowledge in image machine learning&lt;/li>
 &lt;li>Knowing existing methods such as Yolo is desirable&lt;/li>
 &lt;li>Imagination!!!&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Image machine learning, object detection&lt;/p></description></item></channel></rss>

@@ -10,7 +10,9 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>PyTorch&lt;/li>
 &lt;li>Fine-tuning language models in Huggingface package&lt;/li>
-&lt;/ul></description></item><item><title>Connections within Contemporary Feminism Movements</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>The student will learn the importance of individual instances and individual annotations in training the classification models. Each of these datapoints can introduce either useful signal or noise to the model and the student will learn to recognize the difference.&lt;/p></description></item><item><title>Connections within Contemporary Feminism Movements</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/305/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will look at events data collected at several recent feminist social movements and understand their connection to each other. Specifically, it will explore individuals or organizations that played instrumental role in movement mobilization, relationship brokerage between movements, and building and sustaining activist communities. Previous research suggests that those distinctive movements are often not isolated incidents, but mobilized by a core group of “leaders” or similar ideas and frames. The goal is to understand how seemingly disconnected movements relate to one another help to reveal the lasting impact of mediated movements.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>

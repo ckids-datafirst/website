@@ -10,7 +10,9 @@
 &lt;li>experience with LLMs/OpenAI APIs&lt;/li>
 &lt;li>program analysis&lt;/li>
 &lt;li>C code (preferred - but not necessary!)&lt;/li>
-&lt;/ul></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source sports data such as the nflverse has lead to a massive increase in public sports analytics. But it's still hard to process, subset, visualize and analyze this data. This project will build a general-purpose analysis platform and dashboard, similar to what many teams use internally. Using the nflfastr data, this platform will allow interested individuals to select the play parameters they're interested in, and will provide relevant analysis, visualization and insight. Ideally, we'll set up the dashboard on the internet, and open source the project, allowing others to expand the available datasets, analyses and visualizations.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -22,7 +24,9 @@
 &lt;li>streamlit&lt;/li>
 &lt;li>dash&lt;/li>
 &lt;li>etc. is a bonus!)&lt;/li>
-&lt;/ul></description></item><item><title>OSINT Social Networks on GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>How to analyze and present insights from NFL play-by-play data&lt;/p></description></item><item><title>OSINT Social Networks on GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. We’ll use the GitHub API and related tools to build networks to try to answer a number of interesting questions, such as “can you tell what software a company uses based on its employees networks?”, “do white hat hackers have social networks that look different than black hatters?” and others. If you’re interested in cybersecurity, OSINT, social networks, databases, APIs etc. then this is the project for you!&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
