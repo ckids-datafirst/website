@@ -44,3 +44,6 @@ Developing image-based object detection and classification models requires signi
 * Some knowledge in image machine learning
 * Knowing existing methods such as Yolo is desirable
 * Imagination!!!
+## What students will learn
+
+Image machine learning, object detection

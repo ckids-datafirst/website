@@ -20,7 +20,7 @@ sections:
       text: |
         This event is an opportunity for data science students to learn to work in teams with people who have different skills, to learn about different application domains, and to work on projects that can only be done with creative ideas.
 
-        Faculty members from across USC submitted 17 project proposals for this semester.
+        Faculty members from across USC submitted 18 project proposals for this semester.
 
         Come to our information session and hear from faculty mentors.
 

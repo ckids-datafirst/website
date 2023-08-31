@@ -40,3 +40,6 @@ Highly accurate fault detection in foundry produced microelectronics is crucial 
 * Python
 * PyTorch or TensorFlow
 * image analysis
+## What students will learn
+
+Students will learn about manufacturing defect detection algorithms, machine learning techniques, and microelectronics fabrication.

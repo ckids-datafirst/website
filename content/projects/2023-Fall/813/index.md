@@ -32,3 +32,6 @@ Build a knowledge graph of a crowdsourcing event.
 
 
 * NEO4j or Python
+## What students will learn
+
+Crowdsourcing, knowledge graphs and text analysis

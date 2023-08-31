@@ -47,3 +47,6 @@ Question type coding is used in research on forensic interviewing to distinguish
 
 
 * Python and/or R
+## What students will learn
+
+Students will learn to train and finetune large language models

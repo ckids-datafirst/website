@@ -45,3 +45,6 @@ Broadband networks owned and/or operated by local governments (&#34;muni network
 
 * Data scraping (Python)
 * statistics and basic GIS skills
+## What students will learn
+
+Students will have the opportunity to apply data scraping, organization and analysis skills in the context of policy analysis

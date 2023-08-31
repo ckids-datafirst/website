@@ -47,3 +47,6 @@ In this project, our objective is to bridge the gap between the two lines of res
 * Python
 * PyTorch
 * Fine-tuning language models in Huggingface package
+## What students will learn
+
+The student will learn the importance of individual instances and individual annotations in training the classification models. Each of these datapoints can introduce either useful signal or noise to the model and the student will learn to recognize the difference. 

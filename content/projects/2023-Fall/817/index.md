@@ -44,3 +44,6 @@ Public sector institutions at local, state, and federal levels are facing an unp
 * Python
 * Statistics
 * R or Stata
+## What students will learn
+
+Students will learn how to develop and organize labor market data to be used by practitioners and researchers through the construction of portal that can ably transform data into usable aggregated statistics and graphs.

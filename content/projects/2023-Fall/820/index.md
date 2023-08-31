@@ -42,3 +42,6 @@ Open source sports data such as the nflverse has lead to a massive increase in p
 * streamlit
 * dash
 * etc. is a bonus!)
+## What students will learn
+
+How to analyze and present insights from NFL play-by-play data

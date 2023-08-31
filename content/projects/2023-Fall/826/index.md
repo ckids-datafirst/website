@@ -36,3 +36,6 @@ This project, which will be co-advised by Dr. Yolanda Gil, will use Natural Lang
 
 
 * Natural language Processing and related skills.
+## What students will learn
+
+Application of NLP in real-world, working on very serious and important issues with global applications, which can be generalized and applied to other safety-sensitive technologies. 

@@ -37,3 +37,6 @@ This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to unde
 
 
 * AI/ML/NLP and associated skills.
+## What students will learn
+
+Using AI/ML/NLP and working on the data from a major global industry - aviation.

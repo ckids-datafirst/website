@@ -43,3 +43,6 @@ Paleoclimate timeseries data are crucial to understand how climate has changed i
 * numpy
 * matplotlib
 * seaborn. GitHub knowledge preferred but not necessary
+## What students will learn
+
+Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder. 

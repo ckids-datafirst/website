@@ -44,3 +44,6 @@ Cities are the focal point of economic, social, and environmental challenges and
 
 * web design
 * python
+## What students will learn
+
+The students will learn about all data sources used in public policy and business, data management, and web design.

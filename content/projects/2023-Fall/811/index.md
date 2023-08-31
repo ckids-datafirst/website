@@ -39,3 +39,6 @@ In this project, you will examine the mechanism responsible for forgetting previ
 
 * Python
 * TensorFlow or PyTorch
+## What students will learn
+
+How the information is stored in neural networks. How neural networks can forget how to perform previously mastered tasks. How to interpret neural networks (by examining the neuron activation patterns). How to conduct scientific experiments (in the domain of machine learning). How to present and visualize scientific data.

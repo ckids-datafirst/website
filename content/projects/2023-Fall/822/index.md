@@ -40,3 +40,6 @@ Federated learning is an approach to distributed deep learning without sharing d
 * Python
 * Tensorflow
 * deep learning
+## What students will learn
+
+Federated learning, machine learning for biomedical applications. 

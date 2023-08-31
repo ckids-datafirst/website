@@ -58,3 +58,6 @@ This project aligns with ongoing work with the USC Generative AI Center.
 
 
 * Python
+## What students will learn
+
+Generative AI for large language models. Generating synthetic data for a rubric. Fine tuning a large language model, likely using CARC (the on campus computing cluster). Understanding intelligent tutoring system design fundamentals for modeling how experts diagnose issues from novices.

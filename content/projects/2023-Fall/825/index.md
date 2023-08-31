@@ -35,3 +35,6 @@ We will build a working system that can decipher a letter substitution cipher in
 
 * python
 * deep learning with transformers
+## What students will learn
+
+read and understand an NLP paper, unusual applications of transformers, reproduction study

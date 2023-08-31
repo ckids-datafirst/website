@@ -40,3 +40,6 @@ Open source runs a lot of the world&#39;s critical software systems, but there i
 * experience with LLMs/OpenAI APIs
 * program analysis
 * C code (preferred - but not necessary!)
+## What students will learn
+
+We&#39;ll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills

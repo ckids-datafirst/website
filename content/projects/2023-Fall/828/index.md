@@ -37,3 +37,6 @@ Lots of personal data can be obtained from wearable devices such as smart watche
 
 
 * Interest in healthcare and data science.
+## What students will learn
+
+What kinds of health-related data can be captured through wearable devices, what kinds of analyses are possible, privacy and ethical aspects of personal applications for smart health.
