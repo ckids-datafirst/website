@@ -34,11 +34,11 @@ sections:
         - [Project descriptions](https://www.isi.edu/~ulf/teaching/DataFirstProjectsFall2023.html)
         - [Ask your questions on Piazza](https://piazza.com/usc/fall2023/dsci591/home) - [Sign up](https://piazza.com/usc/fall2023/dsci591)
 
-        - [Kickoff meetings materials](https://www.isi.edu/~ulf/DataFirstFall2023/index.html)
+        - [Kickoff meeting materials](https://www.isi.edu/~ulf/DataFirstFall2023/kickoff-resources.html)
 
       cta:
-        url: https://docs.google.com/forms/d/1fwzI5siGN7cuPajuMwLyMGqg5XEs_7MtX3IBdAutW1g/viewform
-        label: Apply for projects
+        url: https://www.isi.edu/~ulf/DataFirstFall2023/student-project-application-status.html
+        label: Student project application status
         icon_pack: fas
         icon: user-graduate
 
