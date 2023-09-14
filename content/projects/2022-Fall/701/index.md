@@ -5,7 +5,7 @@ authors:
 - Jooyoung Yoo
 - Vanshay Gupta
 - Ikenna Joe-Nweke
-- Seon Kim
+- Seon Ho Kim
 categories: &id001
 - Fall 2022
 - Ethics/Equity
@@ -63,7 +63,7 @@ Currently, data entries are manually identified, discovered and registered using
 
 ## Advisors
 
-* [Seon Kim](../../../author/seon-kim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
 ## Skills Required by the team
 

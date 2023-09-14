@@ -5,7 +5,7 @@ authors:
 - Utkarsh Baranwal
 - Carlos Zamora
 - Wonjun Lee
-- Seon Kim
+- Seon Ho Kim
 categories: &id001
 - Fall 2021
 - Environmental Sustainability
@@ -58,7 +58,7 @@ Developing models to analyze images is a demanding task that requires significan
 
 ## Advisors
 
-* [Seon Kim](../../../author/seon-kim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
 ## Final presentation resources
 

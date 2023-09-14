@@ -1,7 +1,7 @@
 ---
 !ProjectPage
 authors:
-- Seon Kim
+- Seon Ho Kim
 categories: &id001
 - Fall 2023
 date: '2023-01-01 00:00:00'
@@ -35,7 +35,7 @@ Developing image-based object detection and classification models requires signi
 
 ## Advisors
 
-* [Seon Kim](../../../author/seon-kim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
 ## Skills Required by the team
 

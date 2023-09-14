@@ -3,7 +3,7 @@
 authors:
 - Giorgos Constantinou
 - John Cutone
-- Seon Kim
+- Seon Ho Kim
 - Gabriel Kahn
 categories: &id001
 - Spring 2019
@@ -41,6 +41,6 @@ Giorgos and John are developing a machine learning system to automatically detec
 
 ## Advisors
 
-* [Seon Kim](../../../author/seon-kim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
 * [Gabriel Kahn](../../../author/gabriel-kahn)
