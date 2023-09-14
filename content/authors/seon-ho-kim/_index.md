@@ -16,10 +16,5 @@ social:
   icon_pack: fas
   link: mailto:seonkim@usc.edu
 title: Seon Ho Kim
-user_groups:
-- Advisor (Fall 2023)
+user_groups: []
 ---
-
-## Previous involvement
-
-* Fall 2023

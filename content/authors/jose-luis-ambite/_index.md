@@ -7,7 +7,7 @@ first_name: Jose-Luis
 last_name: Ambite
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
@@ -17,9 +17,11 @@ social:
   link: mailto:ambite@isi.edu
 title: Jose-Luis Ambite
 user_groups:
+- Advisor (Spring 2021)
 - Advisor (Fall 2023)
 ---
 
 ## Previous involvement
 
 * Fall 2023
+* Spring 2021
