@@ -52,7 +52,7 @@ There is anecdotal evidence that broadband service offers vary in quality and pr
 
 * [Aurora Massari](../../../author/aurora-massari)
 
-* [Angel Chavez-Penate](../../../author/angel-chavezpenate)
+* [Angel Chavez-Penate](../../../author/angel-chavez-penate)
 
 * [Zirong Huang](../../../author/zirong-huang)
 

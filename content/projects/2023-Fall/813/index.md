@@ -1,7 +1,7 @@
 ---
 !ProjectPage
 authors:
-- Daniel O'Leary
+- "Daniel E. O\u2019Leary"
 categories: &id001
 - Fall 2023
 date: '2023-01-01 00:00:00'
@@ -26,7 +26,7 @@ Build a knowledge graph of a crowdsourcing event.
 
 ## Advisors
 
-* [Daniel O&#39;Leary](../../../author/daniel-oleary)
+* [Daniel E. O’Leary](../../../author/daniel-e-oleary)
 
 ## Skills Required by the team
 

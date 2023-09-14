@@ -30,7 +30,7 @@ Even when engaging in a multiplayer online game, some players play by themselves
 
 ## Students
 
-* [Do Own (Donna) Kim](../../../author/do-owndonnakim)
+* [Do Own (Donna) Kim](../../../author/do-own-donna-kim)
 
 ## Advisors
 

@@ -44,7 +44,7 @@ The number of scientific products, including scientific software, has been stead
 
 * [Bin Zhang](../../../author/bin-zhang)
 
-* [Mohan Krishna Thota](../../../author/mohan-krishnathota)
+* [Mohan Krishna Thota](../../../author/mohan-krishna-thota)
 
 * [Param Bole](../../../author/param-bole)
 

@@ -66,7 +66,7 @@ This project will investigate the quality of Instagram textual posts as a source
 
 * [Andrés Abeliuk](../../../author/andrés-abeliuk)
 
-* [Kayla de la Haye](../../../author/kayla-delahaye)
+* [Kayla de la Haye](../../../author/kayla-de-la-haye)
 
 ## Skills Required by the team
 

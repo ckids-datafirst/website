@@ -52,9 +52,9 @@ The goal of this project is to assist clinicians to find the best course of trea
 
 * [Nikita Goel](../../../author/nikita-goel)
 
-* [Chanda](../../../author/chanda-)
+* [Chanda](../../../author/chanda)
 
-* [Sanjeev Kadagathur Vadiraj](../../../author/sanjeev-kadagathurvadiraj)
+* [Sanjeev Kadagathur Vadiraj](../../../author/sanjeev-kadagathur-vadiraj)
 
 * [Audrey Lin](../../../author/audrey-lin)
 

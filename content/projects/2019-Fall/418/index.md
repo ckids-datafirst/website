@@ -34,11 +34,11 @@ Spread of misinformation has become a significant problem, raising the importanc
 
 ## Students
 
-* [Shenoy Pratik Gurudatt](../../../author/shenoy-pratikgurudatt)
+* [Shenoy Pratik Gurudatt](../../../author/shenoy-pratik-gurudatt)
 
 ## Advisors
 
-* [Wael Abd-Almageed](../../../author/wael-abdalmageed)
+* [Wael Abd-Almageed](../../../author/wael-abd-almageed)
 
 ## Skills Required by the team
 

@@ -60,7 +60,7 @@ Advancements in closed-loop deep brain stimulation (DBS) enabled more intelligen
 
 * [Rushi Shah](../../../author/rushi-shah)
 
-* [Pranjali Tushar Tembhurnikar](../../../author/pranjali-tushartembhurnikar)
+* [Pranjali Tushar Tembhurnikar](../../../author/pranjali-tushar-tembhurnikar)
 
 * [Manuel Amaya](../../../author/manuel-amaya)
 

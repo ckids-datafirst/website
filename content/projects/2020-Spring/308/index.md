@@ -49,7 +49,7 @@ The purpose of this project is to analyze a crowdsourcing setting for both the s
 
 * [Keith Burghardt](../../../author/keith-burghardt)
 
-* [Daniel E. O’Leary](../../../author/daniel-eoleary)
+* [Daniel E. O’Leary](../../../author/daniel-e-oleary)
 
 ## Skills Required by the team
 

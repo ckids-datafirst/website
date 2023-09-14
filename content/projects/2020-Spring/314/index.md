@@ -47,7 +47,7 @@ Paleoclimate data is highly diverse, requiring different sets of metadata to des
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-* [Julien Emile-Geay](../../../author/julien-emilegeay)
+* [Julien Emile-Geay](../../../author/julien-emile-geay)
 
 ## Skills Required by the team
 

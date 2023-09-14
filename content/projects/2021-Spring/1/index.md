@@ -49,7 +49,7 @@ The COVID-19 pandemic has reinvigorated calls to close the digital divide in the
 
 ## Students
 
-* [Asjad Asif Jah](../../../author/asjad-asifjah)
+* [Asjad Asif Jah](../../../author/asjad-asif-jah)
 
 * [Jonathan Gonzalez](../../../author/jonathan-gonzalez)
 

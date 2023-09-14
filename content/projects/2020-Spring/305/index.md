@@ -48,7 +48,7 @@ This project will look at events data collected at several recent feminist socia
 
 * [Keerti Bhogaraju](../../../author/keerti-bhogaraju)
 
-* [Ian Myoungsu Choi](../../../author/ian-myoungsuchoi)
+* [Ian Myoungsu Choi](../../../author/ian-myoungsu-choi)
 
 * [Negar Mokhberian](../../../author/negar-mokhberian)
 

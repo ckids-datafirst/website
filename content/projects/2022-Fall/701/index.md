@@ -59,7 +59,7 @@ Currently, data entries are manually identified, discovered and registered using
 
 * [Vanshay Gupta](../../../author/vanshay-gupta)
 
-* [Ikenna Joe-Nweke](../../../author/ikenna-joenweke)
+* [Ikenna Joe-Nweke](../../../author/ikenna-joe-nweke)
 
 ## Advisors
 

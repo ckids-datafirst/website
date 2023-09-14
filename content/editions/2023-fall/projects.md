@@ -6,7 +6,7 @@ design: !!python/object:datafest_archive.models.website.pages.DesignProject
   columns: '2'
   view: card
 headless: true
-subtitle: 18 projects
+subtitle: 19 projects
 title: Fall 2023 Projects
 type: landing
 widget: markdown
@@ -50,4 +50,6 @@ widget: markdown
 * [Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety](../../projects/2023-fall/827)
 
 * [AI Ethics for Smart Health through Smart Watches](../../projects/2023-fall/828)
+
+* [Regular Data: Quality health monitoring while you sit](../../projects/2023-fall/829)
 

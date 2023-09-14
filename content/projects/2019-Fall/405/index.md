@@ -52,7 +52,7 @@ Human, as a building occupant, is always surrounded by several indoor environmen
 
 * [Seon Kim](../../../author/seon-kim)
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Skills Required by the team
 

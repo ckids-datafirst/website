@@ -41,7 +41,7 @@ Question type coding is used in research on forensic interviewing to distinguish
 
 ## Advisors
 
-* [Thomas D. Lyon](../../../author/thomas-dlyon)
+* [Thomas D. Lyon](../../../author/thomas-d-lyon)
 
 ## Skills Required by the team
 

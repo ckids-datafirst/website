@@ -55,7 +55,7 @@ Students will analyze genomic and environmental data collected through the lifet
 
 ## Advisors
 
-* [T. Em Arpawong](../../../author/t-emarpawong)
+* [T. Em Arpawong](../../../author/t-em-arpawong)
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 

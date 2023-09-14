@@ -51,7 +51,7 @@ With the recent enthusiasm about algorithmic fairness and responsible AI, many c
 
 * [Param Bole](../../../author/param-bole)
 
-* [Muhammad Oneeb Ul Haq Khan](../../../author/muhammad-oneebulhaqkhan)
+* [Muhammad Oneeb Ul Haq Khan](../../../author/muhammad-oneeb-ul-haq-khan)
 
 * [Madeleine Thompson](../../../author/madeleine-thompson)
 

@@ -43,7 +43,7 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 ## Students
 
-* [Jae Young Kim](../../../author/jae-youngkim)
+* [Jae Young Kim](../../../author/jae-young-kim)
 
 * [Yuqin Jiang](../../../author/yuqin-jiang)
 
@@ -53,7 +53,7 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 ## Advisors
 
-* [Daniel E. O’Leary](../../../author/daniel-eoleary)
+* [Daniel E. O’Leary](../../../author/daniel-e-oleary)
 
 ## Skills Required by the team
 

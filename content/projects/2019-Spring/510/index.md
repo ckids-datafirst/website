@@ -34,7 +34,7 @@ Lingkai collected data in a controlled setting and studied lighting control in b
 
 ## Advisors
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Final presentation resources
 

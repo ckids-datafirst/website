@@ -37,9 +37,9 @@ While many open data efforts have managed to successfully expose public data in 
 
 * [Anjana Niranjan](../../../author/anjana-niranjan)
 
-* [Kushagra Singh Sachan](../../../author/kushagra-singhsachan)
+* [Kushagra Singh Sachan](../../../author/kushagra-singh-sachan)
 
-* [Chi Sheng Yang](../../../author/chi-shengyang)
+* [Chi Sheng Yang](../../../author/chi-sheng-yang)
 
 ## Advisors
 

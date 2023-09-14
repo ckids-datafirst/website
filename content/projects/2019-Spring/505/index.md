@@ -31,7 +31,7 @@ This project explores the influence of the personality of game players who becom
 
 ## Students
 
-* [Joo-Wha Hong](../../../author/joowha-hong)
+* [Joo-Wha Hong](../../../author/joo-wha-hong)
 
 ## Advisors
 

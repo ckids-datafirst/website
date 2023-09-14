@@ -38,7 +38,7 @@ A lot of data is available in the web in a tabular manner, but it’s difficult 
 
 * [Vedant Diwanji](../../../author/vedant-diwanji)
 
-* [Yi-Li Chen](../../../author/yili-chen)
+* [Yi-Li Chen](../../../author/yi-li-chen)
 
 * [Andrew Zhao](../../../author/andrew-zhao)
 

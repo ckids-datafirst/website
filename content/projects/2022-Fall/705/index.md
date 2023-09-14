@@ -67,7 +67,7 @@ Are you passionate about data science and sustainability? Then this interdiscipl
 
 ## Advisors
 
-* [Julie V. Hopper](../../../author/julie-vhopper)
+* [Julie V. Hopper](../../../author/julie-v-hopper)
 
 ## Skills Required by the team
 
