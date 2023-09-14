@@ -111,7 +111,7 @@
 &lt;p>Question type coding is used in research on forensic interviewing to distinguish between best practice open-ended questions, and closed-ended and leading questions that interviewers are trained to avoid. Most research teams in the field rely on a time-consuming and labor-intensive method of question type coding whereby a researcher codes every question in the interview, and a second researcher codes a subset to demonstrate inter-rater reliability. We are currently working with a graduate of the Masters in Computer Science program at USC on a project exploring automated question type coding of forensic interviews with victims of child abuse. In collaboration with the student, we have trained a large language model (RoBERTa) to distinguish between question types based on a rudimentary classification system. In the next stage of the project, we are aiming to finetune the model and use zero shot and few shot prompting to make distinctions for which there is limited manually-coded data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/thomas-dlyon">Thomas D. Lyon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -177,7 +177,7 @@
 &lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/angel-chavezpenate">Angel Chavez-Penate&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/angel-chavez-penate">Angel Chavez-Penate&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/zirong-huang">Zirong Huang&lt;/a>&lt;/p>
@@ -236,7 +236,7 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dongho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
@@ -250,7 +250,7 @@
 &lt;p>Federated learning is an approach to distributed deep learning without sharing data. Multiple site train a neural network over private data. The parameters of the neural network are shared with a federation controller, but they are encrypted before sharing. Model aggregation is performed under fully homomorphic encryption. We propose to apply federated learning to several problems in neuroscience, such as predicting Alzheimer's, Parkinson's, epilepsy, and autism, possibly over multimodal data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joseluis-ambite">Jose-Luis Ambite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -272,7 +272,7 @@
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -474,7 +474,10 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;li>seaborn. GitHub knowledge preferred but not necessary&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>The value of player tracking technology in assessment of training volume in youth soccer players.</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/829/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/829/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>To create a software-as-a-service data pipeline for collecting health biomarkers via an instrumented toilet seat. This clinical data management system (CDMS) will enable collecting clinical-grade, high-quality, curated, and consistent data capture that meets NIH and FDA standards of clinical utility.&lt;/p>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Engineering and software architecture skills to create the data pipeline from instrument signals to health reports compatible with reimbursement, research and clinical data systems.&lt;/p></description></item><item><title>The value of player tracking technology in assessment of training volume in youth soccer players.</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Wearable IMU and GPS sensors are used to estimate training volume in professional sports to ensure adequate preparation for competition. Recommendations to modify training is individualized to meet health and performance needs of each player. Expense associated with these systems restrict their use in youth sports. More economical alternatives are available but it is not clear if the data is comparable. This project will compare data collected concurrently to determine if the economical system provides similar conclusions. Players from the LA Galaxy (second and developmental teams) will participate. Continuous data from triaxial accelerometers, gyroscope and GPS will be collected during practice and competition. Raw data and commercially derived key performance indicators will be compared to understand the agreement between the systems. Acceptable agreement with comparable interpretation of data with respect to training recommendations may allow for greater access for young athletes&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -551,7 +554,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Developing image-based object detection and classification models requires significant time, resources, and effort. Especially, acquiring a good training dataset is essential. However, there are some cases when it is very hard to get quality data such as rare cases (e.g., disasters) or expensive cases to get (e.g., faraway places). Due to the development of generative AI, we might produce synthetic images to enhance the quality of dataset by filling up missing images with them. Based on our prior work in object detection and classification for smart city applications, we would like to explore the potential of AI generated images for an enhanced object detection and classification.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/seon-hokim">Seon Ho Kim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -580,12 +583,12 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/vanshay-gupta">Vanshay Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ikenna-joenweke">Ikenna Joe-Nweke&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ikenna-joe-nweke">Ikenna Joe-Nweke&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -699,7 +702,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -777,7 +780,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/julie-vhopper">Julie V. Hopper&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/julie-v-hopper">Julie V. Hopper&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -822,7 +825,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/dhandeep-suglani">Dhandeep Suglani&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/yunyi-fionazhang">Yunyi (Fiona) Zhang&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yunyi-fiona-zhang">Yunyi (Fiona) Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -889,7 +892,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/yifan-wang">Yifan Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/vu-truongsi">Vu Truong Si&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/vu-truong-si">Vu Truong Si&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/anood-alkatheeri">Anood Alkatheeri&lt;/a>&lt;/p>
@@ -912,7 +915,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -973,7 +976,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/mitch-paulmithun">Mitch Paul Mithun&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/mitch-paul-mithun">Mitch Paul Mithun&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -1020,7 +1023,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/xiayu-li">Xiayu Li&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/daniel-pereiradacosta">Daniel Pereira Da Costa&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-pereira-da-costa">Daniel Pereira Da Costa&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/richa-sheth">Richa Sheth&lt;/a>&lt;/p>
@@ -1045,7 +1048,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dongho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
@@ -1158,10 +1161,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/nikita-goel">Nikita Goel&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/chanda-">Chanda&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/chanda">Chanda&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/sanjeev-kadagathurvadiraj">Sanjeev Kadagathur Vadiraj&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/sanjeev-kadagathur-vadiraj">Sanjeev Kadagathur Vadiraj&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/audrey-lin">Audrey Lin&lt;/a>&lt;/p>
@@ -1227,7 +1230,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/rushi-shah">Rushi Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/pranjali-tushartembhurnikar">Pranjali Tushar Tembhurnikar&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/pranjali-tushar-tembhurnikar">Pranjali Tushar Tembhurnikar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/manuel-amaya">Manuel Amaya&lt;/a>&lt;/p>
@@ -1328,10 +1331,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/sara-melotte">Sara Melotte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/aditya-udaymalte">Aditya Uday Malte&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/aditya-uday-malte">Aditya Uday Malte&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/namita-santoshmutha">Namita Santosh Mutha&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/namita-santosh-mutha">Namita Santosh Mutha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1422,7 +1425,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-julia-chen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1446,7 +1449,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/jianing-juliachen">Jianing (Julia) Chen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jianing-julia-chen">Jianing (Julia) Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1472,7 +1475,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
@@ -1550,7 +1553,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/wael-abd-almageed">Wael Abd-Almageed&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1573,7 +1576,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneeb-ul-haq-khan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/madeleine-thompson">Madeleine Thompson&lt;/a>&lt;/p>
@@ -1629,7 +1632,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/asjad-asifjah">Asjad Asif Jah&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/asjad-asif-jah">Asjad Asif Jah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/jonathan-gonzalez">Jonathan Gonzalez&lt;/a>&lt;/p>
@@ -1709,7 +1712,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
@@ -1722,7 +1725,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/trisha-sinha">Trisha Sinha&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/harsh-jaykumarjalan">Harsh Jaykumar Jalan&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/harsh-jaykumar-jalan">Harsh Jaykumar Jalan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/ashwin-sakhare">Ashwin Sakhare&lt;/a>&lt;/p>
@@ -1731,12 +1734,12 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/divya-manjunath">Divya Manjunath&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/nai-cihliou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -1761,7 +1764,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/suchetha-bhat">Suchetha Bhat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/shruti-krishnakumar">Shruti Krishna Kumar&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/shruti-krishna-kumar">Shruti Krishna Kumar&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -1770,7 +1773,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/berenice-benayoun">Berenice Benayoun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/jose-luisambite">Jose Luis Ambite&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1805,7 +1808,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/t-emarpawong">T. Em Arpawong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/t-em-arpawong">T. Em Arpawong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
@@ -1821,7 +1824,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project will explore the ability to track real-life health and nutrition signals from social media data, focusing on data from Foursquare and Yelp. We will investigate the ability to access menu information from the APIs of these social media platforms, and develop measures to assess the nutritional content of these menus. Multiple aims will be investigated in this project, including scraping data from social media; NLP of menu text, tag, and comment data; developing predictive models of obesity; and more. “Ground truth” data on dietary patterns of LA residents will be available, enabling validation of dietary measures and predictive models built from menu data.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/iris-cliu">Iris C. Liu&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/iris-c-liu">Iris C. Liu&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -1849,7 +1852,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/frederick-norman">Frederick Norman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/vikrame-vasudevkrishnan">Vikrame Vasudev Krishnan&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/vikrame-vasudev-krishnan">Vikrame Vasudev Krishnan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/hanyu-he">Hanyu He&lt;/a>&lt;/p>
@@ -1863,7 +1866,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/mohammad-rezarajati">Mohammad Reza Rajati&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/mohammad-reza-rajati">Mohammad Reza Rajati&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -1908,7 +1911,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/nazgol-tavabi">Nazgol Tavabi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/chepai-kung">Che-Pai Kung&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/che-pai-kung">Che-Pai Kung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/abhivineet-veeraghanta">Abhivineet Veeraghanta&lt;/a>&lt;/p>
@@ -1939,7 +1942,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/bin-zhang">Bin Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/mohan-krishnathota">Mohan Krishna Thota&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/mohan-krishna-thota">Mohan Krishna Thota&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/param-bole">Param Bole&lt;/a>&lt;/p>
@@ -1960,10 +1963,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/alex-zihuanran">Alex Zihuan Ran&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/alex-zihuan-ran">Alex Zihuan Ran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/hardik-mahipalsurana">Hardik Mahipal Surana&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/hardik-mahipal-surana">Hardik Mahipal Surana&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2000,7 +2003,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -2026,7 +2029,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/devansh-shah">Devansh Shah&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ting-funglam">Ting Fung Lam&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ting-fung-lam">Ting Fung Lam&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -2141,7 +2144,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/keerti-bhogaraju">Keerti Bhogaraju&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-myoungsu-choi">Ian Myoungsu Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/p>
@@ -2424,7 +2427,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/jacob-bickman">Jacob Bickman&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-young-kim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kevin-tsang">Kevin Tsang&lt;/a>&lt;/p>
@@ -2517,7 +2520,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/yuchen-zhang">Yuchen Zhang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/naicih-liou">Nai-Cih Liou&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai-Cih Liou&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/haripriya-dharmala">Haripriya Dharmala&lt;/a>&lt;/p>
@@ -2581,7 +2584,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/jae-youngkim">Jae Young Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jae-young-kim">Jae Young Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/yuqin-jiang">Yuqin Jiang&lt;/a>&lt;/p>
@@ -2595,7 +2598,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/daniel-eoleary">Daniel E. O’Leary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/daniel-oleary">Daniel O'Leary&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -2708,7 +2711,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/keith-burghardt">Keith Burghardt&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/daniel-eoleary">Daniel E. O’Leary&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-oleary">Daniel O'Leary&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -2813,7 +2816,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
@@ -2860,7 +2863,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/yelena-mejova">Yelena Mejova&lt;/a>&lt;/p>
@@ -2895,7 +2898,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/hsinghsien-wang">Hsing-Hsien Wang&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/hsing-hsien-wang">Hsing-Hsien Wang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/maria-macharrie">Maria MacHarrie&lt;/a>&lt;/p>
@@ -2913,7 +2916,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-holmeswong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -2924,7 +2927,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/muhammad-oneebulhaqkhan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/muhammad-oneeb-ul-haq-khan">Muhammad Oneeb Ul Haq Khan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/adwaita-jadhav">Adwaita Jadhav&lt;/a>&lt;/p>
@@ -2938,7 +2941,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -2982,7 +2985,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/emily-smithgreenaway">Emily Smith-Greenaway&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/emily-smith-greenaway">Emily Smith-Greenaway&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -3071,7 +3074,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/shilpa-thomas">Shilpa Thomas&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/nikhil-dharavenkata">Nikhil Dhara Venkata&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/nikhil-dhara-venkata">Nikhil Dhara Venkata&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/deepanshu-madan">Deepanshu Madan&lt;/a>&lt;/p>
@@ -3089,7 +3092,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project studied behavioral patterns by analyzing data from personal senses collected from 60 subjects. This data can be used to predict activities and infer people’s lifestyle and habits.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/ian-myoungsuchoi">Ian Myoungsu Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/ian-myoungsu-choi">Ian Myoungsu Choi&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Building an open catalog of integrated datasets for Los Angeles</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>While many open data efforts have managed to successfully expose public data in the web, it is often complicated to determine how these records can be integrated with each other (due to heterogeneous ids, not clear how to place them into a map, etc.). In this project, the student will leverage the novel techniques for integrating, registering and connecting datasets with overlapping elements. The results will be visualized by the student using interactive maps.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
@@ -3098,10 +3101,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/anjana-niranjan">Anjana Niranjan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kushagra-singhsachan">Kushagra Singh Sachan&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kushagra-singh-sachan">Kushagra Singh Sachan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/chi-shengyang">Chi Sheng Yang&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/chi-sheng-yang">Chi Sheng Yang&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3144,7 +3147,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/vedant-diwanji">Vedant Diwanji&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/yili-chen">Yi-Li Chen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yi-li-chen">Yi-Li Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/andrew-zhao">Andrew Zhao&lt;/a>&lt;/p>
@@ -3176,7 +3179,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
@@ -3201,7 +3204,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/sanjiv-soni">Sanjiv Soni&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/shenoy-pratik-gurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -3238,7 +3241,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/julien-emilegeay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3248,11 +3251,11 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/shenoy-pratikgurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/shenoy-pratik-gurudatt">Shenoy Pratik Gurudatt&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/wael-abdalmageed">Wael Abd-Almageed&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/wael-abd-almageed">Wael Abd-Almageed&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -3265,7 +3268,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
@@ -3278,7 +3281,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/emily-putnamhornstein">Emily Putnam-Hornstein&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/emily-putnam-hornstein">Emily Putnam-Hornstein&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
@@ -3319,7 +3322,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
@@ -3367,7 +3370,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kayla-delahaye">Kayla de la Haye&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3392,7 +3395,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/kevin-tran">Kevin Tran&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/yihsin-chung">Yi-Hsin Chung&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yi-hsin-chung">Yi-Hsin Chung&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/sangeeth-koratten">Sangeeth Koratten&lt;/a>&lt;/p>
@@ -3404,7 +3407,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/thuy-thanhtruong">Thuy Thanh Truong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/thuy-thanh-truong">Thuy Thanh Truong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
@@ -3444,7 +3447,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Even when engaging in a multiplayer online game, some players play by themselves. Do Own is interested in investigating personality, motivation, and behavioral patterns of social network isolates.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/do-owndonnakim">Do Own (Donna) Kim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/do-own-donna-kim">Do Own (Donna) Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -3500,7 +3503,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/weifan-chen">Wei-Fan Chen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/wei-fan-chen">Wei-Fan Chen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/sameeksha-mahajan">Sameeksha Mahajan&lt;/a>&lt;/p>
@@ -3545,10 +3548,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/seon-kim">Seon Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/joonho-choi">Joon-Ho Choi&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3590,7 +3593,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>This project explores the influence of the personality of game players who become mentors on mentoring outcomes using machine learning. The project will use survey data to analyze mentors’ extraversion and agreeableness as well as mentees’ game performance and churn rates.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joowha-hong">Joo-Wha Hong&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/joo-wha-hong">Joo-Wha Hong&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
@@ -3600,7 +3603,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/qiyao-joycepeng">Qiyao (Joyce) Peng&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/qiyao-joyce-peng">Qiyao (Joyce) Peng&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/alejandro-marin">Alejandro Marin&lt;/a>&lt;/p>

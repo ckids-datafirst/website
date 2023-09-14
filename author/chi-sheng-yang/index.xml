@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chi Sheng Yang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/chi-sheng-yang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/chi-sheng-yang/index.xml" rel="self" type="application/rss+xml"/><description>Chi Sheng Yang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Chi Sheng Yang</title><link>https://ckids-datafirst.github.io/website/author/chi-sheng-yang/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chi Sheng Yang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/chi-sheng-yang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/chi-sheng-yang/index.xml" rel="self" type="application/rss+xml"/><description>Chi Sheng Yang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Chi Sheng Yang</title><link>https://ckids-datafirst.github.io/website/author/chi-sheng-yang/</link></image><item><title>Building an open catalog of integrated datasets for Los Angeles</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/413/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>While many open data efforts have managed to successfully expose public data in the web, it is often complicated to determine how these records can be integrated with each other (due to heterogeneous ids, not clear how to place them into a map, etc.). In this project, the student will leverage the novel techniques for integrating, registering and connecting datasets with overlapping elements. The results will be visualized by the student using interactive maps.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anjana-niranjan">Anjana Niranjan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kushagra-singh-sachan">Kushagra Singh Sachan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/chi-sheng-yang">Chi Sheng Yang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;/ul></description></item></channel></rss>

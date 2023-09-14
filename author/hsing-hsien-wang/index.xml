@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hsing-Hsien Wang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/hsing-hsien-wang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/hsing-hsien-wang/index.xml" rel="self" type="application/rss+xml"/><description>Hsing-Hsien Wang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Hsing-Hsien Wang</title><link>https://ckids-datafirst.github.io/website/author/hsing-hsien-wang/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hsing-Hsien Wang | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/hsing-hsien-wang/</link><atom:link href="https://ckids-datafirst.github.io/website/author/hsing-hsien-wang/index.xml" rel="self" type="application/rss+xml"/><description>Hsing-Hsien Wang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Hsing-Hsien Wang</title><link>https://ckids-datafirst.github.io/website/author/hsing-hsien-wang/</link></image><item><title>Turning Library Collections into Data Science Challenges and Resources</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/318/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Libraries, museums, and archives hold unique collections that may be very useful for data science. These collections include photographs, videos, letters, and other artifacts that could give unique insights when analyzed. In this project, students will work with the USC Libraries to identify existing collections that would be potentially interesting as targets for data science, describe those collections in collaboration with the USC Libraries so they can be promoted as data science resources, and create APIs and other access mechanisms for data science researchers on campus and beyond.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Interdisciplinary Data Science Team&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/chaitra-mudradi">Chaitra Mudradi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/feilong-wu">Feilong Wu&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/hsing-hsien-wang">Hsing-Hsien Wang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/maria-macharrie">Maria MacHarrie&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shubhankar-singh">Shubhankar Singh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yangtao-hu">Yangtao Hu&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Data Science&lt;/li>
+&lt;/ul></description></item></channel></rss>

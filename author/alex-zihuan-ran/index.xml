@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alex Zihuan Ran | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/alex-zihuan-ran/</link><atom:link href="https://ckids-datafirst.github.io/website/author/alex-zihuan-ran/index.xml" rel="self" type="application/rss+xml"/><description>Alex Zihuan Ran</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Alex Zihuan Ran</title><link>https://ckids-datafirst.github.io/website/author/alex-zihuan-ran/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alex Zihuan Ran | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/alex-zihuan-ran/</link><atom:link href="https://ckids-datafirst.github.io/website/author/alex-zihuan-ran/index.xml" rel="self" type="application/rss+xml"/><description>Alex Zihuan Ran</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Alex Zihuan Ran</title><link>https://ckids-datafirst.github.io/website/author/alex-zihuan-ran/</link></image><item><title>A Knowledge Graph for Cybersecurity Experiments</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/304/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/304/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The DETER cybersecurity testbed has been running experiments for several years, collecting information about intrusions, vulnerabilities, and mitigation strategies. This project will capture cybersecurity experiments as a knowledge graph that can be browsed, queried, and mined to find patterns and create models of cyberattacks.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/alex-zihuan-ran">Alex Zihuan Ran&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/hardik-mahipal-surana">Hardik Mahipal Surana&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/daniel-garijo">Daniel Garijo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jelena-mirkovic">Jelena Mirkovic&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Knowledge Graphs&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

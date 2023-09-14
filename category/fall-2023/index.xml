@@ -75,7 +75,7 @@
 &lt;p>Question type coding is used in research on forensic interviewing to distinguish between best practice open-ended questions, and closed-ended and leading questions that interviewers are trained to avoid. Most research teams in the field rely on a time-consuming and labor-intensive method of question type coding whereby a researcher codes every question in the interview, and a second researcher codes a subset to demonstrate inter-rater reliability. We are currently working with a graduate of the Masters in Computer Science program at USC on a project exploring automated question type coding of forensic interviews with victims of child abuse. In collaboration with the student, we have trained a large language model (RoBERTa) to distinguish between question types based on a rudimentary classification system. In the next stage of the project, we are aiming to finetune the model and use zero shot and few shot prompting to make distinctions for which there is limited manually-coded data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/thomas-dlyon">Thomas D. Lyon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -142,7 +142,7 @@
 &lt;p>Federated learning is an approach to distributed deep learning without sharing data. Multiple site train a neural network over private data. The parameters of the neural network are shared with a federation controller, but they are encrypted before sharing. Model aggregation is performed under fully homomorphic encryption. We propose to apply federated learning to several problems in neuroscience, such as predicting Alzheimer's, Parkinson's, epilepsy, and autism, possibly over multimodal data.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/joseluis-ambite">Jose-Luis Ambite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -188,7 +188,10 @@
 &lt;li>seaborn. GitHub knowledge preferred but not necessary&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/829/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/829/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>To create a software-as-a-service data pipeline for collecting health biomarkers via an instrumented toilet seat. This clinical data management system (CDMS) will enable collecting clinical-grade, high-quality, curated, and consistent data capture that meets NIH and FDA standards of clinical utility.&lt;/p>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Engineering and software architecture skills to create the data pipeline from instrument signals to health reports compatible with reimbursement, research and clinical data systems.&lt;/p></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>When it comes to classification tasks, many previous work has tried to design larger and more complex neural networks. Recently, the line of data-centric AI has worked on shifting the focus to the quality of the train data. This shift arises from the recognition that the annotations associated with dataset instances can exhibit both noise, stemming from vague instructions or human errors, and bias, arising from differing perspectives among annotators in response to given prompts.
 In this project, our objective is to bridge the gap between the two lines of research: one dedicated to identifying noisy instances and the other striving to account for the diverse perspectives of annotators. Specifically, we will delve into the domain of offensive text detection datasets, a highly subjective task. Our investigation will center on whether perspectivist classification models have effectively harnessed valuable information from instances flagged as noisy by noise-detection techniques.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -218,7 +221,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>Developing image-based object detection and classification models requires significant time, resources, and effort. Especially, acquiring a good training dataset is essential. However, there are some cases when it is very hard to get quality data such as rare cases (e.g., disasters) or expensive cases to get (e.g., faraway places). Due to the development of generative AI, we might produce synthetic images to enhance the quality of dataset by filling up missing images with them. Based on our prior work in object detection and classification for smart city applications, we would like to explore the potential of AI generated images for an enhanced object detection and classification.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/seon-hokim">Seon Ho Kim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
