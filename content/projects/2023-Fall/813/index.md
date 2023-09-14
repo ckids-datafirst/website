@@ -1,10 +1,10 @@
 ---
 !ProjectPage
 authors:
-- "Daniel E. O\u2019Leary"
+  - "Daniel O'Leary"
 categories: &id001
-- Fall 2023
-date: '2023-01-01 00:00:00'
+  - Fall 2023
+date: "2023-01-01 00:00:00"
 external_link: null
 image: null
 slides: null
@@ -17,21 +17,19 @@ url_slides: null
 url_video: null
 weight: 10
 ---
+
 ## Description
 
 Build a knowledge graph of a crowdsourcing event.
 
-
-
-
 ## Advisors
 
-* [Daniel E. O’Leary](../../../author/daniel-e-oleary)
+- [Daniel O'Leary](../../../author/daniel-e-oleary)
 
 ## Skills Required by the team
 
+- NEO4j or Python
 
-* NEO4j or Python
 ## What students will learn
 
 Crowdsourcing, knowledge graphs and text analysis
