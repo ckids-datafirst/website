@@ -2,24 +2,24 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: oleary@usc.edu
-first_name: Daniel
-last_name: O'Leary
+email: tjmccart@usc.edu
+first_name: T.J.
+last_name: McCarthy
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:oleary@usc.edu
-title: Daniel O'Leary
+  link: mailto:tjmccart@usc.edu
+title: T.J. McCarthy
 user_groups:
-- Advisor (Fall 2023)
+- Advisor (Spring 2020)
 ---
 
 ## Previous involvement
 
-* Fall 2023
+* Spring 2020

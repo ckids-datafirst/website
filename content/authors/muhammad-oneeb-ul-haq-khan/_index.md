@@ -4,26 +4,26 @@ bio: ''
 education: !!python/object:datafest_archive.models.website.pages.Education
   courses:
   - !!python/object:datafest_archive.models.website.pages.Course
-    course: M.S. student in Applied Data Science
+    course: M.S. student in Computer Science
     institution: Viterbi School of Engineering
     year: null
-email: naicihli@usc.edu
-first_name: Nai
-last_name: Cih Liou
+email: mkhan250@usc.edu
+first_name: Muhammad Oneeb
+last_name: Ul Haq Khan
 organizations: []
 role: Student
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:naicihli@usc.edu
-title: Nai Cih Liou
+  link: mailto:mkhan250@usc.edu
+title: Muhammad Oneeb Ul Haq Khan
 user_groups:
-- Student (Spring 2021)
+- Student (Fall 2020)
 ---
 
 
 ## Previous involvement
 
-* Spring 2021
+* Fall 2020
 

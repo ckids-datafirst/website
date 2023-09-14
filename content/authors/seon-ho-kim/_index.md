@@ -2,26 +2,24 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: julieneg@usc.edu
-first_name: Julien
-last_name: Emile-Geay
+email: seonkim@usc.edu
+first_name: Seon
+last_name: Ho Kim
 organizations:
 - !Organization
-  name: USC
+  name: null
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:julieneg@usc.edu
-title: Julien Emile-Geay
+  link: mailto:seonkim@usc.edu
+title: Seon Ho Kim
 user_groups:
-- Advisor (Spring 2020)
-- Advisor (Fall 2019)
+- Advisor (Fall 2023)
 ---
 
 ## Previous involvement
 
-* Fall 2019
-* Spring 2020
+* Fall 2023

@@ -2,9 +2,9 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: delahaye@usc.edu
-first_name: Kayla
-last_name: de la Haye
+email: seonkim@usc.edu
+first_name: Seon
+last_name: Kim
 organizations:
 - !Organization
   name: USC
@@ -14,16 +14,20 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:delahaye@usc.edu
-title: Kayla de la Haye
+  link: mailto:seonkim@usc.edu
+title: Seon Kim
 user_groups:
-- Advisor (Fall 2020)
-- Advisor (Spring 2020)
+- Advisor (Spring 2021)
+- Advisor (Fall 2021)
 - Advisor (Fall 2019)
+- Advisor (Spring 2019)
+- Advisor (Fall 2022)
 ---
 
 ## Previous involvement
 
 * Fall 2019
-* Fall 2020
-* Spring 2020
+* Fall 2021
+* Fall 2022
+* Spring 2019
+* Spring 2021

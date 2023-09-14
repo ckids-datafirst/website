@@ -8,8 +8,8 @@ education: !!python/object:datafest_archive.models.website.pages.Education
     institution: Annenberg School for Communication and Journalism
     year: null
 email: null
-first_name: Do
-last_name: Own (Donna) Kim
+first_name: Do Own
+last_name: (Donna) Kim
 organizations: []
 role: Student
 social:

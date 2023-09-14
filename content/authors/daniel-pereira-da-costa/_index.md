@@ -3,8 +3,8 @@
 bio: ''
 education: null
 email: danielp3@usc.edu
-first_name: Daniel
-last_name: Pereira Da Costa
+first_name: Daniel Pereira
+last_name: Da Costa
 organizations: []
 role: Student
 social:
