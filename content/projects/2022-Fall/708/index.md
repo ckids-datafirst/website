@@ -59,7 +59,7 @@ After the COVID, the remote work environment has become popular, and many commer
 
 ## Advisors
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Skills Required by the team
 

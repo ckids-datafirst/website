@@ -59,7 +59,7 @@ Students will analyze images from optical microscopes that reveal features of ma
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-* [Wael Abd-Almageed](../../../author/wael-abdalmageed)
+* [Wael Abd-Almageed](../../../author/wael-abd-almageed)
 
 ## Skills Required by the team
 

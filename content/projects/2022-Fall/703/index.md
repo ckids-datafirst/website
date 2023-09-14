@@ -48,7 +48,7 @@ Internet memes are a popular tool for creatively expressing ideas on the Web. Ma
 
 * [Dhandeep Suglani](../../../author/dhandeep-suglani)
 
-* [Yunyi (Fiona) Zhang](../../../author/yunyi-fionazhang)
+* [Yunyi (Fiona) Zhang](../../../author/yunyi-fiona-zhang)
 
 ## Advisors
 

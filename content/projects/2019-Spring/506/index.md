@@ -37,7 +37,7 @@ This project is using population-based administrative data, including birth, med
 
 ## Advisors
 
-* [Emily Putnam-Hornstein](../../../author/emily-putnamhornstein)
+* [Emily Putnam-Hornstein](../../../author/emily-putnam-hornstein)
 
 ## Final presentation resources
 

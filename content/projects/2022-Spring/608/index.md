@@ -37,7 +37,7 @@ What’s the next big idea, and who’s going to discover it? Our project is try
 
 ## Advisors
 
-* [Dong-Ho Lee](../../../author/dongho-lee)
+* [Dong-Ho Lee](../../../author/dong-ho-lee)
 
 * [Kian Ahrabian](../../../author/kian-ahrabian)
 

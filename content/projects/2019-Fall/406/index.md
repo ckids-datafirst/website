@@ -50,7 +50,7 @@ SideEffects is a cancer patient’s resource to access treatment and side effect
 
 * [Kevin Tran](../../../author/kevin-tran)
 
-* [Yi-Hsin Chung](../../../author/yihsin-chung)
+* [Yi-Hsin Chung](../../../author/yi-hsin-chung)
 
 * [Sangeeth Koratten](../../../author/sangeeth-koratten)
 
@@ -58,6 +58,6 @@ SideEffects is a cancer patient’s resource to access treatment and side effect
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-* [Thuy Thanh Truong](../../../author/thuy-thanhtruong)
+* [Thuy Thanh Truong](../../../author/thuy-thanh-truong)
 
 * [Ken Nguyen](../../../author/ken-nguyen)

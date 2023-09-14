@@ -44,7 +44,7 @@ This project will result in a Python package for automated time series analysis.
 
 * [Shilpa Thomas](../../../author/shilpa-thomas)
 
-* [Nikhil Dhara Venkata](../../../author/nikhil-dharavenkata)
+* [Nikhil Dhara Venkata](../../../author/nikhil-dhara-venkata)
 
 * [Deepanshu Madan](../../../author/deepanshu-madan)
 

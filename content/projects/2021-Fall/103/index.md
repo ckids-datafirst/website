@@ -53,9 +53,9 @@ Common sense knowledge bases are used widely in research, spanning many areas in
 
 * [Sara Melotte](../../../author/sara-melotte)
 
-* [Aditya Uday Malte](../../../author/aditya-udaymalte)
+* [Aditya Uday Malte](../../../author/aditya-uday-malte)
 
-* [Namita Santosh Mutha](../../../author/namita-santoshmutha)
+* [Namita Santosh Mutha](../../../author/namita-santosh-mutha)
 
 ## Advisors
 

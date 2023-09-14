@@ -2,9 +2,9 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: julieneg@usc.edu
-first_name: Julien
-last_name: Emile-Geay
+email: tjmccart@usc.edu
+first_name: T.J.
+last_name: McCarthy
 organizations:
 - !Organization
   name: USC
@@ -14,14 +14,12 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:julieneg@usc.edu
-title: Julien Emile-Geay
+  link: mailto:tjmccart@usc.edu
+title: T.J. McCarthy
 user_groups:
 - Advisor (Spring 2020)
-- Advisor (Fall 2019)
 ---
 
 ## Previous involvement
 
-* Fall 2019
 * Spring 2020

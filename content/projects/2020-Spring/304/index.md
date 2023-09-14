@@ -34,9 +34,9 @@ The DETER cybersecurity testbed has been running experiments for several years, 
 
 ## Students
 
-* [Alex Zihuan Ran](../../../author/alex-zihuanran)
+* [Alex Zihuan Ran](../../../author/alex-zihuan-ran)
 
-* [Hardik Mahipal Surana](../../../author/hardik-mahipalsurana)
+* [Hardik Mahipal Surana](../../../author/hardik-mahipal-surana)
 
 ## Advisors
 

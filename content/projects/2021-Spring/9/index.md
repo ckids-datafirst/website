@@ -49,7 +49,7 @@ Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurit
 
 * [Wenwen Zheng](../../../author/wenwen-zheng)
 
-* [Nai Cih Liou](../../../author/nai-cihliou)
+* [Nai Cih Liou](../../../author/nai-cih-liou)
 
 * [Xinran Liang](../../../author/xinran-liang)
 

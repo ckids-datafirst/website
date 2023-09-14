@@ -54,7 +54,7 @@ While many stories involve the friendly and familiar, scary stories across cultu
 
 * [Yuchen Zhang](../../../author/yuchen-zhang)
 
-* [Nai-Cih Liou](../../../author/naicih-liou)
+* [Nai-Cih Liou](../../../author/nai-cih-liou)
 
 * [Haripriya Dharmala](../../../author/haripriya-dharmala)
 

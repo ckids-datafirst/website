@@ -52,7 +52,7 @@ Libraries, museums, and archives hold unique collections that may be very useful
 
 * [Feilong Wu](../../../author/feilong-wu)
 
-* [Hsing-Hsien Wang](../../../author/hsinghsien-wang)
+* [Hsing-Hsien Wang](../../../author/hsing-hsien-wang)
 
 * [Maria MacHarrie](../../../author/maria-macharrie)
 
@@ -64,7 +64,7 @@ Libraries, museums, and archives hold unique collections that may be very useful
 
 * [Yolanda Gil](../../../author/yolanda-gil)
 
-* [Deborah Holmes-Wong](../../../author/deborah-holmeswong)
+* [Deborah Holmes-Wong](../../../author/deborah-holmes-wong)
 
 ## Skills Required by the team
 

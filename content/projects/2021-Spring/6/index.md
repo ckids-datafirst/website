@@ -7,7 +7,7 @@ authors:
 - Suchetha Bhat
 - Shruti Krishna Kumar
 - Berenice Benayoun
-- Jose Luis Ambite
+- Jose-Luis Ambite
 categories: &id001
 - Spring 2021
 date: '2021-01-01 00:00:00'
@@ -44,13 +44,13 @@ Students will analyze aging in the African turquoise killifish, a species with t
 
 * [Suchetha Bhat](../../../author/suchetha-bhat)
 
-* [Shruti Krishna Kumar](../../../author/shruti-krishnakumar)
+* [Shruti Krishna Kumar](../../../author/shruti-krishna-kumar)
 
 ## Advisors
 
 * [Berenice Benayoun](../../../author/berenice-benayoun)
 
-* [Jose Luis Ambite](../../../author/jose-luisambite)
+* [Jose-Luis Ambite](../../../author/jose-luis-ambite)
 
 ## Skills Required by the team
 

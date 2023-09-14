@@ -52,7 +52,7 @@ This project will explore the ability to track real-life health and nutrition si
 
 ## Students
 
-* [Iris C. Liu](../../../author/iris-cliu)
+* [Iris C. Liu](../../../author/iris-c-liu)
 
 ## Advisors
 

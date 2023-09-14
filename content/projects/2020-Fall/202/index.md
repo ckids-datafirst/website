@@ -62,7 +62,7 @@ The Kaggle.com competition ecosystem is a rich and active community with a desig
 
 * [Jacob Bickman](../../../author/jacob-bickman)
 
-* [Jae Young Kim](../../../author/jae-youngkim)
+* [Jae Young Kim](../../../author/jae-young-kim)
 
 * [Kevin Tsang](../../../author/kevin-tsang)
 

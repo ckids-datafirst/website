@@ -70,7 +70,7 @@ Advancements in artificial intelligence, especially neural networks, have enable
 
 ## Advisors
 
-* [Mitch Paul Mithun](../../../author/mitch-paulmithun)
+* [Mitch Paul Mithun](../../../author/mitch-paul-mithun)
 
 ## Skills Required by the team
 

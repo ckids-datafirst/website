@@ -2,24 +2,28 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: zszojka@law.usc.edu
-first_name: Thomas
-last_name: D. Lyon
+email: delahaye@usc.edu
+first_name: Kayla de
+last_name: la Haye
 organizations:
 - !Organization
-  name: null
+  name: USC
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:zszojka@law.usc.edu
-title: Thomas D. Lyon
+  link: mailto:delahaye@usc.edu
+title: Kayla de la Haye
 user_groups:
-- Advisor (Fall 2023)
+- Advisor (Fall 2020)
+- Advisor (Spring 2020)
+- Advisor (Fall 2019)
 ---
 
 ## Previous involvement
 
-* Fall 2023
+* Fall 2019
+* Fall 2020
+* Spring 2020

@@ -45,7 +45,7 @@ Neural Machine Translation (NMT) is the process of mapping a segment of words fr
 
 * [Frederick Norman](../../../author/frederick-norman)
 
-* [Vikrame Vasudev Krishnan](../../../author/vikrame-vasudevkrishnan)
+* [Vikrame Vasudev Krishnan](../../../author/vikrame-vasudev-krishnan)
 
 * [Hanyu He](../../../author/hanyu-he)
 
@@ -55,7 +55,7 @@ Neural Machine Translation (NMT) is the process of mapping a segment of words fr
 
 ## Advisors
 
-* [Mohammad Reza Rajati](../../../author/mohammad-rezarajati)
+* [Mohammad Reza Rajati](../../../author/mohammad-reza-rajati)
 
 ## Skills Required by the team
 

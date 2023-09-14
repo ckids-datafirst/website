@@ -51,7 +51,7 @@ Cancer remains the second leading cause of death in the US. However, recent adva
 
 * [Devansh Shah](../../../author/devansh-shah)
 
-* [Ting Fung Lam](../../../author/ting-funglam)
+* [Ting Fung Lam](../../../author/ting-fung-lam)
 
 ## Advisors
 

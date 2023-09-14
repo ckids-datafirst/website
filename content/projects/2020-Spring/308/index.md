@@ -7,7 +7,7 @@ authors:
 - Naiya Shah
 - Nana Andriana
 - Keith Burghardt
-- "Daniel E. O\u2019Leary"
+- Daniel O'Leary
 categories: &id001
 - Spring 2020
 date: '2020-01-01 00:00:00'
@@ -49,7 +49,7 @@ The purpose of this project is to analyze a crowdsourcing setting for both the s
 
 * [Keith Burghardt](../../../author/keith-burghardt)
 
-* [Daniel E. O’Leary](../../../author/daniel-eoleary)
+* [Daniel O&#39;Leary](../../../author/daniel-oleary)
 
 ## Skills Required by the team
 

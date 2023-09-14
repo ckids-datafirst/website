@@ -47,7 +47,7 @@ Developing software and data resources for USC students.  Software resources inc
 
 * [Sanjiv Soni](../../../author/sanjiv-soni)
 
-* [Shenoy Pratik Gurudatt](../../../author/shenoy-pratikgurudatt)
+* [Shenoy Pratik Gurudatt](../../../author/shenoy-pratik-gurudatt)
 
 ## Advisors
 

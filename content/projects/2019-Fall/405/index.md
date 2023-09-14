@@ -4,7 +4,7 @@ authors:
 - Manoj Muralidhara
 - Shubham Banka
 - Gaurav Gupta
-- Seon Kim
+- Seon Ho Kim
 - Joon-Ho Choi
 categories: &id001
 - Fall 2019
@@ -50,9 +50,9 @@ Human, as a building occupant, is always surrounded by several indoor environmen
 
 ## Advisors
 
-* [Seon Kim](../../../author/seon-kim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Skills Required by the team
 

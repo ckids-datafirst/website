@@ -35,7 +35,7 @@ Developing image-based object detection and classification models requires signi
 
 ## Advisors
 
-* [Seon Ho Kim](../../../author/seon-hokim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
 ## Skills Required by the team
 

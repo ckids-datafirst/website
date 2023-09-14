@@ -100,7 +100,7 @@ The first task for the CKIDS student will be to re-implement the parameter estim
 
 * [Tao Huang](../../../author/tao-huang)
 
-* [Jianing (Julia) Chen](../../../author/jianing-juliachen)
+* [Jianing (Julia) Chen](../../../author/jianing-julia-chen)
 
 ## Advisors
 

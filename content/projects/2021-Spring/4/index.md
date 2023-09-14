@@ -6,7 +6,7 @@ authors:
 - Ashwin Sakhare
 - Divya Manjunath
 - Nai Cih Liou
-- Seon Kim
+- Seon Ho Kim
 categories: &id001
 - Spring 2021
 - Ethics/Equity
@@ -48,17 +48,17 @@ In collaboration with the Sanitation Department of LA, IMSC has been developing 
 
 * [Trisha Sinha](../../../author/trisha-sinha)
 
-* [Harsh Jaykumar Jalan](../../../author/harsh-jaykumarjalan)
+* [Harsh Jaykumar Jalan](../../../author/harsh-jaykumar-jalan)
 
 * [Ashwin Sakhare](../../../author/ashwin-sakhare)
 
 * [Divya Manjunath](../../../author/divya-manjunath)
 
-* [Nai Cih Liou](../../../author/nai-cihliou)
+* [Nai Cih Liou](../../../author/nai-cih-liou)
 
 ## Advisors
 
-* [Seon Kim](../../../author/seon-kim)
+* [Seon Ho Kim](../../../author/seon-ho-kim)
 
 ## Skills Required by the team
 

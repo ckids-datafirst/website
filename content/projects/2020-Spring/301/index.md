@@ -40,7 +40,7 @@ This project will assemble a team to participate in the Biomarker and Endpoint A
 
 * [Nazgol Tavabi](../../../author/nazgol-tavabi)
 
-* [Che-Pai Kung](../../../author/chepai-kung)
+* [Che-Pai Kung](../../../author/che-pai-kung)
 
 * [Abhivineet Veeraghanta](../../../author/abhivineet-veeraghanta)
 

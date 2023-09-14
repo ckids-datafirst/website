@@ -50,7 +50,7 @@ The development of COVID-19 has had an impact on the lives of millions of people
 
 * [Yifan Wang](../../../author/yifan-wang)
 
-* [Vu Truong Si](../../../author/vu-truongsi)
+* [Vu Truong Si](../../../author/vu-truong-si)
 
 * [Anood Alkatheeri](../../../author/anood-alkatheeri)
 
@@ -66,7 +66,7 @@ The development of COVID-19 has had an impact on the lives of millions of people
 
 ## Advisors
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Skills Required by the team
 

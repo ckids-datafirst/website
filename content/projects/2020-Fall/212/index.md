@@ -41,7 +41,7 @@ In many architectural designing scenarios, architects and clients inevitably spe
 
 ## Students
 
-* [Muhammad Oneeb Ul Haq Khan](../../../author/muhammad-oneebulhaqkhan)
+* [Muhammad Oneeb Ul Haq Khan](../../../author/muhammad-oneeb-ul-haq-khan)
 
 * [Adwaita Jadhav](../../../author/adwaita-jadhav)
 
@@ -51,7 +51,7 @@ In many architectural designing scenarios, architects and clients inevitably spe
 
 ## Advisors
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Skills Required by the team
 

@@ -61,7 +61,7 @@ Social media habits represent one of the most common – and controversial – f
 
 * [Xiayu Li](../../../author/xiayu-li)
 
-* [Daniel Pereira Da Costa](../../../author/daniel-pereiradacosta)
+* [Daniel Pereira Da Costa](../../../author/daniel-pereira-da-costa)
 
 * [Richa Sheth](../../../author/richa-sheth)
 

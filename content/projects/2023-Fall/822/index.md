@@ -32,7 +32,7 @@ Federated learning is an approach to distributed deep learning without sharing d
 
 ## Advisors
 
-* [Jose-Luis Ambite](../../../author/joseluis-ambite)
+* [Jose-Luis Ambite](../../../author/jose-luis-ambite)
 
 ## Skills Required by the team
 

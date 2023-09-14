@@ -64,7 +64,7 @@ The project will build on the DataFest 2019 project, and will expand the scope t
 
 * [Andrés Abeliuk](../../../author/andrés-abeliuk)
 
-* [Kayla de la Haye](../../../author/kayla-delahaye)
+* [Kayla de la Haye](../../../author/kayla-de-la-haye)
 
 * [Yelena Mejova](../../../author/yelena-mejova)
 

@@ -35,7 +35,7 @@ Mengqi presented her study about thermal control using Excel, Minitab, and Pytho
 
 ## Advisors
 
-* [Joon-Ho Choi](../../../author/joonho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Final presentation resources
 

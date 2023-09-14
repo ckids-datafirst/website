@@ -5,7 +5,7 @@ authors:
 - Yuqin Jiang
 - Kanlin Cheng
 - Saravanan Manoharan
-- "Daniel E. O\u2019Leary"
+- Daniel O'Leary
 categories: &id001
 - Spring 2020
 date: '2020-01-01 00:00:00'
@@ -43,7 +43,7 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 ## Students
 
-* [Jae Young Kim](../../../author/jae-youngkim)
+* [Jae Young Kim](../../../author/jae-young-kim)
 
 * [Yuqin Jiang](../../../author/yuqin-jiang)
 
@@ -53,7 +53,7 @@ The purpose of this project is to analyze business firms’ text disclosures to 
 
 ## Advisors
 
-* [Daniel E. O’Leary](../../../author/daniel-eoleary)
+* [Daniel O&#39;Leary](../../../author/daniel-oleary)
 
 ## Skills Required by the team
 

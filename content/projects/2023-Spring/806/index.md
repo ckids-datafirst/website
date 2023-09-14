@@ -58,7 +58,7 @@ Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into
 
 ## Advisors
 
-* [Dong-Ho Lee](../../../author/dongho-lee)
+* [Dong-Ho Lee](../../../author/dong-ho-lee)
 
 * [Kian Ahrabian](../../../author/kian-ahrabian)
 

@@ -53,7 +53,7 @@ Estimates of climate variations over the past 1,000 years play an increasing rol
 
 * [Deborah Khider](../../../author/deborah-khider)
 
-* [Julien Emile-Geay](../../../author/julien-emilegeay)
+* [Julien Emile-Geay](../../../author/julien-emile-geay)
 
 ## Skills Required by the team
 
