@@ -16,22 +16,12 @@ sections:
       image:
         filename: welcome.jpeg
       title: |
-        Call for Fall 2023 DataFirst Project Proposals
+        Welcome to DataFirst: Empowering Data Science Education at USC
       text: |
-
-        **DataFest is now DataFirst!**
-
-        We provide opportunities to get involved in collaborative data science projects with other faculty and students across the university and with data science students in training.
-        We invite all faculty, post-docs, or senior researchers interested in exploring new collaborations in data science to propose projects to the center for Fall 2023.
-
-      # cta:
-      #   url: "info-advisors#how-to-apply"
-      #   label: How to submit a project proposal?
-      #   icon_pack: fas
-      #   icon: user-graduate
+        DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFest focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
 
   - block: hero
-    id: how-to-apply
+    id: about
     background:
       gradient_angle: 0
       gradient_start: "#91C8E4"
@@ -39,42 +29,9 @@ sections:
       text_color_light: false
     content:
       title: |
-        How to submit a project proposal?
+        Who can participate?
       text: |
-        In the past years, faculty members across several schools at USC have been collaborating through CKIDS to work on joint projects through DataFest events. In these events, faculty and senior researchers have been able to tackle new interdisciplinary topics, and engage students in data science, computer science and other disciplines to work together to formulate interesting problems and to define joint approaches to solve them.
+        Everyone in the USC community is welcome to participate.  USC faculty and researchers can submit project proposals. Students can join the kick-off event at the beginning of the semester and learn more about it.
 
-        **Proposal deadline: Monday, August 28, 2023**
-
-      cta:
-        url: "https://docs.google.com/forms/d/1Hd1IGD0-Sk-Xas20c--4G-q3koXzKcSlCNbVWLU0cKU"
-        label: Submit your proposal
-        icon_pack: fas
-        icon: user-graduate
-      cta_alt:
-        url: "editions/2023-spring/"
-        icon_pack: fas
-        icon: user-graduate
-        label: Learn more about the previous projects
-  - block: hero
-    id: important-dates
-    design:
-      background:
-        gradient_angle: 0
-        gradient_start: "#F6F4EB"
-        gradient_end: "#F6F4EB"
-        text_color_light: false
-    content:
-      title: |
-        Important Dates
-      text: |
-        The following are the important dates for event:
-        | Event                  | Date                       |
-        |------------------------|----------------------------|
-        | Proposal deadline      | Monday, August 28, 2023    |
-        | Kickoff meeting        | Thursday, August 31, 2023, 5-7pm in Taper Hall (THH) 201  |
-        | Student apply          | Sunday, September 3, 2023  |
-        | Faculty feedback       | Thursday, September 7, 2023|
-        | Student assignments    | Saturday, September 9, 2023|
-        | Midterm presentation   | Wednesday, October 18, 2023|
-        | Final presentation     | Friday, December 1, 2023   |
+        Past DataFirst events have included participation from faculty and students from a diverse range of departments and specializations, from journalism and communications to biology and social work. Faculty and researchers get directly involved in projects, gaining exposure to the variety of opportunities at USC for data science to solve pressing real world challenges.
 ---
