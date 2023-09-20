@@ -16,48 +16,25 @@ sections:
       image:
         filename: team-work.jpg
       title: |
-        Call for USC students to apply for DataFirst projects
+        Welcome to DataFirst: Empowering Data Science Education at USC
       text: |
-        This event is an opportunity for data science students to learn to work in teams with people who have different skills, to learn about different application domains, and to work on projects that can only be done with creative ideas.
 
-        Faculty members from across USC submitted 18 project proposals for this semester.
+        DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
 
-        Come to our information session and hear from faculty mentors.
-
-        - Friday, August 31, 2023 - 5 PM to 7 PM
-        - Taper Hall (TTH) 201 or [Zoom meeting](https://usc.zoom.us/j/96788303582)
-
-        Students can apply to work on these projects until **Sunday, September 3, 2023.**
-
-
-        Useful links:
-        - [Project descriptions](https://www.isi.edu/~ulf/teaching/DataFirstProjectsFall2023.html)
-        - [Ask your questions on Piazza](https://piazza.com/usc/fall2023/dsci591/home) - [Sign up](https://piazza.com/usc/fall2023/dsci591)
-
-        - [Kickoff meeting materials](https://www.isi.edu/~ulf/DataFirstFall2023/kickoff-resources.html)
-
-      cta:
-        url: https://www.isi.edu/~ulf/DataFirstFall2023/student-project-application-status.html
-        label: Student project application status
-        icon_pack: fas
-        icon: user-graduate
+        Awards for students that demonstrate salient contributions and unique skills are given when the final DataFirst project presentations take place at the end of the semester.
 
   - block: hero
-    id: important-dates
-    design:
-      background:
-        gradient_angle: 0
-        text_color_light: false
+    id: about
+    background:
+      gradient_angle: 0
+      gradient_start: "#91C8E4"
+      gradient_end: "#91C8E4"
+      text_color_light: false
     content:
       title: |
-        Important Dates
+        Who can participate?
       text: |
-        The following are the important dates for event:
-        | Event                  | Date                       |
-        |------------------------|----------------------------|
-        | Kickoff meeting        | Thursday, August 31, 2023, 5-7pm in Taper Hall (THH) 201  |
-        | Student apply          | Sunday, September 3, 2023  |
-        | Student assignments    | Saturday, September 9, 2023|
-        | Midterm presentation   | Wednesday, October 18, 2023|
-        | Final presentation     | Friday, December 1, 2023   |
+        Everyone in the USC community is welcome to participate.  USC faculty and researchers can submit project proposals. Students can join the kick-off event at the beginning of the semester and learn more about it.
+
+        Past DataFirst events have included participation from faculty and students from a diverse range of departments and specializations, from journalism and communications to biology and social work. Students have a chance to learn how to incorporate the different aspects of data science into their academic projects.
 ---
