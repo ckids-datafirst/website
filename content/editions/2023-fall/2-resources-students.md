@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Handbook](https://www.isi.edu/~ulf/DataFirstFall2023/DataFirstHandbook.pdf) (Prof. Yolanda Gil)
+- [Handbook](../../../website/uploads/semesters/2023-fall/handbook.pdf)
 - [Kickoff resources](../../materials/2023-fall/)
 
 ## Office hours
