@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 widget: hero
 title: |
-  Welcome to DataFirst: Empowering Data Science Education at USC
+  Welcome to DataFirst
 design:
   background:
     gradient_angle: 0
