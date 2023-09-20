@@ -1,9 +1,12 @@
 ---
 widget: hero
 title: |
-  How can I participate as a faculty member?
+  How can I participate as an advisor?
 design:
   background:
+    gradient_angle: 0
+    gradient_start: "#F6F4EB"
+    gradient_end: "#F6F4EB"
     text_color_light: false
 weight: 3
 ---
