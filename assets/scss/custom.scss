@@ -1,0 +1,14 @@
+th {
+  background-color: #28536b;
+  color: white;
+  text-align: left;
+  padding: 8px;
+}
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #bbd2dd;
+}
