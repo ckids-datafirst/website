@@ -4,8 +4,7 @@
 content: null
 date: None
 headless: true
-subtitle: 19 projects
-title: Fall 2023 Projects
+title: Projects
 widget: portfolio
 content:
   title: Projects
