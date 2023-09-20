@@ -1,6 +1,6 @@
-# Materials
+# Resources for students
 
-## Resources
+## Documents
 
 - [Handbook](../../../website/uploads/semesters/2023-fall/handbook.pdf)
 - [Kickoff resources](../../materials/2023-fall/)
