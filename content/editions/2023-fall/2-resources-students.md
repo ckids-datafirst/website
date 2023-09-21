@@ -3,8 +3,8 @@
 ## Documents
 
 - [Handbook](../../../website/uploads/semesters/2023-fall/handbook.pdf)
-- [Kickoff resources](../../materials/2023-fall/) ([Alt](https://www.isi.edu/~ulf/DataFirstFall2023/kickoff-resources.html))
-- [DataFirst Lab at ISI](https://www.isi.edu/~ulf/DataFirstFall2023/DataFirst-Lab.html)
+- [Kickoff resources](../../materials/2023-fall/) ([alt](https://www.isi.edu/~ulf/DataFirstFall2023/kickoff-resources.html))
+- [DataFirst Lab at ISI](datafirst-lab) (alt: [DataFirst Lab at ISI](https://www.isi.edu/~ulf/DataFirstFall2023/DataFirst-Lab.html))
 - [USC Advanced Research Computing (CARC)](https://www.carc.usc.edu) ([workshops](https://www.carc.usc.edu/education-and-resources/workshops))
 - [Alt Resources](https://www.isi.edu/~ulf/DataFirstFall2023/DataFirst-resources.html)
 
