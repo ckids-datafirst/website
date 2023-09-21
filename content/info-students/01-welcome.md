@@ -1,8 +1,7 @@
 ---
-# Leave the homepage title empty to use the site title
 widget: hero
 title: |
-  Welcome Advisors
+  Welcome Students
 design:
   background:
     gradient_angle: 0
