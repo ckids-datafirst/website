@@ -34,11 +34,15 @@ sections:
         icon_pack: fas
         icon: user-graduate
         label: For students
-      cta_current:
-        url: "editions/2023-fall"
-        icon_pack: fas
-        icon: user-graduate
-        label: Fall 2023 info
+
+  - block: hero
+    content:
+      id: "more"
+      title: Semester-specific info
+      subtitle:
+      text: |
+
+        [Fall 2023 DataFirst](editions/2023-fall)
     
   - block: hero
     content:
