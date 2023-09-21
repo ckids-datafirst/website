@@ -34,7 +34,7 @@ sections:
         icon_pack: fas
         icon: user-graduate
         label: For students
-      cta_alt2:
+      cta_current:
         url: "editions/2023-fall"
         icon_pack: fas
         icon: user-graduate
