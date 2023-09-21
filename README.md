@@ -11,6 +11,16 @@ The website is built using [Hugo](https://gohugo.io/) and the [Wowchemy](https:/
 
 ## Content
 
+### Semester Landing Page
+
+The landing page for a semester is located in `content/editions/<year>-<semester>/`. Each file in this directory is a section of the landing page. The order of the sections is determined by the `weight` parameter in the front matter of the files.
+
+### Materials for a Semester
+
+The materials for a semester are located in `content/materials/<year>-<semester>/`. Each file in this directory is a individual page.
+
+For example, the page for the kickoff is located in `content/materials/2023-fall/kickoff.md`. The link to this page is `https://ckids-datafirst.github.io/website/materials/2023-fall/kickoff/`.
+
 ### Team Members
 
 To add new members to the team, copy a member's folder in `content/authors/` and edit the `index.md` file and fill the fields.
