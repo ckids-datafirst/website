@@ -34,6 +34,11 @@ sections:
         icon_pack: fas
         icon: user
         label: For students
+
+        **Current DataFirst Edition**
+        <br>
+        [Fall 2023 info](editions/2023-fall)
+    
   - block: hero
     content:
       id: "ckids"
