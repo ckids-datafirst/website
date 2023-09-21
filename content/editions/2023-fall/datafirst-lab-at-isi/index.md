@@ -26,4 +26,4 @@ We offer and encourage DataFirst students to come to the USC Information Science
   
   We suggest to make an appointment ahead of time.
 
-Back to [Fall 2023 index](index.md)
+Back to [Fall 2023 index](..)
