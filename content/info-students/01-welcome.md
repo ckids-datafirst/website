@@ -14,3 +14,5 @@ editable: true
 ---
 
 DataFirst is a recurring, semester-long event at USC where students from different backgrounds and programs get hands-on experience in real projects involving data science. DataFirst focuses on projects proposed by USC faculty and researchers, often combining faculty and students in data science as well as in other disciplines.
+
+Info for current DataFirst projects: [Fall 2023](editions/2023-fall)
