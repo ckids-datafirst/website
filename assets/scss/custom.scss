@@ -12,3 +12,38 @@ td {
 tr:nth-child(even) {
   background-color: #bbd2dd;
 }
+
+.number-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 20px;
+  justify-content: center; /* center horizontally */
+  align-items: center; /* center vertically */
+}
+
+.number-card {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.number-card:hover {
+  transform: scale(1.05);
+  background-color: #e74c3c;
+}
+
+.metric-value {
+  font-size: 24px;
+  font-weight: bold;
+}

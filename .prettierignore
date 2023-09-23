@@ -1,1 +1,2 @@
 layouts/partials/page_metadata.html
+layouts/partials/blocks/**/*
