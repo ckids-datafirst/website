@@ -11,6 +11,27 @@ main:
   - name: Fall 2023
     url: editions/2023-fall
     weight: 21
+
+  - name: Dates
+    parent: Fall 2023
+    url: editions/2023-fall/#dates
+    weight: 10
+
+  - name: Resources
+    parent: Fall 2023
+    url: editions/2023-fall/#2-resources-students
+    weight: 20
+
+  - name: DataFirst Lab
+    parent: Fall 2023
+    url: materials/2023-fall/datafirst-lab-at-isi/
+    weight: 30
+
+  - name: Tutorials
+    parent: Fall 2023
+    url: materials/2023-fall/tutorials
+    weight: 30
+
   - name: Semesters
     parent: null
     url: previous-semesters

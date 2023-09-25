@@ -1,4 +1,8 @@
-# Resources for students
+---
+title: Resources for students
+id: resources
+weight: 2
+---
 
 ## Documents and links
 

@@ -1,5 +1,6 @@
 ---
 weight: 1
+id: dates
 ---
 
 # Fall 2023
@@ -15,5 +16,4 @@ weight: 1
 | ~~Meeting for mentors~~                                     | Friday, September 15, 5-6pm | Zoom (for link see 9/12 email) and ISI MDR, room 1026                                                |
 | Tutorial: Your first day on Github                          | Thursday, September 28      | [Zoom](https://usc.zoom.us/j/93294675807)                                                            |
 | Midterm presentation                                        | Wednesday, October 18       |                                                                                                      |
-
-| Final presentation | Friday, December 1 | |
+| Final presentation                                          | Friday, December 1          |                                                                                                      |
