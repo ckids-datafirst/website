@@ -6,9 +6,9 @@ id: datafirst-lab-at-isi
 
 We offer and encourage DataFirst students to come to the USC Information Sciences Institute (ISI) to work on their DataFirst projects, especially
 
-- to meet/work with other DataFirst students
+- to take advantage of a co-working space to meet and learn with other DataFirst students in person
 - to attend tutorials and
-- to connect with DataFirst faculty who work predominantly at ISI in person (with an appointment ahead of time)
+- to connect with DataFirst advisors and other data science practitioners coming to the space
 
 (But we understand that most students' academic life is centered around USC's main campus and that many students will do much of their DataFirst work there, as well as communicate on Zoom. The DataFirst Hub at ISI is an additional option we would like to offer.)
 
@@ -25,7 +25,6 @@ We offer and encourage DataFirst students to come to the USC Information Science
   - Internet access will be available (“ISI Guest Wifi”) sponsor email: keithab@isi.edu or ulf@isi.edu
 - [DataFirst Hub sign-up (optional)](https://docs.google.com/document/d/1aH3f1nBZlv_z6Jf1YzDy8jfr83sxFojx1wAaxPeWJtM)
 - Time blocks when faculty and advisers will generally be more likely to be available
-
   - Yolanda Gil: Tuesdays after 1pm
   - Ulf Hermjakob: Friday afternoons
   - Alexey Tregubov: Thursdays 9-11:45am
