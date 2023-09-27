@@ -62,7 +62,140 @@
 &lt;p>We suggest to make an appointment ahead of time.&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;p>Back to &lt;a href="../../../editions/2023-fall/">Fall 2023 index&lt;/a>&lt;/p></description></item><item><title>Tutorials</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
+&lt;p>Back to &lt;a href="../../../editions/2023-fall/">Fall 2023 index&lt;/a>&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step2/</guid><description>&lt;h1 id="introduction-to-github">Introduction to GitHub&lt;/h1>
+&lt;h2 id="step-2-commit-a-file">Step 2: Commit a file&lt;/h2>
+&lt;p>&lt;em>You created a branch! 🎉&lt;/em>&lt;/p>
+&lt;p>Creating a branch allows you to edit your project without changing the &lt;code>main&lt;/code> branch. Now that you have a branch, it’s time to create a file and make your first commit!&lt;/p>
+&lt;p>&lt;strong>What is a commit?&lt;/strong>: A &lt;em>&lt;a href="https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits" target="_blank" rel="noopener">commit&lt;/a>&lt;/em> is a set of changes to the files and folders in your project. A commit exists in a branch. For more information, see &amp;ldquo;&lt;a href="https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits" target="_blank" rel="noopener">About commits&lt;/a>&amp;rdquo;.&lt;/p>
+&lt;h3 id="-activity-your-first-commit">⌨️ Activity: Your first commit&lt;/h3>
+&lt;p>The following steps will guide you through the process of committing a change on GitHub. A commit records changes in renaming, changing content within, creating a new file, and any other changes made to your project. For this exercise, committing a change requires first adding a new file to your new branch.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>On the &lt;strong>&amp;lt; &amp;gt; Code&lt;/strong> tab in the header menu of your repository, make sure you&amp;rsquo;re on your new branch &lt;code>add-picture-&amp;lt;your-name&amp;gt;&lt;/code>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Navigate to the folder &lt;code>content/authors/&lt;/code> and click on the folder with your name.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/authors-folder.png" alt="authors-folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select the &lt;strong>Add file&lt;/strong> drop-down and click &lt;strong>Upload a new file&lt;/strong>. The filename &lt;strong>should&lt;/strong> be &lt;code>avatar.png&lt;/code> or &lt;code>avatar.jpeg&lt;/code>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/create-new-file.png" alt="Upload files" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>Commit changes&amp;hellip;&lt;/strong> in the upper right corner above the contents box. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what&amp;rsquo;s included in your commit. GitHub offers a simple default message, but let&amp;rsquo;s change it slightly for practice. First, enter &lt;code>Add PROFILE.md&lt;/code> in the first text-entry field titled &amp;ldquo;Commit message&amp;rdquo;.&lt;/p>
+&lt;img alt="screenshot of adding a new file with a commit message" src="../images/commit-full-screen.png" />
+&lt;/li>
+&lt;li>
+&lt;p>In this lesson, we&amp;rsquo;ll ignore the other fields and click &lt;strong>Commit changes&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Next, you&amp;rsquo;ll learn how to create a pull request. &lt;a href="../step3">Click here to continue to Step 3.&lt;/a>&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step3/</guid><description>&lt;h2 id="step-3-open-a-pull-request">Step 3: Open a pull request&lt;/h2>
+&lt;p>&lt;em>Nice work making that commit! ✨&lt;/em>&lt;/p>
+&lt;p>Now that you have made a change to the project and created a commit, it’s time to share your proposed change through a pull request!&lt;/p>
+&lt;p>&lt;strong>What is a pull request?&lt;/strong>: Collaboration happens on a &lt;em>&lt;a href="https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request" target="_blank" rel="noopener">pull request&lt;/a>&lt;/em>. The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. In a side by side comparison, this pull request is going to keep the changes you just made on your branch and propose applying them to the &lt;code>main&lt;/code> project branch. For more information about pull requests, see &amp;ldquo;&lt;a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank" rel="noopener">About pull requests&lt;/a>&amp;rdquo;.&lt;/p>
+&lt;h3 id="-activity-create-a-pull-request">⌨️ Activity: Create a pull request&lt;/h3>
+&lt;p>You may have noticed after your commit that a message displayed indicating your recent push to your branch and providing a button that says &lt;strong>Compare &amp;amp; pull request&lt;/strong>.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/compare-and-pull-request.png" alt="screenshot of message and button" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>To create a pull request automatically, click &lt;strong>Compare &amp;amp; pull request&lt;/strong>, and then skip to step 6 below. If you don&amp;rsquo;t click the button, the instructions below walk you through manually setting up the pull request.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Click on the &lt;strong>Pull requests&lt;/strong> tab in the header menu of your repository.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>New pull request&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In the &lt;strong>base:&lt;/strong> dropdown, make sure &lt;strong>main&lt;/strong> is selected.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Select the &lt;strong>compare:&lt;/strong> dropdown, and click &lt;code>add-picture-&amp;lt;your-name&amp;gt;&lt;/code>.&lt;/p>
+&lt;img alt="screenshot showing both branch selections" src="../images/pull-request-branches.png" />
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>Create pull request&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Enter a title for your pull request. By default, the title will automatically be the name of your branch. For this exercise, let&amp;rsquo;s edit the field to say &lt;code>Add information about &amp;lt;your name&amp;gt;&lt;/code>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The next field helps you provide a description of the changes you made. Here, you can add a description of what you’ve accomplished so far. As a reminder, you have: created a new branch, created a file, and made a commit.&lt;/p>
+&lt;img alt="screenshot showing pull request" src="../images/Pull-request-description.png" />
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>Create pull request&lt;/strong>. You will automatically be navigated to your new pull request.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Next, you&amp;rsquo;ll learn how to merge a pull request. &lt;a href="../step4">Click here to continue to Step 4.&lt;/a>&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step4/</guid><description>&lt;h2 id="step-4-merge-your-pull-request">Step 4: Merge your pull request&lt;/h2>
+&lt;p>&lt;em>Nicely done! 😎&lt;/em>&lt;/p>
+&lt;p>You successfully created a pull request. You can now merge your pull request.&lt;/p>
+&lt;p>&lt;strong>What is a merge?&lt;/strong>: A &lt;em>&lt;a href="https://docs.github.com/en/get-started/quickstart/github-glossary#merge" target="_blank" rel="noopener">merge&lt;/a>&lt;/em> adds the changes in your pull request and branch into the &lt;code>main&lt;/code> branch. For more information about merges, see &amp;ldquo;&lt;a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request" target="_blank" rel="noopener">Merging a pull request&lt;/a>.&amp;rdquo;&lt;/p>
+&lt;p>As noted in the previous step, you may have seen evidence of GitHub Actions running which automatically progresses your instructions to the next step. You&amp;rsquo;ll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/Green-merge-pull-request.png" alt="screenshot of green merge pull request button" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="-activity-merge-the-pull-request">⌨️ Activity: Merge the pull request&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Click &lt;strong>Merge pull request&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>Confirm merge&lt;/strong>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once your branch has been merged, you don&amp;rsquo;t need it anymore. To delete this branch, click &lt;strong>Delete branch&lt;/strong>.&lt;/p>
+&lt;img alt="screenshot showing delete branch button" src="../images/delete-branch.png"/>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Note&lt;/strong>: Check out the &lt;a href="../step5">Finish step to see what you can learn next&lt;/a>!&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step5/</guid><description>&lt;h2 id="finish">Finish&lt;/h2>
+&lt;p>&lt;em>Congratulations, you&amp;rsquo;ve completed this course and joined the world of developers!&lt;/em>&lt;/p>
+&lt;img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+&lt;p>Here&amp;rsquo;s a recap of your accomplishments:&lt;/p>
+&lt;ul>
+&lt;li>You learned about GitHub, repositories, branches, commits, and pull requests.&lt;/li>
+&lt;li>You created a branch, a commit, and a pull request.&lt;/li>
+&lt;li>You merged a pull request.&lt;/li>
+&lt;li>You made your first contribution! 🎉&lt;/li>
+&lt;/ul>
+&lt;h3 id="whats-next">What&amp;rsquo;s next?&lt;/h3>
+&lt;p>If you&amp;rsquo;d like to make a profile README, use the quickstart instructions below or follow the instructions in the &lt;a href="https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank" rel="noopener">Managing your profile README&lt;/a> article.&lt;/p>
+&lt;ol>
+&lt;li>Make a new public repository with a name that matches your GitHub username.&lt;/li>
+&lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
+&lt;li>Edit the contents of the &lt;code>README.md&lt;/code> file.&lt;/li>
+&lt;li>If you created a new branch for your file, open and merge a pull request on your branch.&lt;/li>
+&lt;li>Lastly, we&amp;rsquo;d love to hear what you thought of this course &lt;a href="https://github.com/orgs/skills/discussions/categories/introduction-to-github" target="_blank" rel="noopener">in our discussion board&lt;/a>.&lt;/li>
+&lt;/ol>
+&lt;p>Check out these resources to learn more or get involved:&lt;/p>
+&lt;ul>
+&lt;li>Are you a student? Check out the &lt;a href="https://education.github.com/pack" target="_blank" rel="noopener">Student Developer Pack&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://github.com/skills" target="_blank" rel="noopener">Take another GitHub Skills course&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://docs.github.com/en/get-started" target="_blank" rel="noopener">Read the GitHub Getting Started docs&lt;/a>.&lt;/li>
+&lt;li>To find projects to contribute to, check out &lt;a href="https://github.com/explore" target="_blank" rel="noopener">GitHub Explore&lt;/a>.&lt;/li>
+&lt;/ul></description></item><item><title>Make a profile README</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</guid><description>&lt;p>Use the quickstart instructions below or follow the instructions in the &lt;a href="https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank" rel="noopener">Managing your profile README&lt;/a> article.&lt;/p>
+&lt;ol>
+&lt;li>Make a new public repository with a name that matches your GitHub username.&lt;/li>
+&lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
+&lt;li>Edit the contents of the &lt;code>README.md&lt;/code> file.&lt;/li>
+&lt;li>If you created a new branch for your file, open and merge a pull request on your branch.&lt;/li>
+&lt;/ol></description></item><item><title>Tutorials</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -83,5 +216,65 @@
 &lt;/table>
 &lt;h3 id="resources">Resources&lt;/h3>
 &lt;p>Before the session, we strongly recommend taking the free online course titled &amp;ldquo;My First Day on Github&amp;rdquo; available at &lt;a href="https://skills.github.com" target="_blank" rel="noopener">https://skills.github.com/&lt;/a>. Completing this course will give you a strong foundation and allow you to come prepared with questions and insights, enhancing your learning experience during the tutorial.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="../first-day-on-github/activity-one">Exercise #1: Your first day on GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../first-day-on-github/activity-two">Exercise #2: Create your profile README&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="more-tutorials">More tutorials&lt;/h2>
-&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item></channel></rss>
+&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</guid><description>&lt;h2 id="step-1-create-a-branch">Step 1: Create a branch&lt;/h2>
+&lt;p>&lt;em>Welcome to &amp;ldquo;Introduction to GitHub&amp;rdquo;! 👋&lt;/em>&lt;/p>
+&lt;p>&lt;strong>What is GitHub?&lt;/strong>: GitHub is a collaboration platform that uses &lt;em>&lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#git" target="_blank" rel="noopener">Git&lt;/a>&lt;/em> for versioning. GitHub is a popular place to share and contribute to &lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#open-source" target="_blank" rel="noopener">open-source&lt;/a> software.
+&lt;br>📺 &lt;a href="https://www.youtube.com/watch?v=pBy1zgt0XPc" target="_blank" rel="noopener">Video: What is GitHub?&lt;/a>&lt;/p>
+&lt;p>&lt;strong>What is a repository?&lt;/strong>: A &lt;em>&lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#repository" target="_blank" rel="noopener">repository&lt;/a>&lt;/em> is a project containing files and folders. A repository tracks versions of files and folders. For more information, see &amp;ldquo;&lt;a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories" target="_blank" rel="noopener">About repositories&lt;/a>&amp;rdquo; from GitHub Docs.&lt;/p>
+&lt;p>&lt;strong>What is a branch?&lt;/strong>: A &lt;em>&lt;a href="https://docs.github.com/en/get-started/quickstart/github-glossary#branch" target="_blank" rel="noopener">branch&lt;/a>&lt;/em> is a parallel version of your repository. By default, your repository has one branch named &lt;code>main&lt;/code> and it is considered to be the definitive branch. Creating additional branches allows you to copy the &lt;code>main&lt;/code> branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.&lt;/p>
+&lt;p>Branches allow you to separate your work from the &lt;code>main&lt;/code> branch. In other words, everyone&amp;rsquo;s work is safe while you contribute. For more information, see &amp;ldquo;&lt;a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches" target="_blank" rel="noopener">About branches&lt;/a>&amp;rdquo;.&lt;/p>
+&lt;h3 id="-activity-your-first-branch">⌨️ Activity: Your first branch&lt;/h3>
+&lt;ol>
+&lt;li>
+&lt;p>Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Navigate to the &lt;strong>&amp;lt; &amp;gt; Code&lt;/strong> tab in the header menu of your repository.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/code-tab.png" alt="code-tab" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click on the &lt;strong>main&lt;/strong> branch drop-down.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/main-branch-dropdown.png" alt="main-branch-dropdown" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In the field, enter a name for your branch: &lt;code>add-picture-&amp;lt;your-name&amp;gt;&lt;/code>. For example: &lt;code>add-picture-max&lt;/code>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click &lt;strong>Create branch: &lt;code>add-picture-&amp;lt;your-name&amp;gt;&lt;/code>&lt;/strong> to create your branch.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../images/create-branch-button.png" alt="create-branch-button" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>The branch will automatically switch to the one you have just created.
+The &lt;strong>main&lt;/strong> branch drop-down bar will reflect your new branch and display the new branch name.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Next, you&amp;rsquo;ll learn how to commit a file to your new branch. &lt;a href="../step2">Click here to continue to Step 2.&lt;/a>&lt;/p></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-one/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-one/</guid><description>&lt;p>&lt;em>Get started using GitHub in less than an hour.&lt;/em>&lt;/p>
+&lt;h2 id="welcome">Welcome&lt;/h2>
+&lt;p>People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.&lt;/p>
+&lt;p>In this course, you will:&lt;/p>
+&lt;ol>
+&lt;li>Create a branch&lt;/li>
+&lt;li>Commit a file&lt;/li>
+&lt;li>Open a pull request&lt;/li>
+&lt;li>Merge your pull request&lt;/li>
+&lt;/ol>
+&lt;h3 id="how-to-start-this-course">How to start this course&lt;/h3>
+&lt;p>Go to the &lt;a href="https://github.com/skills/introduction-to-github#introduction-to-github" target="_blank" rel="noopener">course repository&lt;/a> and follow the instructions in the README.&lt;/p></description></item></channel></rss>
