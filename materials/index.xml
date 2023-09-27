@@ -189,7 +189,27 @@
 &lt;li>&lt;a href="https://github.com/skills" target="_blank" rel="noopener">Take another GitHub Skills course&lt;/a>.&lt;/li>
 &lt;li>&lt;a href="https://docs.github.com/en/get-started" target="_blank" rel="noopener">Read the GitHub Getting Started docs&lt;/a>.&lt;/li>
 &lt;li>To find projects to contribute to, check out &lt;a href="https://github.com/explore" target="_blank" rel="noopener">GitHub Explore&lt;/a>.&lt;/li>
-&lt;/ul></description></item><item><title>Make a profile README</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</guid><description>&lt;p>Use the quickstart instructions below or follow the instructions in the &lt;a href="https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank" rel="noopener">Managing your profile README&lt;/a> article.&lt;/p>
+&lt;/ul></description></item><item><title>Github Pages</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</guid><description>&lt;h1 id="github-pages">GitHub Pages&lt;/h1>
+&lt;p>&lt;em>Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/em>&lt;/p>
+&lt;h2 id="welcome">Welcome&lt;/h2>
+&lt;p>With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you&amp;rsquo;d like. Your GitHub repository can easily become its own website. In this course, we&amp;rsquo;ll show you how to set up your own site or blog using GitHub Pages.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Who is this for&lt;/strong>: Beginners, students, project maintainers, small businesses.&lt;/li>
+&lt;li>&lt;strong>What you&amp;rsquo;ll learn&lt;/strong>: How to build a GitHub Pages site.&lt;/li>
+&lt;li>&lt;strong>What you&amp;rsquo;ll build&lt;/strong>: We&amp;rsquo;ll build a simple GitHub Pages site with a blog. We&amp;rsquo;ll use &lt;a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll&lt;/a>, a static site generator.&lt;/li>
+&lt;li>&lt;strong>Prerequisites&lt;/strong>: If you need to learn about branches, commits, and pull requests, take &lt;a href="https://github.com/skills/introduction-to-github" target="_blank" rel="noopener">Introduction to GitHub&lt;/a> first.&lt;/li>
+&lt;li>&lt;strong>How long&lt;/strong>: This course takes less than one hour to complete.&lt;/li>
+&lt;/ul>
+&lt;p>In this course, you will:&lt;/p>
+&lt;ol>
+&lt;li>Enable GitHub Pages&lt;/li>
+&lt;li>Configure your site&lt;/li>
+&lt;li>Customize your home page&lt;/li>
+&lt;li>Create a blog post&lt;/li>
+&lt;li>Merge your pull request&lt;/li>
+&lt;/ol>
+&lt;h3 id="how-to-start-this-course">How to start this course&lt;/h3>
+&lt;p>Go to &lt;a href="https://github.com/skills/github-pages" target="_blank" rel="noopener">Github Pages tutorial&lt;/a> and follow the instructions.&lt;/p></description></item><item><title>Make a profile README</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</guid><description>&lt;p>Use the quickstart instructions below or follow the instructions in the &lt;a href="https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank" rel="noopener">Managing your profile README&lt;/a> article.&lt;/p>
 &lt;ol>
 &lt;li>Make a new public repository with a name that matches your GitHub username.&lt;/li>
 &lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
@@ -219,6 +239,7 @@
 &lt;ul>
 &lt;li>&lt;a href="../first-day-on-github/activity-one">Exercise #1: Your first day on GitHub&lt;/a>&lt;/li>
 &lt;li>&lt;a href="../first-day-on-github/activity-two">Exercise #2: Create your profile README&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../first-day-on-github/activity-three">Exercise #3: GitHub Pages&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="more-tutorials">More tutorials&lt;/h2>
 &lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</guid><description>&lt;h2 id="step-1-create-a-branch">Step 1: Create a branch&lt;/h2>
