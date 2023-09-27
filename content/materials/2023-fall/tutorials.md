@@ -16,6 +16,7 @@ Before the session, we strongly recommend taking the free online course titled "
 
 - [Exercise #1: Your first day on GitHub](../first-day-on-github/activity-one)
 - [Exercise #2: Create your profile README](../first-day-on-github/activity-two)
+- [Exercise #3: GitHub Pages](../first-day-on-github/activity-three)
 
 ## More tutorials
 
