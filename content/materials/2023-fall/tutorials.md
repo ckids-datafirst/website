@@ -19,6 +19,10 @@ Before the session, we strongly recommend taking the free online course titled "
 - [Create a GitHub account](https://github.com)
 - [Share your GitHub username](https://forms.gle/kEb3wBrQXKK7ieov9)
 
+## Links
+
+- [Presentation](../first-day-on-github/github-tutorial.pdf)
+- [Youtube](https://youtu.be/wcaU1aDe9SE)
 
 ## More tutorials
 
