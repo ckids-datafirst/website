@@ -1,4 +1,4 @@
----
+![image](https://github.com/ckids-datafirst/website/assets/2365990/b772f3a2-f322-4fc8-a7fc-2bfaa24caad0)---
 title: Tutorials
 share: false
 editable: true
@@ -14,9 +14,11 @@ editable: true
 
 Before the session, we strongly recommend taking the free online course titled "My First Day on Github" available at [https://skills.github.com/](https://skills.github.com). Completing this course will give you a strong foundation and allow you to come prepared with questions and insights, enhancing your learning experience during the tutorial.
 
-- [Exercise #1: Your first day on GitHub](../first-day-on-github/activity-one)
-- [Exercise #2: Create your profile README](../first-day-on-github/activity-two)
-- [Exercise #3: GitHub Pages](../first-day-on-github/activity-three)
+### Requirements
+
+- [Create a GitHub account](https://github.com)
+- [Share your GitHub username](https://forms.gle/kEb3wBrQXKK7ieov9)
+
 
 ## More tutorials
 
