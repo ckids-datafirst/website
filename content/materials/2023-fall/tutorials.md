@@ -1,4 +1,4 @@
-![image](https://github.com/ckids-datafirst/website/assets/2365990/b772f3a2-f322-4fc8-a7fc-2bfaa24caad0)---
+---
 title: Tutorials
 share: false
 editable: true
