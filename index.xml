@@ -3808,16 +3808,33 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>&lt;a href="https://github.com/skills" target="_blank" rel="noopener">Take another GitHub Skills course&lt;/a>.&lt;/li>
 &lt;li>&lt;a href="https://docs.github.com/en/get-started" target="_blank" rel="noopener">Read the GitHub Getting Started docs&lt;/a>.&lt;/li>
 &lt;li>To find projects to contribute to, check out &lt;a href="https://github.com/explore" target="_blank" rel="noopener">GitHub Explore&lt;/a>.&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="editable-true">
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://github.com/ckids-datafirst/website/assets/2365990/b772f3a2-f322-4fc8-a7fc-2bfaa24caad0" alt="image" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&amp;mdash;
-title: Tutorials
-share: false
-editable: true&lt;/h2>
-&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/website/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/people/</guid><description/></item><item><title>Github Pages</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</guid><description>&lt;h1 id="github-pages">GitHub Pages&lt;/h1>
+&lt;p>&lt;em>Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/em>&lt;/p>
+&lt;h2 id="welcome">Welcome&lt;/h2>
+&lt;p>With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you&amp;rsquo;d like. Your GitHub repository can easily become its own website. In this course, we&amp;rsquo;ll show you how to set up your own site or blog using GitHub Pages.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Who is this for&lt;/strong>: Beginners, students, project maintainers, small businesses.&lt;/li>
+&lt;li>&lt;strong>What you&amp;rsquo;ll learn&lt;/strong>: How to build a GitHub Pages site.&lt;/li>
+&lt;li>&lt;strong>What you&amp;rsquo;ll build&lt;/strong>: We&amp;rsquo;ll build a simple GitHub Pages site with a blog. We&amp;rsquo;ll use &lt;a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll&lt;/a>, a static site generator.&lt;/li>
+&lt;li>&lt;strong>Prerequisites&lt;/strong>: If you need to learn about branches, commits, and pull requests, take &lt;a href="https://github.com/skills/introduction-to-github" target="_blank" rel="noopener">Introduction to GitHub&lt;/a> first.&lt;/li>
+&lt;li>&lt;strong>How long&lt;/strong>: This course takes less than one hour to complete.&lt;/li>
+&lt;/ul>
+&lt;p>In this course, you will:&lt;/p>
+&lt;ol>
+&lt;li>Enable GitHub Pages&lt;/li>
+&lt;li>Configure your site&lt;/li>
+&lt;li>Customize your home page&lt;/li>
+&lt;li>Create a blog post&lt;/li>
+&lt;li>Merge your pull request&lt;/li>
+&lt;/ol>
+&lt;h3 id="how-to-start-this-course">How to start this course&lt;/h3>
+&lt;p>Go to &lt;a href="https://github.com/skills/github-pages" target="_blank" rel="noopener">Github Pages tutorial&lt;/a> and follow the instructions.&lt;/p></description></item><item><title>Make a profile README</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</guid><description>&lt;p>Use the quickstart instructions below or follow the instructions in the &lt;a href="https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank" rel="noopener">Managing your profile README&lt;/a> article.&lt;/p>
+&lt;ol>
+&lt;li>Make a new public repository with a name that matches your GitHub username.&lt;/li>
+&lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
+&lt;li>Edit the contents of the &lt;code>README.md&lt;/code> file.&lt;/li>
+&lt;li>If you created a new branch for your file, open and merge a pull request on your branch.&lt;/li>
+&lt;/ol></description></item><item><title>Tutorials</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -3844,33 +3861,7 @@ editable: true&lt;/h2>
 &lt;li>&lt;a href="https://forms.gle/kEb3wBrQXKK7ieov9" target="_blank" rel="noopener">Share your GitHub username&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="more-tutorials">More tutorials&lt;/h2>
-&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/website/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/people/</guid><description/></item><item><title>Github Pages</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</guid><description>&lt;h1 id="github-pages">GitHub Pages&lt;/h1>
-&lt;p>&lt;em>Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/em>&lt;/p>
-&lt;h2 id="welcome">Welcome&lt;/h2>
-&lt;p>With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you&amp;rsquo;d like. Your GitHub repository can easily become its own website. In this course, we&amp;rsquo;ll show you how to set up your own site or blog using GitHub Pages.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Who is this for&lt;/strong>: Beginners, students, project maintainers, small businesses.&lt;/li>
-&lt;li>&lt;strong>What you&amp;rsquo;ll learn&lt;/strong>: How to build a GitHub Pages site.&lt;/li>
-&lt;li>&lt;strong>What you&amp;rsquo;ll build&lt;/strong>: We&amp;rsquo;ll build a simple GitHub Pages site with a blog. We&amp;rsquo;ll use &lt;a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll&lt;/a>, a static site generator.&lt;/li>
-&lt;li>&lt;strong>Prerequisites&lt;/strong>: If you need to learn about branches, commits, and pull requests, take &lt;a href="https://github.com/skills/introduction-to-github" target="_blank" rel="noopener">Introduction to GitHub&lt;/a> first.&lt;/li>
-&lt;li>&lt;strong>How long&lt;/strong>: This course takes less than one hour to complete.&lt;/li>
-&lt;/ul>
-&lt;p>In this course, you will:&lt;/p>
-&lt;ol>
-&lt;li>Enable GitHub Pages&lt;/li>
-&lt;li>Configure your site&lt;/li>
-&lt;li>Customize your home page&lt;/li>
-&lt;li>Create a blog post&lt;/li>
-&lt;li>Merge your pull request&lt;/li>
-&lt;/ol>
-&lt;h3 id="how-to-start-this-course">How to start this course&lt;/h3>
-&lt;p>Go to &lt;a href="https://github.com/skills/github-pages" target="_blank" rel="noopener">Github Pages tutorial&lt;/a> and follow the instructions.&lt;/p></description></item><item><title>Make a profile README</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-two/</guid><description>&lt;p>Use the quickstart instructions below or follow the instructions in the &lt;a href="https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme" target="_blank" rel="noopener">Managing your profile README&lt;/a> article.&lt;/p>
-&lt;ol>
-&lt;li>Make a new public repository with a name that matches your GitHub username.&lt;/li>
-&lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
-&lt;li>Edit the contents of the &lt;code>README.md&lt;/code> file.&lt;/li>
-&lt;li>If you created a new branch for your file, open and merge a pull request on your branch.&lt;/li>
-&lt;/ol></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</guid><description>&lt;h2 id="step-1-create-a-branch">Step 1: Create a branch&lt;/h2>
+&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</guid><description>&lt;h2 id="step-1-create-a-branch">Step 1: Create a branch&lt;/h2>
 &lt;p>&lt;em>Welcome to &amp;ldquo;Introduction to GitHub&amp;rdquo;! 👋&lt;/em>&lt;/p>
 &lt;p>&lt;strong>What is GitHub?&lt;/strong>: GitHub is a collaboration platform that uses &lt;em>&lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#git" target="_blank" rel="noopener">Git&lt;/a>&lt;/em> for versioning. GitHub is a popular place to share and contribute to &lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#open-source" target="_blank" rel="noopener">open-source&lt;/a> software.
 &lt;br>📺 &lt;a href="https://www.youtube.com/watch?v=pBy1zgt0XPc" target="_blank" rel="noopener">Video: What is GitHub?&lt;/a>&lt;/p>
