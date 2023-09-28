@@ -189,7 +189,43 @@
 &lt;li>&lt;a href="https://github.com/skills" target="_blank" rel="noopener">Take another GitHub Skills course&lt;/a>.&lt;/li>
 &lt;li>&lt;a href="https://docs.github.com/en/get-started" target="_blank" rel="noopener">Read the GitHub Getting Started docs&lt;/a>.&lt;/li>
 &lt;li>To find projects to contribute to, check out &lt;a href="https://github.com/explore" target="_blank" rel="noopener">GitHub Explore&lt;/a>.&lt;/li>
-&lt;/ul></description></item><item><title>Github Pages</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</guid><description>&lt;h1 id="github-pages">GitHub Pages&lt;/h1>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="editable-true">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://github.com/ckids-datafirst/website/assets/2365990/b772f3a2-f322-4fc8-a7fc-2bfaa24caad0" alt="image" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&amp;mdash;
+title: Tutorials
+share: false
+editable: true&lt;/h2>
+&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Date&lt;/th>
+&lt;th>Time&lt;/th>
+&lt;th>Platform&lt;/th>
+&lt;th>Zoom Link&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>September 28th&lt;/td>
+&lt;td>10:00 AM - 11:30 AM (Pacific Time)&lt;/td>
+&lt;td>Zoom&lt;/td>
+&lt;td>&lt;a href="https://usc.zoom.us/j/93294675807" target="_blank" rel="noopener">https://usc.zoom.us/j/93294675807&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;p>Before the session, we strongly recommend taking the free online course titled &amp;ldquo;My First Day on Github&amp;rdquo; available at &lt;a href="https://skills.github.com" target="_blank" rel="noopener">https://skills.github.com/&lt;/a>. Completing this course will give you a strong foundation and allow you to come prepared with questions and insights, enhancing your learning experience during the tutorial.&lt;/p>
+&lt;h3 id="requirements">Requirements&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com" target="_blank" rel="noopener">Create a GitHub account&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://forms.gle/kEb3wBrQXKK7ieov9" target="_blank" rel="noopener">Share your GitHub username&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="more-tutorials">More tutorials&lt;/h2>
+&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title>Github Pages</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/first-day-on-github/activity-three/</guid><description>&lt;h1 id="github-pages">GitHub Pages&lt;/h1>
 &lt;p>&lt;em>Create a site or blog from your GitHub repositories with GitHub Pages.&lt;/em>&lt;/p>
 &lt;h2 id="welcome">Welcome&lt;/h2>
 &lt;p>With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you&amp;rsquo;d like. Your GitHub repository can easily become its own website. In this course, we&amp;rsquo;ll show you how to set up your own site or blog using GitHub Pages.&lt;/p>
@@ -215,34 +251,7 @@
 &lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
 &lt;li>Edit the contents of the &lt;code>README.md&lt;/code> file.&lt;/li>
 &lt;li>If you created a new branch for your file, open and merge a pull request on your branch.&lt;/li>
-&lt;/ol></description></item><item><title>Tutorials</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Date&lt;/th>
-&lt;th>Time&lt;/th>
-&lt;th>Platform&lt;/th>
-&lt;th>Zoom Link&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>September 28th&lt;/td>
-&lt;td>10:00 AM - 11:30 AM (Pacific Time)&lt;/td>
-&lt;td>Zoom&lt;/td>
-&lt;td>&lt;a href="https://usc.zoom.us/j/93294675807" target="_blank" rel="noopener">https://usc.zoom.us/j/93294675807&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h3 id="resources">Resources&lt;/h3>
-&lt;p>Before the session, we strongly recommend taking the free online course titled &amp;ldquo;My First Day on Github&amp;rdquo; available at &lt;a href="https://skills.github.com" target="_blank" rel="noopener">https://skills.github.com/&lt;/a>. Completing this course will give you a strong foundation and allow you to come prepared with questions and insights, enhancing your learning experience during the tutorial.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="../first-day-on-github/activity-one">Exercise #1: Your first day on GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="../first-day-on-github/activity-two">Exercise #2: Create your profile README&lt;/a>&lt;/li>
-&lt;li>&lt;a href="../first-day-on-github/activity-three">Exercise #3: GitHub Pages&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="more-tutorials">More tutorials&lt;/h2>
-&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</guid><description>&lt;h2 id="step-1-create-a-branch">Step 1: Create a branch&lt;/h2>
+&lt;/ol></description></item><item><title>Your first day on GitHub</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/editing-your-website/step1/</guid><description>&lt;h2 id="step-1-create-a-branch">Step 1: Create a branch&lt;/h2>
 &lt;p>&lt;em>Welcome to &amp;ldquo;Introduction to GitHub&amp;rdquo;! 👋&lt;/em>&lt;/p>
 &lt;p>&lt;strong>What is GitHub?&lt;/strong>: GitHub is a collaboration platform that uses &lt;em>&lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#git" target="_blank" rel="noopener">Git&lt;/a>&lt;/em> for versioning. GitHub is a popular place to share and contribute to &lt;a href="https://docs.github.com/get-started/quickstart/github-glossary#open-source" target="_blank" rel="noopener">open-source&lt;/a> software.
 &lt;br>📺 &lt;a href="https://www.youtube.com/watch?v=pBy1zgt0XPc" target="_blank" rel="noopener">Video: What is GitHub?&lt;/a>&lt;/p>
