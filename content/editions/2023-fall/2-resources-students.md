@@ -17,10 +17,9 @@ weight: 2
 | Date                     | Time        | Location                                                           | Mentor                                           |
 | ------------------------ | ----------- | ------------------------------------------------------------------ | ------------------------------------------------ |
 | Tuesday, Sept. 19, 2023  | 7-8pm       | [USC ZHS163](https://sites.usc.edu/roomfinder/2022/09/07/zhs-163/) | Yuko Ohmori                                      |
-| Thursday, Sept. 28, 2023 | 2-3pm       | [Zoom](https://usc.zoom.us/j/9362535427) and by appointment        | [Keith Burghardt](../../author/keith-burghardt/) |
-| Thursday, Sept. 28, 2023 | 10am-5pm    | in person at ISI in DataFirst Hub on 10th floor                    | [Yolanda Gil](../../author/yolanda-gil) |
-| Thursday, Sept. 28, 2023 | 11:15-11:45am | in person at ISI in DataFirst Hub on 10th floor<br>and later that afternoon by appointment | [Ulf Hermjakob](../../author/ulf-hermjakob) |
-| Friday, Sept. 29, 2023   | 4:30-5pm    | [Zoom](https://usc.zoom.us/j/97871923982?pwd=a3FPeXE0T1RXR0hNZUR2V05IanZXdz09) and by appointment        | [Ulf Hermjakob](../../author/ulf-hermjakob)      |
+| Thursday, Oct. 6, 2023 | 2-3pm       | [Zoom](https://usc.zoom.us/j/9362535427) and by appointment        | [Keith Burghardt](../../author/keith-burghardt/) |
+|     By appointment      |             |                     | [Yolanda Gil](../../author/yolanda-gil) |
+|     By appointment       |             |       | [Ulf Hermjakob](../../author/ulf-hermjakob) |
 
 ## Tutorials
 
