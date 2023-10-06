@@ -38,3 +38,8 @@ The menu can be edited in the `config/_default/menus.yaml` file.
 #### General settings
 
 The core parameters for the website can be edited in the config/\_default/params.yaml file. For more information, see the [configuration guide](https://wowchemy.com/docs/getting-started/get-started/#customize-it).
+
+## Acknowledgements
+
+Thanks to Natalia Davydova for the [Responsive Horizontal Timeline in HTML CSS
+](https://www.codepel.com/html-css/responsive-horizontal-timeline-in-html-css/) MIT licensed code.

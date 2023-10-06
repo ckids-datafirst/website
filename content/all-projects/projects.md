@@ -17,57 +17,28 @@ content:
   #
     - name: All
       tag: '*'
-
+#
     - name: Data Science Infrastructure
-      tag: Data Science Infrastructure
-    - name: Environmental Sustainability
-      tag: Environmental Sustainability
-    - name: Engineering
-      tag: Engineering
-    - name: Equity
-      tag: Equity
-    - name: Science
-      tag: Science
-    - name: Communication
-      tag: Communication
-    - name: Journalism
-      tag: Journalism
-
-
-    - name: Online Communication
-      tag: Online Communication
-
-
-    - name: Ethics
-      tag: Ethics
-
-
-    - name: Social Work
-      tag: Social Work
-
-
-    - name: Health
-      tag: Health
-
-
-    - name: Arts
-      tag: Arts
-
-
-    - name: Education
-      tag: Education
-
-
+      tag: 'Data Science Infrastructure'
     - name: Economics
-      tag: Economics
-
-
+      tag: 'Economics'
+    - name: Education
+      tag: 'Education'
+    - name: Environmental Sustainability
+      tag: 'Environmental Sustainability'
+    - name: Ethics/Equity
+      tag: 'Ethics/Equity'
+    - name: Health
+      tag: 'Health'
+    - name: Journalism
+      tag: 'Journalism'
+    - name: Online Communication
+      tag: 'Online Communication'
+    - name: Science
+      tag: 'Science'
     - name: Technology
-      tag: Technology
+      tag: 'Technology'
 
-
-    - name: Data science infrastrcutrue
-      tag: Data science infrastrcutrue
 design:
   # See Page Builder docs for all section customization options.
   # Choose how many columns the section has. Valid values: '1' or '2'.

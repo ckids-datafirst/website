@@ -8,6 +8,10 @@
 {{ $block := .wcBlock }}
 {{ $columns := $block.Params.design.columns | default "2" }}
 
+<script src="/website/js/timeline.js"></script>
+
+
+
 {{ if ne $columns "1" }}
   <div class="col-12 col-lg-12">
     {{ $block.Content }}
