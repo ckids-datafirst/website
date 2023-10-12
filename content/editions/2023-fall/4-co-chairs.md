@@ -5,4 +5,7 @@ content:
 headless: true
 title: Co-Chairs
 widget: people
+design:
+  show_role: false
+  show_organizations: true
 ---
