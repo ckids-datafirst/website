@@ -10,6 +10,7 @@ authors:
 categories: &id001
 - Spring 2021
 - Ethics/Equity
+- Ethics/Equity
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null

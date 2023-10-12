@@ -11,6 +11,8 @@ categories: &id001
 - Spring 2020
 - Ethics/Equity
 - Science
+- Ethics/Equity
+- Science
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

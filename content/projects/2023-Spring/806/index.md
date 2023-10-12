@@ -12,6 +12,8 @@ categories: &id001
 - Spring 2023
 - Technology
 - Data Science Infrastructure
+- Technology
+- Data Science Infrastructure
 date: '2023-01-01 00:00:00'
 external_link: null
 image: null

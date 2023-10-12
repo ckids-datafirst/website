@@ -11,6 +11,8 @@ categories: &id001
 - Fall 2019
 - Science
 - Data Science Infrastructure
+- Science
+- Data Science Infrastructure
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

@@ -12,6 +12,8 @@ categories: &id001
 - Technology
 - Featured
 - Best Project Achievement
+- Online Communication
+- Technology
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null
