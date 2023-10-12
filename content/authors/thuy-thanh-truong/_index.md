@@ -7,8 +7,8 @@ first_name: Thuy
 last_name: Thanh Truong
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Keck School of Medicine
+  url: https://keck.usc.edu/
 role: Advisor
 social:
 - !Social

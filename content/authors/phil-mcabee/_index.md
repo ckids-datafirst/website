@@ -7,7 +7,7 @@ first_name: Phil
 last_name: McAbee
 organizations:
 - !Organization
-  name: LA Care
+  name: null
   url: null
 role: Advisor
 social:

@@ -7,8 +7,8 @@ first_name: Goran
 last_name: Muric
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social

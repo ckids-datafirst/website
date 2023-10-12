@@ -7,7 +7,7 @@ first_name: Ken
 last_name: Nguyen
 organizations:
 - !Organization
-  name: USC
+  name: null
   url: null
 role: Advisor
 social:

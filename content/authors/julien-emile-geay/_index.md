@@ -7,8 +7,8 @@ first_name: Julien
 last_name: Emile-Geay
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Dornsife College of Letters, Arts, and Sciences
+  url: https://dornsife.usc.edu/
 role: Advisor
 social:
 - !Social

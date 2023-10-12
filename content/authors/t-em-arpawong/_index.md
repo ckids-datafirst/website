@@ -7,8 +7,8 @@ first_name: T.
 last_name: Em Arpawong
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Leonard Davis School of Gerontology
+  url: https://gero.usc.edu/
 role: Advisor
 social:
 - !Social

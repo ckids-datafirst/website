@@ -7,8 +7,8 @@ first_name: Daniel
 last_name: O'Leary
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Marshall School of Business
+  url: https://www.marshall.usc.edu/
 role: Advisor
 social:
 - !Social

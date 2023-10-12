@@ -7,8 +7,8 @@ first_name: Joon-Ho
 last_name: Choi
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: School of Architecture
+  url: https://arch.usc.edu/
 role: Advisor
 social:
 - !Social
