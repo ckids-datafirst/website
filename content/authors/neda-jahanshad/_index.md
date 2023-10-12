@@ -7,8 +7,8 @@ first_name: Neda
 last_name: Jahanshad
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Keck School of Medicine
+  url: https://keck.usc.edu/
 role: Advisor
 social:
 - !Social

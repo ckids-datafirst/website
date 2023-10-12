@@ -7,8 +7,8 @@ first_name: Yelena
 last_name: Mejova
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social

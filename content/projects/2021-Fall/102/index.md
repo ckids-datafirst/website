@@ -7,8 +7,8 @@ authors:
 - Minrui Chen
 - Abhinav Rao
 - Samip Kalyani
-- Fred Morstatter
 - Daniel Benjamin
+- Fred Morstatter
 categories: &id001
 - Fall 2021
 - Journalism
@@ -21,9 +21,9 @@ summary: "\u201CThe current fractured media landscape allows individuals to choo
   \ confirming over credible information, and information spreads quicker online than\
   \ interventions like fact-checking. Misinformation can be debiased by identifying\
   \ gaps in mental representations of the world (mental models) and prompt alerts\
-  \ to be vigilant about assessing information (Lewandowsky et al, 2012).\n\nWe aim\
-  \ to develop interventions to make media-balance salient to users to mitigate the\
-  \ spread of misinformation. Social sampling theory describes that our misperceptions\
+  \ to be vigilant about assessing information (Lewandowsky et al, 2012).\r\n\r\n\
+  We aim to develop interventions to make media-balance salient to users to mitigate\
+  \ the spread of misinformation. Social sampling theory describes that our misperceptions\
   \ of others is explained by the sample of people we encounter (Galesic, Olsson,\
   \ and Rieskamp, 2012), and we are more likely to link to similar people online (Kossinets\
   \ & Watts, 2009). Our interventions address limitations in individual views of the\
@@ -64,9 +64,9 @@ We aim to develop interventions to make media-balance salient to users to mitiga
 
 ## Advisors
 
-* [Fred Morstatter](../../../author/fred-morstatter)
-
 * [Daniel Benjamin](../../../author/daniel-benjamin)
+
+* [Fred Morstatter](../../../author/fred-morstatter)
 
 ## Skills Required by the team
 

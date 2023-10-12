@@ -7,8 +7,8 @@ first_name: Julie
 last_name: V. Hopper
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Office of Sustainability
+  url: https://green.usc.edu/
 role: Advisor
 social:
 - !Social

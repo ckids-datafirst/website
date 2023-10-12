@@ -7,8 +7,8 @@ first_name: T.J.
 last_name: McCarthy
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Price School of Public Policy
+  url: https://priceschool.usc.edu/
 role: Advisor
 social:
 - !Social

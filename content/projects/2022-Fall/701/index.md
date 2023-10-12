@@ -21,10 +21,10 @@ summary: "The PMR (Police Misconduct Registry) is a database of officers who hav
   \ of PMR is to increase the public trust and legitimacy of law enforcement officers\
   \ serving the community while also helping departments hire the best possible candidates.\
   \ The PMR is continually populated with all instances of police misconduct anywhere\
-  \ in the United States. \n\nCurrently, data entries are manually identified, discovered\
-  \ and registered using public, open-sourced information, mostly news articles on\
-  \ the web, which critically limits its data collection process. Thus, this project\
-  \ aims at automating the discovery of such data with an efficient identification\
+  \ in the United States.\r\n\r\nCurrently, data entries are manually identified,\
+  \ discovered and registered using public, open-sourced information, mostly news\
+  \ articles on the web, which critically limits its data collection process. Thus,\
+  \ this project aims at automating the discovery of such data with an efficient identification\
   \ mechanism. Working with the Price School of Policy, we will implement an automatic\
   \ identification mechanism to effectively search police misconduct articles utilizing\
   \ web crawling/scarping and natural language processing."
@@ -38,7 +38,7 @@ weight: 10
 ---
 ## Description
 
-The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct.  The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States. 
+The PMR (Police Misconduct Registry) is a database of officers who have been terminated or have resigned in lieu of being fired for misconduct.  The objective of PMR is to increase the public trust and legitimacy of law enforcement officers serving the community while also helping departments hire the best possible candidates. The PMR is continually populated with all instances of police misconduct anywhere in the United States.
 
 Currently, data entries are manually identified, discovered and registered using public, open-sourced information, mostly news articles on the web, which critically limits its data collection process. Thus, this project aims at automating the discovery of such data with an efficient identification mechanism. Working with the Price School of Policy, we will implement an automatic identification mechanism to effectively search police misconduct articles utilizing web crawling/scarping and natural language processing.
 

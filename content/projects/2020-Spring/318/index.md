@@ -7,8 +7,8 @@ authors:
 - Maria MacHarrie
 - Shubhankar Singh
 - Yangtao Hu
-- Yolanda Gil
 - Deborah Holmes-Wong
+- Yolanda Gil
 categories: &id001
 - Spring 2020
 - Featured
@@ -62,9 +62,9 @@ Libraries, museums, and archives hold unique collections that may be very useful
 
 ## Advisors
 
-* [Yolanda Gil](../../../author/yolanda-gil)
-
 * [Deborah Holmes-Wong](../../../author/deborah-holmes-wong)
+
+* [Yolanda Gil](../../../author/yolanda-gil)
 
 ## Skills Required by the team
 

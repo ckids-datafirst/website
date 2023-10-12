@@ -7,8 +7,8 @@ first_name: Paul
 last_name: Thompson
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Keck School of Medicine
+  url: https://keck.usc.edu/
 role: Advisor
 social:
 - !Social

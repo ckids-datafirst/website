@@ -19,11 +19,11 @@ social:
   link: mailto:sjain681@usc.edu
 title: Saurabh Jain
 user_groups:
-- Student (Fall 2020)
+- Student (Spring 2021)
 ---
 
 
 ## Previous involvement
 
-* Fall 2020
+* Spring 2021
 

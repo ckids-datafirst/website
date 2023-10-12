@@ -7,7 +7,7 @@ first_name: Minghuan
 last_name: Gong
 organizations:
 - !Organization
-  name: USC
+  name: null
   url: null
 role: Advisor
 social:

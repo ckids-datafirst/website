@@ -64,7 +64,7 @@ Politicians in modern democracies across the world have eagerly adopted social m
 
 ## Advisors
 
-* [Andrés Abeliuk](../../../author/andrés-abeliuk)
+* [Andrés Abeliuk](../../../author/andres-abeliuk)
 
 ## Skills Required by the team
 

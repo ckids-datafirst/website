@@ -8,8 +8,8 @@ education: !!python/object:datafest_archive.models.website.pages.Education
     institution: Viterbi School of Engineering
     year: null
 email: naicihli@usc.edu
-first_name: Nai-Cih
-last_name: Liou
+first_name: Nai
+last_name: Cih Liou
 organizations: []
 role: Student
 social:
@@ -17,13 +17,13 @@ social:
   icon: envelope
   icon_pack: fas
   link: mailto:naicihli@usc.edu
-title: Nai-Cih Liou
+title: Nai Cih Liou
 user_groups:
-- Student (Fall 2020)
+- Student (Spring 2021)
 ---
 
 
 ## Previous involvement
 
-* Fall 2020
+* Spring 2021
 

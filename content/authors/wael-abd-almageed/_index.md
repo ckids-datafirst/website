@@ -7,8 +7,8 @@ first_name: Wael
 last_name: Abd-Almageed
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social

@@ -7,7 +7,7 @@ first_name: Riccardo
 last_name: Tommasini
 organizations:
 - !Organization
-  name: University of Lyon
+  name: null
   url: null
 role: Advisor
 social:
