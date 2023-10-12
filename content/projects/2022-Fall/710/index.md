@@ -6,8 +6,8 @@ authors:
 - Xiayu Li
 - Daniel Pereira Da Costa
 - Richa Sheth
-- Luca Luceri
 - Ian Anderson
+- Luca Luceri
 categories: &id001
 - Fall 2022
 - Featured
@@ -67,9 +67,9 @@ Social media habits represent one of the most common – and controversial – f
 
 ## Advisors
 
-* [Luca Luceri](../../../author/luca-luceri)
-
 * [Ian Anderson](../../../author/ian-anderson)
+
+* [Luca Luceri](../../../author/luca-luceri)
 
 ## Skills Required by the team
 

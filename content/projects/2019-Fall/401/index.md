@@ -5,8 +5,8 @@ authors:
 - Himan Kriplani
 - Shatad Purohit
 - Jinney Guo
-- Fred Morstatter
 - Dmitri Williams
+- Fred Morstatter
 categories: &id001
 - Fall 2019
 date: '2019-01-01 00:00:00'
@@ -45,9 +45,9 @@ Online multiplayer games provide a wealth of data that can be used to study huma
 
 ## Advisors
 
-* [Fred Morstatter](../../../author/fred-morstatter)
-
 * [Dmitri Williams](../../../author/dmitri-williams)
+
+* [Fred Morstatter](../../../author/fred-morstatter)
 
 ## Skills Required by the team
 

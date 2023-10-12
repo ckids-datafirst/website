@@ -19,11 +19,11 @@ social:
   link: mailto:mjt43250@usc.edu
 title: Madeleine Thompson
 user_groups:
-- Student (Fall 2020)
+- Student (Spring 2021)
 ---
 
 
 ## Previous involvement
 
-* Fall 2020
+* Spring 2021
 

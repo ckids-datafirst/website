@@ -14,11 +14,11 @@ social:
   link: mailto:esjin@usc.edu
 title: Emerson Jin
 user_groups:
-- Student (Spring 2023)
+- Student (Fall 2023)
 ---
 
 
 ## Previous involvement
 
-* Spring 2023
+* Fall 2023
 

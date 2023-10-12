@@ -19,11 +19,11 @@ social:
   link: mailto:pbole@usc.edu
 title: Param Bole
 user_groups:
-- Student (Fall 2020)
+- Student (Spring 2021)
 ---
 
 
 ## Previous involvement
 
-* Fall 2020
+* Spring 2021
 

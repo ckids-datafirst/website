@@ -14,11 +14,11 @@ social:
   link: mailto:yitongqi@usc.edu
 title: Yitong Qian
 user_groups:
-- Student (Fall 2022)
+- Student (Fall 2023)
 ---
 
 
 ## Previous involvement
 
-* Fall 2022
+* Fall 2023
 

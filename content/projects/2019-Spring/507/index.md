@@ -3,8 +3,8 @@
 authors:
 - Giorgos Constantinou
 - John Cutone
-- Seon Ho Kim
 - Gabriel Kahn
+- Seon Ho Kim
 categories: &id001
 - Spring 2019
 - Journalism
@@ -41,6 +41,6 @@ Giorgos and John are developing a machine learning system to automatically detec
 
 ## Advisors
 
-* [Seon Ho Kim](../../../author/seon-ho-kim)
-
 * [Gabriel Kahn](../../../author/gabriel-kahn)
+
+* [Seon Ho Kim](../../../author/seon-ho-kim)

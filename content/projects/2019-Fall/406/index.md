@@ -7,8 +7,8 @@ authors:
 - Yi-Hsin Chung
 - Sangeeth Koratten
 - Fred Morstatter
-- Thuy Thanh Truong
 - Ken Nguyen
+- Thuy Thanh Truong
 categories: &id001
 - Fall 2019
 - Featured
@@ -58,6 +58,6 @@ SideEffects is a cancer patient’s resource to access treatment and side effect
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-* [Thuy Thanh Truong](../../../author/thuy-thanh-truong)
-
 * [Ken Nguyen](../../../author/ken-nguyen)
+
+* [Thuy Thanh Truong](../../../author/thuy-thanh-truong)

@@ -5,9 +5,9 @@ authors:
 - Sameeksha Mahajan
 - Zijing Zhang
 - Pratheek Athreya
-- Deborah Khider
-- Jessica Dutton
 - Diane Kim
+- Jessica Dutton
+- Deborah Khider
 categories: &id001
 - Fall 2019
 - Featured
@@ -58,11 +58,11 @@ Since 1992, the USC Wrigley Institute for Environmental Studies ‘Catalina Cons
 
 ## Advisors
 
-* [Deborah Khider](../../../author/deborah-khider)
+* [Diane Kim](../../../author/diane-kim)
 
 * [Jessica Dutton](../../../author/jessica-dutton)
 
-* [Diane Kim](../../../author/diane-kim)
+* [Deborah Khider](../../../author/deborah-khider)
 
 ## Skills Required by the team
 

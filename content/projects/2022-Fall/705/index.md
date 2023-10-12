@@ -15,7 +15,7 @@ categories: &id001
 date: '2022-01-01 00:00:00'
 external_link: null
 image: null
-slides: null
+slides: https://usc-office-of-sustainability.github.io/SustainabilityResearchFinder/
 summary: "Are you passionate about data science and sustainability? Then this interdisciplinary\
   \ project is for you! Here, we will develop a machine learning program to identify\
   \ USC research publications and grants as \u2018sustainability-focused\u2019, \u2018\
@@ -34,7 +34,7 @@ title: Identification of Sustainability-Related Research at USC through Machine 
   and Keyword Mapping
 url_code: null
 url_pdf: null
-url_slides: null
+url_slides: https://usc-office-of-sustainability.github.io/SustainabilityResearchFinder/
 url_video: null
 weight: 10
 ---
@@ -76,3 +76,6 @@ Are you passionate about data science and sustainability? Then this interdiscipl
 * Python
 * Web Scraping
 * Machine Learning
+## Final presentation resources
+
+* [Final presentation](https://usc-office-of-sustainability.github.io/SustainabilityResearchFinder/)

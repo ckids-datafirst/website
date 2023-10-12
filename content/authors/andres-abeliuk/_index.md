@@ -7,7 +7,7 @@ first_name: "Andr\xE9s"
 last_name: Abeliuk
 organizations:
 - !Organization
-  name: University of Chile
+  name: USC
   url: null
 role: Advisor
 social:

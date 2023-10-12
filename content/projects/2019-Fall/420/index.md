@@ -2,8 +2,8 @@
 !ProjectPage
 authors:
 - Yiley Zeng
-- Emilio Ferrara
 - Dmitri Williams
+- Emilio Ferrara
 categories: &id001
 - Fall 2019
 date: '2019-01-01 00:00:00'
@@ -36,6 +36,6 @@ In this research, we aim to model how human players make connection decisions in
 
 ## Advisors
 
-* [Emilio Ferrara](../../../author/emilio-ferrara)
-
 * [Dmitri Williams](../../../author/dmitri-williams)
+
+* [Emilio Ferrara](../../../author/emilio-ferrara)

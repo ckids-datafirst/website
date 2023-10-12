@@ -2,7 +2,7 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: null
+email: philmcabee@lacare.com
 first_name: Phil
 last_name: McAbee
 organizations:
@@ -14,7 +14,7 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:None
+  link: mailto:philmcabee@lacare.com
 title: Phil McAbee
 user_groups:
 - Advisor (Fall 2019)
