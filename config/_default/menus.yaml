@@ -3,8 +3,9 @@ main:
     url: /
     weight: 1
   - name: Advisors
-    url: info-advisors
+    url: /info-advisors
     weight: 10
+
   - name: Students
     url: info-students
     weight: 20
