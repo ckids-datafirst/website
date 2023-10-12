@@ -7,8 +7,8 @@ first_name: Daniel
 last_name: Garijo
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social

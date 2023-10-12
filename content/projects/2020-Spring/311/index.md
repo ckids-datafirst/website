@@ -6,6 +6,8 @@ categories: &id001
 - Spring 2020
 - Economics
 - Ethics/Equity
+- Economics
+- Ethics/Equity
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

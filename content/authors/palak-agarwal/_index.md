@@ -7,7 +7,7 @@ first_name: Palak
 last_name: Agarwal
 organizations:
 - !Organization
-  name: US Ignite
+  name: null
   url: null
 role: Advisor
 social:

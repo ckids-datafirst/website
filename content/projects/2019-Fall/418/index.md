@@ -7,6 +7,8 @@ categories: &id001
 - Fall 2019
 - Technology
 - Ethics/Equity
+- Technology
+- Ethics/Equity
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

@@ -7,7 +7,7 @@ first_name: Ginger
 last_name: Clark
 organizations:
 - !Organization
-  name: USC
+  name: null
   url: null
 role: Advisor
 social:

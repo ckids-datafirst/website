@@ -7,8 +7,8 @@ first_name: Deborah
 last_name: Holmes-Wong
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: USC Libraries
+  url: https://libraries.usc.edu/
 role: Advisor
 social:
 - !Social

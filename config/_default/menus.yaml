@@ -1,4 +1,3 @@
-!Menu
 main:
   - name: Home
     url: /
@@ -9,13 +8,35 @@ main:
   - name: Students
     url: info-students
     weight: 20
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Semesters
+  - name: Fall 2023
+    url: editions/2023-fall
+    weight: 21
+
+  - name: Dates
+    parent: Fall 2023
+    url: editions/2023-fall/#dates
+    weight: 10
+
+  - name: Resources
+    parent: Fall 2023
+    url: editions/2023-fall/#2-resources-students
+    weight: 20
+
+  - name: DataFirst Lab
+    parent: Fall 2023
+    url: materials/2023-fall/datafirst-lab-at-isi/
+    weight: 30
+
+  - name: Tutorials
+    parent: Fall 2023
+    url: materials/2023-fall/tutorials
+    weight: 30
+
+  - name: Semesters
     parent: null
     url: previous-semesters
     weight: 30
-  - !!python/object:datafest_archive.models.website.configuration.MenuItem
-    name: Contact
+  - name: Contact
     parent: null
     url: contact
     weight: 40

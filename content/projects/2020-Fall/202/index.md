@@ -13,6 +13,8 @@ categories: &id001
 - Data Science Infrastructure
 - Featured
 - Best Interdisciplinary Data Science Team
+- Online Communication
+- Data Science Infrastructure
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

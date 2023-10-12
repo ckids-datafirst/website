@@ -7,8 +7,8 @@ first_name: Jessica
 last_name: Dutton
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Dornsife College of Letters, Arts, and Sciences
+  url: https://dornsife.usc.edu/
 role: Advisor
 social:
 - !Social

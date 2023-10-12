@@ -1,11 +1,13 @@
 ---
 !ProjectPage
 authors:
-- Dong-Ho Lee
 - Kian Ahrabian
+- Dong-Ho Lee
 - Jay Pujara
 categories: &id001
 - Spring 2022
+- Science
+- Online Communication
 - Science
 - Online Communication
 date: '2022-01-01 00:00:00'
@@ -37,9 +39,9 @@ What’s the next big idea, and who’s going to discover it? Our project is try
 
 ## Advisors
 
-* [Dong-Ho Lee](../../../author/dong-ho-lee)
-
 * [Kian Ahrabian](../../../author/kian-ahrabian)
+
+* [Dong-Ho Lee](../../../author/dong-ho-lee)
 
 * [Jay Pujara](../../../author/jay-pujara)
 

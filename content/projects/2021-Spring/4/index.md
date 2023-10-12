@@ -11,6 +11,8 @@ categories: &id001
 - Spring 2021
 - Ethics/Equity
 - Environmental Sustainability
+- Ethics/Equity
+- Environmental Sustainability
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null

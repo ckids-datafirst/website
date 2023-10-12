@@ -5,8 +5,8 @@ authors:
 - Danielle Sim
 - Devansh Shah
 - Ting Fung Lam
-- Neda Jahanshad
 - Mark Shiroishi
+- Neda Jahanshad
 - Paul Thompson
 categories: &id001
 - Fall 2020
@@ -55,9 +55,9 @@ Cancer remains the second leading cause of death in the US. However, recent adva
 
 ## Advisors
 
-* [Neda Jahanshad](../../../author/neda-jahanshad)
-
 * [Mark Shiroishi](../../../author/mark-shiroishi)
+
+* [Neda Jahanshad](../../../author/neda-jahanshad)
 
 * [Paul Thompson](../../../author/paul-thompson)
 

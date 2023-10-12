@@ -6,8 +6,8 @@ authors:
 - Nina Thiebaut
 - Nisha Tiwari
 - Ian Choi
-- Abigail Horn
 - "Andr\xE9s Abeliuk"
+- Abigail Horn
 - Kayla de la Haye
 categories: &id001
 - Fall 2019
@@ -15,6 +15,8 @@ categories: &id001
 - Online Communication
 - Featured
 - Best Data Science Collaboration Practices
+- Health
+- Online Communication
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null
@@ -62,9 +64,9 @@ This project will investigate the quality of Instagram textual posts as a source
 
 ## Advisors
 
-* [Abigail Horn](../../../author/abigail-horn)
+* [Andrés Abeliuk](../../../author/andres-abeliuk)
 
-* [Andrés Abeliuk](../../../author/andrés-abeliuk)
+* [Abigail Horn](../../../author/abigail-horn)
 
 * [Kayla de la Haye](../../../author/kayla-de-la-haye)
 

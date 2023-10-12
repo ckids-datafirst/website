@@ -5,8 +5,8 @@ authors:
 - Lisa Meng
 - Chiaofeng Yang
 - Nelson Lam
-- George Tolomiczenko
 - Phil McAbee
+- George Tolomiczenko
 categories: &id001
 - Fall 2019
 date: '2019-01-01 00:00:00'
@@ -53,9 +53,9 @@ LA Care has a mission to “provide access to quality health care for Los Angele
 
 ## Advisors
 
-* [George Tolomiczenko](../../../author/george-tolomiczenko)
-
 * [Phil McAbee](../../../author/phil-mcabee)
+
+* [George Tolomiczenko](../../../author/george-tolomiczenko)
 
 ## Skills Required by the team
 

@@ -5,8 +5,8 @@ authors:
 - Erica Xia
 - Iris Liu
 - Spoorti Nidagundi
-- Abigail Horn
 - "Andr\xE9s Abeliuk"
+- Abigail Horn
 - Kayla de la Haye
 - Yelena Mejova
 categories: &id001
@@ -27,11 +27,11 @@ summary: "This project will explore the ability to track real-life health and nu
   \ NLP of tag, comments, and menu data; image analysis; predictive models and social\
   \ network analysis; and more. Also new in this semester: \u201Cground truth\u201D\
   \ data on dietary patterns of LA residents will be available, enabling validation\
-  \ of dietary measures and predictive models built from Instagram posts.\n\nThe project\
-  \ will build on the DataFest 2019 project, and will expand the scope to actually\
-  \ access up-to-date data from Instagram, in particular: data with images, the underlying\
-  \ social connections / social network, and of course more timely (which requires\
-  \ data scraping)."
+  \ of dietary measures and predictive models built from Instagram posts.\r\n\r\n\
+  The project will build on the DataFest 2019 project, and will expand the scope to\
+  \ actually access up-to-date data from Instagram, in particular: data with images,\
+  \ the underlying social connections / social network, and of course more timely\
+  \ (which requires data scraping)."
 tags: *id001
 title: Tracking health and nutrition signals from social media data (Spring - 2020)
 url_code: null
@@ -67,9 +67,9 @@ The project will build on the DataFest 2019 project, and will expand the scope t
 
 ## Advisors
 
-* [Abigail Horn](../../../author/abigail-horn)
+* [Andrés Abeliuk](../../../author/andres-abeliuk)
 
-* [Andrés Abeliuk](../../../author/andrés-abeliuk)
+* [Abigail Horn](../../../author/abigail-horn)
 
 * [Kayla de la Haye](../../../author/kayla-de-la-haye)
 

@@ -12,6 +12,8 @@ categories: &id001
 - Technology
 - Featured
 - Best Project Achievement
+- Online Communication
+- Technology
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null
@@ -23,7 +25,7 @@ summary: "Open-source intelligence (\u201COSINT\u201D) is a rapidly growing area
   \ dataset and social network analysis could help us determine what attributes lead\
   \ to \u201Cblack hat\u201D \u2014 or malicious \u2014 cyber actors."
 tags: *id001
-title: Looking at White Hat (?) Hacker Social Networks on Github
+title: Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)
 url_code: null
 url_pdf: null
 url_slides: null

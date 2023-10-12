@@ -2,19 +2,19 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: null
+email: kennyn@usc.edu
 first_name: Ken
 last_name: Nguyen
 organizations:
 - !Organization
-  name: USC
+  name: null
   url: null
 role: Advisor
 social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:None
+  link: mailto:kennyn@usc.edu
 title: Ken Nguyen
 user_groups:
 - Advisor (Fall 2019)

@@ -7,8 +7,8 @@ first_name: Dong-Ho
 last_name: Lee
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social

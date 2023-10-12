@@ -3,8 +3,8 @@
 authors:
 - Yincheng Lin
 - Shravya Manety
-- Deborah Khider
 - Julien Emile-Geay
+- Deborah Khider
 categories: &id001
 - Spring 2020
 date: '2020-01-01 00:00:00'
@@ -45,9 +45,9 @@ Paleoclimate data is highly diverse, requiring different sets of metadata to des
 
 ## Advisors
 
-* [Deborah Khider](../../../author/deborah-khider)
-
 * [Julien Emile-Geay](../../../author/julien-emile-geay)
+
+* [Deborah Khider](../../../author/deborah-khider)
 
 ## Skills Required by the team
 

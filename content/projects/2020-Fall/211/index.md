@@ -9,6 +9,8 @@ categories: &id001
 - Fall 2020
 - Ethics/Equity
 - Data Science Infrastructure
+- Ethics/Equity
+- Data Science Infrastructure
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

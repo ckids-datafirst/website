@@ -7,8 +7,8 @@ first_name: Dmitri
 last_name: Williams
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Annenberg School for Communication and Journalism
+  url: https://annenberg.usc.edu/
 role: Advisor
 social:
 - !Social

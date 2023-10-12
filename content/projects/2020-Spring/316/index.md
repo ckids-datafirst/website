@@ -14,6 +14,9 @@ categories: &id001
 - Ethics/Equity
 - Featured
 - Best Data Science Teamwork
+- Environmental Sustainability
+- Online Communication
+- Ethics/Equity
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

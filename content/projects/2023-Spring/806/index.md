@@ -6,10 +6,12 @@ authors:
 - Hangji He
 - Shubham Gujar
 - Varun Venkatesh
-- Dong-Ho Lee
 - Kian Ahrabian
+- Dong-Ho Lee
 categories: &id001
 - Spring 2023
+- Technology
+- Data Science Infrastructure
 - Technology
 - Data Science Infrastructure
 date: '2023-01-01 00:00:00'
@@ -58,9 +60,9 @@ Temporal Knowledge Graph (TKG) models incorporate temporal aspects of facts into
 
 ## Advisors
 
-* [Dong-Ho Lee](../../../author/dong-ho-lee)
-
 * [Kian Ahrabian](../../../author/kian-ahrabian)
+
+* [Dong-Ho Lee](../../../author/dong-ho-lee)
 
 ## Skills Required by the team
 

@@ -7,8 +7,8 @@ first_name: Fred
 last_name: Morstatter
 organizations:
 - !Organization
-  name: USC
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social

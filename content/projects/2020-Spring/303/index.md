@@ -12,6 +12,8 @@ categories: &id001
 - Featured
 - Best Data Science Open and Sharing Practices
 - Best Project Presentation
+- Technology
+- Science
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null

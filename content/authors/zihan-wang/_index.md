@@ -7,7 +7,7 @@ first_name: Zihan
 last_name: Wang
 organizations:
 - !Organization
-  name: USC
+  name: null
   url: null
 role: Advisor
 social:

@@ -14,11 +14,11 @@ social:
   link: mailto:siqiqiao@usc.edu
 title: Siqi Qiao
 user_groups:
-- Student (Fall 2022)
+- Student (Fall 2023)
 ---
 
 
 ## Previous involvement
 
-* Fall 2022
+* Fall 2023
 

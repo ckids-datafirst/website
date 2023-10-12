@@ -7,8 +7,8 @@ first_name: Emily
 last_name: Putnam-Hornstein
 organizations:
 - !Organization
-  name: University of North Carolina
-  url: null
+  name: School of Social Work
+  url: https://dworakpeck.usc.edu/
 role: Advisor
 social:
 - !Social

@@ -6,8 +6,8 @@ authors:
 - Ashka Patel
 - Aditi Choudhary
 - Shelly Mehta
-- Deborah Khider
 - Julien Emile-Geay
+- Deborah Khider
 categories: &id001
 - Fall 2019
 date: '2019-01-01 00:00:00'
@@ -51,9 +51,9 @@ Estimates of climate variations over the past 1,000 years play an increasing rol
 
 ## Advisors
 
-* [Deborah Khider](../../../author/deborah-khider)
-
 * [Julien Emile-Geay](../../../author/julien-emile-geay)
+
+* [Deborah Khider](../../../author/deborah-khider)
 
 ## Skills Required by the team
 

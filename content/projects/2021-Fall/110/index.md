@@ -12,6 +12,8 @@ categories: &id001
 - Data Science Infrastructure
 - Featured
 - Best Data Science Presentation
+- Environmental Sustainability
+- Data Science Infrastructure
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null

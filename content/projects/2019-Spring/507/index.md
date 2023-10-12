@@ -3,10 +3,12 @@
 authors:
 - Giorgos Constantinou
 - John Cutone
-- Seon Ho Kim
 - Gabriel Kahn
+- Seon Ho Kim
 categories: &id001
 - Spring 2019
+- Journalism
+- Ethics/Equity
 - Journalism
 - Ethics/Equity
 date: '2019-01-01 00:00:00'
@@ -41,6 +43,6 @@ Giorgos and John are developing a machine learning system to automatically detec
 
 ## Advisors
 
-* [Seon Ho Kim](../../../author/seon-ho-kim)
-
 * [Gabriel Kahn](../../../author/gabriel-kahn)
+
+* [Seon Ho Kim](../../../author/seon-ho-kim)

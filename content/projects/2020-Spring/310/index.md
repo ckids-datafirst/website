@@ -7,8 +7,8 @@ authors:
 - Vihang Mangalvedhekar
 - Kevin Tsang
 - Fred Morstatter
-- T.J. McCarthy
 - Ginger Clark
+- T.J. McCarthy
 categories: &id001
 - Spring 2020
 date: '2020-01-01 00:00:00'
@@ -56,9 +56,9 @@ This project will develop a data scraper to collect salary records from a websit
 
 * [Fred Morstatter](../../../author/fred-morstatter)
 
-* [T.J. McCarthy](../../../author/tj-mccarthy)
-
 * [Ginger Clark](../../../author/ginger-clark)
+
+* [T.J. McCarthy](../../../author/tj-mccarthy)
 
 ## Skills Required by the team
 

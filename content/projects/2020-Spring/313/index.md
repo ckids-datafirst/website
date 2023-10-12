@@ -11,6 +11,8 @@ categories: &id001
 - Spring 2020
 - Ethics/Equity
 - Science
+- Ethics/Equity
+- Science
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null
@@ -20,8 +22,8 @@ summary: "This project will measure representation of women in various scientifi
   \ have succeeded in creating a more welcoming environment for women. While there\
   \ are already studies that use bibliographic data to map career trajectories of\
   \ women, they do not focus on the role that institutions (and countries) \u2013\
-  \ and their policies \u2013 play in retaining female researchers.\n\nThe data comes\
-  \ from Microscoft Academic Graph, containing millions of papers from institutions\
+  \ and their policies \u2013 play in retaining female researchers.\r\n\r\nThe data\
+  \ comes from Microscoft Academic Graph, containing millions of papers from institutions\
   \ around the world across many decades. We will use Ethenea API to extract gender\
   \ (and ethnicity) of authors."
 tags: *id001
