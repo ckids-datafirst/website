@@ -9,6 +9,8 @@ categories: &id001
 - Spring 2019
 - Journalism
 - Ethics/Equity
+- Journalism
+- Ethics/Equity
 date: '2019-01-01 00:00:00'
 external_link: null
 image: null

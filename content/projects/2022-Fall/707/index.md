@@ -14,6 +14,8 @@ categories: &id001
 - Fall 2022
 - Health
 - Environmental Sustainability
+- Health
+- Environmental Sustainability
 date: '2022-01-01 00:00:00'
 external_link: null
 image: null

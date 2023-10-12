@@ -12,6 +12,8 @@ categories: &id001
 - Journalism
 - Featured
 - Best Presentation
+- Ethics/Equity
+- Journalism
 date: '2022-01-01 00:00:00'
 external_link: null
 image: null

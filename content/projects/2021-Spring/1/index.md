@@ -9,6 +9,7 @@ categories: &id001
 - Ethics/Equity
 - Featured
 - Best Data Science Poster Award
+- Ethics/Equity
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null

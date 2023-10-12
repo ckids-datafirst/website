@@ -8,6 +8,8 @@ categories: &id001
 - Spring 2022
 - Science
 - Online Communication
+- Science
+- Online Communication
 date: '2022-01-01 00:00:00'
 external_link: null
 image: null

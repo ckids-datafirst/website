@@ -11,6 +11,8 @@ categories: &id001
 - Fall 2021
 - Online Communication
 - Technology
+- Online Communication
+- Technology
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null
