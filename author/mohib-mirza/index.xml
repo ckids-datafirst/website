@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mohib Mirza | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/mohib-mirza/</link><atom:link href="https://ckids-datafirst.github.io/website/author/mohib-mirza/index.xml" rel="self" type="application/rss+xml"/><description>Mohib Mirza</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Mohib Mirza</title><link>https://ckids-datafirst.github.io/website/author/mohib-mirza/</link></image><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-noise-bias/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-noise-bias/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>When it comes to classification tasks, many previous work has tried to design larger and more complex neural networks. Recently, the line of data-centric AI has worked on shifting the focus to the quality of the train data. This shift arises from the recognition that the annotations associated with dataset instances can exhibit both noise, stemming from vague instructions or human errors, and bias, arising from differing perspectives among annotators in response to given prompts.
+In this project, our objective is to bridge the gap between the two lines of research: one dedicated to identifying noisy instances and the other striving to account for the diverse perspectives of annotators. Specifically, we will delve into the domain of offensive text detection datasets, a highly subjective task. Our investigation will center on whether perspectivist classification models have effectively harnessed valuable information from instances flagged as noisy by noise-detection techniques.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhishek-anand">Abhishek Anand&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anweasha-saha">Anweasha Saha&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mohib-mirza">Mohib Mirza&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/prathyusha-naresh-kumar">Prathyusha Naresh Kumar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>The student will learn the importance of individual instances and individual annotations in training the classification models. Each of these datapoints can introduce either useful signal or noise to the model and the student will learn to recognize the difference.&lt;/p></description></item></channel></rss>

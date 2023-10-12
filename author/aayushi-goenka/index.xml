@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aayushi Goenka | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/aayushi-goenka/</link><atom:link href="https://ckids-datafirst.github.io/website/author/aayushi-goenka/index.xml" rel="self" type="application/rss+xml"/><description>Aayushi Goenka</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Aayushi Goenka</title><link>https://ckids-datafirst.github.io/website/author/aayushi-goenka/</link></image><item><title>Federated Learning for Neuroscience</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-neuroscience/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-neuroscience/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Federated learning is an approach to distributed deep learning without sharing data. Multiple site train a neural network over private data. The parameters of the neural network are shared with a federation controller, but they are encrypted before sharing. Model aggregation is performed under fully homomorphic encryption. We propose to apply federated learning to several problems in neuroscience, such as predicting Alzheimer's, Parkinson's, epilepsy, and autism, possibly over multimodal data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aayushi-goenka">Aayushi Goenka&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/atharva-swami">Atharva Swami&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/cooper-gamble">Cooper Gamble&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dhruv-maheshwari">Dhruv Maheshwari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/harsh-thakkar">Harsh Thakkar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/hui-qi">Hui Qi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kartik-pandey">KARTIK PANDEY&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/prajwal-gupta">Prajwal Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/pratyush-bhatnagar">Pratyush Bhatnagar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rajeev-singh">Rajeev Singh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/regan-wang">Regan Wang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Federated learning, machine learning for biomedical applications.&lt;/p></description></item></channel></rss>

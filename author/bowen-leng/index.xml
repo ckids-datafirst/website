@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bowen leng | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/bowen-leng/</link><atom:link href="https://ckids-datafirst.github.io/website/author/bowen-leng/index.xml" rel="self" type="application/rss+xml"/><description>bowen leng</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>bowen leng</title><link>https://ckids-datafirst.github.io/website/author/bowen-leng/</link></image><item><title>Build a multilingual decipherment system</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-decipherment/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-decipherment/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>We will build a working system that can decipher a letter substitution cipher into 14 languages and beyond, based on &lt;a href="https://aclanthology.org/2021.acl-long.561/" target="_blank" rel="noopener">https://aclanthology.org/2021.acl-long.561/&lt;/a> then apply it to languages it has never seen&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aman-kumar">Aman Kumar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bowen-leng">bowen leng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/emerson-jin">Emerson Jin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zijie-lei">Zijie Lei&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jonathan-may">Jonathan May&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>read and understand an NLP paper, unusual applications of transformers, reproduction study&lt;/p></description></item></channel></rss>

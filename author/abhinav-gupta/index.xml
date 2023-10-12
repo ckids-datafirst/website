@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abhinav Gupta | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/abhinav-gupta/</link><atom:link href="https://ckids-datafirst.github.io/website/author/abhinav-gupta/index.xml" rel="self" type="application/rss+xml"/><description>Abhinav Gupta</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Abhinav Gupta</title><link>https://ckids-datafirst.github.io/website/author/abhinav-gupta/</link></image><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open source sports data such as the nflverse has lead to a massive increase in public sports analytics. But it's still hard to process, subset, visualize and analyze this data. This project will build a general-purpose analysis platform and dashboard, similar to what many teams use internally. Using the nflfastr data, this platform will allow interested individuals to select the play parameters they're interested in, and will provide relevant analysis, visualization and insight. Ideally, we'll set up the dashboard on the internet, and open source the project, allowing others to expand the available datasets, analyses and visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhinav-gupta">Abhinav Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anish-ari">Anish Ari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/brad-powell">Brad Powell&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tyler-pomposelli">Tyler Pomposelli&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yitong-qian">Yitong Qian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>How to analyze and present insights from NFL play-by-play data&lt;/p></description></item></channel></rss>

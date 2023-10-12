@@ -277,6 +277,10 @@
 &lt;li>Python&lt;/li>
 &lt;li>Web Scraping&lt;/li>
 &lt;li>Machine Learning&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://usc-office-of-sustainability.github.io/SustainabilityResearchFinder/" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Knowledge-powered understanding of diet’s water footprint</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/702/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/702/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Food production and their supply chains are the main cause of water pollution, especially in emerging and developed countries. Understanding the connection between our diet and water pollution is extremely challenging because it requires combining knowledge about food production, supply chains, and transportation. As more and more people seek to live sustainably, there is a need to inform consumers about the planetary impacts of their choices. We propose to construct a knowledge graph and application to create a water footprint calculator for our dietary choices that computes the water footprint for each ingredient of a meal proposed by the user and suggest alternatives to reduce the water footprint (e.g., replacing beef by pork in a cheesesteak meal will save the planet 1,600 gallons of water).&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -405,10 +409,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-anderson">Ian Anderson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ian-anderson">Ian Anderson&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -608,7 +612,7 @@
 &lt;li>Clustering&lt;/li>
 &lt;li>Language Models&lt;/li>
 &lt;li>Data Analysis&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -934,7 +938,7 @@
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -1166,10 +1170,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
@@ -1222,10 +1226,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1314,10 +1318,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
@@ -1357,10 +1361,10 @@
 &lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/thuy-thanh-truong">Thuy Thanh Truong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/thuy-thanh-truong">Thuy Thanh Truong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters.&lt;/p>
@@ -1408,13 +1412,13 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/jessica-dutton">Jessica Dutton&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>

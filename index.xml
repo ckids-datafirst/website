@@ -1,63 +1,139 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DataFirst</title><link>https://ckids-datafirst.github.io/website/</link><atom:link href="https://ckids-datafirst.github.io/website/index.xml" rel="self" type="application/rss+xml"/><description>DataFirst</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>DataFirst</title><link>https://ckids-datafirst.github.io/website/</link></image><item><title>AI Ethics for Smart Health through Smart Watches</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/828/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/828/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DataFirst</title><link>https://ckids-datafirst.github.io/website/</link><atom:link href="https://ckids-datafirst.github.io/website/index.xml" rel="self" type="application/rss+xml"/><description>DataFirst</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>DataFirst</title><link>https://ckids-datafirst.github.io/website/</link></image><item><title>A Knowledge Graph of a Crowdsourcing Event</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-crowdsourcing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-crowdsourcing/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Build a knowledge graph of a crowdsourcing event.&lt;/p>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/daniel-oleary">Daniel O'Leary&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Crowdsourcing, knowledge graphs and text analysis&lt;/p></description></item><item><title>AI Ethics for Smart Health through Smart Watches</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-smart-watches/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-smart-watches/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Lots of personal data can be obtained from wearable devices such as smart watches. This data can be used to improve health, for example to learn to detect health problems and to check whether people adhere to doctor’s exercise recommendations. This project will conduct a thorough study of the ethical issues in using AI systems in this domain, with recommendations of how AI systems for smart health should be designed with ethical considerations in mind.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/clio-polanco-cercado">Clio Polanco Cercado&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jeremy-unger">Jeremy Unger&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kipauno-washington">Kipauno Washington&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/olivia-guo">Olivia Guo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shruti-ramesh">Shruti Ramesh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/siqi-qiao">Siqi Qiao&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yabsera-benyam">Yabsera Benyam&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Interest in healthcare and data science.&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>What kinds of health-related data can be captured through wearable devices, what kinds of analyses are possible, privacy and ethical aspects of personal applications for smart health.&lt;/p></description></item><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/816/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>What kinds of health-related data can be captured through wearable devices, what kinds of analyses are possible, privacy and ethical aspects of personal applications for smart health.&lt;/p></description></item><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-foundry-devices/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-foundry-devices/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Highly accurate fault detection in foundry produced microelectronics is crucial to ensuring quality of devices that leave the foundry. However, current defect detection flows are human-centric, which produces a bottleneck. The objective of this project is to leverage recent advances in AI/ML to develop automated techniques that can 1) identify manufacturing defects in microelectronics using imagery collected at the foundry, and 2) determine whether the identified defect will impact the performance of the manufactured component.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bill-zhang">Bill Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jiankun-wei">Jiankun Wei&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/lee-chi-wang">Lee-Chi Wang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ryan-silva">Ryan Silva&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/younwoo-roh">Younwoo Roh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/andrew-rittenbach">Andrew Rittenbach&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>PyTorch or TensorFlow&lt;/li>
-&lt;li>image analysis&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Students will learn about manufacturing defect detection algorithms, machine learning techniques, and microelectronics fabrication.&lt;/p></description></item><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will learn about manufacturing defect detection algorithms, machine learning techniques, and microelectronics fabrication.&lt;/p></description></item><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-software-ecosystems/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-software-ecosystems/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source runs a lot of the world's critical software systems, but there is much that's unknown in how maintainers, developers and other parts of the software ecosystem function. Help us analyze a large corpus of open source data — both source code and patch conversations — to better understand them! We'll study things like rise to influence, authorship styles, malware analysis, topic modeling and social network analysis!&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/apoorv-dixit">Apoorv Dixit&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kai-zheng">Kai Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zishen-wei">Zishen Wei&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python (needed)&lt;/li>
-&lt;li>experience with LLMs/OpenAI APIs&lt;/li>
-&lt;li>program analysis&lt;/li>
-&lt;li>C code (preferred - but not necessary!)&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/827/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-aviation-safety/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-aviation-safety/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to understand root-causes of one of the serious aviation safety problem in the US - runway incursions. The Aviation Safety Reporting Systems, which is administered by the NASA and is an untapped treasure trove of textual data, will be used for this project.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhinav-arun">Abhinav Arun&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/atharva-joshi">Atharva Joshi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/chahita-verma">Chahita Verma&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/likhit-jha">Likhit Jha&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mino-cha">Mino Cha&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ravneet-kaur">Ravneet Kaur&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shreyas-malewar">Shreyas Malewar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/najmedin-meshkati">Najmedin Meshkati&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>AI/ML/NLP and associated skills.&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Using AI/ML/NLP and working on the data from a major global industry - aviation.&lt;/p></description></item><item><title>Assessing the California Public Sector Job Market</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/817/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/817/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Using AI/ML/NLP and working on the data from a major global industry - aviation.&lt;/p></description></item><item><title>Assessing the California Public Sector Job Market</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-labor-market/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-labor-market/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Public sector institutions at local, state, and federal levels are facing an unprecedented hiring crisis in competition for new talent. Yet there is no systematic understanding of the needs and openings across these levels of government to inform stakeholders such as universities, community colleges, and high schools on the current and emerging hiring trends in what constitutes approximately 15-20% of the entire labor market. In this project, students will develop algorithms that continuously scrap relevant job sites used by these governments to assess both developed and emerging hiring trends by aptitudes, professions, entry-levels, mobility, location, and other important attributes. In so doing, the project will inform researchers in public policy, public administration, political science, and labor economics as well as practitioners in government and associated stakeholders.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/darren-cao">Darren Cao&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/josephina-zhenni-bian">Josephina Zhenni Bian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nicole-dias">Nicole Dias&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ryan-lee">Ryan Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yi-ming">Yi Ming&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/william-resh">William Resh&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Statistics&lt;/li>
-&lt;li>R or Stata&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Students will learn how to develop and organize labor market data to be used by practitioners and researchers through the construction of portal that can ably transform data into usable aggregated statistics and graphs.&lt;/p></description></item><item><title>Auditing web content promoting eating disorders</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/808/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -96,18 +172,26 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://auditing-drivers-for-eating-disorders.netlify.app/index.html" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Automated question type coding of forensic interviews</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/819/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Automated question type coding of forensic interviews</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-forensic/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-forensic/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Question type coding is used in research on forensic interviewing to distinguish between best practice open-ended questions, and closed-ended and leading questions that interviewers are trained to avoid. Most research teams in the field rely on a time-consuming and labor-intensive method of question type coding whereby a researcher codes every question in the interview, and a second researcher codes a subset to demonstrate inter-rater reliability. We are currently working with a graduate of the Masters in Computer Science program at USC on a project exploring automated question type coding of forensic interviews with victims of child abuse. In collaboration with the student, we have trained a large language model (RoBERTa) to distinguish between question types based on a rudimentary classification system. In the next stage of the project, we are aiming to finetune the model and use zero shot and few shot prompting to make distinctions for which there is limited manually-coded data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ashmika-gupte">Ashmika Gupte&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/hrishikesh-thakur">Hrishikesh Thakur&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/sneha-chawan">Sneha Chawan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python and/or R&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Students will learn to train and finetune large language models&lt;/p></description></item><item><title>Bad Writing is "Fine": Tuning an LLM to Suggest Improvements</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/823/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/823/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Students will learn to train and finetune large language models&lt;/p></description></item><item><title>Bad Writing is "Fine": Tuning an LLM to Suggest Improvements</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-bad-writing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-bad-writing/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Prototype an approach to fine-tune a large language model (LLM) to help diagnose areas to improve a specific writing product. For example, scientific papers require consistent language but in creative writing variety matters. Proposed steps are:&lt;/p>
 &lt;ol>
 &lt;li>Writing Product: Coordinate with project mentors to choose a common and important writing product, such as a position paper or an academic conference. Identify/gather a rubric and a corpus.&lt;/li>
@@ -116,39 +200,77 @@
 &lt;li>Evaluate: Research if tuning suggests better domain-specific areas to improve.&lt;/li>
 &lt;/ol>
 &lt;p>This project aligns with ongoing work with the USC Generative AI Center.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anupam-patil">Anupam Patil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anuranjan-pandey">Anuranjan Pandey&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/divyajyoti-panda">Divyajyoti Panda&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jize-luo">Jize Luo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nilamadha-mohanty">Nilamadha Mohanty&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rahul-anil-nair">Rahul Anil Nair&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/benjamin-nye">Benjamin Nye&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Generative AI for large language models. Generating synthetic data for a rubric. Fine tuning a large language model, likely using CARC (the on campus computing cluster). Understanding intelligent tutoring system design fundamentals for modeling how experts diagnose issues from novices.&lt;/p></description></item><item><title>Build a multilingual decipherment system</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/825/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/825/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Generative AI for large language models. Generating synthetic data for a rubric. Fine tuning a large language model, likely using CARC (the on campus computing cluster). Understanding intelligent tutoring system design fundamentals for modeling how experts diagnose issues from novices.&lt;/p></description></item><item><title>Build a multilingual decipherment system</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-decipherment/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-decipherment/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>We will build a working system that can decipher a letter substitution cipher into 14 languages and beyond, based on &lt;a href="https://aclanthology.org/2021.acl-long.561/" target="_blank" rel="noopener">https://aclanthology.org/2021.acl-long.561/&lt;/a> then apply it to languages it has never seen&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aman-kumar">Aman Kumar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bowen-leng">bowen leng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/emerson-jin">Emerson Jin&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zijie-lei">Zijie Lei&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/jonathan-may">Jonathan May&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>python&lt;/li>
-&lt;li>deep learning with transformers&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>read and understand an NLP paper, unusual applications of transformers, reproduction study&lt;/p></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>read and understand an NLP paper, unusual applications of transformers, reproduction study&lt;/p></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source sports data such as the nflverse has lead to a massive increase in public sports analytics. But it's still hard to process, subset, visualize and analyze this data. This project will build a general-purpose analysis platform and dashboard, similar to what many teams use internally. Using the nflfastr data, this platform will allow interested individuals to select the play parameters they're interested in, and will provide relevant analysis, visualization and insight. Ideally, we'll set up the dashboard on the internet, and open source the project, allowing others to expand the available datasets, analyses and visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhinav-gupta">Abhinav Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anish-ari">Anish Ari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/brad-powell">Brad Powell&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tyler-pomposelli">Tyler Pomposelli&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yitong-qian">Yitong Qian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python (pandas&lt;/li>
-&lt;li>streamlit&lt;/li>
-&lt;li>dash&lt;/li>
-&lt;li>etc. is a bonus!)&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>How to analyze and present insights from NFL play-by-play data&lt;/p></description></item><item><title>Determinants of spatial variations in broadband quality and prices</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/805/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -190,16 +312,23 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://sites.google.com/usc.edu/determinants-of-spatial-var/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Does Municipal Broadband Deliver as Promised? An examination of broadband pricing and household adoption in areas served by muni networks.</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/818/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Does Municipal Broadband Deliver as Promised? An examination of broadband pricing and household adoption in areas served by muni networks.</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-broadband/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-broadband/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Broadband networks owned and/or operated by local governments (&amp;quot;muni networks&amp;quot;) are increasingly seen as a key tool to close the digital divide in Internet availability and adoption. There is however only anecdotal evidence about whether muni networks deliver on the promise of more affordable broadband in communities of little interest to traditional ISPs - typically disadvantaged communities. Taking advantage of the greater level of resolution in the new FCC broadband availability maps, this project will examine broadband pricing and adoption at the address level in areas served by muni networks, using a matched sample of comparable areas as a reference point. The goal of the project is to empirically assert whether muni networks are delivering on the promise of more affordable services, and whether this results in more household adoption than expected. The project is a component of an ongoing collaboration with digital equity advocacy organizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/menghan-jiao">Menghan Jiao&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ming-shan-lee">Ming Shan Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yinuo-chen">Yinuo Chen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/hernan-galperin">Hernan Galperin&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Data scraping (Python)&lt;/li>
-&lt;li>statistics and basic GIS skills&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Students will have the opportunity to apply data scraping, organization and analysis skills in the context of policy analysis&lt;/p></description></item><item><title>Event Forecasting using Efficient and Expressive Temporal Knowledge Graph</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/806/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -225,27 +354,57 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Web Crawling&lt;/li>
-&lt;/ul></description></item><item><title>Federated Learning for Neuroscience</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/822/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/822/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Federated Learning for Neuroscience</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-neuroscience/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-neuroscience/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Federated learning is an approach to distributed deep learning without sharing data. Multiple site train a neural network over private data. The parameters of the neural network are shared with a federation controller, but they are encrypted before sharing. Model aggregation is performed under fully homomorphic encryption. We propose to apply federated learning to several problems in neuroscience, such as predicting Alzheimer's, Parkinson's, epilepsy, and autism, possibly over multimodal data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aayushi-goenka">Aayushi Goenka&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/atharva-swami">Atharva Swami&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/cooper-gamble">Cooper Gamble&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dhruv-maheshwari">Dhruv Maheshwari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/harsh-thakkar">Harsh Thakkar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/hui-qi">Hui Qi&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kartik-pandey">KARTIK PANDEY&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/prajwal-gupta">Prajwal Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/pratyush-bhatnagar">Pratyush Bhatnagar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rajeev-singh">Rajeev Singh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/regan-wang">Regan Wang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Tensorflow&lt;/li>
-&lt;li>deep learning&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Federated learning, machine learning for biomedical applications.&lt;/p></description></item><item><title>Human Bio-signals as a Function of Indoor Air Quality Control for Human Health in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/807/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/807/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -296,27 +455,63 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
-&lt;/ul></description></item><item><title>Learning and forgetting in neural networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/811/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/811/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Learning and forgetting in neural networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nn-forgetting/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nn-forgetting/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>In this project, you will examine the mechanism responsible for forgetting previous tasks in artificial neural networks. You will study how those mechanisms shape the behavior of neural network learning from heterogeneous data distributions. You will investigate how new information is stored in neural networks by plotting and interpreting the neuron activation patterns. You will also compare different learning schemas, and you will examine how they influence the final loss function landscape.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anjali-singh">Anjali Singh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bhargav-krishnamurthy">Bhargav Krishnamurthy&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/karthik-kancharla">Karthik Kancharla&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mounika-mukkamalla">Mounika Mukkamalla&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/pavan-rakesh-reddy-chirla">Pavan Rakesh Reddy Chirla&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/priyanka-yadav">Priyanka Yadav&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/saurabh-yadgire">Saurabh Yadgire&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yutong-luo">Yutong Luo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/marcin-abram">Marcin Abram&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>TensorFlow or PyTorch&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>How the information is stored in neural networks. How neural networks can forget how to perform previously mastered tasks. How to interpret neural networks (by examining the neuron activation patterns). How to conduct scientific experiments (in the domain of machine learning). How to present and visualize scientific data.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear power plants</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/826/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/826/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>How the information is stored in neural networks. How neural networks can forget how to perform previously mastered tasks. How to interpret neural networks (by examining the neuron activation patterns). How to conduct scientific experiments (in the domain of machine learning). How to present and visualize scientific data.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear power plants</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nuclear-safety/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nuclear-safety/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project, which will be co-advised by Dr. Yolanda Gil, will use Natural Language Processing (NLP) techniques to analyze voluminous Diablo Canyon Independent Safety Committee (DCISC) annual reports to identify the role and contribution of &amp;quot;Traits of a Healthy Nuclear Safety Culture&amp;quot;, as defined by the Nuclear Regulatory Commission and the Institute of Nuclear Power Operations, in incident causation.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/adrianne-nguyen">Adrianne Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rahul-tangsali">Rahul Tangsali&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shourya-kothari">Shourya Kothari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tejaswi-chaudhari">Tejaswi Chaudhari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/xiang-li">Xiang Li&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/najmedin-meshkati">Najmedin Meshkati&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Natural language Processing and related skills.&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Application of NLP in real-world, working on very serious and important issues with global applications, which can be generalized and applied to other safety-sensitive technologies.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -438,33 +633,40 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/neil-bahroos">Neil Bahroos&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/mayil-dharmarajan">Mayil Dharmarajan&lt;/a>&lt;/p>
-&lt;/li>
+&lt;li>&lt;a href="../../../author/neil-bahroos">Neil Bahroos&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Statistics&lt;/li>
 &lt;li>R&lt;/li>
-&lt;/ul></description></item><item><title>Pyleoclim: A Python Package for the Analysis of Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Pyleoclim: A Python Package for the Analysis of Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-paleoclimate/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-paleoclimate/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Paleoclimate timeseries data are crucial to understand how climate has changed in the past. A major aspect of this work falls under exploratory analysis, and in particular, visualization. Pyleoclim contains many functionalities for timeseries analysis of paleoclimate data and has already been used in teaching and research settings. In the coming months, we are expanding several functionalities of the package to address growing community need: outlier detection, automated visualizations, automated checks for the validity of datasets loaded into the package. In addition, these new functionalities will be integrated into tutorials distributed through a Jupyter Book.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python: pandas&lt;/li>
-&lt;li>numpy&lt;/li>
-&lt;li>matplotlib&lt;/li>
-&lt;li>seaborn. GitHub knowledge preferred but not necessary&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/829/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/829/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>To create a software-as-a-service data pipeline for collecting health biomarkers via an instrumented toilet seat. This clinical data management system (CDMS) will enable collecting clinical-grade, high-quality, curated, and consistent data capture that meets NIH and FDA standards of clinical utility.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/alexander-billups">Alexander Billups&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dhanashree-anant-patil">Dhanashree Anant Patil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/meghana-ramachandra-bhat">Meghana Ramachandra Bhat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/snigdha-chenjeri">Snigdha Chenjeri&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Engineering and software architecture skills to create the data pipeline from instrument signals to health reports compatible with reimbursement, research and clinical data systems.&lt;/p></description></item><item><title>The value of player tracking technology in assessment of training volume in youth soccer players.</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/801/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Wearable IMU and GPS sensors are used to estimate training volume in professional sports to ensure adequate preparation for competition. Recommendations to modify training is individualized to meet health and performance needs of each player. Expense associated with these systems restrict their use in youth sports. More economical alternatives are available but it is not clear if the data is comparable. This project will compare data collected concurrently to determine if the economical system provides similar conclusions. Players from the LA Galaxy (second and developmental teams) will participate. Continuous data from triaxial accelerometers, gyroscope and GPS will be collected during practice and competition. Raw data and commercially derived key performance indicators will be compared to understand the agreement between the systems. Acceptable agreement with comparable interpretation of data with respect to training recommendations may allow for greater access for young athletes&lt;/p>
@@ -513,44 +715,95 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://sites.google.com/usc.edu/keck-medicine-toc/home" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/821/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Understanding the Relation Between Noise and Bias in Annotated Datasets</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-noise-bias/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-noise-bias/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>When it comes to classification tasks, many previous work has tried to design larger and more complex neural networks. Recently, the line of data-centric AI has worked on shifting the focus to the quality of the train data. This shift arises from the recognition that the annotations associated with dataset instances can exhibit both noise, stemming from vague instructions or human errors, and bias, arising from differing perspectives among annotators in response to given prompts.
 In this project, our objective is to bridge the gap between the two lines of research: one dedicated to identifying noisy instances and the other striving to account for the diverse perspectives of annotators. Specifically, we will delve into the domain of offensive text detection datasets, a highly subjective task. Our investigation will center on whether perspectivist classification models have effectively harnessed valuable information from instances flagged as noisy by noise-detection techniques.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhishek-anand">Abhishek Anand&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anweasha-saha">Anweasha Saha&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mohib-mirza">Mohib Mirza&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/prathyusha-naresh-kumar">Prathyusha Naresh Kumar&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/negar-mokhberian">Negar Mokhberian&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>PyTorch&lt;/li>
-&lt;li>Fine-tuning language models in Huggingface package&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>The student will learn the importance of individual instances and individual annotations in training the classification models. Each of these datapoints can introduce either useful signal or noise to the model and the student will learn to recognize the difference.&lt;/p></description></item><item><title>Urban Futures Data Core</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/814/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/814/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The student will learn the importance of individual instances and individual annotations in training the classification models. Each of these datapoints can introduce either useful signal or noise to the model and the student will learn to recognize the difference.&lt;/p></description></item><item><title>Urban Futures Data Core</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-urban-futures/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-urban-futures/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Cities are the focal point of economic, social, and environmental challenges and opportunities. To establish USC as a thought leader and partner of choice to tackle the challenges of the urban future, the USC Sol Price School of Public Policy and the USC Marshall School of Business propose establishing an Urban Futures Data Core to serve as a university-wide hub for data analysis and dissemination. Students working on this project will work with all faculty at Price and Marshall to catalogue the publicly available, restricted-use, and self-collected datasets that USC researchers have previously used. They will then create a secure website to track each data source and its data use agreements, dates of availability, and geographic level of granularity. After a data website is constructed, students will have the opportunity to assist with creating geographic visualizations of key indices related to urban futures.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andrew-bae">Andrew Bae&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/austin-zhang">Austin Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/brian-tinsley">Brian Tinsley&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/chaitanya-priya-kakkehalli-jayaram">Chaitanya Priya Kakkehalli Jayaram&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ginny-barnes">Ginny Barnes&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/harman-pelia">Harman Pelia&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/pin-tzu-lee">Pin-Tzu Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rachita-jain">Rachita Jain&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/sneh-shah">Sneh Shah&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tejas-sheth">TEJAS SHETH&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yi-zheng">Yi Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/alice-chen">Alice Chen&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>web design&lt;/li>
-&lt;li>python&lt;/li>
-&lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>The students will learn about all data sources used in public policy and business, data management, and web design.&lt;/p></description></item><item><title>Utilizing AI Generated Images for Object Detection and Classification</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/812/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/812/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The students will learn about all data sources used in public policy and business, data management, and web design.&lt;/p></description></item><item><title>Utilizing AI Generated Images for Object Detection and Classification</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-ai-images/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-ai-images/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Developing image-based object detection and classification models requires significant time, resources, and effort. Especially, acquiring a good training dataset is essential. However, there are some cases when it is very hard to get quality data such as rare cases (e.g., disasters) or expensive cases to get (e.g., faraway places). Due to the development of generative AI, we might produce synthetic images to enhance the quality of dataset by filling up missing images with them. Based on our prior work in object detection and classification for smart city applications, we would like to explore the potential of AI generated images for an enhanced object detection and classification.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/amy-jiang">Amy Jiang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dongwook-kim">Dongwook Kim&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/harshita-dooja-poojary">Harshita Dooja Poojary&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/michael-kingsley">Michael Kingsley&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nealson-setiawan">Nealson Setiawan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Some knowledge in image machine learning&lt;/li>
-&lt;li>Knowing existing methods such as Yolo is desirable&lt;/li>
-&lt;li>Imagination!!!&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Image machine learning, object detection&lt;/p></description></item><item><title>Automatic Discovery of News Articles: Case of Policy Misconduct</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/701/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -777,6 +1030,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Python&lt;/li>
 &lt;li>Web Scraping&lt;/li>
 &lt;li>Machine Learning&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://usc-office-of-sustainability.github.io/SustainabilityResearchFinder/" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Identifying Catalysts for Online Depolarization</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/712/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/712/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>None&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
@@ -1021,10 +1278,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ian-anderson">Ian Anderson&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ian-anderson">Ian Anderson&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/luca-luceri">Luca Luceri&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1037,10 +1294,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/p>
@@ -1233,39 +1490,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Deep Learning&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>Web Scraping&lt;/li>
-&lt;li>SQL&lt;/li>
-&lt;li>NoSQL&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -1302,6 +1527,38 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
 &lt;/ul></description></item><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1402,7 +1659,30 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;ul>
 &lt;li>Python&lt;/li>
 &lt;li>Statistics&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
+&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
+&lt;p>CKIDS PROJECT TASKS&lt;/p>
+&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
+&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jianing-julia-chen">Jianing (Julia) Chen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Computational Simulation&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
 &lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
 &lt;p>CKIDS PROJECT TASKS&lt;/p>
@@ -1426,61 +1706,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>R&lt;/li>
 &lt;li>Statistics&lt;/li>
 &lt;li>Computational Simulation&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
-&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
-&lt;p>CKIDS PROJECT TASKS&lt;/p>
-&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
-&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jianing-julia-chen">Jianing (Julia) Chen&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Computational Simulation&lt;/li>
-&lt;li>R&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
-&lt;h2 id="awards">Awards&lt;/h2>
-&lt;ul>
-&lt;li>Best Project Achievement&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -1512,6 +1738,37 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>GraphQL&lt;/li>
 &lt;li>OSINT&lt;/li>
 &lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
 &lt;/ul></description></item><item><title>Machine Learning to Analyze Rock Microstructures</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/11/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -1663,10 +1920,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1759,10 +2016,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/berenice-benayoun">Berenice Benayoun&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/jose-luis-ambite">Jose-Luis Ambite&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/berenice-benayoun">Berenice Benayoun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1818,10 +2075,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -1989,10 +2246,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -2024,10 +2281,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/mark-shiroishi">Mark Shiroishi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/mark-shiroishi">Mark Shiroishi&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/neda-jahanshad">Neda Jahanshad&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/paul-thompson">Paul Thompson&lt;/a>&lt;/p>
@@ -2181,10 +2438,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/tj-mccarthy">T.J. McCarthy&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ginger-clark">Ginger Clark&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ginger-clark">Ginger Clark&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/tj-mccarthy">T.J. McCarthy&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -2244,7 +2501,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -2279,7 +2536,7 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
@@ -2799,10 +3056,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
@@ -2846,10 +3103,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
@@ -2902,10 +3159,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3168,10 +3425,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Data infrastructure for USC</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/417/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Developing software and data resources for USC students. Software resources include tools to process and analyze specific types of data (eg social networks, images, text, etc), data preparation tools, or machine learning libraries. Data resources include thematic data repositories, such as urban LA data, environmental LA data, entertainment LA data, etc.&lt;/p>
@@ -3227,10 +3484,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3298,10 +3555,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/emilio-ferrara">Emilio Ferrara&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/emilio-ferrara">Emilio Ferrara&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Lighting Control in Buildings for Visual Comfort</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/510/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/510/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Lingkai collected data in a controlled setting and studied lighting control in buildings for visual comfort. For data preprocessing, he used Excel and MathWorks; for data analysis, he used Python and Scikit learn.&lt;/p>
@@ -3353,10 +3610,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>
@@ -3396,10 +3653,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/thuy-thanh-truong">Thuy Thanh Truong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/ken-nguyen">Ken Nguyen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/thuy-thanh-truong">Thuy Thanh Truong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Modeling the career trajectory of music artists</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/407/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/407/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Many musicians, from up-and-comers to established artists, rely heavily on performing live to promote and disseminate their music. To advertise live shows, artists often use concert discovery platforms that make it easier for their fans to track tour dates. In this project, we ask whether digital traces of musical performances generated on those platforms can be used to understand career trajectories of artists. We have amassed a dataset we constructed by cross-referencing data from such platforms (Songkick, and Discogs). In this project, you will identify and explore patterns that can be used to identify successful musicians.&lt;/p>
@@ -3470,10 +3727,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/george-tolomiczenko">George Tolomiczenko&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/phil-mcabee">Phil McAbee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/phil-mcabee">Phil McAbee&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/george-tolomiczenko">George Tolomiczenko&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3507,13 +3764,13 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/jessica-dutton">Jessica Dutton&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3537,10 +3794,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/joon-ho-choi">Joon-Ho Choi&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -3569,10 +3826,10 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>

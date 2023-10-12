@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meghana Ramachandra Bhat | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/meghana-ramachandra-bhat/</link><atom:link href="https://ckids-datafirst.github.io/website/author/meghana-ramachandra-bhat/index.xml" rel="self" type="application/rss+xml"/><description>Meghana Ramachandra Bhat</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Meghana Ramachandra Bhat</title><link>https://ckids-datafirst.github.io/website/author/meghana-ramachandra-bhat/</link></image><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>To create a software-as-a-service data pipeline for collecting health biomarkers via an instrumented toilet seat. This clinical data management system (CDMS) will enable collecting clinical-grade, high-quality, curated, and consistent data capture that meets NIH and FDA standards of clinical utility.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/alexander-billups">Alexander Billups&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dhanashree-anant-patil">Dhanashree Anant Patil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/meghana-ramachandra-bhat">Meghana Ramachandra Bhat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/snigdha-chenjeri">Snigdha Chenjeri&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Engineering and software architecture skills to create the data pipeline from instrument signals to health reports compatible with reimbursement, research and clinical data systems.&lt;/p></description></item></channel></rss>

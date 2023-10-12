@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deborah Khider | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/deborah-khider/</link><atom:link href="https://ckids-datafirst.github.io/website/author/deborah-khider/index.xml" rel="self" type="application/rss+xml"/><description>Deborah Khider</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/deborah-khider/avatar_hu76c41f7e6339f8eb756e6c284de2b7de_27461_270x270_fill_q75_lanczos_center.jpeg</url><title>Deborah Khider</title><link>https://ckids-datafirst.github.io/website/author/deborah-khider/</link></image><item><title>Pyleoclim: A Python Package for the Analysis of Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/815/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deborah Khider | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/deborah-khider/</link><atom:link href="https://ckids-datafirst.github.io/website/author/deborah-khider/index.xml" rel="self" type="application/rss+xml"/><description>Deborah Khider</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/deborah-khider/avatar_hu76c41f7e6339f8eb756e6c284de2b7de_27461_270x270_fill_q75_lanczos_center.jpeg</url><title>Deborah Khider</title><link>https://ckids-datafirst.github.io/website/author/deborah-khider/</link></image><item><title>Pyleoclim: A Python Package for the Analysis of Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-paleoclimate/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-paleoclimate/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Paleoclimate timeseries data are crucial to understand how climate has changed in the past. A major aspect of this work falls under exploratory analysis, and in particular, visualization. Pyleoclim contains many functionalities for timeseries analysis of paleoclimate data and has already been used in teaching and research settings. In the coming months, we are expanding several functionalities of the package to address growing community need: outlier detection, automated visualizations, automated checks for the validity of datasets loaded into the package. In addition, these new functionalities will be integrated into tutorials distributed through a Jupyter Book.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python: pandas&lt;/li>
-&lt;li>numpy&lt;/li>
-&lt;li>matplotlib&lt;/li>
-&lt;li>seaborn. GitHub knowledge preferred but not necessary&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Characterizing the counter-narratives of climate change (Spring - 2022)</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -64,10 +57,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -236,10 +229,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -291,13 +284,13 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/jessica-dutton">Jessica Dutton&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/diane-kim">Diane Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>

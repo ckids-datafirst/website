@@ -87,39 +87,7 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>Web Scraping&lt;/li>
-&lt;li>SQL&lt;/li>
-&lt;li>NoSQL&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -156,6 +124,38 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
 &lt;/ul></description></item><item><title>Discovering and Measuring Biases in Commonsense Knowledge Bases</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/103/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -197,7 +197,30 @@
 &lt;li>Clustering&lt;/li>
 &lt;li>Language Models&lt;/li>
 &lt;li>Data Analysis&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
+&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
+&lt;p>CKIDS PROJECT TASKS&lt;/p>
+&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
+&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jianing-julia-chen">Jianing (Julia) Chen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Computational Simulation&lt;/li>
+&lt;li>R&lt;/li>
+&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
 &lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
 &lt;p>CKIDS PROJECT TASKS&lt;/p>
@@ -221,29 +244,6 @@
 &lt;li>R&lt;/li>
 &lt;li>Statistics&lt;/li>
 &lt;li>Computational Simulation&lt;/li>
-&lt;/ul></description></item><item><title>Investigating disparities in the COVID-19 epidemic in Los Angeles County through fine-grained epidemic modeling (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/114/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Fine-grained epidemiological modeling of the spread of COVID-19 can inform public health policy that accounts for disparities in the risk of exposure, infection, and death across different locations and different demographic groups. In Los Angeles County, disparities in COVID-19 infection rates by neighborhood have been tremendous. Throughout the current large outbreak wave, infection incidence rates in low-income, predominantly Hispanic neighborhoods of East LA have consistently been 10-15 times higher than in wealthier, predominantly white neighborhoods in West LA. Many well-informed hypotheses exist to explain the cause of these disparities in infection, including employment sectors that require leaving homes to work, household density, and behavioral differences across cultures and age groups. But for Los Angeles County, these hypotheses have not been evaluated quantitatively in the context of an epidemic modeling framework.&lt;/p>
-&lt;p>To explain the disproportionate impact of the virus on disadvantaged demographic groups in Los Angeles County, we are developing a networked multiple-population epidemic model to investigate how epidemic dynamics and infection outcomes differ across fine-grained neighborhoods. Specifically, we will extend an already-developed stochastic SEIR+ disease model that includes healthcare, death, and vaccination compartments into the networked multiple-population framework, which will model movements, contacts, and infection pathways within and between neighborhoods. A key feature of this modeling framework will be the use of dynamic mobility data, derived from US cell phone data, to inform changes in the daily movements of people within and between neighborhoods. This data will provide the basis of a weighted infection-transmissible contact network between neighborhoods. The SEIR disease model is run on top of this contact network, determining infection dynamics across the neighborhoods. The model will allow obtaining estimates of key epidemic quantities including transmission rates (and the time-varying reproductive number, R(t)) and infection fatality rates for each neighborhood, and identifying the neighborhoods driving epidemic spread (through contacts within and across neighborhoods). Furthermore, hierarchical modeling techniques will be used to obtain estimates of infection and fatality rates for substrata representing combinations of ethnicity/race, age, and sex within each neighborhood.&lt;/p>
-&lt;p>CKIDS PROJECT TASKS&lt;/p>
-&lt;p>While the overarching goal of this project is to develop a multiple-population epidemic model for Los Angeles County (LAC) across a network of connected neighborhoods, it is also necessary to maintain a single-population model for LAC as a whole that estimates the epidemic parameters for this larger spatial level. Such a single-population model has been maintained since May 2020 by the USC Biostatistics COVID modeling team. This model serves two important purposes. First, since May 2020 it has supported the LAC Department of Public Health, which has requested updates on key epidemic predictions on a weekly basis. Second; the parameters estimated from the single population model will serve as prior distributions in the Bayesian parameter estimation framework used in the networked-neighborhood model.&lt;/p>
-&lt;p>The first task for the CKIDS student will be to re-implement the parameter estimation framework for the existing LAC-level model, such that parameters are estimated each week and fixed for future estimates forward in time. This can be done either through modification to the existing code and parameter estimation framework, written in R and using Approximate Bayesian Computation (ABC), or through a full reimplementation of the modeling code. The second task will be to maintain the model estimation and website displaying updates through weekly updates using data that comes directly from the LAC Department of Public Health. A third possible task, depending on the interest of the CKIDS student, will be to apply the modeling to California data, and other counties in California (so far it has only been applied to LAC data).&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/tao-huang">Tao Huang&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jianing-julia-chen">Jianing (Julia) Chen&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Computational Simulation&lt;/li>
-&lt;li>R&lt;/li>
 &lt;/ul></description></item><item><title>Mapping the Ethical Concerns Surrounding AI Research</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/3/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/3/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>With the recent enthusiasm about algorithmic fairness and responsible AI, many conferences are encouraging or requiring a broader impact section to assess societal harms and benefits of the AI research being presented. In this project, we will analyze the themes of these sections, with a particular focus on the ethical issues being addressed and acknowledged. We will develop tools and methods to evaluate the harms and benefits of the presented research. The goal is to see how is the community helping AI research to be less harmful but more beneficial for society. For more background on work in this area, please review this workshop.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -357,10 +357,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/daniel-benjamin">Daniel Benjamin&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/fred-morstatter">Fred Morstatter&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
@@ -662,10 +662,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/gabriel-kahn">Gabriel Kahn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/seon-ho-kim">Seon Ho Kim&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Detecting deep fakes</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/418/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Spread of misinformation has become a significant problem, raising the importance of relevant detection methods. While there are different manifestations of misinformation, in this work we focus on detecting face manipulations in videos. This project will focus on detecting face manipulations in videos. We exploit the temporal dynamics of videos with recurrent networks.&lt;/p>

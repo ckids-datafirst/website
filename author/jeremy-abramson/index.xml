@@ -1,29 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jeremy Abramson | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/jeremy-abramson/</link><atom:link href="https://ckids-datafirst.github.io/website/author/jeremy-abramson/index.xml" rel="self" type="application/rss+xml"/><description>Jeremy Abramson</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/jeremy-abramson/avatar_hu6e719e99badaa3fe79cc05871ce9dafb_43057_270x270_fill_q75_lanczos_center.jpeg</url><title>Jeremy Abramson</title><link>https://ckids-datafirst.github.io/website/author/jeremy-abramson/</link></image><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/824/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jeremy Abramson | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/jeremy-abramson/</link><atom:link href="https://ckids-datafirst.github.io/website/author/jeremy-abramson/index.xml" rel="self" type="application/rss+xml"/><description>Jeremy Abramson</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/jeremy-abramson/avatar_hu6e719e99badaa3fe79cc05871ce9dafb_43057_270x270_fill_q75_lanczos_center.jpeg</url><title>Jeremy Abramson</title><link>https://ckids-datafirst.github.io/website/author/jeremy-abramson/</link></image><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-software-ecosystems/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-software-ecosystems/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source runs a lot of the world's critical software systems, but there is much that's unknown in how maintainers, developers and other parts of the software ecosystem function. Help us analyze a large corpus of open source data — both source code and patch conversations — to better understand them! We'll study things like rise to influence, authorship styles, malware analysis, topic modeling and social network analysis!&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/apoorv-dixit">Apoorv Dixit&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kai-zheng">Kai Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zishen-wei">Zishen Wei&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python (needed)&lt;/li>
-&lt;li>experience with LLMs/OpenAI APIs&lt;/li>
-&lt;li>program analysis&lt;/li>
-&lt;li>C code (preferred - but not necessary!)&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/820/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Open source sports data such as the nflverse has lead to a massive increase in public sports analytics. But it's still hard to process, subset, visualize and analyze this data. This project will build a general-purpose analysis platform and dashboard, similar to what many teams use internally. Using the nflfastr data, this platform will allow interested individuals to select the play parameters they're interested in, and will provide relevant analysis, visualization and insight. Ideally, we'll set up the dashboard on the internet, and open source the project, allowing others to expand the available datasets, analyses and visualizations.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/abhinav-gupta">Abhinav Gupta&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anish-ari">Anish Ari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/brad-powell">Brad Powell&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/tyler-pomposelli">Tyler Pomposelli&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yitong-qian">Yitong Qian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python (pandas&lt;/li>
-&lt;li>streamlit&lt;/li>
-&lt;li>dash&lt;/li>
-&lt;li>etc. is a bonus!)&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>How to analyze and present insights from NFL play-by-play data&lt;/p></description></item><item><title>OSINT Social Networks on GitHub</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/607/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -38,39 +54,7 @@
 &lt;li>Databases&lt;/li>
 &lt;li>GraphQL&lt;/li>
 &lt;li>Neo4j&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>Web Scraping&lt;/li>
-&lt;li>SQL&lt;/li>
-&lt;li>NoSQL&lt;/li>
-&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -107,25 +91,24 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/10oMWG2cyIlynJpOiyYkuaDTv_pCCleJI/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
-&lt;h2 id="awards">Awards&lt;/h2>
-&lt;ul>
-&lt;li>Best Project Achievement&lt;/li>
-&lt;/ul>
+&lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/12/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/manasi-godse">Manasi Godse&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/jackie-fan">Jackie Fan&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yash-gupta">Yash Gupta&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/rehan-ahmed">Rehan Ahmed&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jiahang-song">Jiahang Song&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
@@ -135,10 +118,12 @@
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
 &lt;ul>
 &lt;li>Python&lt;/li>
-&lt;li>Databases&lt;/li>
 &lt;li>APIs&lt;/li>
-&lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;li>Databases&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>NoSQL&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -170,6 +155,37 @@
 &lt;li>GraphQL&lt;/li>
 &lt;li>OSINT&lt;/li>
 &lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
 &lt;/ul></description></item><item><title>Turning Cyber Data into Language</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks, and infrastructure. While such representations are easily processed by computers, cyber analysts often prefer dealing with written text. Natural language ontologies like FrameNet represent language in a structured manner as well, but frame specifications are often not specific enough for a given domain (like cybersecurity). In this project, students will learn about cybersecurity threat ontologies and build a GUI web app tool that annotates provided cyber threat documents. No previous knowledge of cybersecurity necessary!&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>

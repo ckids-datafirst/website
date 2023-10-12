@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yutong Luo | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yutong-luo/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yutong-luo/index.xml" rel="self" type="application/rss+xml"/><description>Yutong Luo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Yutong Luo</title><link>https://ckids-datafirst.github.io/website/author/yutong-luo/</link></image><item><title>Learning and forgetting in neural networks</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nn-forgetting/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nn-forgetting/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>In this project, you will examine the mechanism responsible for forgetting previous tasks in artificial neural networks. You will study how those mechanisms shape the behavior of neural network learning from heterogeneous data distributions. You will investigate how new information is stored in neural networks by plotting and interpreting the neuron activation patterns. You will also compare different learning schemas, and you will examine how they influence the final loss function landscape.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anjali-singh">Anjali Singh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bhargav-krishnamurthy">Bhargav Krishnamurthy&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/karthik-kancharla">Karthik Kancharla&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/mounika-mukkamalla">Mounika Mukkamalla&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/pavan-rakesh-reddy-chirla">Pavan Rakesh Reddy Chirla&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/priyanka-yadav">Priyanka Yadav&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/saurabh-yadgire">Saurabh Yadgire&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yutong-luo">Yutong Luo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/marcin-abram">Marcin Abram&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>How the information is stored in neural networks. How neural networks can forget how to perform previously mastered tasks. How to interpret neural networks (by examining the neuron activation patterns). How to conduct scientific experiments (in the domain of machine learning). How to present and visualize scientific data.&lt;/p></description></item></channel></rss>

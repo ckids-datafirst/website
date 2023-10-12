@@ -95,10 +95,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/kian-ahrabian">Kian Ahrabian&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/dong-ho-lee">Dong-Ho Lee&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/jay-pujara">Jay Pujara&lt;/a>&lt;/p>
@@ -140,38 +140,7 @@
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://drive.google.com/file/d/1by9TUZ-oXRFRnou8ahqtYkTu3ygpBk7U/view?usp=sharing" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
-&lt;h2 id="awards">Awards&lt;/h2>
-&lt;ul>
-&lt;li>Best Project Achievement&lt;/li>
-&lt;/ul>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Databases&lt;/li>
-&lt;li>APIs&lt;/li>
-&lt;li>GraphQL&lt;/li>
-&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Fall - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/104/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>“Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.”&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -203,6 +172,37 @@
 &lt;li>GraphQL&lt;/li>
 &lt;li>OSINT&lt;/li>
 &lt;li>Cybersecurity&lt;/li>
+&lt;/ul></description></item><item><title>Looking at White Hat (?) Hacker Social Networks on Github (Spring - 2021)</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/9/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open-source intelligence (“OSINT”) is a rapidly growing area of cybersecurity. This project seeks to explore OSINT information available on GitHub. Specifically, we will build and analyze a dataset comprised of users on GitHub who show a specific interest in GitHub repos related to hacking artifacts. This dataset and social network analysis could help us determine what attributes lead to “black hat” — or malicious — cyber actors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Best Project Achievement&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dat-nguyen">Dat Nguyen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/wenwen-zheng">Wenwen Zheng&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nai-cih-liou">Nai Cih Liou&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/xinran-liang">Xinran Liang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Databases&lt;/li>
+&lt;li>APIs&lt;/li>
+&lt;li>GraphQL&lt;/li>
 &lt;/ul></description></item><item><title>Turning Cyber Data into Language</title><link>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-spring/8/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Cyber ontologies such as STIX and ATT&amp;amp;CK can represent complex relationships between cyber threat actors, attacks, and infrastructure. While such representations are easily processed by computers, cyber analysts often prefer dealing with written text. Natural language ontologies like FrameNet represent language in a structured manner as well, but frame specifications are often not specific enough for a given domain (like cybersecurity). In this project, students will learn about cybersecurity threat ontologies and build a GUI web app tool that annotates provided cyber threat documents. No previous knowledge of cybersecurity necessary!&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
@@ -400,10 +400,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/andres-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/andr%c3%a9s-abeliuk">Andrés Abeliuk&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/abigail-horn">Abigail Horn&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="../../../author/kayla-de-la-haye">Kayla de la Haye&lt;/a>&lt;/p>

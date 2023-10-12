@@ -1,12 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yolanda Gil | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yolanda-gil/index.xml" rel="self" type="application/rss+xml"/><description>Yolanda Gil</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/yolanda-gil/avatar_hued13e254d9caf65a2dfa6f58ff9b25b6_8718_270x270_fill_q75_lanczos_center.jpeg</url><title>Yolanda Gil</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link></image><item><title>AI Ethics for Smart Health through Smart Watches</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/828/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/828/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yolanda Gil | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link><atom:link href="https://ckids-datafirst.github.io/website/author/yolanda-gil/index.xml" rel="self" type="application/rss+xml"/><description>Yolanda Gil</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/yolanda-gil/avatar_hued13e254d9caf65a2dfa6f58ff9b25b6_8718_270x270_fill_q75_lanczos_center.jpeg</url><title>Yolanda Gil</title><link>https://ckids-datafirst.github.io/website/author/yolanda-gil/</link></image><item><title>AI Ethics for Smart Health through Smart Watches</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-smart-watches/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-smart-watches/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Lots of personal data can be obtained from wearable devices such as smart watches. This data can be used to improve health, for example to learn to detect health problems and to check whether people adhere to doctor’s exercise recommendations. This project will conduct a thorough study of the ethical issues in using AI systems in this domain, with recommendations of how AI systems for smart health should be designed with ethical considerations in mind.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/clio-polanco-cercado">Clio Polanco Cercado&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jeremy-unger">Jeremy Unger&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/kipauno-washington">Kipauno Washington&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/olivia-guo">Olivia Guo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/shruti-ramesh">Shruti Ramesh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/siqi-qiao">Siqi Qiao&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/yabsera-benyam">Yabsera Benyam&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
-&lt;ul>
-&lt;li>Interest in healthcare and data science.&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>What kinds of health-related data can be captured through wearable devices, what kinds of analyses are possible, privacy and ethical aspects of personal applications for smart health.&lt;/p></description></item><item><title>Natural language processing of safety reports in nuclear plants and aviation</title><link>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-spring/810/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -65,7 +85,29 @@
 &lt;li>Statistics&lt;/li>
 &lt;li>Python&lt;/li>
 &lt;li>AWS Sagemaker&lt;/li>
-&lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>To create a software-as-a-service data pipeline for collecting health biomarkers via an instrumented toilet seat. This clinical data management system (CDMS) will enable collecting clinical-grade, high-quality, curated, and consistent data capture that meets NIH and FDA standards of clinical utility.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/alexander-billups">Alexander Billups&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/dhanashree-anant-patil">Dhanashree Anant Patil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/meghana-ramachandra-bhat">Meghana Ramachandra Bhat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/snigdha-chenjeri">Snigdha Chenjeri&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Engineering and software architecture skills to create the data pipeline from instrument signals to health reports compatible with reimbursement, research and clinical data systems.&lt;/p></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
@@ -250,10 +292,10 @@
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/deborah-holmes-wong">Deborah Holmes-Wong&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>

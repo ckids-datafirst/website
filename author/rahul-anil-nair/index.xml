@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rahul Anil Nair | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/rahul-anil-nair/</link><atom:link href="https://ckids-datafirst.github.io/website/author/rahul-anil-nair/index.xml" rel="self" type="application/rss+xml"/><description>Rahul Anil Nair</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Rahul Anil Nair</title><link>https://ckids-datafirst.github.io/website/author/rahul-anil-nair/</link></image><item><title>Bad Writing is "Fine": Tuning an LLM to Suggest Improvements</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-bad-writing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-bad-writing/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Prototype an approach to fine-tune a large language model (LLM) to help diagnose areas to improve a specific writing product. For example, scientific papers require consistent language but in creative writing variety matters. Proposed steps are:&lt;/p>
+&lt;ol>
+&lt;li>Writing Product: Coordinate with project mentors to choose a common and important writing product, such as a position paper or an academic conference. Identify/gather a rubric and a corpus.&lt;/li>
+&lt;li>Inject Bad Writing: For each element of the rubric, develop prompts for generative AI to decrease the quality of writing based on the rubric (i.e., make it worse). This will form a training data set of the good example and version worse on certain characteristics.&lt;/li>
+&lt;li>Fine Tune: Students will be expected to attempt to fine tune an LLM (e.g., LLAMA 2) based on this synthetically generated data&lt;/li>
+&lt;li>Evaluate: Research if tuning suggests better domain-specific areas to improve.&lt;/li>
+&lt;/ol>
+&lt;p>This project aligns with ongoing work with the USC Generative AI Center.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anupam-patil">Anupam Patil&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/anuranjan-pandey">Anuranjan Pandey&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/divyajyoti-panda">Divyajyoti Panda&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jize-luo">Jize Luo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/nilamadha-mohanty">Nilamadha Mohanty&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/rahul-anil-nair">Rahul Anil Nair&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/benjamin-nye">Benjamin Nye&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Generative AI for large language models. Generating synthetic data for a rubric. Fine tuning a large language model, likely using CARC (the on campus computing cluster). Understanding intelligent tutoring system design fundamentals for modeling how experts diagnose issues from novices.&lt;/p></description></item></channel></rss>
