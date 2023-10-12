@@ -41,5 +41,4 @@ The core parameters for the website can be edited in the config/\_default/params
 
 ## Acknowledgements
 
-Thanks to Natalia Davydova for the [Responsive Horizontal Timeline in HTML CSS
-](https://www.codepel.com/html-css/responsive-horizontal-timeline-in-html-css/) MIT licensed code.
+Thanks to Natalia Davydova for the Responsive Horizontal Timeline in HTML CSS (MIT licensed code).
