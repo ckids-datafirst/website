@@ -5,6 +5,7 @@ authors:
 - Dhanashree Anant Patil
 - Meghana Ramachandra Bhat
 - Snigdha Chenjeri
+- Natalie Fung
 - Yolanda Gil
 categories: &id001
 - Fall 2023
@@ -41,6 +42,8 @@ To create a software-as-a-service data pipeline for collecting health biomarkers
 * [Meghana Ramachandra Bhat](../../../author/meghana-ramachandra-bhat)
 
 * [Snigdha Chenjeri](../../../author/snigdha-chenjeri)
+
+* [Natalie Fung](../../../author/natalie-fung)
 
 ## Advisors
 

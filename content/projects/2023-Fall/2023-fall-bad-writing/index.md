@@ -6,6 +6,7 @@ authors:
 - Divyajyoti Panda
 - Jize Luo
 - Nilamadha Mohanty
+- Rahul Tangsali
 - Rahul Anil Nair
 - Benjamin Nye
 categories: &id001
@@ -60,6 +61,8 @@ This project aligns with ongoing work with the USC Generative AI Center.
 * [Jize Luo](../../../author/jize-luo)
 
 * [Nilamadha Mohanty](../../../author/nilamadha-mohanty)
+
+* [Rahul Tangsali](../../../author/rahul-tangsali)
 
 * [Rahul Anil Nair](../../../author/rahul-anil-nair)
 

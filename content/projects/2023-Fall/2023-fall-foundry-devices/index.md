@@ -4,7 +4,7 @@ authors:
 - Bill Zhang
 - Jiankun Wei
 - Lee-Chi Wang
-- Ryan Silva
+- Ryan Lee
 - Younwoo Roh
 - Andrew Rittenbach
 categories: &id001
@@ -44,7 +44,7 @@ Highly accurate fault detection in foundry produced microelectronics is crucial 
 
 * [Lee-Chi Wang](../../../author/lee-chi-wang)
 
-* [Ryan Silva](../../../author/ryan-silva)
+* [Ryan Lee](../../../author/ryan-lee)
 
 * [Younwoo Roh](../../../author/younwoo-roh)
 

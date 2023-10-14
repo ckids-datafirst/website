@@ -2,7 +2,7 @@
 !ProjectPage
 authors:
 - Aayushi Goenka
-- Atharva Swami
+- Atharva Joshi
 - Cooper Gamble
 - Dhruv Maheshwari
 - Harsh Thakkar
@@ -46,7 +46,7 @@ Federated learning is an approach to distributed deep learning without sharing d
 
 * [Aayushi Goenka](../../../author/aayushi-goenka)
 
-* [Atharva Swami](../../../author/atharva-swami)
+* [Atharva Joshi](../../../author/atharva-joshi)
 
 * [Cooper Gamble](../../../author/cooper-gamble)
 

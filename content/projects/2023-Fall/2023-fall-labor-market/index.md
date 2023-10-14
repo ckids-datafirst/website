@@ -4,7 +4,7 @@ authors:
 - Darren Cao
 - Josephina Zhenni Bian
 - Nicole Dias
-- Ryan Lee
+- Ryan Silva
 - Yi Ming
 - William Resh
 categories: &id001
@@ -48,7 +48,7 @@ Public sector institutions at local, state, and federal levels are facing an unp
 
 * [Nicole Dias](../../../author/nicole-dias)
 
-* [Ryan Lee](../../../author/ryan-lee)
+* [Ryan Silva](../../../author/ryan-silva)
 
 * [Yi Ming](../../../author/yi-ming)
 
