@@ -1,32 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abhinav Arun | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/abhinav-arun/</link><atom:link href="https://ckids-datafirst.github.io/website/author/abhinav-arun/index.xml" rel="self" type="application/rss+xml"/><description>Abhinav Arun</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Abhinav Arun</title><link>https://ckids-datafirst.github.io/website/author/abhinav-arun/</link></image><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-aviation-safety/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-aviation-safety/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to understand root-causes of one of the serious aviation safety problem in the US - runway incursions. The Aviation Safety Reporting Systems, which is administered by the NASA and is an untapped treasure trove of textual data, will be used for this project.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abhinav Arun | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/abhinav-arun/</link><atom:link href="https://ckids-datafirst.github.io/website/author/abhinav-arun/index.xml" rel="self" type="application/rss+xml"/><description>Abhinav Arun</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Abhinav Arun</title><link>https://ckids-datafirst.github.io/website/author/abhinav-arun/</link></image><item><title>Building a Platform for NFL Data Insights</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-nfl/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Open source sports data such as the nflverse has lead to a massive increase in public sports analytics. But it's still hard to process, subset, visualize and analyze this data. This project will build a general-purpose analysis platform and dashboard, similar to what many teams use internally. Using the nflfastr data, this platform will allow interested individuals to select the play parameters they're interested in, and will provide relevant analysis, visualization and insight. Ideally, we'll set up the dashboard on the internet, and open source the project, allowing others to expand the available datasets, analyses and visualizations.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="../../../author/abhinav-arun">Abhinav Arun&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/atharva-joshi">Atharva Joshi&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/anish-ari">Anish Ari&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/chahita-verma">Chahita Verma&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/brad-powell">Brad Powell&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/likhit-jha">Likhit Jha&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/tyler-pomposelli">Tyler Pomposelli&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;a href="../../../author/mino-cha">Mino Cha&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/ravneet-kaur">Ravneet Kaur&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/shreyas-malewar">Shreyas Malewar&lt;/a>&lt;/p>
+&lt;p>&lt;a href="../../../author/yitong-qian">Yitong Qian&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/najmedin-meshkati">Najmedin Meshkati&lt;/a>&lt;/li>
+&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Using AI/ML/NLP and working on the data from a major global industry - aviation.&lt;/p></description></item></channel></rss>
+&lt;p>How to analyze and present insights from NFL play-by-play data&lt;/p></description></item></channel></rss>
