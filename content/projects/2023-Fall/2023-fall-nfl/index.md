@@ -1,7 +1,7 @@
 ---
 !ProjectPage
 authors:
-- Abhinav Gupta
+- Abhinav Arun
 - Anish Ari
 - Brad Powell
 - Tyler Pomposelli
@@ -39,7 +39,7 @@ Open source sports data such as the nflverse has lead to a massive increase in p
 
 ## Students
 
-* [Abhinav Gupta](../../../author/abhinav-gupta)
+* [Abhinav Arun](../../../author/abhinav-arun)
 
 * [Anish Ari](../../../author/anish-ari)
 

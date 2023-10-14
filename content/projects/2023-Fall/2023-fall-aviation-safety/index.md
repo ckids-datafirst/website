@@ -1,8 +1,8 @@
 ---
 !ProjectPage
 authors:
-- Abhinav Arun
-- Atharva Joshi
+- Abhinav Gupta
+- Atharva Swami
 - Chahita Verma
 - Likhit Jha
 - Mino Cha
@@ -39,9 +39,9 @@ This project, which is co-advised by Dr. Yolanda Gil, will use AI/ML/NLP to unde
 
 ## Students
 
-* [Abhinav Arun](../../../author/abhinav-arun)
+* [Abhinav Gupta](../../../author/abhinav-gupta)
 
-* [Atharva Joshi](../../../author/atharva-joshi)
+* [Atharva Swami](../../../author/atharva-swami)
 
 * [Chahita Verma](../../../author/chahita-verma)
 

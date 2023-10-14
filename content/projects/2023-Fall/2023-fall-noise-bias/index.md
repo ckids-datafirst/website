@@ -3,8 +3,8 @@
 authors:
 - Abhishek Anand
 - Anweasha Saha
-- Mohib Mirza
 - Prathyusha Naresh Kumar
+- Natalie Fung
 - Negar Mokhberian
 categories: &id001
 - Fall 2023
@@ -48,9 +48,9 @@ In this project, our objective is to bridge the gap between the two lines of res
 
 * [Anweasha Saha](../../../author/anweasha-saha)
 
-* [Mohib Mirza](../../../author/mohib-mirza)
-
 * [Prathyusha Naresh Kumar](../../../author/prathyusha-naresh-kumar)
+
+* [Natalie Fung](../../../author/natalie-fung)
 
 ## Advisors
 

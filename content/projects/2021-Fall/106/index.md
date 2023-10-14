@@ -15,11 +15,7 @@ categories: &id001
   - Best Interdisciplinary Data Science Project
 date: "2021-01-01 00:00:00"
 external_link: null
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: null
 slides: https://urldefense.com/v3/__https://corpcalusc.github.io/__;!!LIr3w8kk_Xxm!9pX3r3ReCCQAD3tQ9C0aL8SCckHbz0ScVKdFZ8-MN25gZaG-tePfe9YZLLZy2yg$
 summary:
   The human corpus callosum is the largest pathway connecting the left and
