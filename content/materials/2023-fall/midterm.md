@@ -1,4 +1,4 @@
-## Midterm DataFirst 2023
+## Midterm DataFirst Fall 2023
 
 * Date: Friday, October 20, 5-7pm
 * Location: SAL 101
