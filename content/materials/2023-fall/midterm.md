@@ -9,7 +9,9 @@
 * [Aviation Safety](https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/results/aviation_safety.pdf)
 * [California Public Sector Labor Market](https://github.com/ckids-datafirst/2023-fall-labor-market/blob/main/content/results/CA-Public-Sector.pdf)
 * [Foundry Fault Detection](https://github.com/ckids-datafirst/2023-fall-foundry-devices/blob/main/content/results/ml_foundry_fault_detection_poster.pdf)
+* [Learning and Forgetting in Neural Networks](https://github.com/ckids-datafirst/2023-fall-nn-forgetting/blob/main/content/results/learning_and_forgerring_midterm_poster_2023.pdf)
 * [Paleoclimatology](https://github.com/ckids-datafirst/2023-fall-paleoclimate/blob/main/content/results/Pyleoclim.pdf)
+* [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://github.com/ckids-datafirst/2023-fall-noise-bias/blob/main/content/results/Poster_DataFirst.pdf)
 
 <br>
 
