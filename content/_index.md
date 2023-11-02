@@ -43,7 +43,82 @@ sections:
       text: |
 
         [Fall 2023 DataFirst](editions/2023-fall)
-    
+
+
+
+  - block: features
+    content:
+      title: Our numbers
+      items:
+        - icon: calendar-alt
+          icon_pack: fa
+          name: 10 Semesters
+          description: We've been running DataFirst for 10 successful semesters, fostering data science collaboration.
+
+        - icon: chart-bar
+          icon_pack: fas
+          name: 144 Projects
+          description: We've facilitated 144 real-world data science projects, driving innovation and research.
+
+        - icon: user-graduate
+          icon_pack: fa
+          name: 411 Students
+          description: A total of 411 students have participated, bringing their skills and enthusiasm to projects.
+
+        - icon: person-chalkboard
+          icon_pack: fas
+          name: 74 Advisors
+          description: Our program has engaged 74 advisors from diverse academic backgrounds and disciplines.
+
+        - icon: school
+          icon_pack: fas
+          name: 10 Schools
+          description: DataFirst has brought together students and advisors from 10 different schools within USC.
+
+  - block: steps
+
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters: # Folders to display content from
+        folders:
+          - projects # Only show content with these tags
+        kinds:
+          - page
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Data Science Infrastructure
+          tag: 'Data Science Infrastructure'
+        - name: Economics
+          tag: 'Economics'
+        - name: Education
+          tag: 'Education'
+        - name: Environmental Sustainability
+          tag: 'Environmental Sustainability'
+        - name: Ethics/Equity
+          tag: 'Ethics/Equity'
+        - name: Health
+          tag: 'Health'
+        - name: Journalism
+          tag: 'Journalism'
+        - name: Online Communication
+          tag: 'Online Communication'
+        - name: Science
+          tag: 'Science'
+        - name: Technology
+          tag: 'Technology'
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: "1"
+      # Choose a listing view
+      view: compact
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
   - block: hero
     content:
       id: "ckids"
