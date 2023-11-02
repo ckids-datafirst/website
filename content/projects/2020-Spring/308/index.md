@@ -1,20 +1,22 @@
 ---
 !ProjectPage
 authors:
-- Dan Peng
-- Gitanjali Kanakaraj
-- Hanieh Arabzadehghahyazi
-- Naiya Shah
-- Nana Andriana
-- Keith Burghardt
-- Daniel O'Leary
+  - Dan Peng
+  - Gitanjali Kanakaraj
+  - Hanieh Arabzadehghahyazi
+  - Naiya Shah
+  - Nana Andriana
+  - Keith Burghardt
+  - Daniel O'Leary
 categories: &id001
-- Spring 2020
-date: '2020-01-01 00:00:00'
+  - Spring 2020
+  - Featured
+date: "2020-01-01 00:00:00"
 external_link: null
 image: null
 slides: https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&ouid=116088473370484068569&rtpof=true&sd=true
-summary: The purpose of this project is to analyze a crowdsourcing setting for both
+summary:
+  The purpose of this project is to analyze a crowdsourcing setting for both
   the sentiment and other categories of meaning in the text, and the roles and impact
   of a network of contributors on the votes and potentially on the content.
 tags: *id001
@@ -25,37 +27,34 @@ url_slides: https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh
 url_video: null
 weight: 10
 ---
+
 ## Description
 
 The purpose of this project is to analyze a crowdsourcing setting for both the sentiment and other categories of meaning in the text, and the roles and impact of a network of contributors on the votes and potentially on the content.
 
-
-
-
-
 ## Students
 
-* [Dan Peng](../../../author/dan-peng)
+- [Dan Peng](../../../author/dan-peng)
 
-* [Gitanjali Kanakaraj](../../../author/gitanjali-kanakaraj)
+- [Gitanjali Kanakaraj](../../../author/gitanjali-kanakaraj)
 
-* [Hanieh Arabzadehghahyazi](../../../author/hanieh-arabzadehghahyazi)
+- [Hanieh Arabzadehghahyazi](../../../author/hanieh-arabzadehghahyazi)
 
-* [Naiya Shah](../../../author/naiya-shah)
+- [Naiya Shah](../../../author/naiya-shah)
 
-* [Nana Andriana](../../../author/nana-andriana)
+- [Nana Andriana](../../../author/nana-andriana)
 
 ## Advisors
 
-* [Keith Burghardt](../../../author/keith-burghardt)
+- [Keith Burghardt](../../../author/keith-burghardt)
 
-* [Daniel O&#39;Leary](../../../author/daniel-oleary)
+- [Daniel O&#39;Leary](../../../author/daniel-oleary)
 
 ## Skills Required by the team
 
+- Social Network Analysis
+- Text Analysis
 
-* Social Network Analysis
-* Text Analysis
 ## Final presentation resources
 
-* [Final presentation](https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&amp;ouid=116088473370484068569&amp;rtpof=true&amp;sd=true)
+- [Final presentation](https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&ouid=116088473370484068569&rtpof=true&sd=true)
