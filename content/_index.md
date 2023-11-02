@@ -87,8 +87,8 @@ sections:
         kinds:
           - page
       buttons:
-        - name: All
-          tag: '*'
+        - name: Featured
+          tag: 'Featured'
         - name: Data Science Infrastructure
           tag: 'Data Science Infrastructure'
         - name: Economics
