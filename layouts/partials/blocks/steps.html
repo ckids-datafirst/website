@@ -1,6 +1,15 @@
----
-widget: steps
----
+{{/* Wowchemy Blocks: Markdown */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.design.columns | default "1" }}
+{{ $text := $block.content.text | emojify | $page.RenderString }}
+
+<script src="js/timeline.js"></script>
+<div class="col-12 ">
 
 <svg aria-hidden="true" focusable="false" style="width:0;height:0;position:absolute;">
   <linearGradient id="icon-gradient">
@@ -207,3 +216,5 @@ The culmination of the DataFirst program, student teams present their final proj
 
   </div>
 </div>
+
+  </div>
