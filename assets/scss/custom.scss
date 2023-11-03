@@ -410,3 +410,14 @@ body a {
 .timeline__slide-content p:last-child {
   margin-bottom: 0;
 }
+.media.stream-item img {
+  max-width: 400px;
+  height: auto;
+  object-fit: cover;
+  justify-content: center;
+}
+
+.article-style a {
+  color: #3498db;
+  text-decoration: none;
+}

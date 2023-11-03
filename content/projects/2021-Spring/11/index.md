@@ -1,22 +1,22 @@
 ---
 !ProjectPage
 authors:
-- Xiaoyu Wang
-- Stephen Iota
-- Bolong Pan
-- Junyi Liu
-- Ming Lyu
-- Yolanda Gil
-- Wael Abd-Almageed
+  - Xiaoyu Wang
+  - Stephen Iota
+  - Bolong Pan
+  - Junyi Liu
+  - Ming Lyu
+  - Yolanda Gil
+  - Wael Abd-Almageed
 categories: &id001
-- Spring 2021
-- Featured
-- Best Data Science Teamwork
-date: '2021-01-01 00:00:00'
+  - Spring 2021
+  - Best Data Science Teamwork
+date: "2021-01-01 00:00:00"
 external_link: null
 image: null
 slides: null
-summary: Students will analyze images from optical microscopes that reveal features
+summary:
+  Students will analyze images from optical microscopes that reveal features
   of materials and microstructures using machine learning techniques. These images
   have been collected by geologists, who use them to study the rock samples that they
   collect in the field and determine their properties and origins. We have a baseline
@@ -30,40 +30,35 @@ url_slides: null
 url_video: null
 weight: 10
 ---
+
 ## Description
 
 Students will analyze images from optical microscopes that reveal features of materials and microstructures using machine learning techniques. These images have been collected by geologists, who use them to study the rock samples that they collect in the field and determine their properties and origins. We have a baseline system already implemented, and the goal is to improve it with new machine learning techniques, guided by the insights of our collaborating geologists.
 
-
-
 ## Awards
-* Best Data Science Teamwork
 
-
-
-
+- Best Data Science Teamwork
 
 ## Students
 
-* [Xiaoyu Wang](../../../author/xiaoyu-wang)
+- [Xiaoyu Wang](../../../author/xiaoyu-wang)
 
-* [Stephen Iota](../../../author/stephen-iota)
+- [Stephen Iota](../../../author/stephen-iota)
 
-* [Bolong Pan](../../../author/bolong-pan)
+- [Bolong Pan](../../../author/bolong-pan)
 
-* [Junyi Liu](../../../author/junyi-liu)
+- [Junyi Liu](../../../author/junyi-liu)
 
-* [Ming Lyu](../../../author/ming-lyu)
+- [Ming Lyu](../../../author/ming-lyu)
 
 ## Advisors
 
-* [Yolanda Gil](../../../author/yolanda-gil)
+- [Yolanda Gil](../../../author/yolanda-gil)
 
-* [Wael Abd-Almageed](../../../author/wael-abd-almageed)
+- [Wael Abd-Almageed](../../../author/wael-abd-almageed)
 
 ## Skills Required by the team
 
-
-* Python
-* Machine Learning
-* Computer Vision
+- Python
+- Machine Learning
+- Computer Vision
