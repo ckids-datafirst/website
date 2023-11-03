@@ -26,7 +26,7 @@
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;amp;ouid=116088473370484068569&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Modeling Uncertainty in Drought Data</title><link>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-fall/410/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Droughts can have a substantial impact on agricultural systems and human livelihood. A Python package to calculate various drought indices in being developed. In this project, you will expand on this package and develop methods to test the sensitivity of the models to various input datasets and parameters.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
