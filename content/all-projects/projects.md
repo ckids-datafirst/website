@@ -15,8 +15,10 @@ content:
     kinds:
       - page
   filter_button:
-    - name: Featured
+    - name: Highlights
       tag: 'Featured'
+    - name: 'All projects'
+      tag: '*'
     - name: Data Science Infrastructure
       tag: 'Data Science Infrastructure'
     - name: Economics
