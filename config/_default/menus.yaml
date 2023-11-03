@@ -2,6 +2,9 @@ main:
   - name: Home
     url: /
     weight: 1
+  - name: Projects
+    url: all-projects/
+    weight: 9
   - name: Advisors
     url: /info-advisors
     weight: 10
