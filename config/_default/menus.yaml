@@ -84,3 +84,7 @@ main:
     parent: Semesters
     url: editions/2019-spring
     weight: 100
+  - name: All Projects
+    parent: Semesters
+    url: all-projects
+    weight: 1000
