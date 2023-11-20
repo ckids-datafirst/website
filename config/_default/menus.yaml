@@ -12,9 +12,14 @@ main:
   - name: Students
     url: info-students
     weight: 20
+
+  - name: Resources
+    url: materials/resources-timeless
+    weight: 21
+
   - name: Fall 2023
     url: editions/2023-fall
-    weight: 21
+    weight: 22
 
   - name: Dates
     parent: Fall 2023
