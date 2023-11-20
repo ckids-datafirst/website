@@ -23,8 +23,7 @@ sections:
         Come to our information session and hear from faculty mentors about projects that will be part of DataFirst this Fall semester.  Then you can decide if you want to sign up to participate.
 
       cta:
-        #url: https://docs.google.com/forms/d/e/1FAIpQLSf2zJUy77A-oe9AX_MWsVpb04bSzeW7Zu6h5MrPDU7__SAuOg/viewform
-        url: ""
+        url: "https://forms.gle/Di2TDxVwpUdr1PMq9"
         label: Sign up for the information session
         icon_pack: fas
         icon: user-graduate
