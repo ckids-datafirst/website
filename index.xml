@@ -4118,7 +4118,21 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>Create a file named &lt;code>README.md&lt;/code> in its root. The &amp;ldquo;root&amp;rdquo; means not inside any folder in your repository.&lt;/li>
 &lt;li>Edit the contents of the &lt;code>README.md&lt;/code> file.&lt;/li>
 &lt;li>If you created a new branch for your file, open and merge a pull request on your branch.&lt;/li>
-&lt;/ol></description></item><item><title>Tutorials</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
+&lt;/ol></description></item><item><title>Resources</title><link>https://ckids-datafirst.github.io/website/materials/resources-timeless/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/resources-timeless/</guid><description>&lt;h2 id="tutorials">Tutorials&lt;/h2>
+&lt;h3 id="git-and-github">Git and GitHub&lt;/h3>
+&lt;p>Before the session, we strongly recommend taking the free online course titled &amp;ldquo;My First Day on Github&amp;rdquo; available at &lt;a href="https://skills.github.com" target="_blank" rel="noopener">https://skills.github.com/&lt;/a>. Completing this course will give you a strong foundation and allow you to come prepared with questions and insights, enhancing your learning experience during the tutorial.&lt;/p>
+&lt;h4 id="requirements">Requirements&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com" target="_blank" rel="noopener">Create a GitHub account&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://forms.gle/kEb3wBrQXKK7ieov9" target="_blank" rel="noopener">Share your GitHub username&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="links">Links&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="../first-day-on-github/github-tutorial.pdf">Presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/wcaU1aDe9SE" target="_blank" rel="noopener">Youtube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-tutorials">More tutorials&lt;/h3>
+&lt;p>More tutorials will be announced soon. Stay tuned!&lt;/p></description></item><item><title>Tutorials</title><link>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/tutorials/</guid><description>&lt;h2 id="git-and-github">Git and GitHub&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
