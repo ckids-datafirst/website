@@ -2,20 +2,30 @@ main:
   - name: Home
     url: /
     weight: 1
+
   - name: Projects
     url: all-projects/
     weight: 9
+
   - name: Advisors
     url: /info-advisors
     weight: 10
 
   - name: Students
-    url: info-students
-    weight: 20
+    url: /info-students
+    weight: 15
 
   - name: Resources
     url: materials/resources-timeless
-    weight: 21
+    weight: 16
+
+  - name: Spring 2024
+    url: calls/2024-spring/advisors
+    weight: 20
+
+  - name: Advisors
+    parent: Spring 2024
+    url: calls/2024-spring/advisors
 
   - name: Fall 2023
     url: editions/2023-fall
