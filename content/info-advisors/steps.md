@@ -59,7 +59,7 @@ widget: steps
   </defs>
 </svg>
 <div class="content">
-  <h1>DataFirst Process Overview</h1>
+  <h1>DataFirst Timeline</h1>
   <p>DataFirst starts every semester, inviting faculty to propose data science projects. Students apply, and faculty provide guidance as they work on projects. The semester concludes with presentations showcasing the results and the spirit of collaboration in data science.</p>
   <div class="container">
   <br>
