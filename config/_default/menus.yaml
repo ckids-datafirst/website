@@ -16,6 +16,7 @@ main:
     weight: 15
 
   - name: Resources
+    title: Resources
     url: materials/resources-timeless
     weight: 16
 
@@ -23,7 +24,7 @@ main:
     url: calls/2024-spring/advisors
     weight: 20
 
-  - name: Advisors
+  - name: Call for Advisors
     parent: Spring 2024
     url: calls/2024-spring/advisors
 
@@ -36,7 +37,7 @@ main:
     url: editions/2023-fall/#dates
     weight: 10
 
-  - name: Resources
+  - name: Resources (Fall 2023)
     parent: Fall 2023
     url: editions/2023-fall/#2-resources-students
     weight: 20
