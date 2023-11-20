@@ -38,7 +38,7 @@ sections:
         **Proposal deadline: TDB**
 
       cta:
-        url: ""
+        url: "https://forms.gle/6jD4Qk42MZgbMG1z9"
         label: Submit your proposal (coming soon)
         icon_pack: fas
         icon: user-graduate
