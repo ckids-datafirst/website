@@ -39,7 +39,7 @@ sections:
 
       cta:
         url: "https://forms.gle/6jD4Qk42MZgbMG1z9"
-        label: Submit your proposal (coming soon)
+        label: Submit your proposal
         icon_pack: fas
         icon: user-graduate
       cta_alt:
