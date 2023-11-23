@@ -4070,22 +4070,30 @@ In this project, our objective is to bridge the gap between the two lines of res
 &lt;li>To find projects to contribute to, check out &lt;a href="https://github.com/explore" target="_blank" rel="noopener">GitHub Explore&lt;/a>.&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/website/materials/2023-fall/final/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/materials/2023-fall/final/</guid><description>&lt;h2 id="final-presentations-at-datafirst-fall-2023">Final Presentations at DataFirst Fall 2023&lt;/h2>
 &lt;ul>
-&lt;li>Date: Friday, December 1, 5-7:10pm&lt;/li>
+&lt;li>Date: Friday, December 1, 2023, 5:00-7:10pm&lt;/li>
 &lt;li>Location: MHP 101&lt;/li>
 &lt;/ul>
 &lt;h3 id="agenda">Agenda&lt;/h3>
 &lt;ul>
-&lt;li>5:00-5:15 Welcome and overview&lt;/li>
-&lt;li>5:15-6:00 Presentation Session I (serial presentations, 5 minutes each)&lt;/li>
-&lt;li>6:00-6:05 Break&lt;/li>
-&lt;li>6:05-6:55 Presentation Session II (serial presentations, 5 minutes each)&lt;/li>
-&lt;li>6:55-7:10 Award presentation&lt;/li>
+&lt;li>5:00-5:15pm Welcome and overview&lt;/li>
+&lt;li>5:15-6:00pm Presentation Session I (serial presentations, 5 minutes each)&lt;/li>
+&lt;li>6:00-6:05pm Break&lt;/li>
+&lt;li>6:05-6:55pm Presentation Session II (serial presentations, 5 minutes each)&lt;/li>
+&lt;li>6:55-7:10pm Award presentation&lt;/li>
 &lt;/ul>
 &lt;h3 id="presentation-formats">Presentation Formats&lt;/h3>
 &lt;p>There should be two versions of presenting the projects.&lt;/p>
 &lt;ol>
-&lt;li>A short 5-minute &lt;em>slide&lt;/em> version for the session on December 1, serving as a &amp;ldquo;teaser&amp;rdquo;&lt;/li>
-&lt;li>A fuller &lt;em>website&lt;/em> version that can do much better justice to include project information along the lines listed below. Please under your project URL under &lt;a href="https://github.com/ckids-datafirst" target="_blank" rel="noopener">https://github.com/ckids-datafirst&lt;/a>&lt;/li>
+&lt;li>A short 5-minute &lt;em>slide&lt;/em> version for the session on December 1, serving as a &amp;ldquo;teaser&amp;rdquo;
+&lt;ul>
+&lt;li>Format: Powerpoint, Google slides, Keynote, &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A fuller &lt;em>website&lt;/em> version that can do much better justice to include project information along the lines listed below.
+&lt;ul>
+&lt;li>Please place your project website in your project directory under &lt;a href="https://github.com/ckids-datafirst" target="_blank" rel="noopener">https://github.com/ckids-datafirst&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ol>
 &lt;h3 id="presentation-content">Presentation Content&lt;/h3>
 &lt;p>A good general presentation should contain an overview of the problem and the results:&lt;/p>
