@@ -31,5 +31,6 @@ A good general presentation should contain an overview of the problem and the re
 ### Award Nominations
 Each semester at DataFest we award students and teams for their outstanding work! Please fill out the following form to nominate students and teams for the awards: 
 - Mentors fill this out: https://forms.gle/duqPEW5ej9p8ecZMA 
-- Students, vote for the best mentor: https://forms.gle/p83nq7Wbg1c3wq4s6 
+- Students, vote for the best mentor: https://forms.gle/p83nq7Wbg1c3wq4s6
+  
 Share your nominations by midnight, November 28!
