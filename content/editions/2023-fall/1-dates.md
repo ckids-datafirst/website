@@ -12,4 +12,4 @@ id: dates
 | Tutorial: Your first day on Github                          | Thursday, September 28      | [Zoom](https://usc.zoom.us/j/93294675807)                                                            |
 | Data assessment document due                                | Week 3                      |                                                                                                      |
 | Midterm presentation                                        | ~~Wednesday, October 18~~<br> Friday, October 20, 5-7pm  |  SAL 101 |
-| Final presentation                                          | Friday, December 1          |                                                                                                      |
+| Final presentation                                          | Friday, December 1, 5-7:10pm   |  MHP 101       |
