@@ -1,19 +1,21 @@
 ## Final Presentations at DataFirst Fall 2023
 
-- Date: Friday, December 1, 5-7:10pm
+- Date: Friday, December 1, 2023, 5:00-7:10pm
 - Location: MHP 101
 
 ### Agenda
-- 5:00-5:15 Welcome and overview
-- 5:15-6:00 Presentation Session I (serial presentations,  5 minutes each)
-- 6:00-6:05 Break
-- 6:05-6:55 Presentation Session II (serial presentations, 5 minutes each)
-- 6:55-7:10 Award presentation
+- 5:00-5:15pm Welcome and overview
+- 5:15-6:00pm Presentation Session I (serial presentations,  5 minutes each)
+- 6:00-6:05pm Break
+- 6:05-6:55pm Presentation Session II (serial presentations, 5 minutes each)
+- 6:55-7:10pm Award presentation
 
 ### Presentation Formats
 There should be two versions of presenting the projects.
   1. A short 5-minute _slide_ version for the session on December 1, serving as a "teaser"
-  2. A fuller _website_ version that can do much better justice to include project information along the lines listed below. Please under your project URL under https://github.com/ckids-datafirst
+     - Format: Powerpoint, Google slides, Keynote, ...
+  2. A fuller _website_ version that can do much better justice to include project information along the lines listed below.
+     - Please place your project website in your project directory under https://github.com/ckids-datafirst
 
 ### Presentation Content
 A good general presentation should contain an overview of the problem and the results:
