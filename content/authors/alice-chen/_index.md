@@ -7,8 +7,8 @@ first_name: Alice
 last_name: Chen
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: Price School of Public Policy
+  url: https://priceschool.usc.edu/
 role: Advisor
 social:
 - !Social

@@ -7,8 +7,8 @@ first_name: Ken
 last_name: Nguyen
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: Dornsife College of Letters, Arts, and Sciences
+  url: https://dornsife.usc.edu/
 role: Advisor
 social:
 - !Social

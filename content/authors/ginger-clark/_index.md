@@ -7,8 +7,8 @@ first_name: Ginger
 last_name: Clark
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: Rossier School of Education
+  url: https://rossier.usc.edu/
 role: Advisor
 social:
 - !Social

@@ -7,8 +7,8 @@ first_name: Jonathan
 last_name: May
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: Viterbi School of Engineering
+  url: https://viterbischool.usc.edu/
 role: Advisor
 social:
 - !Social
