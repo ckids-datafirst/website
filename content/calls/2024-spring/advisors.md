@@ -60,13 +60,13 @@ sections:
         Important Dates
       text: |
         The following are the important dates for event:
-        | Event                  | Date                       |
+        | Event                  | Semester week               |
         |------------------------|----------------------------|
-        | Proposal deadline      | TDB |
-        | Kickoff meeting        | TDB |
-        | Student apply          | TDB |
-        | Faculty feedback       | TDB |
-        | Student assignments    | TDB|
-        | Midterm presentation   | TDB |
-        | Final presentation     | TDB |
+        | Proposal deadline      | Week 1 |
+        | Kickoff meeting        | Week 2|
+        | Student apply          | Week 2 |
+        | Faculty feedback       | Week 3|
+        | Student assignments    | Week 3|
+        | Midterm presentation   | Week 8|
+        | Final presentation     | Week 15|
 ---

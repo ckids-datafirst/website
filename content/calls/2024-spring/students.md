@@ -16,7 +16,7 @@ sections:
       image:
         filename: welcome.jpeg
       title: |
-        Call for USC students to attend information session for DataFest/DataFirst Spring 2024
+        Call for USC students to attend information session for DataFirst Spring 2024
       text: |
         This event is an opportunity for data science students to learn to work in teams with people who have different skills, to learn about different application domains, and to work on projects that can only be done with creative ideas.
 

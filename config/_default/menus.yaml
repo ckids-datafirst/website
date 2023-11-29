@@ -24,7 +24,7 @@ main:
     url: calls/2024-spring/advisors
     weight: 20
 
-  - name: Call for Advisors
+  - name: Call for Projects
     parent: Spring 2024
     url: calls/2024-spring/advisors
 
