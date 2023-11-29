@@ -5,8 +5,7 @@ content: null
 date: None
 headless: true
 title: Projects
-
-subtitle: "A list of all DataFirst projects"
+subtitle: "Previous DataFest projects"
 widget: portfolio
 content:
   filters: # Folders to display content from
