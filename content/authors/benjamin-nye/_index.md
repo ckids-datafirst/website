@@ -7,8 +7,8 @@ first_name: Benjamin
 last_name: Nye
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: Institute for Creative Technologies
+  url: https://ict.usc.edu/
 role: Advisor
 social:
 - !Social

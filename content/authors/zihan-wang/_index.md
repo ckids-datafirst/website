@@ -7,8 +7,8 @@ first_name: Zihan
 last_name: Wang
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: Marshall School of Business
+  url: https://www.marshall.usc.edu/
 role: Advisor
 social:
 - !Social
