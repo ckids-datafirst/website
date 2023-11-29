@@ -11,7 +11,7 @@
 {{/* Require Isotope */}}
 {{ $page.Page.Store.Set "has_isotope" true }}
 
-<h4> Filter projects with provided buttons </h4>
+<h4> Filter projects using the provided buttons </h4>
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
@@ -100,6 +100,7 @@
           <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
         {{end}}
         {{ partial "functions/render_view" (dict "page" $block "item" . "view" $view "index" $index) }}
+
       </div>
     {{end}}
 
