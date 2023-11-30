@@ -4,11 +4,30 @@
 - Location: MHP 101
 
 ### Agenda
-- 5:00-5:15pm Welcome and overview
-- 5:15-6:00pm Presentation Session I (serial presentations,  5 minutes each)
-- 6:00-6:05pm Break
-- 6:05-6:55pm Presentation Session II (serial presentations, 5 minutes each)
-- 6:55-7:10pm Award presentation
+- 5:00-5:10pm Introduction
+- 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
+    - Analyzing Open Source Software Ecosystems
+    - Aviation safety
+    - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
+    - Building a Platform for NFL Data Insights
+    - California Public Job Market
+    - Fault detection in foundry processed devices        
+    - Federated Learning for Neuroscience        
+    - Forensic interviews        
+    - Learning and forgetting in neural networks        
+- 5:55-6:00pm Networking and questions (or break)
+- 6:00-6:45pm Presentation Session II (serial presentations, 5 minutes each)
+    - Multilingual decipherment        
+    - Municipal Broadband
+    - Nuclear safety
+    - Paleoclimatology        
+    - Smart Watches        
+    - Understanding the Relation Between Noise and Bias in Annotated Datasets        
+    - Urban Futures Data Core
+    - Utilizing AI Generated Images for Object Detection and Classification        
+    - Regular Data: Quality health monitoring while you sit
+- 6:45-6:55pm Networking and questions
+- 6:55-7:05pm Award presentation
 
 ### Presentation Formats
 There should be two versions of presenting the projects.
