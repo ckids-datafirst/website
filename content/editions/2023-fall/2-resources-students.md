@@ -11,6 +11,8 @@ weight: 2
 - [DataFirst Lab at ISI](../../materials/2023-fall/datafirst-lab-at-isi) <br> We offer and encourage DataFirst students to come to the USC Information Sciences Institute (ISI) to work on their DataFirst projects, especially (1) to meet/work with other DataFirst students, (2) to attend tutorials and (3) to connect with DataFirst faculty who work predominantly at ISI in person (with an appointment ahead of time).
 - [DataFirst Midterm](../../materials/2023-fall/midterm) <br> Date: Friday, Oct. 20, 2023, 5:00-7:00pm &nbsp; Location: SAL 101
 - [DataFirst Final Presentations](../../materials/2023-fall/final) <br> Date: Friday, Dec. 1, 2023, 5:00-7:10pm &nbsp; Location: MHP 101
+- Surveys
+    - End-of-semester feedback: https://forms.gle/aSC1ERWmKFfxBh1S6
 - [USC Advanced Research Computing (CARC)](https://www.carc.usc.edu) ([workshops](https://www.carc.usc.edu/education-and-resources/workshops))
 - [Resources (alt)](https://www.isi.edu/~ulf/DataFirstFall2023/DataFirst-resources.html)
 
