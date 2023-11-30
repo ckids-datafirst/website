@@ -17,7 +17,7 @@
     - Learning and forgetting in neural networks        
 - 5:55-6:00pm Networking and questions (or break)
 - 6:00-6:45pm Presentation Session II (serial presentations, 5 minutes each)
-    - Multilingual decipherment        
+    - [Multilingual decipherment](https://docs.google.com/presentation/d/17Pqg32x5xyAB1Qq_eOCWhv9MOLkA8OkM1tATc9SUEVM)  
     - Municipal Broadband
     - Nuclear safety
     - Paleoclimatology        
