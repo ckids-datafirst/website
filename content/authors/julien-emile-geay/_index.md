@@ -19,9 +19,11 @@ title: Julien Emile-Geay
 user_groups:
 - Advisor (Spring 2020)
 - Advisor (Fall 2019)
+- Advisor (Fall 2023)
 ---
 
 ## Previous involvement
 
 * Fall 2019
+* Fall 2023
 * Spring 2020

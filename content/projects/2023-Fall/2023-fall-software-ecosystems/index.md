@@ -5,6 +5,8 @@ authors:
 - Kai Zheng
 - Zishen Wei
 - Jeremy Abramson
+- Jim Blythe
+- Alexey Tregubov
 categories: &id001
 - Fall 2023
 date: '2023-01-01 00:00:00'
@@ -44,6 +46,10 @@ Open source runs a lot of the world&#39;s critical software systems, but there i
 ## Advisors
 
 * [Jeremy Abramson](../../../author/jeremy-abramson)
+
+* [Jim Blythe](../../../author/jim-blythe)
+
+* [Alexey Tregubov](../../../author/alexey-tregubov)
 
 ## What students will learn
 

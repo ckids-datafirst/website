@@ -16,5 +16,10 @@ social:
   icon_pack: fas
   link: mailto:zszojka@law.usc.edu
 title: Zsofia Szojka
-user_groups: []
+user_groups:
+- Advisor (Fall 2023)
 ---
+
+## Previous involvement
+
+* Fall 2023

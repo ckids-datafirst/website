@@ -2,9 +2,9 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: jwalters@isi.edu
-first_name: John
-last_name: Paul Walters
+email: tregubov@usc.edu
+first_name: Alexey
+last_name: Tregubov
 organizations:
 - !Organization
   name: Viterbi School of Engineering
@@ -14,8 +14,8 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:jwalters@isi.edu
-title: John Paul Walters
+  link: mailto:tregubov@usc.edu
+title: Alexey Tregubov
 user_groups:
 - Advisor (Fall 2023)
 ---

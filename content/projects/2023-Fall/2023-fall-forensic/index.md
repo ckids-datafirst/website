@@ -5,6 +5,7 @@ authors:
 - Hrishikesh Thakur
 - Sneha Chawan
 - Thomas D. Lyon
+- Zsofia Szojka
 categories: &id001
 - Fall 2023
 date: '2023-01-01 00:00:00'
@@ -52,6 +53,8 @@ Question type coding is used in research on forensic interviewing to distinguish
 ## Advisors
 
 * [Thomas D. Lyon](../../../author/thomas-d-lyon)
+
+* [Zsofia Szojka](../../../author/zsofia-szojka)
 
 ## What students will learn
 

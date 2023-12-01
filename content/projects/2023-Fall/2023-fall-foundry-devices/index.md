@@ -7,6 +7,7 @@ authors:
 - Ryan Lee
 - Younwoo Roh
 - Andrew Rittenbach
+- John Paul Walters
 categories: &id001
 - Fall 2023
 date: '2023-01-01 00:00:00'
@@ -51,6 +52,8 @@ Highly accurate fault detection in foundry produced microelectronics is crucial 
 ## Advisors
 
 * [Andrew Rittenbach](../../../author/andrew-rittenbach)
+
+* [John Paul Walters](../../../author/john-paul-walters)
 
 ## What students will learn
 

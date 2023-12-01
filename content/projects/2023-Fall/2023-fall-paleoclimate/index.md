@@ -1,6 +1,7 @@
 ---
 !ProjectPage
 authors:
+- Julien Emile-Geay
 - Deborah Khider
 categories: &id001
 - Fall 2023
@@ -33,6 +34,8 @@ Paleoclimate timeseries data are crucial to understand how climate has changed i
 
 
 ## Advisors
+
+* [Julien Emile-Geay](../../../author/julien-emile-geay)
 
 * [Deborah Khider](../../../author/deborah-khider)
 
