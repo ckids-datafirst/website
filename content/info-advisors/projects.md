@@ -15,7 +15,7 @@ content:
       - page
   filter_button:
     - name: Highlights
-      tag: 'Featured'
+      tag: 'Highlighted Project'
     - name: 'All projects'
       tag: '*'
     - name: Data Science Infrastructure
