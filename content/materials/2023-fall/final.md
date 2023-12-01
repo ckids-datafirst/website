@@ -7,7 +7,7 @@
 - 5:00-5:10pm Introduction
 - 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
     - Analyzing Open Source Software Ecosystems
-    - Aviation safety
+    - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA)
     - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
     - Building a Platform for NFL Data Insights
     - California Public Job Market
