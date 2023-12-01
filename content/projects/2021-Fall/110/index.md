@@ -12,6 +12,7 @@ categories: &id001
 - Data Science Infrastructure
 - Featured
 - Best Data Science Presentation
+- Highlighted Project
 - Environmental Sustainability
 - Data Science Infrastructure
 date: '2021-01-01 00:00:00'
@@ -43,6 +44,8 @@ Developing models to analyze images is a demanding task that requires significan
 
 ## Awards
 * Best Data Science Presentation
+
+* Highlighted Project
 
 
 

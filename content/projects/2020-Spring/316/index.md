@@ -14,6 +14,7 @@ categories: &id001
 - Ethics/Equity
 - Featured
 - Best Data Science Teamwork
+- Highlighted Project
 - Environmental Sustainability
 - Online Communication
 - Ethics/Equity
@@ -42,6 +43,8 @@ Top climate scientists post their findings and views regularly on social media. 
 
 ## Awards
 * Best Data Science Teamwork
+
+* Highlighted Project
 
 
 

@@ -1,19 +1,19 @@
 ---
 !ProjectPage
 authors:
-  - Alex Zihuan Ran
-  - Hardik Mahipal Surana
-  - Daniel Garijo
-  - Jelena Mirkovic
+- Alex Zihuan Ran
+- Hardik Mahipal Surana
+- Daniel Garijo
+- Jelena Mirkovic
 categories: &id001
-  - Spring 2020
-  - Featured
-date: "2020-01-01 00:00:00"
+- Spring 2020
+- Featured
+- Highlighted Project
+date: '2020-01-01 00:00:00'
 external_link: null
 image: null
 slides: https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing
-summary:
-  The DETER cybersecurity testbed has been running experiments for several
+summary: The DETER cybersecurity testbed has been running experiments for several
   years, collecting information about intrusions, vulnerabilities, and mitigation
   strategies.  This project will capture cybersecurity experiments as a knowledge
   graph that can be browsed, queried, and mined to find patterns and create models
@@ -26,28 +26,36 @@ url_slides: https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/vi
 url_video: null
 weight: 10
 ---
-
 ## Description
 
-The DETER cybersecurity testbed has been running experiments for several years, collecting information about intrusions, vulnerabilities, and mitigation strategies. This project will capture cybersecurity experiments as a knowledge graph that can be browsed, queried, and mined to find patterns and create models of cyberattacks.
+The DETER cybersecurity testbed has been running experiments for several years, collecting information about intrusions, vulnerabilities, and mitigation strategies.  This project will capture cybersecurity experiments as a knowledge graph that can be browsed, queried, and mined to find patterns and create models of cyberattacks.
+
+
+
+## Awards
+* Highlighted Project
+
+
+
+
 
 ## Students
 
-- [Alex Zihuan Ran](../../../author/alex-zihuan-ran)
+* [Alex Zihuan Ran](../../../author/alex-zihuan-ran)
 
-- [Hardik Mahipal Surana](../../../author/hardik-mahipal-surana)
+* [Hardik Mahipal Surana](../../../author/hardik-mahipal-surana)
 
 ## Advisors
 
-- [Daniel Garijo](../../../author/daniel-garijo)
+* [Daniel Garijo](../../../author/daniel-garijo)
 
-- [Jelena Mirkovic](../../../author/jelena-mirkovic)
+* [Jelena Mirkovic](../../../author/jelena-mirkovic)
 
 ## Skills Required by the team
 
-- Python
-- Knowledge Graphs
 
+* Python
+* Knowledge Graphs
 ## Final presentation resources
 
-- [Final presentation](https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing)
+* [Final presentation](https://drive.google.com/file/d/1AquQEf1qDw8EtFfwPSEOSv4py6moYzTs/view?usp=sharing)

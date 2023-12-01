@@ -12,6 +12,7 @@ categories: &id001
 - Featured
 - Best Data Science Open and Sharing Practices
 - Best Project Presentation
+- Highlighted Project
 - Technology
 - Science
 date: '2020-01-01 00:00:00'
@@ -43,6 +44,8 @@ Data science projects require knowledge of software that changes rapidly. As a r
 * Best Data Science Open and Sharing Practices
 
 * Best Project Presentation
+
+* Highlighted Project
 
 
 

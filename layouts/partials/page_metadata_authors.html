@@ -35,6 +35,7 @@
 {{ if $students }}
   Student{{ if gt (len $students) 1 }}s{{ end }}:
   {{ range $index, $value := $students }}
+    {{- if gt $index 0 }}, {{ end -}}
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
       <span {{ if $highlight_name }}class="author-highlighted"{{end}}>

@@ -13,6 +13,7 @@ categories: &id001
 - Ethics/Equity
 - Featured
 - Best Data Science Insight
+- Highlighted Project
 - Ethics/Equity
 date: '2021-01-01 00:00:00'
 external_link: null
@@ -41,6 +42,8 @@ Common sense knowledge bases are used widely in research, spanning many areas in
 
 ## Awards
 * Best Data Science Insight
+
+* Highlighted Project
 
 
 

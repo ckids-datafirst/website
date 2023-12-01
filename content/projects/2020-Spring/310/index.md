@@ -1,23 +1,23 @@
 ---
 !ProjectPage
 authors:
-  - Matthew Lim
-  - Minh Nguyen
-  - Sindhu Ravi
-  - Vihang Mangalvedhekar
-  - Kevin Tsang
-  - Fred Morstatter
-  - Ginger Clark
-  - T.J. McCarthy
+- Matthew Lim
+- Minh Nguyen
+- Sindhu Ravi
+- Vihang Mangalvedhekar
+- Kevin Tsang
+- Fred Morstatter
+- Ginger Clark
+- T.J. McCarthy
 categories: &id001
-  - Spring 2020
-  - Featured
-date: "2020-01-01 00:00:00"
+- Spring 2020
+- Featured
+- Highlighted Project
+date: '2020-01-01 00:00:00'
 external_link: null
 image: null
 slides: https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/view?usp=sharing
-summary:
-  This project will develop a data scraper to collect salary records from a
+summary: This project will develop a data scraper to collect salary records from a
   website that provides compensation data for faculty at public universities. When
   provided a list of faculty names and institutional affiliations, this program will
   search for the associated records, extract the relevant results, and copy the data
@@ -34,35 +34,43 @@ url_slides: https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/vi
 url_video: null
 weight: 10
 ---
-
 ## Description
 
 This project will develop a data scraper to collect salary records from a website that provides compensation data for faculty at public universities. When provided a list of faculty names and institutional affiliations, this program will search for the associated records, extract the relevant results, and copy the data into a spreadsheet. The purpose of this project is to explore the feasibility of automating an otherwise time-consuming data collection task required for benchmarking of faculty salaries in relation to peer institutions. This will ultimately facilitate a number of important tasks, including analysis of potential salary disparities within certain disciplines and faculty tracks.
 
+
+
+## Awards
+* Highlighted Project
+
+
+
+
+
 ## Students
 
-- [Matthew Lim](../../../author/matthew-lim)
+* [Matthew Lim](../../../author/matthew-lim)
 
-- [Minh Nguyen](../../../author/minh-nguyen)
+* [Minh Nguyen](../../../author/minh-nguyen)
 
-- [Sindhu Ravi](../../../author/sindhu-ravi)
+* [Sindhu Ravi](../../../author/sindhu-ravi)
 
-- [Vihang Mangalvedhekar](../../../author/vihang-mangalvedhekar)
+* [Vihang Mangalvedhekar](../../../author/vihang-mangalvedhekar)
 
-- [Kevin Tsang](../../../author/kevin-tsang)
+* [Kevin Tsang](../../../author/kevin-tsang)
 
 ## Advisors
 
-- [Fred Morstatter](../../../author/fred-morstatter)
+* [Fred Morstatter](../../../author/fred-morstatter)
 
-- [Ginger Clark](../../../author/ginger-clark)
+* [Ginger Clark](../../../author/ginger-clark)
 
-- [T.J. McCarthy](../../../author/tj-mccarthy)
+* [T.J. McCarthy](../../../author/tj-mccarthy)
 
 ## Skills Required by the team
 
-- Web Scraping
 
+* Web Scraping
 ## Final presentation resources
 
-- [Final presentation](https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/view?usp=sharing)
+* [Final presentation](https://drive.google.com/file/d/18DZTF3f9I70khOtIEiSUrjCCqrONuhAo/view?usp=sharing)

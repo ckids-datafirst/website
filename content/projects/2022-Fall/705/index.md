@@ -12,6 +12,7 @@ categories: &id001
 - Featured
 - Best Data Science Collaboration Practices
 - Best Data Science Teamwork
+- Highlighted Project
 date: '2022-01-01 00:00:00'
 external_link: null
 image: null
@@ -48,6 +49,8 @@ Are you passionate about data science and sustainability? Then this interdiscipl
 * Best Data Science Collaboration Practices
 
 * Best Data Science Teamwork
+
+* Highlighted Project
 
 
 

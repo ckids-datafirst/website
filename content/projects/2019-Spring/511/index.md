@@ -1,17 +1,17 @@
 ---
 !ProjectPage
 authors:
-  - Mengqi Jia
-  - Joon-Ho Choi
+- Mengqi Jia
+- Joon-Ho Choi
 categories: &id001
-  - Spring 2019
-  - Featured
-date: "2019-01-01 00:00:00"
+- Spring 2019
+- Featured
+- Highlighted Project
+date: '2019-01-01 00:00:00'
 external_link: null
 image: null
 slides: https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx?dl=0
-summary:
-  Mengqi presented her study about thermal control using Excel, Minitab, and
+summary: Mengqi presented her study about thermal control using Excel, Minitab, and
   Python for data analysis. She collected data in a lab setting and tried two models,
   a group model and an individual model. She found that a group model, which consisted
   of 20 subjects, did not work well, while individual models gave better results.
@@ -23,19 +23,27 @@ url_slides: https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx
 url_video: null
 weight: 10
 ---
-
 ## Description
 
 Mengqi presented her study about thermal control using Excel, Minitab, and Python for data analysis. She collected data in a lab setting and tried two models, a group model and an individual model. She found that a group model, which consisted of 20 subjects, did not work well, while individual models gave better results.
 
+
+
+## Awards
+* Highlighted Project
+
+
+
+
+
 ## Students
 
-- [Mengqi Jia](../../../author/mengqi-jia)
+* [Mengqi Jia](../../../author/mengqi-jia)
 
 ## Advisors
 
-- [Joon-Ho Choi](../../../author/joon-ho-choi)
+* [Joon-Ho Choi](../../../author/joon-ho-choi)
 
 ## Final presentation resources
 
-- [Final presentation](https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx?dl=0)
+* [Final presentation](https://www.dropbox.com/s/f5kd6s8iv1b1m9q/Thesis%20Presentation.pptx?dl=0)

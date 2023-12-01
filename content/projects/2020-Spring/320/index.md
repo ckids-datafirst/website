@@ -8,6 +8,7 @@ categories: &id001
 - Spring 2020
 - Featured
 - Best Data Collection
+- Highlighted Project
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null
@@ -36,6 +37,8 @@ Competitive online multiplayer team games such as CounterStrike, PUBG or League 
 
 ## Awards
 * Best Data Collection
+
+* Highlighted Project
 
 
 

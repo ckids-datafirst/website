@@ -12,6 +12,7 @@ categories: &id001
 - Spring 2020
 - Featured
 - Best Data Science Collaboration Practices
+- Highlighted Project
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null
@@ -43,6 +44,8 @@ Politicians in modern democracies across the world have eagerly adopted social m
 
 ## Awards
 * Best Data Science Collaboration Practices
+
+* Highlighted Project
 
 
 
