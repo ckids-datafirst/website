@@ -1,4 +1,4 @@
-## Final Presentations at DataFirst Fall 2023
+## <span style="color:#9D2235">Final Presentations at DataFirst Fall 2023</span>
 
 - Date: Friday, December 1, 2023, 5:00-7:10pm
 - Location: MHP 101
