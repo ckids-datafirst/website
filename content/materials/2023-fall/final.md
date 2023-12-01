@@ -12,7 +12,7 @@
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
     - [US Public Sector Labor Market](https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU)
     - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
-    - Federated Learning for Neuroscience <span style="color:#BBBBBB">(1 of 2 groups to present)</span> 
+    - <span style="color:#BBBBBB">Federated Learning for Neuroscience</span> 
     - [Forensic interviews (pptx)](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx) ([movie](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov)) ([website](https://ckids-datafirst.github.io/2023-fall-forensic))
     - [Learning and forgetting in neural networks](https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g)      
 - 5:55-6:00pm Networking and questions (or break)
