@@ -25,7 +25,7 @@
     - [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0)       
     - [Urban Futures Data Core](https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E)
     - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
-    - [DataBidet <span style="color:#BBBBBB">(formerly: Regular Data: Quality health monitoring while you sit)</span>](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
+    - [DataBidet (Regular Data: Quality health monitoring while you sit)](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
 - 6:45-6:55pm Networking and questions
 - 6:55-7:05pm Award presentation
 
