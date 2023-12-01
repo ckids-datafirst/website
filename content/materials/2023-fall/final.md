@@ -6,15 +6,15 @@
 ### Agenda
 - 5:00-5:10pm Introduction
 - 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
-    - [Urban Futures Data Core](https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E)
     - [Analyzing Open Source Software Ecosystems (pptx)](https://github.com/ckids-datafirst/2023-fall-software-ecosystems/blob/main/content/results/DataFirst%20Final%20Presentation.pptx) ([website](https://ckids-datafirst.github.io/2023-fall-software-ecosystems))
+    - [Urban Futures Data Core](https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E)
     - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
     - [Bad Writing is "Fine": Tuning an LLM to Suggest Improvements](https://docs.google.com/presentation/d/1Zo1bdr72rzqOHMI-0weYjmWkVqJrvMHUpmyttsbJnO0)       
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
     - [US Public Sector Labor Market](https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU)
     - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
-    - [Forensic interviews (pptx)](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx) ([movie](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov)) ([website](https://ckids-datafirst.github.io/2023-fall-forensic))
     - [Learning and forgetting in neural networks](https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g)      
+    - [Forensic interviews (pptx)](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx) ([movie](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov)) ([website](https://ckids-datafirst.github.io/2023-fall-forensic))
 - 5:55-6:00pm Networking and questions (or break)
 - 6:00-6:45pm Presentation Session II (serial presentations, 5 minutes each)
     - [Multilingual decipherment](https://docs.google.com/presentation/d/17Pqg32x5xyAB1Qq_eOCWhv9MOLkA8OkM1tATc9SUEVM)  
