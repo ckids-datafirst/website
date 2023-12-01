@@ -14,7 +14,12 @@
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zsofia-szojka">Zsofia Szojka&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Students will learn to train and finetune large language models&lt;/p></description></item></channel></rss>

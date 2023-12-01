@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Paul Walters | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/john-paul-walters/</link><atom:link href="https://ckids-datafirst.github.io/website/author/john-paul-walters/index.xml" rel="self" type="application/rss+xml"/><description>John Paul Walters</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/author/john-paul-walters/avatar_hu78ebedefe294eb9e3ef7ce1877958be7_9194_270x270_fill_q75_lanczos_center.jpeg</url><title>John Paul Walters</title><link>https://ckids-datafirst.github.io/website/author/john-paul-walters/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Paul Walters | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/john-paul-walters/</link><atom:link href="https://ckids-datafirst.github.io/website/author/john-paul-walters/index.xml" rel="self" type="application/rss+xml"/><description>John Paul Walters</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/author/john-paul-walters/avatar_hu78ebedefe294eb9e3ef7ce1877958be7_9194_270x270_fill_q75_lanczos_center.jpeg</url><title>John Paul Walters</title><link>https://ckids-datafirst.github.io/website/author/john-paul-walters/</link></image><item><title>AI/ML assisted fault detection in foundry processed devices</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-foundry-devices/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-foundry-devices/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Highly accurate fault detection in foundry produced microelectronics is crucial to ensuring quality of devices that leave the foundry. However, current defect detection flows are human-centric, which produces a bottleneck. The objective of this project is to leverage recent advances in AI/ML to develop automated techniques that can 1) identify manufacturing defects in microelectronics using imagery collected at the foundry, and 2) determine whether the identified defect will impact the performance of the manufactured component.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bill-zhang">Bill Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jiankun-wei">Jiankun Wei&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/lee-chi-wang">Lee-Chi Wang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ryan-lee">Ryan Lee&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/younwoo-roh">Younwoo Roh&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andrew-rittenbach">Andrew Rittenbach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/john-paul-walters">John Paul Walters&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Students will learn about manufacturing defect detection algorithms, machine learning techniques, and microelectronics fabrication.&lt;/p></description></item></channel></rss>

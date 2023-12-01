@@ -2,7 +2,12 @@
 &lt;p>Paleoclimate timeseries data are crucial to understand how climate has changed in the past. A major aspect of this work falls under exploratory analysis, and in particular, visualization. Pyleoclim contains many functionalities for timeseries analysis of paleoclimate data and has already been used in teaching and research settings. In the coming months, we are expanding several functionalities of the package to address growing community need: outlier detection, automated visualizations, automated checks for the validity of datasets loaded into the package. In addition, these new functionalities will be integrated into tutorials distributed through a Jupyter Book.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Characterizing the counter-narratives of climate change (Spring - 2022)</title><link>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-spring/603/</guid><description>&lt;h2 id="description">Description&lt;/h2>

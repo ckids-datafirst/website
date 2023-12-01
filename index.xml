@@ -58,7 +58,12 @@
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/andrew-rittenbach">Andrew Rittenbach&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/andrew-rittenbach">Andrew Rittenbach&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/john-paul-walters">John Paul Walters&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Students will learn about manufacturing defect detection algorithms, machine learning techniques, and microelectronics fabrication.&lt;/p></description></item><item><title>Analyzing Open Source Software Ecosystems</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-software-ecosystems/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-software-ecosystems/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -77,7 +82,15 @@
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jeremy-abramson">Jeremy Abramson&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/jim-blythe">Jim Blythe&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/alexey-tregubov">Alexey Tregubov&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>We'll touch on using LLMs to parse text messages and analyze code, graph databases, program analysis, and social network analysis among other skills&lt;/p></description></item><item><title>Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-aviation-safety/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-aviation-safety/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -193,7 +206,12 @@
 &lt;/ul>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/zsofia-szojka">Zsofia Szojka&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Students will learn to train and finetune large language models&lt;/p></description></item><item><title>Bad Writing is "Fine": Tuning an LLM to Suggest Improvements</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-bad-writing/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-bad-writing/</guid><description>&lt;h2 id="description">Description&lt;/h2>
@@ -653,7 +671,12 @@ The objective is to predict on a real-time/near real-time basis, whether someone
 &lt;p>Paleoclimate timeseries data are crucial to understand how climate has changed in the past. A major aspect of this work falls under exploratory analysis, and in particular, visualization. Pyleoclim contains many functionalities for timeseries analysis of paleoclimate data and has already been used in teaching and research settings. In the coming months, we are expanding several functionalities of the package to address growing community need: outlier detection, automated visualizations, automated checks for the validity of datasets loaded into the package. In addition, these new functionalities will be integrated into tutorials distributed through a Jupyter Book.&lt;/p>
 &lt;h2 id="advisors">Advisors&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/julien-emile-geay">Julien Emile-Geay&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/deborah-khider">Deborah Khider&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Timeseries analysis, Python packaging, continuous integration, containerization, GitHub, Jupyter, Binder.&lt;/p></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</guid><description>&lt;h2 id="description">Description&lt;/h2>
