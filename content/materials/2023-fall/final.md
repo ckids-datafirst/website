@@ -10,7 +10,7 @@
     - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
     - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
-    - California Public Job Market
+    - US Public Sector Labor Market
     - Fault detection in foundry processed devices        
     - Federated Learning for Neuroscience <span style="color:#BBBBBB">(1 of 2 groups to present)</span> 
     - Forensic interviews        
