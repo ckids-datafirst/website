@@ -7,7 +7,6 @@ authors:
 - Jize Luo
 - Nilamadha Mohanty
 - Rahul Tangsali
-- Rahul Anil Nair
 - Benjamin Nye
 categories: &id001
 - Fall 2023
@@ -63,8 +62,6 @@ This project aligns with ongoing work with the USC Generative AI Center.
 * [Nilamadha Mohanty](../../../author/nilamadha-mohanty)
 
 * [Rahul Tangsali](../../../author/rahul-tangsali)
-
-* [Rahul Anil Nair](../../../author/rahul-anil-nair)
 
 ## Advisors
 

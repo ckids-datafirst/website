@@ -2,6 +2,7 @@
 !ProjectPage
 authors:
 - Adrianne Nguyen
+- Rahul Anil Nair
 - Shourya Kothari
 - Tejaswi Chaudhari
 - Xiang Li
@@ -36,6 +37,8 @@ This project, which will be co-advised by Dr. Yolanda Gil, will use Natural Lang
 ## Students
 
 * [Adrianne Nguyen](../../../author/adrianne-nguyen)
+
+* [Rahul Anil Nair](../../../author/rahul-anil-nair)
 
 * [Shourya Kothari](../../../author/shourya-kothari)
 
