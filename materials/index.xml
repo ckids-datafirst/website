@@ -199,13 +199,13 @@
 &lt;li>5:00-5:10pm Introduction&lt;/li>
 &lt;li>5:10-5:55pm Presentation Session I (serial presentations, 5 minutes each)
 &lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E" target="_blank" rel="noopener">Urban Futures Data Core&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/ckids-datafirst/2023-fall-software-ecosystems/blob/main/content/results/DataFirst%20Final%20Presentation.pptx" target="_blank" rel="noopener">Analyzing Open Source Software Ecosystems (pptx)&lt;/a> (&lt;a href="https://ckids-datafirst.github.io/2023-fall-software-ecosystems" target="_blank" rel="noopener">website&lt;/a>)&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA" target="_blank" rel="noopener">Aviation safety&lt;/a> (&lt;a href="https://ckids-datafirst.github.io/2023-fall-aviation-safety" target="_blank" rel="noopener">website&lt;/a>)&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1Zo1bdr72rzqOHMI-0weYjmWkVqJrvMHUpmyttsbJnO0" target="_blank" rel="noopener">Bad Writing is &amp;ldquo;Fine&amp;rdquo;: Tuning an LLM to Suggest Improvements&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE" target="_blank" rel="noopener">Building a Platform for NFL Data Insights&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU" target="_blank" rel="noopener">US Public Sector Labor Market&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY" target="_blank" rel="noopener">Fault detection in foundry processed devices&lt;/a>&lt;/li>
-&lt;li>&lt;span style="color:#BBBBBB">Federated Learning for Neuroscience&lt;/span>&lt;/li>
 &lt;li>&lt;a href="https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx" target="_blank" rel="noopener">Forensic interviews (pptx)&lt;/a> (&lt;a href="https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov" target="_blank" rel="noopener">movie&lt;/a>) (&lt;a href="https://ckids-datafirst.github.io/2023-fall-forensic" target="_blank" rel="noopener">website&lt;/a>)&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g" target="_blank" rel="noopener">Learning and forgetting in neural networks&lt;/a>&lt;/li>
 &lt;/ul>
@@ -219,9 +219,9 @@
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1xgzsrci497XWe1nyyoHrrjVCrm1VQpHVJ_9aWAiAIQg" target="_blank" rel="noopener">Paleoclimatology&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8" target="_blank" rel="noopener">Smart Watches&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0" target="_blank" rel="noopener">Understanding the Relation Between Noise and Bias in Annotated Datasets&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E" target="_blank" rel="noopener">Urban Futures Data Core&lt;/a>&lt;/li>
-&lt;li>&lt;span style="color:#BBBBBB">&lt;del>Utilizing AI Generated Images for Object Detection and Classification&lt;/del>&lt;/span>&lt;/li>
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU" target="_blank" rel="noopener">DataBidet (Regular Data: Quality health monitoring while you sit)&lt;/a>&lt;/li>
+&lt;li>&lt;span style="color:#BBBBBB">Federated Learning for Neuroscience (?)&lt;/span>&lt;/li>
+&lt;li>&lt;span style="color:#BBBBBB">&lt;del>Utilizing AI Generated Images for Object Detection and Classification&lt;/del>&lt;/span>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>6:45-6:55pm Networking and questions&lt;/li>

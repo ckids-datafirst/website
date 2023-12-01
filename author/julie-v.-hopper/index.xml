@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julie V. Hopper | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/julie-v.-hopper/</link><atom:link href="https://ckids-datafirst.github.io/website/author/julie-v.-hopper/index.xml" rel="self" type="application/rss+xml"/><description>Julie V. Hopper</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Julie V. Hopper</title><link>https://ckids-datafirst.github.io/website/author/julie-v.-hopper/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julie V. Hopper | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/julie-v.-hopper/</link><atom:link href="https://ckids-datafirst.github.io/website/author/julie-v.-hopper/index.xml" rel="self" type="application/rss+xml"/><description>Julie V. Hopper</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Julie V. Hopper</title><link>https://ckids-datafirst.github.io/website/author/julie-v.-hopper/</link></image><item><title>Identification of Sustainability-Related Research at USC through Machine Learning and Keyword Mapping</title><link>https://ckids-datafirst.github.io/website/projects/2022-fall/705/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2022-fall/705/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Are you passionate about data science and sustainability? Then this interdisciplinary project is for you! Here, we will develop a machine learning program to identify USC research publications and grants as ‘sustainability-focused’, ‘sustainability-inclusive’ or ‘not-sustainability-related’ by using pre-categorized publication samples. In addition, we will use keyword lists that relate to the 17 UN Sustainable Development Goals (SDGs) to map all research groups at USC as they relate to these SDGs (&lt;a href="https://sdgs.un.org/goals%29" target="_blank" rel="noopener">https://sdgs.un.org/goals)&lt;/a>. Lastly, we will create an interactive dashboard in R Shiny that will act as a public directory of all research at USC with classification of the research by the SDGs and broader sustainability categorization. As an example, check our github for USC curriculum: &lt;a href="https://github.com/USC-Office-of-Sustainability/USC-SDGmap" target="_blank" rel="noopener">https://github.com/USC-Office-of-Sustainability/USC-SDGmap&lt;/a> . Your work on this project is critical in boosting sustainability-related research at USC and thereby achieving our Asgmt: Earth Research Goals.&amp;quot;&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Best Data Science Collaboration Practices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ric-xian">Ric Xian&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/aurora-massari">Aurora Massari&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/xinyi-zhang">Xinyi Zhang&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/bhavyakumar-ramani">Bhavyakumar Ramani&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/alison-chen">Alison Chen&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/julie-v-hopper">Julie V. Hopper&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="skills-required-by-the-team">Skills Required by the team&lt;/h2>
+&lt;ul>
+&lt;li>R&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>Web Scraping&lt;/li>
+&lt;li>Machine Learning&lt;/li>
+&lt;/ul>
+&lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://usc-office-of-sustainability.github.io/SustainabilityResearchFinder/" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
