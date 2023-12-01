@@ -12,6 +12,7 @@ categories: &id001
 - Spring 2023
 - Featured
 - Best Presentation
+- Highlighted Project
 date: '2023-01-01 00:00:00'
 external_link: null
 image: null
@@ -41,6 +42,8 @@ There is anecdotal evidence that broadband service offers vary in quality and pr
 
 ## Awards
 * Best Presentation
+
+* Highlighted Project
 
 
 

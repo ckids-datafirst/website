@@ -1,27 +1,27 @@
 ---
 !ProjectPage
 authors:
-  - Anood Alkhatheeri
-  - Rushit Jain
-  - Samarth Saxena
-  - Abishek Phalak
-  - Yassamin Neshatvar
-  - Shruthakeerthy Srinivasan
-  - Vaidehi Vatsaraj
-  - Siddarth Rudraraju
-  - Iris Gordo
-  - Shelby Wu
-  - Yolanda Gil
-  - Najmedin Meshkati
+- Anood Alkhatheeri
+- Rushit Jain
+- Samarth Saxena
+- Abishek Phalak
+- Yassamin Neshatvar
+- Shruthakeerthy Srinivasan
+- Vaidehi Vatsaraj
+- Siddarth Rudraraju
+- Iris Gordo
+- Shelby Wu
+- Yolanda Gil
+- Najmedin Meshkati
 categories: &id001
-  - Spring 2023
-  - Best Data Science Teamwork
-date: "2023-01-01 00:00:00"
+- Spring 2023
+- Featured
+- Best Data Science Teamwork
+date: '2023-01-01 00:00:00'
 external_link: null
 image: null
 slides: null
-summary:
-  This project will focus on extracting concise structured information about
+summary: This project will focus on extracting concise structured information about
   incidents in nuclear plants and in aviation that are currently described in lengthy
   document reports.  By structuring this information and mapping it to safety models
   and standards, we can help improve their operations.
@@ -33,48 +33,53 @@ url_slides: null
 url_video: null
 weight: 10
 ---
-
 ## Description
 
-This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports. By structuring this information and mapping it to safety models and standards, we can help improve their operations.
+This project will focus on extracting concise structured information about incidents in nuclear plants and in aviation that are currently described in lengthy document reports.  By structuring this information and mapping it to safety models and standards, we can help improve their operations.
+
+
 
 ## Awards
+* Best Data Science Teamwork
 
-- Best Data Science Teamwork
+
+
+
 
 ## Students
 
-- [Anood Alkhatheeri](../../../author/anood-alkhatheeri)
+* [Anood Alkhatheeri](../../../author/anood-alkhatheeri)
 
-- [Rushit Jain](../../../author/rushit-jain)
+* [Rushit Jain](../../../author/rushit-jain)
 
-- [Samarth Saxena](../../../author/samarth-saxena)
+* [Samarth Saxena](../../../author/samarth-saxena)
 
-- [Abishek Phalak](../../../author/abishek-phalak)
+* [Abishek Phalak](../../../author/abishek-phalak)
 
-- [Yassamin Neshatvar](../../../author/yassamin-neshatvar)
+* [Yassamin Neshatvar](../../../author/yassamin-neshatvar)
 
-- [Shruthakeerthy Srinivasan](../../../author/shruthakeerthy-srinivasan)
+* [Shruthakeerthy Srinivasan](../../../author/shruthakeerthy-srinivasan)
 
-- [Vaidehi Vatsaraj](../../../author/vaidehi-vatsaraj)
+* [Vaidehi Vatsaraj](../../../author/vaidehi-vatsaraj)
 
-- [Siddarth Rudraraju](../../../author/siddarth-rudraraju)
+* [Siddarth Rudraraju](../../../author/siddarth-rudraraju)
 
-- [Iris Gordo](../../../author/iris-gordo)
+* [Iris Gordo](../../../author/iris-gordo)
 
-- [Shelby Wu](../../../author/shelby-wu)
+* [Shelby Wu](../../../author/shelby-wu)
 
 ## Advisors
 
-- [Yolanda Gil](../../../author/yolanda-gil)
+* [Yolanda Gil](../../../author/yolanda-gil)
 
-- [Najmedin Meshkati](../../../author/najmedin-meshkati)
+* [Najmedin Meshkati](../../../author/najmedin-meshkati)
 
 ## Skills Required by the team
 
-- Data Analysis
-- SQL
-- Clinical knowledge
-- Statistics
-- Python
-- AWS Sagemaker
+
+* Data Analysis
+* SQL
+* Clinical knowledge
+* Statistics
+* Python
+* AWS Sagemaker

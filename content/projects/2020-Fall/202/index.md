@@ -1,25 +1,25 @@
 ---
 !ProjectPage
 authors:
-  - Sara Melotte
-  - Devendra Swami
-  - Jacob Bickman
-  - Jae Young Kim
-  - Kevin Tsang
-  - Marlon Twyman
+- Sara Melotte
+- Devendra Swami
+- Jacob Bickman
+- Jae Young Kim
+- Kevin Tsang
+- Marlon Twyman
 categories: &id001
-  - Fall 2020
-  - Online Communication
-  - Data Science Infrastructure
-  - Best Interdisciplinary Data Science Team
-  - Online Communication
-  - Data Science Infrastructure
-date: "2020-01-01 00:00:00"
+- Fall 2020
+- Online Communication
+- Data Science Infrastructure
+- Featured
+- Best Interdisciplinary Data Science Team
+- Online Communication
+- Data Science Infrastructure
+date: '2020-01-01 00:00:00'
 external_link: null
 image: null
 slides: null
-summary:
-  "The Kaggle.com competition ecosystem is a rich and active community with\
+summary: "The Kaggle.com competition ecosystem is a rich and active community with\
   \ a designed Progression System that uses performance medals to rank and differentiate\
   \ users into tiers. However, winning performance medals in Kaggle is more complex\
   \ than it appears. Users are bound by the available competitions, characteristics\
@@ -43,36 +43,41 @@ url_slides: null
 url_video: null
 weight: 10
 ---
-
 ## Description
 
-The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition? What are features that predict high-performing teams? What features help generate teammate recommendations?
+The Kaggle.com competition ecosystem is a rich and active community with a designed Progression System that uses performance medals to rank and differentiate users into tiers. However, winning performance medals in Kaggle is more complex than it appears. Users are bound by the available competitions, characteristics of the competition’s problem statement, the quality of their software submissions, and the quality of other competitors (including collaborators). With these factors, one user’s earned “Gold” medal from one competition may have required more effort and a higher quality solution than another user’s earned “Gold” medal in a different competition. This project has great potential to learn about open competitions in data science. Some example questions are: What features help predict whether a user will win a medal in a competition? How can users be clustered and differentiated from one another using their competition patterns and medal-winning solutions? How quickly (in days) will a user win their next competition medal? What is the probability that a user will assemble a team for a competition?  What are features that predict high-performing teams? What features help generate teammate recommendations?
+
+
 
 ## Awards
+* Best Interdisciplinary Data Science Team
 
-- Best Interdisciplinary Data Science Team
+
+
+
 
 ## Students
 
-- [Sara Melotte](../../../author/sara-melotte)
+* [Sara Melotte](../../../author/sara-melotte)
 
-- [Devendra Swami](../../../author/devendra-swami)
+* [Devendra Swami](../../../author/devendra-swami)
 
-- [Jacob Bickman](../../../author/jacob-bickman)
+* [Jacob Bickman](../../../author/jacob-bickman)
 
-- [Jae Young Kim](../../../author/jae-young-kim)
+* [Jae Young Kim](../../../author/jae-young-kim)
 
-- [Kevin Tsang](../../../author/kevin-tsang)
+* [Kevin Tsang](../../../author/kevin-tsang)
 
 ## Advisors
 
-- [Marlon Twyman](../../../author/marlon-twyman)
+* [Marlon Twyman](../../../author/marlon-twyman)
 
 ## Skills Required by the team
 
-- Python
-- R
-- Statistics
-- Machine Learning
-- R
-- Matlab
+
+* Python
+* R
+* Statistics
+* Machine Learning
+* R
+* Matlab

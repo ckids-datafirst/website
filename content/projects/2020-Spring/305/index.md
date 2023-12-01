@@ -10,6 +10,7 @@ categories: &id001
 - Spring 2020
 - Featured
 - Best Interdisciplinary Data Science Team
+- Highlighted Project
 date: '2020-01-01 00:00:00'
 external_link: null
 image: null
@@ -39,6 +40,8 @@ This project will look at events data collected at several recent feminist socia
 
 ## Awards
 * Best Interdisciplinary Data Science Team
+
+* Highlighted Project
 
 
 

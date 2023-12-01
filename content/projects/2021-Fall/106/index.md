@@ -10,9 +10,10 @@ authors:
 categories: &id001
 - Fall 2021
 - Featured
+- Best Interdisciplinary Data Science Project
 - Best Project Achievement
 - Best Project Website
-- Best Interdisciplinary Data Science Project
+- Highlighted Project
 date: '2021-01-01 00:00:00'
 external_link: null
 image: null
@@ -46,11 +47,13 @@ The human corpus callosum is the largest pathway connecting the left and right h
 
 
 ## Awards
+* Best Interdisciplinary Data Science Project
+
 * Best Project Achievement
 
 * Best Project Website
 
-* Best Interdisciplinary Data Science Project
+* Highlighted Project
 
 
 
