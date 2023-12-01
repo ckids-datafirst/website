@@ -7,7 +7,7 @@
 - 5:00-5:10pm Introduction
 - 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
     - Analyzing Open Source Software Ecosystems
-    - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA)
+    - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
     - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
     - Building a Platform for NFL Data Insights
     - California Public Job Market
