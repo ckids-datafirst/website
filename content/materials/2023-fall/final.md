@@ -33,8 +33,10 @@
 There should be two versions of presenting the projects.
   1. A short 5-minute _slide_ version for the session on December 1, serving as a "teaser"
      - Format options: Powerpoint, Google slides, Keynote, ...
+     - Link to slides due on Friday, Dec. 1, 2023, at 12:00noon, to ulf@isi.edu
   2. A fuller _website_ version that can do much better justice to include project information along the lines listed below.
      - Please place your project website in your project directory under https://github.com/ckids-datafirst
+     - Websites due on Friday, Dec. 1, 2023, at 11:59pm.
 
 ### Presentation Content
 A good general presentation should contain an overview of the problem and the results:
