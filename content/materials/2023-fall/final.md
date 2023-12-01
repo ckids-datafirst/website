@@ -22,7 +22,7 @@
     - [Nuclear safety](https://docs.google.com/presentation/d/1mMI_68bH62_03MR5txZHfn8xQoGYoOfKseRmpTMf3Ok)
     - [Paleoclimatology](https://docs.google.com/presentation/d/1xgzsrci497XWe1nyyoHrrjVCrm1VQpHVJ_9aWAiAIQg)        
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
-    - Understanding the Relation Between Noise and Bias in Annotated Datasets        
+    - [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0)        
     - [Urban Futures Data Core](https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E)
     - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
     - [DataBidet <span style="color:#BBBBBB">(formerly: Regular Data: Quality health monitoring while you sit)</span>](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
