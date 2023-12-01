@@ -7,8 +7,8 @@ first_name: Palak
 last_name: Agarwal
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: ''
+  url: ''
 role: Advisor
 social:
 - !Social

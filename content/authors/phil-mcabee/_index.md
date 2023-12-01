@@ -7,8 +7,8 @@ first_name: Phil
 last_name: McAbee
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: ''
+  url: ''
 role: Advisor
 social:
 - !Social

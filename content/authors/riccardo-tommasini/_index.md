@@ -7,8 +7,8 @@ first_name: Riccardo
 last_name: Tommasini
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: ''
+  url: ''
 role: Advisor
 social:
 - !Social

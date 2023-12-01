@@ -7,8 +7,8 @@ first_name: Minghuan
 last_name: Gong
 organizations:
 - !Organization
-  name: null
-  url: null
+  name: ''
+  url: ''
 role: Advisor
 social:
 - !Social
