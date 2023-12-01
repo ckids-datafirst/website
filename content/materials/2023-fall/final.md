@@ -6,13 +6,13 @@
 ### Agenda
 - 5:00-5:10pm Introduction
 - 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
+    - [Urban Futures Data Core](https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E)
     - [Analyzing Open Source Software Ecosystems (pptx)](https://github.com/ckids-datafirst/2023-fall-software-ecosystems/blob/main/content/results/DataFirst%20Final%20Presentation.pptx) ([website](https://ckids-datafirst.github.io/2023-fall-software-ecosystems))
     - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
     - [Bad Writing is "Fine": Tuning an LLM to Suggest Improvements](https://docs.google.com/presentation/d/1Zo1bdr72rzqOHMI-0weYjmWkVqJrvMHUpmyttsbJnO0)       
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
     - [US Public Sector Labor Market](https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU)
     - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
-    - <span style="color:#BBBBBB">Federated Learning for Neuroscience</span> 
     - [Forensic interviews (pptx)](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx) ([movie](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov)) ([website](https://ckids-datafirst.github.io/2023-fall-forensic))
     - [Learning and forgetting in neural networks](https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g)      
 - 5:55-6:00pm Networking and questions (or break)
@@ -23,9 +23,9 @@
     - [Paleoclimatology](https://docs.google.com/presentation/d/1xgzsrci497XWe1nyyoHrrjVCrm1VQpHVJ_9aWAiAIQg)        
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
     - [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0)       
-    - [Urban Futures Data Core](https://docs.google.com/presentation/d/12rvo1VUtF-2HMq8h0wzg0hzVRvNrMaQK6-7LnXSW59E)
-    - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
     - [DataBidet (Regular Data: Quality health monitoring while you sit)](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
+    - <span style="color:#BBBBBB">Federated Learning for Neuroscience (?)</span> 
+    - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
 - 6:45-6:55pm Networking and questions
 - 6:55-7:05pm Award presentation
 
