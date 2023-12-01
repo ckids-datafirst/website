@@ -1,4 +1,4 @@
-## <span style="color:#9D2235;font-weight:bold">Final Presentations at DataFirst Fall 2023</span>
+## <span style="color:#9D2235;font-weight:bold">Final Presentations</span> <span style="color:#9D2235">at DataFirst Fall 2023</span>
 
 - Date: Friday, December 1, 2023, 5:00-7:10pm
 - Location: [MHP](https://maps.usc.edu/?id=1928&reference=MHP#!ct/53723,53722,55414,55415,55418?m/552504?s/) 101
