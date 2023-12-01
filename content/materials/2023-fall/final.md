@@ -6,7 +6,7 @@
 ### Agenda
 - 5:00-5:10pm Introduction
 - 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
-    - Analyzing Open Source Software Ecosystems
+    - [Analyzing Open Source Software Ecosystems](https://github.com/ckids-datafirst/2023-fall-software-ecosystems/blob/main/content/results/DataFirst%20Final%20Presentation.pptx)
     - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
     - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
