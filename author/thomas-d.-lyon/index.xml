@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomas D. Lyon | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/</link><atom:link href="https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/index.xml" rel="self" type="application/rss+xml"/><description>Thomas D. Lyon</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/avatar_hu58a8d6cea7332bfa0ec4e7c953fc1854_11279_270x270_fill_q75_lanczos_center.jpg</url><title>Thomas D. Lyon</title><link>https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomas D. Lyon | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/</link><atom:link href="https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/index.xml" rel="self" type="application/rss+xml"/><description>Thomas D. Lyon</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/avatar_hu58a8d6cea7332bfa0ec4e7c953fc1854_11279_270x270_fill_q75_lanczos_center.jpg</url><title>Thomas D. Lyon</title><link>https://ckids-datafirst.github.io/website/author/thomas-d.-lyon/</link></image></channel></rss>s-d.-lyon/</link></image><item><title>Automated question type coding of forensic interviews</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-forensic/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-forensic/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Question type coding is used in research on forensic interviewing to distinguish between best practice open-ended questions, and closed-ended and leading questions that interviewers are trained to avoid. Most research teams in the field rely on a time-consuming and labor-intensive method of question type coding whereby a researcher codes every question in the interview, and a second researcher codes a subset to demonstrate inter-rater reliability. We are currently working with a graduate of the Masters in Computer Science program at USC on a project exploring automated question type coding of forensic interviews with victims of child abuse. In collaboration with the student, we have trained a large language model (RoBERTa) to distinguish between question types based on a rudimentary classification system. In the next stage of the project, we are aiming to finetune the model and use zero shot and few shot prompting to make distinctions for which there is limited manually-coded data.&lt;/p>
+&lt;h2 id="students">Students&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="../../../author/ashmika-gupte">Ashmika Gupte&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/hrishikesh-thakur">Hrishikesh Thakur&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="../../../author/sneha-chawan">Sneha Chawan&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="advisors">Advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="../../../author/thomas-d-lyon">Thomas D. Lyon&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
+&lt;p>Students will learn to train and finetune large language models&lt;/p></description></item></channel></rss>
