@@ -12,7 +12,7 @@
     - Building a Platform for NFL Data Insights
     - California Public Job Market
     - Fault detection in foundry processed devices        
-    - Federated Learning for Neuroscience        
+    - Federated Learning for Neuroscience <span style="color:#BBBBBB">(1 of 2 groups to present)</span> 
     - Forensic interviews        
     - Learning and forgetting in neural networks        
 - 5:55-6:00pm Networking and questions (or break)
