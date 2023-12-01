@@ -85,32 +85,7 @@
 &lt;li>Statistics&lt;/li>
 &lt;li>Python&lt;/li>
 &lt;li>AWS Sagemaker&lt;/li>
-&lt;/ul></description></item><item><title>Regular Data: Quality health monitoring while you sit</title><link>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2023-fall/2023-fall-health-monitoring/</guid><description>&lt;h2 id="description">Description&lt;/h2>
-&lt;p>To create a software-as-a-service data pipeline for collecting health biomarkers via an instrumented toilet seat. This clinical data management system (CDMS) will enable collecting clinical-grade, high-quality, curated, and consistent data capture that meets NIH and FDA standards of clinical utility.&lt;/p>
-&lt;h2 id="students">Students&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="../../../author/alexander-billups">Alexander Billups&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/dhanashree-anant-patil">Dhanashree Anant Patil&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/meghana-ramachandra-bhat">Meghana Ramachandra Bhat&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/snigdha-chenjeri">Snigdha Chenjeri&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="../../../author/natalie-fung">Natalie Fung&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="advisors">Advisors&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="../../../author/yolanda-gil">Yolanda Gil&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
-&lt;p>Engineering and software architecture skills to create the data pipeline from instrument signals to health reports compatible with reimbursement, research and clinical data systems.&lt;/p></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;/ul></description></item><item><title>Comparing Clinical Trials to Improve Cancer Treatments</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/108/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The goal of this project is to assist clinicians to find the best course of treatment for a cancer patient based on the latest and most appropriate clinical trials. Because new drugs are appearing increasingly fast, it is hard to keep track of the outcomes of all clinical trials and determine the best treatment. In collaboration with biomedical researchers, we have been developing algorithms to extract information about clinical trials from government websites, to structure the information, and to find the clinical trials that are most relevant for a given patient. We want to improve the algorithms to structure this information, and to develop similarity metrics that will help us retrieve and rank clinical trials.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
