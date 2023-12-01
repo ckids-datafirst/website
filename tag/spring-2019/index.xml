@@ -47,6 +47,10 @@
 &lt;/li>
 &lt;/ul></description></item><item><title>Enhancing Thermal Control in Buildings</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/511/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/511/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Mengqi presented her study about thermal control using Excel, Minitab, and Python for data analysis. She collected data in a lab setting and tried two models, a group model and an individual model. She found that a group model, which consisted of 20 subjects, did not work well, while individual models gave better results.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/mengqi-jia">Mengqi Jia&lt;/a>&lt;/li>
@@ -87,6 +91,10 @@
 &lt;li>&lt;a href="../../../author/dmitri-williams">Dmitri Williams&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Lighting Control in Buildings for Visual Comfort</title><link>https://ckids-datafirst.github.io/website/projects/2019-spring/510/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2019-spring/510/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Lingkai collected data in a controlled setting and studied lighting control in buildings for visual comfort. For data preprocessing, he used Excel and MathWorks; for data analysis, he used Python and Scikit learn.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="../../../author/lingkai-cen">Lingkai Cen&lt;/a>&lt;/li>

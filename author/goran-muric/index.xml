@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Goran Muric | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/goran-muric/</link><atom:link href="https://ckids-datafirst.github.io/website/author/goran-muric/index.xml" rel="self" type="application/rss+xml"/><description>Goran Muric</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Goran Muric</title><link>https://ckids-datafirst.github.io/website/author/goran-muric/</link></image><item><title>Gender inclusion in science</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will measure representation of women in various scientific disciplines across time (and different countries) and identify institutions who have succeeded in creating a more welcoming environment for women. While there are already studies that use bibliographic data to map career trajectories of women, they do not focus on the role that institutions (and countries) – and their policies – play in retaining female researchers.&lt;/p>
 &lt;p>The data comes from Microscoft Academic Graph, containing millions of papers from institutions around the world across many decades. We will use Ethenea API to extract gender (and ethnicity) of authors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -32,7 +36,7 @@
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/16kHZphM8T7ACRlco0Ozg-1ADslPaP5Nm/edit?usp=sharing&amp;amp;ouid=116088473370484068569&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/16kHZphM8T7ACRlco0Ozg-1ADslPaP5Nm/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Team Dynamics in Online Multiplayer Games</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/217/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/217/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Competitive online multiplayer team games such as CounterStrike, PUBG, or League of Legends are extremely popular. Multiple teams of professional players compete in hundreds of tournaments yearly. Player transfer between teams is common. The goal of the project is to measure the effects of player transfers and to answer some of the questions such as: How does a new player affect the team’s performance?; How does the change of a team affect a player’s performance? The world of online games can be used as a fruitful area for tackling more fundamental questions on human society and collaboration dynamics in different settings.&lt;/p>
 &lt;h2 id="students">Students&lt;/h2>
@@ -55,7 +59,12 @@
 &lt;p>Competitive online multiplayer team games such as CounterStrike, PUBG or League of Legends are extremely popular. Multiple teams of professional players compete in hundreds of tournaments yearly. Player transfer between teams are common. The goal of the project is to measure the effects of player transfers and to answer some of the questions such as: How does a new player affect the team’s performance?; How does the change of a team affects player’s performance? The world of online games can be used as a fruitful area for tackling more fundamental questions on human society and collaboration dynamics in different settings.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>
+&lt;p>Best Data Collection&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>

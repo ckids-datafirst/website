@@ -45,6 +45,10 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;/ul></description></item><item><title>Annotating Paleoclimate Data</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/314/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Paleoclimate data is highly diverse, requiring different sets of metadata to describe the various datasets. In this project, you will help build an interface to assist researchers in annotating their paleoclimate datasets according to an evolving reporting standard (PaCTS) and download them in the Linked Paleo Data (LiPD) format. The interface should be highly interactive (wizard) to accommodate the diversity of the data as well as offer editing capabilities for existing datasets (upload LiPD files) and check their compliance with PaCTS, plot location information and the time series, download into the LiPD format, upload to a semantic wiki and/or an SQL database. In addition, the interface should support the use of a recommender system (to be build) to help researchers in annotating their datasets.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -71,12 +75,17 @@
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;amp;ouid=116088473370484068569&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1HJX5TzBcSZ4E4QFkcazJy-hy78wNa6lY/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Characterizing the counter-narratives of climate change</title><link>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-fall/216/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>
+&lt;p>Best Data Collection&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -110,7 +119,12 @@
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>

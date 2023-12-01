@@ -22,6 +22,10 @@
 &lt;/ul></description></item><item><title>Gender inclusion in science</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/313/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will measure representation of women in various scientific disciplines across time (and different countries) and identify institutions who have succeeded in creating a more welcoming environment for women. While there are already studies that use bibliographic data to map career trajectories of women, they do not focus on the role that institutions (and countries) – and their policies – play in retaining female researchers.&lt;/p>
 &lt;p>The data comes from Microscoft Academic Graph, containing millions of papers from institutions around the world across many decades. We will use Ethenea API to extract gender (and ethnicity) of authors.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -53,7 +57,7 @@
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/16kHZphM8T7ACRlco0Ozg-1ADslPaP5Nm/edit?usp=sharing&amp;amp;ouid=116088473370484068569&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/16kHZphM8T7ACRlco0Ozg-1ADslPaP5Nm/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Towards Automated Understanding of Scientific Software</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/303/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>Data science projects require knowledge of software that changes rapidly. As a result, scientists spend hours reading long documentations and manuals instead of advancing their scientific fields. In this project, we aim to automatically extract relevant aspects of scientific software (e.g., what does it do, how to install it, how to operate with it or how to cite it) from documentation and code using machine learning techniques. The students will build on an existing baseline of classifiers and try to improve the existing results.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
@@ -63,6 +67,9 @@
 &lt;/li>
 &lt;li>
 &lt;p>Best Project Presentation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>

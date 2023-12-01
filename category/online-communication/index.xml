@@ -2,7 +2,12 @@
 &lt;p>The pandemic worsened eating disorders among adolescents, particularly girls. Eating disorders, a psychiatric illness where an adolescent tries to control their weight with severe food restriction (anorexia) or purging (bulimia), can be fatal. How much does web content and algorithms that power web search contribute to eating disorders? Imagine a girl who is unhappy about her weight and looks for dieting tips online. It does not take long for search algorithms to lead her to extreme content that promotes anorexia and extreme weight loss. The goal of this project is to audit the web for potentially harmful content and communities that promote eating disorders.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Interdisciplinary Data Science Teamwork&lt;/li>
+&lt;li>
+&lt;p>Best Interdisciplinary Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -113,6 +118,10 @@
 &lt;li>Wikidata&lt;/li>
 &lt;/ul></description></item><item><title>COVID-19 misinformation</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This new project attempts to understand the interaction between anti-vaxxers (anti-vaccination groups) and alt-right groups on platforms such as Facebook. The goal of this project is to understand how do these two types of fringe groups interact over the years, and how do their interactions and discourse evolve during the COVID-19 pandemic. It would be interesting to explore the longitudinal patterns of network/discourse co-evolution and how such patterns may change in times of dramatic events.In terms of data, I have access to Facebook’s historical data archive and I have collected a dataset that contains a list of anti-vaxxer (n=158) and alt-right groups’ (n=183) Facebook posts over 10 years (2010-2021). The dataset can be further expanded with additional help.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -236,7 +245,12 @@
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>
+&lt;p>Best Data Collection&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -270,7 +284,12 @@
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>

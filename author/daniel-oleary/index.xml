@@ -7,6 +7,10 @@
 &lt;h2 id="what-students-will-learn">What students will learn&lt;/h2>
 &lt;p>Crowdsourcing, knowledge graphs and text analysis&lt;/p></description></item><item><title>Predicting Effective Tax Rate of Publicly-Traded Firms</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/307/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/307/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The purpose of this project is to analyze business firms’ text disclosures to determine if those text disclosures are related to firms’ tax rates. In so doing we first capture information about the text and then relate that text information to quantitative information, using statistical modeling. So far, we have generated and used some bags of words to capture information that we expect will provide insight into the tax rates that those firms incur. Our knowledge acquisition approach, to gather those bags of words, was to interview an expert. We then counted the number of occurrences of those words in our text, and used statistical models to relate the number of those occurrences to different measures of tax rates. We find that those bags of words are statistically significantly related to measures of tax rates that firms pay. In addition, we find that “tax specific bags of words” work “better” than “generic accounting bags of words.”&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -33,9 +37,13 @@
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/1y0FlBNOC2PxX3OPa45-d_Orr7kPnvaG3/edit?usp=sharing&amp;amp;ouid=116088473370484068569&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1y0FlBNOC2PxX3OPa45-d_Orr7kPnvaG3/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Text Analysis, Social Networks and Crowdsourcing</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/308/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/308/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>The purpose of this project is to analyze a crowdsourcing setting for both the sentiment and other categories of meaning in the text, and the roles and impact of a network of contributors on the votes and potentially on the content.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -70,5 +78,5 @@
 &lt;/ul>
 &lt;h2 id="final-presentation-resources">Final presentation resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&amp;amp;ouid=116088473370484068569&amp;amp;rtpof=true&amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1FChD-jxZFHIQ6kSndkobTgoxSEyh6GnC/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -60,7 +60,12 @@
 &lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Insight&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Insight&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -132,6 +137,10 @@
 &lt;/ul></description></item><item><title>NVISION: Network Visualization Interventions Supporting Interpretation of Objective News</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>“The current fractured media landscape allows individuals to choose confirming over credible information, and information spreads quicker online than interventions like fact-checking. Misinformation can be debiased by identifying gaps in mental representations of the world (mental models) and prompt alerts to be vigilant about assessing information (Lewandowsky et al, 2012).&lt;/p>
 &lt;p>We aim to develop interventions to make media-balance salient to users to mitigate the spread of misinformation. Social sampling theory describes that our misperceptions of others is explained by the sample of people we encounter (Galesic, Olsson, and Rieskamp, 2012), and we are more likely to link to similar people online (Kossinets &amp;amp; Watts, 2009). Our interventions address limitations in individual views of the media landscape. We aim to attach visualizations of sharing network to news articles in real-time to make these biases explicit.”&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -175,7 +184,12 @@
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot campaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Collection&lt;/li>
+&lt;li>
+&lt;p>Best Data Collection&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -209,7 +223,12 @@
 &lt;p>Top climate scientists post their findings and views regularly on social media. These very scientists are met with tweets from those with opposing views, often containing vitriolic and false information. It is important that we can identify and characterize these tweets to understand the counter-narratives of climate change. We will address topics including false information, bot compaigns, and harassment.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Teamwork&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Teamwork&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -245,6 +264,10 @@
 &lt;li>&lt;a href="https://docs.google.com/presentation/d/1c9WlvN8qHV6xKS7SRY1FNWZ7AHxNW3cf/edit?usp=sharing&amp;amp;amp;ouid=116088473370484068569&amp;amp;amp;rtpof=true&amp;amp;amp;sd=true" target="_blank" rel="noopener">Final presentation&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Data scraping for salary benchmarking</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will develop a data scraper to collect salary records from a website that provides compensation data for faculty at public universities. When provided a list of faculty names and institutional affiliations, this program will search for the associated records, extract the relevant results, and copy the data into a spreadsheet. The purpose of this project is to explore the feasibility of automating an otherwise time-consuming data collection task required for benchmarking of faculty salaries in relation to peer institutions. This will ultimately facilitate a number of important tasks, including analysis of potential salary disparities within certain disciplines and faculty tracks.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>

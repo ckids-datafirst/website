@@ -3,13 +3,16 @@
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
 &lt;li>
+&lt;p>Best Interdisciplinary Data Science Project&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>Best Project Achievement&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Best Project Website&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Best Interdisciplinary Data Science Project&lt;/p>
+&lt;p>Highlighted Project&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
@@ -80,6 +83,10 @@
 &lt;li>Python&lt;/li>
 &lt;/ul></description></item><item><title>COVID-19 misinformation</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/107/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This new project attempts to understand the interaction between anti-vaxxers (anti-vaccination groups) and alt-right groups on platforms such as Facebook. The goal of this project is to understand how do these two types of fringe groups interact over the years, and how do their interactions and discourse evolve during the COVID-19 pandemic. It would be interesting to explore the longitudinal patterns of network/discourse co-evolution and how such patterns may change in times of dramatic events.In terms of data, I have access to Facebook’s historical data archive and I have collected a dataset that contains a list of anti-vaxxer (n=158) and alt-right groups’ (n=183) Facebook posts over 10 years (2010-2021). The dataset can be further expanded with additional help.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -144,6 +151,10 @@
 &lt;li>Deep Learning&lt;/li>
 &lt;/ul></description></item><item><title>Detecting Biases in College Football Recruiting</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/105/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>College football recruiting is big business. This project aims to build and analyze a comprehensive college football recruiting dataset, to help determine if there are biases in who and how college football coaches recruit players. This data set will combine college football recruiting data from the web with census and other socioeconomic data, to search for patterns in where and how college football coaches recruit players.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -183,7 +194,12 @@
 &lt;p>Common sense knowledge bases are used widely in research, spanning many areas in artificial intelligence, including natural language understanding, computer vision, and planning. However, these resources may contain human biases, which will ultimately be embedded in the resulting AI solution and potentially have negative societal impacts. The extent to which these biases exist is unclear. In this project, you will define several well-motivated biases (location, gender, ethnicity) and measure the extent to which they are represented in ConceptNet.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Insight&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Insight&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
@@ -316,6 +332,10 @@
 &lt;/ul></description></item><item><title>NVISION: Network Visualization Interventions Supporting Interpretation of Objective News</title><link>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2021-fall/102/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>“The current fractured media landscape allows individuals to choose confirming over credible information, and information spreads quicker online than interventions like fact-checking. Misinformation can be debiased by identifying gaps in mental representations of the world (mental models) and prompt alerts to be vigilant about assessing information (Lewandowsky et al, 2012).&lt;/p>
 &lt;p>We aim to develop interventions to make media-balance salient to users to mitigate the spread of misinformation. Social sampling theory describes that our misperceptions of others is explained by the sample of people we encounter (Galesic, Olsson, and Rieskamp, 2012), and we are more likely to link to similar people online (Kossinets &amp;amp; Watts, 2009). Our interventions address limitations in individual views of the media landscape. We aim to attach visualizations of sharing network to news articles in real-time to make these biases explicit.”&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -359,7 +379,12 @@
 &lt;p>Developing models to analyze images is a demanding task that requires significant time, resources, and effort. Recently, companies such as Amazon and Google are providing services to make the modeling process easier so even users with little machine learning expertise can enjoy deep learning technologies. Based on our prior work in object detection and classification for smart city applications, we would like to compare and evaluate the process and performance of commercial services using our training datasets. This project will be a good practice to understand the image machine learning modeling process and the advantages/limitations of commercial services for customized learning.&lt;/p>
 &lt;h2 id="awards">Awards&lt;/h2>
 &lt;ul>
-&lt;li>Best Data Science Presentation&lt;/li>
+&lt;li>
+&lt;p>Best Data Science Presentation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Highlighted Project&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sindhu Ravi | DataFirst</title><link>https://ckids-datafirst.github.io/website/author/sindhu-ravi/</link><atom:link href="https://ckids-datafirst.github.io/website/author/sindhu-ravi/index.xml" rel="self" type="application/rss+xml"/><description>Sindhu Ravi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafirst.github.io/website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Sindhu Ravi</title><link>https://ckids-datafirst.github.io/website/author/sindhu-ravi/</link></image><item><title>Data scraping for salary benchmarking</title><link>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/website/projects/2020-spring/310/</guid><description>&lt;h2 id="description">Description&lt;/h2>
 &lt;p>This project will develop a data scraper to collect salary records from a website that provides compensation data for faculty at public universities. When provided a list of faculty names and institutional affiliations, this program will search for the associated records, extract the relevant results, and copy the data into a spreadsheet. The purpose of this project is to explore the feasibility of automating an otherwise time-consuming data collection task required for benchmarking of faculty salaries in relation to peer institutions. This will ultimately facilitate a number of important tasks, including analysis of potential salary disparities within certain disciplines and faculty tracks.&lt;/p>
+&lt;h2 id="awards">Awards&lt;/h2>
+&lt;ul>
+&lt;li>Highlighted Project&lt;/li>
+&lt;/ul>
 &lt;h2 id="students">Students&lt;/h2>
 &lt;ul>
 &lt;li>
