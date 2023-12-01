@@ -15,8 +15,8 @@
     - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
     - [Learning and forgetting in neural networks](https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g)      
     - [Forensic interviews (pptx)](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx) ([movie](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov)) ([website](https://ckids-datafirst.github.io/2023-fall-forensic))
-- 5:55-6:00pm Networking and questions (or break)
-- 6:00-6:45pm Presentation Session II (serial presentations, 5 minutes each)
+- 5:55-6:05pm Networking and questions (or break)
+- 6:05-6:50pm Presentation Session II (serial presentations, 5 minutes each)
     - [Multilingual decipherment](https://docs.google.com/presentation/d/17Pqg32x5xyAB1Qq_eOCWhv9MOLkA8OkM1tATc9SUEVM)  
     - [Municipal Broadband](https://docs.google.com/presentation/d/1qJ63Zc10lZOH0l7T2TQNNkXKYiuwmCwCjumdDDD7nVU)
     - [Nuclear safety](https://docs.google.com/presentation/d/1mMI_68bH62_03MR5txZHfn8xQoGYoOfKseRmpTMf3Ok)
@@ -26,8 +26,8 @@
     - [DataBidet (Regular Data: Quality health monitoring while you sit)](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
     - <span style="color:#BBBBBB">Federated Learning for Neuroscience (?)</span> 
     - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
-- 6:45-6:55pm Networking and questions
-- 6:55-7:05pm Award presentation
+- 6:50-7:00m Networking and questions
+- 7:00-7:10pm Award presentation
 
 ### Presentation Formats
 There should be two versions of presenting the projects.
