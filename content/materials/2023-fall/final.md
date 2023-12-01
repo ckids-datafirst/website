@@ -11,7 +11,7 @@
     - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
     - US Public Sector Labor Market
-    - Fault detection in foundry processed devices        
+    - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
     - Federated Learning for Neuroscience <span style="color:#BBBBBB">(1 of 2 groups to present)</span> 
     - Forensic interviews        
     - Learning and forgetting in neural networks        
