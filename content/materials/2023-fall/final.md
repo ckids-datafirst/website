@@ -8,17 +8,17 @@
 - 5:10-5:55pm Presentation Session I (serial presentations,  5 minutes each)
     - [Analyzing Open Source Software Ecosystems](https://github.com/ckids-datafirst/2023-fall-software-ecosystems/blob/main/content/results/DataFirst%20Final%20Presentation.pptx) ([website](https://ckids-datafirst.github.io/2023-fall-software-ecosystems))
     - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
-    - Bad Writing is "Fine": Tuning an LLM to Suggest Improvements        
+    - [Bad Writing is "Fine": Tuning an LLM to Suggest Improvements](https://docs.google.com/presentation/d/1Zo1bdr72rzqOHMI-0weYjmWkVqJrvMHUpmyttsbJnO0)       
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
-    - US Public Sector Labor Market
+    - [US Public Sector Labor Market](https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU)
     - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
     - Federated Learning for Neuroscience <span style="color:#BBBBBB">(1 of 2 groups to present)</span> 
     - Forensic interviews        
-    - Learning and forgetting in neural networks        
+    - [Learning and forgetting in neural networks](https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g)      
 - 5:55-6:00pm Networking and questions (or break)
 - 6:00-6:45pm Presentation Session II (serial presentations, 5 minutes each)
     - [Multilingual decipherment](https://docs.google.com/presentation/d/17Pqg32x5xyAB1Qq_eOCWhv9MOLkA8OkM1tATc9SUEVM)  
-    - Municipal Broadband
+    - [Municipal Broadband](https://docs.google.com/presentation/d/1qJ63Zc10lZOH0l7T2TQNNkXKYiuwmCwCjumdDDD7nVU)
     - [Nuclear safety](https://docs.google.com/presentation/d/1mMI_68bH62_03MR5txZHfn8xQoGYoOfKseRmpTMf3Ok)
     - [Paleoclimatology](https://docs.google.com/presentation/d/1xgzsrci497XWe1nyyoHrrjVCrm1VQpHVJ_9aWAiAIQg)        
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
