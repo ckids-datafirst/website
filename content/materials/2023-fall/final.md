@@ -20,7 +20,7 @@
     - [Multilingual decipherment](https://docs.google.com/presentation/d/17Pqg32x5xyAB1Qq_eOCWhv9MOLkA8OkM1tATc9SUEVM)  
     - Municipal Broadband
     - Nuclear safety
-    - Paleoclimatology        
+    - [Paleoclimatology](https://docs.google.com/presentation/d/1xgzsrci497XWe1nyyoHrrjVCrm1VQpHVJ_9aWAiAIQg)        
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
     - Understanding the Relation Between Noise and Bias in Annotated Datasets        
     - Urban Futures Data Core
