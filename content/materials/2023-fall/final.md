@@ -24,7 +24,7 @@
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
     - Understanding the Relation Between Noise and Bias in Annotated Datasets        
     - Urban Futures Data Core
-    - Utilizing AI Generated Images for Object Detection and Classification        
+    - <span style="color:#AAAAAA">Utilizing AI Generated Images for Object Detection and Classification</span>   
     - Regular Data: Quality health monitoring while you sit
 - 6:45-6:55pm Networking and questions
 - 6:55-7:05pm Award presentation
