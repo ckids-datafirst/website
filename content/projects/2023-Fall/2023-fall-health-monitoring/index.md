@@ -6,7 +6,7 @@ authors:
 - Meghana Ramachandra Bhat
 - Snigdha Chenjeri
 - Natalie Fung
-- Yolanda Gil
+- Francisco Valero-Cuevas
 categories: &id001
 - Fall 2023
 date: '2023-01-01 00:00:00'
@@ -47,7 +47,7 @@ To create a software-as-a-service data pipeline for collecting health biomarkers
 
 ## Advisors
 
-* [Yolanda Gil](../../../author/yolanda-gil)
+* [Francisco Valero-Cuevas](../../../author/francisco-valero-cuevas)
 
 ## What students will learn
 

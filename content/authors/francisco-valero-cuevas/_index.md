@@ -16,5 +16,10 @@ social:
   icon_pack: fas
   link: mailto:valero@usc.edu
 title: Francisco Valero-Cuevas
-user_groups: []
+user_groups:
+- Advisor (Fall 2023)
 ---
+
+## Previous involvement
+
+* Fall 2023

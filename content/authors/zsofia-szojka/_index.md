@@ -2,9 +2,9 @@
 !!python/object:datafest_archive.models.website.pages.PeoplePage
 bio: ''
 education: null
-email: tylon@law.usc.edu
-first_name: Thomas
-last_name: D. Lyon
+email: zszojka@law.usc.edu
+first_name: Zsofia
+last_name: Szojka
 organizations:
 - !Organization
   name: Gould School of Law
@@ -14,12 +14,7 @@ social:
 - !Social
   icon: envelope
   icon_pack: fas
-  link: mailto:tylon@law.usc.edu
-title: Thomas D. Lyon
-user_groups:
-- Advisor (Fall 2023)
+  link: mailto:zszojka@law.usc.edu
+title: Zsofia Szojka
+user_groups: []
 ---
-
-## Previous involvement
-
-* Fall 2023
