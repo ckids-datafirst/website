@@ -21,7 +21,7 @@
     - Municipal Broadband
     - Nuclear safety
     - Paleoclimatology        
-    - Smart Watches        
+    - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
     - Understanding the Relation Between Noise and Bias in Annotated Datasets        
     - Urban Futures Data Core
     - Utilizing AI Generated Images for Object Detection and Classification        
