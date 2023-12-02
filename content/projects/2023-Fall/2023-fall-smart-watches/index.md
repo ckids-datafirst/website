@@ -6,8 +6,8 @@ authors:
 - Kipauno Washington
 - Olivia Guo
 - Shruti Ramesh
-- Siqi Qiao
 - Yabsera Benyam
+- Yuko Ohmori
 - Yolanda Gil
 categories: &id001
 - Fall 2023
@@ -49,9 +49,9 @@ Lots of personal data can be obtained from wearable devices such as smart watche
 
 * [Shruti Ramesh](../../../author/shruti-ramesh)
 
-* [Siqi Qiao](../../../author/siqi-qiao)
-
 * [Yabsera Benyam](../../../author/yabsera-benyam)
+
+* [Yuko Ohmori](../../../author/yuko-ohmori)
 
 ## Advisors
 
