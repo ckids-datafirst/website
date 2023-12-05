@@ -22,7 +22,7 @@
     - [Nuclear safety](https://docs.google.com/presentation/d/1mMI_68bH62_03MR5txZHfn8xQoGYoOfKseRmpTMf3Ok)
     - [Paleoclimatology](https://docs.google.com/presentation/d/1xgzsrci497XWe1nyyoHrrjVCrm1VQpHVJ_9aWAiAIQg)        
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
-    - [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0)       
+    - [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0) ([website](https://anweasha.github.io/DataFirst))       
     - [DataBidet (Regular Data: Quality health monitoring while you sit)](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
     - [Federated Learning for Neuroscience](https://docs.google.com/presentation/d/1GZ2VLGGdAb84RX8xaAeeNcZMdoSUpjvlJ0KaX4lO8XI) <span style="color:#BBBBBB">(postscriptum)</span> 
     - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
