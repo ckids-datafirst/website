@@ -7,8 +7,11 @@ first_name: Marcin
 last_name: Abram
 organizations:
 - !Organization
-  name: Viterbi School of Engineering
-  url: https://viterbischool.usc.edu/
+  name: Department of Physics and Astronomy
+  url: https://dornsife.usc.edu/physics
+- !Organization
+  name: USC Information Sciences Institute
+  url: https://www.isi.edu
 role: Advisor
 social:
 - !Social
