@@ -18,10 +18,8 @@ social:
 title: Daniel O'Leary
 user_groups:
 - Advisor (Spring 2020)
-- Advisor (Fall 2023)
 ---
 
 ## Previous involvement
 
-* Fall 2023
 * Spring 2020
