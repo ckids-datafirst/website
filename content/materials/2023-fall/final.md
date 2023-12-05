@@ -24,7 +24,7 @@
     - [Smart Watches](https://docs.google.com/presentation/d/1rB5CwkG8rrB7jgq1vZv3SNEdoUo7eOzpFP9Zi4DlLD8)        
     - [Understanding the Relation Between Noise and Bias in Annotated Datasets](https://docs.google.com/presentation/d/1tRtVCVC3wrjYDIyIrkiLL1iWs6rPHuViKOzRPgTXrM0)       
     - [DataBidet (Regular Data: Quality health monitoring while you sit)](https://docs.google.com/presentation/d/1mGBSlwTPsuLt5RABO2IPXfiJdRWYeqW9eeSmjxJQUHU)
-    - <span style="color:#BBBBBB">Federated Learning for Neuroscience (?)</span> 
+    - [Federated Learning for Neuroscience](https://docs.google.com/presentation/d/1GZ2VLGGdAb84RX8xaAeeNcZMdoSUpjvlJ0KaX4lO8XI) <span style="color:#BBBBBB">(delayed)</span> 
     - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
 - 6:50-7:00m Questions and Networking
 - 7:00-7:10pm Award presentation
