@@ -10,7 +10,7 @@ organizations:
   name: Department of Physics and Astronomy
   url: https://dornsife.usc.edu/physics
 - !Organization
-  name: USC Information Sciences Institute
+  name: Information Sciences Institute
   url: https://www.isi.edu
 role: Advisor
 social:
