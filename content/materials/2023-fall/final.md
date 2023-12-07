@@ -11,7 +11,7 @@
     - [Aviation safety](https://docs.google.com/presentation/d/1jhiXaIc_vZcVcwy5roXUPR-URiogvyPhAm0jr3jiCgA) ([website](https://ckids-datafirst.github.io/2023-fall-aviation-safety))
     - [Bad Writing is "Fine": Tuning an LLM to Suggest Improvements](https://docs.google.com/presentation/d/1Zo1bdr72rzqOHMI-0weYjmWkVqJrvMHUpmyttsbJnO0)       
     - [Building a Platform for NFL Data Insights](https://docs.google.com/presentation/d/1rMBRK41_23LIeyyz8yXhby90Gbhi7QwXTzEGkDlxYgE)
-    - [US Public Sector Labor Market](https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU)
+    - [US Public Sector Labor Market](https://docs.google.com/presentation/d/1CFGevtINruPJfPutS801GUi9dCFZi0Dsb2NQC-umloU) ([website](https://usc-clear-initiative.wm.r.appspot.com))
     - [Fault detection in foundry processed devices](https://docs.google.com/presentation/d/1GG1YDh96QBYiCY-H4HhVKqs3honGDOTnFnvo_ZEbQTY)        
     - [Learning and forgetting in neural networks](https://docs.google.com/presentation/d/1W3o3drj9_mn_Xtt4yHXilquvm8w3gSVVJdTReEoiU-g)      
     - [Forensic interviews (pptx)](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.pptx) ([movie](https://github.com/ckids-datafirst/2023-fall-forensic/blob/main/content/results/ForensicInterviews.mov)) ([website](https://ckids-datafirst.github.io/2023-fall-forensic))
