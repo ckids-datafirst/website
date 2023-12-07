@@ -27,7 +27,7 @@
     - [Federated Learning for Neuroscience](https://docs.google.com/presentation/d/1GZ2VLGGdAb84RX8xaAeeNcZMdoSUpjvlJ0KaX4lO8XI) <span style="color:#BBBBBB">(postscriptum)</span> 
     - <span style="color:#BBBBBB">~~Utilizing AI Generated Images for Object Detection and Classification~~</span>   
 - 6:50-7:00m Questions and Networking
-- 7:00-7:10pm [Award presentation](../../materials/2023-fall/AwardsFall2023.pdf)
+- 7:00-7:10pm [Award presentation](AwardsFall2023.pdf)
 
 ### Presentation Formats
 There should be two versions of presenting the projects.
