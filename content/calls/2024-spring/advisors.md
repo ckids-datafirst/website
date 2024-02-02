@@ -60,13 +60,12 @@ sections:
         Important Dates
       text: |
         The following are the important dates for event:
-        | Event                  | Semester week               |
+        | Event                  | Date               |
         |------------------------|----------------------------|
-        | Proposal deadline      | Week 1 |
-        | Kickoff meeting        | Week 2|
-        | Student apply          | Week 2 |
-        | Faculty feedback       | Week 3|
-        | Student assignments    | Week 3|
-        | Midterm presentation   | Week 8|
-        | Final presentation     | Week 15|
+        | Proposal deadline      | February 1 |
+        | Kickoff meeting        | February 2|
+        | Student apply          | February 5 |
+        | Student assignments    | February 8|
+        | Midterm presentation   | March 8|
+        | Final presentation     | April 26|
 ---
