@@ -17,7 +17,13 @@ sections:
         filename: welcome.jpeg
       title: |
         Call for USC students to sign up for DataFirst Spring 2024
-      text: |
+    cta:
+        url: "https://forms.gle/GDahUEUDWNVY1fFz9"
+        label: Sign up for a project here
+        icon_pack: fas
+        icon: user-graduate
+
+    text: |
         The kickoff meeting was held on February 2, where advisors presented the projects available for this semester.  The recording is available here.
 
         The projects for this semester are:
@@ -47,9 +53,4 @@ sections:
             - What students will learn: Application of NLP in real-world, working on very serious and important issues with global applications, which can be generalized and applied to other safety-sensitive technologies.
             - Skills required: Python, machine learning.  Preferably some experience with large language models (LLMs).
 
-      cta:
-        url: "https://forms.gle/GDahUEUDWNVY1fFz9"
-        label: Sign up for a project here
-        icon_pack: fas
-        icon: user-graduate
 ---
