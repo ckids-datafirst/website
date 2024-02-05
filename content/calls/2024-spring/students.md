@@ -17,15 +17,17 @@ sections:
         filename: welcome.jpeg
       title: |
         Call for USC students to sign up for DataFirst Spring 2024
-    cta:
+ 
+    text: |
+        The kickoff meeting was held on February 2, where advisors presented the projects available for this semester.  The recording is available here: https://usc.zoom.us/rec/share/2BYda6iOIgoBcwrHQF02OCmXyYoz1w_j770k7pZ9txa1esCmvu9fKlcEd9ar77oy.fvkIAl4tqjZv3vae.
+
+   cta:
         url: "https://forms.gle/GDahUEUDWNVY1fFz9"
         label: Sign up for a project here
         icon_pack: fas
         icon: user-graduate
 
-    text: |
-        The kickoff meeting was held on February 2, where advisors presented the projects available for this semester.  The recording is available here: https://usc.zoom.us/rec/share/2BYda6iOIgoBcwrHQF02OCmXyYoz1w_j770k7pZ9txa1esCmvu9fKlcEd9ar77oy.fvkIAl4tqjZv3vae.
-
+   text: |
         The projects for this semester are:
           - Learning and Forgetting in Neural Networks
             - Advisor: Marcin Abraham, USC Dornsife College of Letters, Arts, and Sciences
