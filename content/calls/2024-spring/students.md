@@ -24,7 +24,7 @@ sections:
         icon: user-graduate
 
     text: |
-        The kickoff meeting was held on February 2, where advisors presented the projects available for this semester.  The recording is available here.
+        The kickoff meeting was held on February 2, where advisors presented the projects available for this semester.  The recording is available here: https://usc.zoom.us/rec/share/2KR-NWCuheXQ8mveyi9n8gVG2lr5hT1mbrJ-4WDg3fJh4tx5sRapKgZgJidWToa5.IdidEQz6krYAaTrJ.
 
         The projects for this semester are:
           - Learning and Forgetting in Neural Networks
