@@ -16,15 +16,25 @@ sections:
       image:
         filename: welcome.jpeg
       title: |
-        Call for USC students to attend information session for DataFirst Spring 2024
+        Call for USC students to sign up for DataFirst Spring 2024
       text: |
-        This event is an opportunity for data science students to learn to work in teams with people who have different skills, to learn about different application domains, and to work on projects that can only be done with creative ideas.
+        The kickoff meeting was held on February 2, where advisors presented the projects available for this semester.  The recording is available here.
 
-        Come to our information session and hear from faculty mentors about projects that will be part of DataFirst this Fall semester.  Then you can decide if you want to sign up to participate.
-
+        The projects for this semester are:
+          1. Title
+            - Advisor:
+            - Description:
+            - What you will learn:
+            - Skills required: 
+          2. Title
+            - Advisor:
+            - Description:
+            - What you will learn:
+            - Skills required: 
+   
       cta:
-        url: "https://forms.gle/Di2TDxVwpUdr1PMq9"
-        label: Sign up for the information session
+        url: "https://forms.gle/GDahUEUDWNVY1fFz9"
+        label: Sign up for a project here
         icon_pack: fas
         icon: user-graduate
 ---
